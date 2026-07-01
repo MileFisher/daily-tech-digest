@@ -46,6 +46,8 @@ One command. One file. Done.
 - **Skill:** `digest-format` — defines structure, tone, and file naming rules for every digest
 - **Agent:** `content-filter` — strict rules for what makes the cut (type, score, URL, top 10)
 
+CLI flags: `--date`, `--top`, `--keep`, `--dry-run`
+
 ---
 
 <!-- slide 5 -->
@@ -56,7 +58,7 @@ No login. No algorithm. No infinite scroll.
 A developer gets their morning brief in **under 3 seconds**,
 in their editor, as a plain markdown file they actually own.
 
-Next: schedule it with cron. Wake up to today's digest already saved.
+GitHub Pages: auto-updates daily at 9 AM ICT.
 
 ---
 
@@ -64,4 +66,6 @@ Next: schedule it with cron. Wake up to today's digest already saved.
 # Done checklist
 - [x] repo public — github.com/MileFisher/daily-tech-digest
 - [x] MCP + skill + agent used
+- [x] LICENSE (MIT)
+- [x] GitHub Pages live URL
 - [x] report.md in team repo

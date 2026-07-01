@@ -3,14 +3,67 @@
 //
 // Run with: node generate.js   (requires Node 18+ for built-in fetch)
 // No API keys, no external dependencies.
+//
+// Options:
+//   --date YYYY-MM-DD   Override the date in the output filename/header
+//   --top N             Number of story IDs to fetch from the API (default: 30)
+//   --keep N            Number of stories to keep after filtering (default: 10)
+//   --dry-run           Print the digest to stdout instead of writing to file
 
 const fs = require('fs');
 const path = require('path');
 
 const HN_BASE = 'https://hacker-news.firebaseio.com/v0';
 const TIMEZONE = 'Asia/Ho_Chi_Minh';
-const TOP_N_FETCH = 30; // story IDs to pull from the topstories endpoint
-const TOP_N_KEEP = 10; // stories to keep after filtering
+const DEFAULT_TOP_N_FETCH = 30; // story IDs to pull from the topstories endpoint
+const DEFAULT_TOP_N_KEEP = 10; // stories to keep after filtering
+
+// --- CLI argument parsing ----------------------------------------------------
+// Usage: node generate.js [--date YYYY-MM-DD] [--top N] [--keep N] [--dry-run]
+
+function parseArgs(argv = process.argv.slice(2)) {
+  const opts = {
+    date: null,      // null = use today
+    top: DEFAULT_TOP_N_FETCH,
+    keep: DEFAULT_TOP_N_KEEP,
+    dryRun: false,
+  };
+
+  for (let i = 0; i < argv.length; i++) {
+    switch (argv[i]) {
+      case '--date':
+        opts.date = argv[++i];
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(opts.date)) {
+          console.error('❌ --date must be in YYYY-MM-DD format');
+          process.exit(1);
+        }
+        break;
+      case '--top':
+        opts.top = parseInt(argv[++i], 10);
+        if (isNaN(opts.top) || opts.top < 1) {
+          console.error('❌ --top must be a positive integer');
+          process.exit(1);
+        }
+        break;
+      case '--keep':
+        opts.keep = parseInt(argv[++i], 10);
+        if (isNaN(opts.keep) || opts.keep < 1) {
+          console.error('❌ --keep must be a positive integer');
+          process.exit(1);
+        }
+        break;
+      case '--dry-run':
+        opts.dryRun = true;
+        break;
+      default:
+        console.error(`❌ Unknown option: ${argv[i]}`);
+        console.error('Usage: node generate.js [--date YYYY-MM-DD] [--top N] [--keep N] [--dry-run]');
+        process.exit(1);
+    }
+  }
+
+  return opts;
+}
 
 // --- HN fetch helpers --------------------------------------------------------
 
@@ -52,7 +105,7 @@ async function fetchStory(id) {
 // --- content-filter agent logic ---------------------------------------------
 // Mirrors .claude/agents/content-filter.md, applied IN ORDER.
 
-function filterStories(stories) {
+function filterStories(stories, keep = DEFAULT_TOP_N_KEEP) {
   return stories
     .filter((s) => s && s.type === 'story') // 1. only real stories
     .filter((s) => {
@@ -70,7 +123,7 @@ function filterStories(stories) {
     .filter((s) => (s.score || 0) >= 50) // 3. score floor
     .filter((s) => s.url != null) // 4. must have a URL
     .sort((a, b) => (b.score || 0) - (a.score || 0)) // 5. top N by score
-    .slice(0, TOP_N_KEEP);
+    .slice(0, keep);
 }
 
 // --- digest-format skill -----------------------------------------------------
@@ -87,10 +140,32 @@ function hostnameOf(url) {
 // One neutral, factual sentence built from the data we have. No hype words.
 function summarize(story) {
   const host = hostnameOf(story.url);
+  const score = story.score || 0;
+  const comments = story.descendants || 0;
+
+  const parts = [];
+
   if (host) {
-    return `A link to ${host} titled "${story.title}", currently among the top stories on Hacker News.`;
+    parts.push(`A link to ${host} titled "${story.title}"`);
+  } else {
+    parts.push(`A discussion titled "${story.title}"`);
   }
-  return `A discussion titled "${story.title}" currently among the top stories on Hacker News.`;
+
+  // Add score context for notably popular stories
+  if (score >= 500) {
+    parts.push('one of the highest-scoring stories on the front page');
+  } else if (score >= 200) {
+    parts.push('a popular story on the front page');
+  }
+
+  // Add comment context for active discussions
+  if (comments >= 300) {
+    parts.push('with an active discussion thread');
+  } else if (comments >= 100) {
+    parts.push('drawing significant discussion');
+  }
+
+  return parts.join(', ') + '.';
 }
 
 function formatComments(descendants) {
@@ -135,7 +210,25 @@ function formatDigest(stories, parts) {
 
 // --- date helpers (Asia/Ho_Chi_Minh) ----------------------------------------
 
-function dateParts(now = new Date()) {
+function dateParts(dateOverride = null) {
+  const now = new Date();
+
+  // If a date override is provided, use it directly for the date field
+  // but still use the real time for the generation timestamp
+  if (dateOverride) {
+    const timeFmt = new Intl.DateTimeFormat('en-GB', {
+      timeZone: TIMEZONE,
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+    });
+    return {
+      date: dateOverride,
+      time: timeFmt.format(now),
+      iso: now.toISOString(),
+    };
+  }
+
   // YYYY-MM-DD and HH:MM in ICT, plus an ISO timestamp.
   const dateFmt = new Intl.DateTimeFormat('en-CA', {
     timeZone: TIMEZONE,
@@ -160,7 +253,8 @@ function dateParts(now = new Date()) {
 // --- main --------------------------------------------------------------------
 
 async function main() {
-  const ids = await fetchTopStoryIds(TOP_N_FETCH);
+  const opts = parseArgs();
+  const ids = await fetchTopStoryIds(opts.top);
 
   // Fetch all stories in parallel; failed fetches resolve to null and are dropped.
   const fetched = await Promise.all(ids.map(fetchStory));
@@ -170,7 +264,7 @@ async function main() {
     console.warn(`⚠️  ${skipped} of ${fetched.length} story fetches failed and were skipped.`);
   }
 
-  const filtered = filterStories(stories);
+  const filtered = filterStories(stories, opts.keep);
 
   if (filtered.length < 3) {
     console.warn(
@@ -178,8 +272,13 @@ async function main() {
     );
   }
 
-  const parts = dateParts();
+  const parts = dateParts(opts.date);
   const markdown = formatDigest(filtered, parts);
+
+  if (opts.dryRun) {
+    process.stdout.write(markdown);
+    return;
+  }
 
   const outDir = path.join(__dirname, 'output');
   fs.mkdirSync(outDir, { recursive: true });

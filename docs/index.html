@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Tech Digest</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    :root {
+      --bg: #fafafa;
+      --fg: #1a1a1a;
+      --muted: #6b7280;
+      --border: #e5e7eb;
+      --card-bg: #ffffff;
+      --accent: #f97316;
+      --link: #2563eb;
+      --code-bg: #f3f4f6;
+    }
+
+    [data-theme="dark"] {
+      --bg: #0f172a;
+      --fg: #e2e8f0;
+      --muted: #94a3b8;
+      --border: #334155;
+      --card-bg: #1e293b;
+      --accent: #fb923c;
+      --link: #60a5fa;
+      --code-bg: #1e293b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      line-height: 1.6;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    /* Header bar */
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2rem;
+    }
+
+    .header h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .theme-toggle {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.4rem 0.75rem;
+      cursor: pointer;
+      font-size: 1.1rem;
+      color: var(--fg);
+      transition: border-color 0.2s;
+    }
+
+    .theme-toggle:hover {
+      border-color: var(--accent);
+    }
+
+    /* Digest content rendered from markdown */
+    .digest {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .digest h1 {
+      font-size: 1.75rem;
+      margin-bottom: 0.5rem;
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 0.5rem;
+    }
+
+    .digest h2 {
+      font-size: 1.35rem;
+      margin-top: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .digest h3 {
+      font-size: 1.1rem;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .digest blockquote {
+      color: var(--muted);
+      border-left: 3px solid var(--accent);
+      padding-left: 1rem;
+      margin: 0.75rem 0;
+      font-style: italic;
+    }
+
+    .digest hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 1.5rem 0;
+    }
+
+    .digest p {
+      margin: 0.75rem 0;
+    }
+
+    .digest a {
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    .digest a:hover {
+      text-decoration: underline;
+    }
+
+    .digest strong {
+      font-weight: 600;
+    }
+
+    .digest em {
+      color: var(--muted);
+    }
+
+    .digest ol, .digest ul {
+      padding-left: 1.5rem;
+      margin: 0.75rem 0;
+    }
+
+    .digest li {
+      margin: 0.25rem 0;
+    }
+
+    .digest code {
+      background: var(--code-bg);
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+
+    /* Loading / error states */
+    .status {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+    }
+
+    .status .icon {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .status.error {
+      color: #ef4444;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      margin-top: 2rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .footer a {
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Mobile */
+    @media (max-width: 640px) {
+      .container { padding: 1rem 1rem 3rem; }
+      .digest { padding: 1.25rem; }
+      .digest h1 { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🗞️ Daily Tech Digest</h1>
+      <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌙</button>
+    </div>
+
+    <div class="digest" id="content">
+      <div class="status">
+        <div class="icon">⏳</div>
+        <p>Loading latest digest...</p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Built with <a href="https://github.com/MileFisher/daily-tech-digest">daily-tech-digest</a> · Powered by <a href="https://news.ycombinator.com">Hacker News</a></p>
+    </div>
+  </div>
+
+  <script>
+    // Theme toggle
+    function toggleTheme() {
+      const body = document.documentElement;
+      const isDark = body.getAttribute('data-theme') === 'dark';
+      body.setAttribute('data-theme', isDark ? '' : 'dark');
+      localStorage.setItem('theme', isDark ? 'light' : 'dark');
+      document.querySelector('.theme-toggle').textContent = isDark ? '🌙' : '☀️';
+    }
+
+    // Restore saved theme
+    (function() {
+      const saved = localStorage.getItem('theme');
+      if (saved === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        document.querySelector('.theme-toggle').textContent = '☀️';
+      }
+    })();
+
+    // Fetch and render the latest digest
+    async function loadDigest() {
+      const el = document.getElementById('content');
+      try {
+        const res = await fetch('digest-latest.md');
+        if (!res.ok) throw new Error(`No digest found (${res.status})`);
+        const md = await res.text();
+        el.innerHTML = marked.parse(md);
+      } catch (err) {
+        el.innerHTML = `
+          <div class="status error">
+            <div class="icon">📭</div>
+            <p>${err.message}</p>
+            <p style="margin-top:0.5rem;font-size:0.85rem">Run <code>node generate.js</code> to create today's digest.</p>
+          </div>
+        `;
+      }
+    }
+
+    loadDigest();
+  </script>
+</body>
+</html>
