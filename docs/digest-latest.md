@@ -1,12 +1,12 @@
 # 🗞️ Daily Tech Digest — 2026-07-01
 
-> Top 10 stories from Hacker News · Generated 19:26 ICT
+> Top 10 stories from Hacker News · Generated 19:28 ICT
 
 ---
 
 1. Claude Code is steganographically marking requests
 
-⬆️ 2171 points · 💬 629 comments · 👤 kirushik
+⬆️ 2173 points · 💬 629 comments · 👤 kirushik
 
 A link to thereallo.dev titled "Claude Code is steganographically marking requests", one of the highest-scoring stories on the front page, with an active discussion thread.
 
@@ -14,7 +14,7 @@ A link to thereallo.dev titled "Claude Code is steganographically marking reques
 
 2. Claude Sonnet 5
 
-⬆️ 1161 points · 💬 696 comments · 👤 marinesebastian
+⬆️ 1162 points · 💬 697 comments · 👤 marinesebastian
 
 A link to anthropic.com titled "Claude Sonnet 5", one of the highest-scoring stories on the front page, with an active discussion thread.
 
@@ -22,7 +22,7 @@ A link to anthropic.com titled "Claude Sonnet 5", one of the highest-scoring sto
 
 3. Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5
 
-⬆️ 746 points · 💬 463 comments · 👤 Pragmata
+⬆️ 748 points · 💬 465 comments · 👤 Pragmata
 
 A link to twitter.com titled "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5", one of the highest-scoring stories on the front page, with an active discussion thread.
 
@@ -62,7 +62,7 @@ A link to ngrok.com titled "I ported Kubernetes to the browser", a popular story
 
 8. Godot will no longer accept AI-authored code contributions
 
-⬆️ 284 points · 💬 177 comments · 👤 pjmlp
+⬆️ 288 points · 💬 180 comments · 👤 pjmlp
 
 A link to pcgamer.com titled "Godot will no longer accept AI-authored code contributions", a popular story on the front page, drawing significant discussion.
 
@@ -70,7 +70,7 @@ A link to pcgamer.com titled "Godot will no longer accept AI-authored code contr
 
 9. CERN bids farewell to the LHC and enters Long Shutdown 3
 
-⬆️ 264 points · 💬 86 comments · 👤 HelloUsername
+⬆️ 265 points · 💬 86 comments · 👤 HelloUsername
 
 A link to home.cern titled "CERN bids farewell to the LHC and enters Long Shutdown 3", a popular story on the front page.
 
@@ -78,10 +78,10 @@ A link to home.cern titled "CERN bids farewell to the LHC and enters Long Shutdo
 
 10. Leanstral 1.5
 
-⬆️ 252 points · 💬 99 comments · 👤 vetronauta
+⬆️ 254 points · 💬 99 comments · 👤 vetronauta
 
 A link to docs.mistral.ai titled "Leanstral 1.5", a popular story on the front page.
 
 [Read on HN](https://news.ycombinator.com/item?id=48738938) · [Source](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
 
-*daily-tech-digest · MileFisher · 2026-07-01T12:26:26.916Z*
+*daily-tech-digest · MileFisher · 2026-07-01T12:28:29.672Z*
