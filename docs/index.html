@@ -58,19 +58,38 @@
       color: var(--accent);
     }
 
-    .theme-toggle {
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .theme-toggle,
+    .lang-toggle,
+    .archive-select {
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 8px;
       padding: 0.4rem 0.75rem;
       cursor: pointer;
-      font-size: 1.1rem;
+      font-size: 0.95rem;
       color: var(--fg);
       transition: border-color 0.2s;
+      font-family: inherit;
     }
 
-    .theme-toggle:hover {
+    .theme-toggle {
+      font-size: 1.1rem;
+    }
+
+    .theme-toggle:hover,
+    .lang-toggle:hover,
+    .archive-select:hover {
       border-color: var(--accent);
+    }
+
+    .archive-select {
+      max-width: 9rem;
     }
 
     /* Digest content rendered from markdown */
@@ -196,8 +215,14 @@
 <body>
   <div class="container">
     <div class="header">
-      <h1>🗞️ Daily Tech Digest</h1>
-      <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌙</button>
+      <h1 id="siteTitle">🗞️ Daily Tech Digest</h1>
+      <div class="controls">
+        <select class="archive-select" id="archiveSelect" onchange="onArchiveChange()" aria-label="Choose a date">
+          <option value="latest">Latest</option>
+        </select>
+        <button class="lang-toggle" onclick="toggleLanguage()" id="langToggle" aria-label="Switch language">MY</button>
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌙</button>
+      </div>
     </div>
 
     <div class="digest" id="content">
@@ -208,7 +233,7 @@
     </div>
 
     <div class="footer">
-      <p>Built with <a href="https://github.com/MileFisher/daily-tech-digest">daily-tech-digest</a> · Powered by <a href="https://news.ycombinator.com">Hacker News</a></p>
+      <p>Built with <a href="https://github.com/MileFisher/daily-tech-digest">daily-tech-digest</a> · Powered by <a href="https://news.ycombinator.com">Hacker News</a> &amp; <a href="https://lobste.rs">Lobsters</a></p>
     </div>
   </div>
 
@@ -231,11 +256,67 @@
       }
     })();
 
-    // Fetch and render the latest digest
+    // --- language state (content translation only, not UI chrome) ---------
+    let currentLang = localStorage.getItem('lang') || 'en';
+
+    function updateLangUI() {
+      const btn = document.getElementById('langToggle');
+      const title = document.getElementById('siteTitle');
+      if (currentLang === 'my') {
+        btn.textContent = 'EN';
+        title.textContent = '🗞️ နေ့စဉ် နည်းပညာသတင်းများ';
+      } else {
+        btn.textContent = 'MY';
+        title.textContent = '🗞️ Daily Tech Digest';
+      }
+    }
+
+    function toggleLanguage() {
+      currentLang = currentLang === 'my' ? 'en' : 'my';
+      localStorage.setItem('lang', currentLang);
+      updateLangUI();
+      loadDigest();
+    }
+
+    // --- archive state -------------------------------------------------------
+    let currentDate = 'latest'; // 'latest' or 'YYYY-MM-DD'
+
+    async function loadArchiveList() {
+      const select = document.getElementById('archiveSelect');
+      try {
+        const res = await fetch('archive/index.json');
+        if (!res.ok) return; // no archive yet — keep just "Latest"
+        const entries = await res.json();
+        for (const entry of entries) {
+          const opt = document.createElement('option');
+          opt.value = entry.date;
+          opt.textContent = entry.date;
+          select.appendChild(opt);
+        }
+      } catch {
+        // Archive not available yet — "Latest" remains the only option.
+      }
+    }
+
+    function onArchiveChange() {
+      currentDate = document.getElementById('archiveSelect').value;
+      loadDigest();
+    }
+
+    // --- digest fetch/render ---------------------------------------------------
+    function digestPath() {
+      const suffix = currentLang === 'my' ? '.my.md' : '.md';
+      if (currentDate === 'latest') {
+        return `digest-latest${suffix}`;
+      }
+      return `archive/${currentDate}${suffix}`;
+    }
+
     async function loadDigest() {
       const el = document.getElementById('content');
+      el.innerHTML = `<div class="status"><div class="icon">⏳</div><p>Loading...</p></div>`;
       try {
-        const res = await fetch('digest-latest.md');
+        const res = await fetch(digestPath());
         if (!res.ok) throw new Error(`No digest found (${res.status})`);
         const md = await res.text();
         el.innerHTML = marked.parse(md);
@@ -250,6 +331,8 @@
       }
     }
 
+    updateLangUI();
+    loadArchiveList();
     loadDigest();
   </script>
 </body>

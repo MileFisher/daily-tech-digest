@@ -31,21 +31,32 @@ jobs:
       - name: Generate digest
         run: node generate.js
 
-      - name: Copy digest to docs/
+      - name: Copy digest to docs/ and archive/
         run: |
-          TODAY=$(date +%Y-%m-%d)
+          TODAY=$(TZ=Asia/Ho_Chi_Minh date +%Y-%m-%d)
+          mkdir -p docs/archive
           if [ -f "output/digest-${TODAY}.md" ]; then
             cp "output/digest-${TODAY}.md" docs/digest-latest.md
+            cp "output/digest-${TODAY}.md" "docs/archive/${TODAY}.md"
           else
-            echo "⚠️ No digest generated for ${TODAY}"
+            echo "⚠️ No English digest generated for ${TODAY}"
           fi
+          if [ -f "output/digest-${TODAY}.my.md" ]; then
+            cp "output/digest-${TODAY}.my.md" docs/digest-latest.my.md
+            cp "output/digest-${TODAY}.my.md" "docs/archive/${TODAY}.my.md"
+          else
+            echo "⚠️ No Burmese digest generated for ${TODAY}"
+          fi
+
+      - name: Prune archive to last 30 days and rebuild index
+        run: node scripts/prune-archive.js
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ docs/digest-latest.md
-          git diff --cached --quiet || git commit -m "chore: generate digest $(date +%Y-%m-%d)"
+          git add output/ docs/digest-latest.md docs/digest-latest.my.md docs/archive/
+          git diff --cached --quiet || git commit -m "chore: generate digest $(TZ=Asia/Ho_Chi_Minh date +%Y-%m-%d)"
           git push
 
       - name: Upload Pages artifact
