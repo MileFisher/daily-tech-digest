@@ -1,12 +1,12 @@
 # 🗞️ Daily Tech Digest — 2026-07-05
 
-> Top 10 stories from Hacker News & Lobsters · Generated 01:36 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 02:04 ICT
 
 ---
 
 1. The bottleneck might be the air in the room
 
-🔶 Hacker News · ⬆️ 672 points · 💬 372 comments · 👤 gslin
+🔶 Hacker News · ⬆️ 677 points · 💬 381 comments · 👤 gslin
 
 A link to blog.mikebowler.ca titled "The bottleneck might be the air in the room", one of the highest-scoring stories on the front page, with an active discussion thread.
 
@@ -14,7 +14,7 @@ A link to blog.mikebowler.ca titled "The bottleneck might be the air in the room
 
 2. Maybe you should learn something
 
-🔶 Hacker News · ⬆️ 353 points · 💬 168 comments · 👤 tylerdane
+🔶 Hacker News · ⬆️ 365 points · 💬 170 comments · 👤 tylerdane
 
 A link to marginalia.nu titled "Maybe you should learn something", a popular story on the front page, drawing significant discussion.
 
@@ -22,7 +22,7 @@ A link to marginalia.nu titled "Maybe you should learn something", a popular sto
 
 3. Leanstral 1.5: Proof abundance for all
 
-🔶 Hacker News · ⬆️ 327 points · 💬 92 comments · 👤 programLyrique
+🔶 Hacker News · ⬆️ 332 points · 💬 93 comments · 👤 programLyrique
 
 A link to mistral.ai titled "Leanstral 1.5: Proof abundance for all", a popular story on the front page.
 
@@ -30,7 +30,7 @@ A link to mistral.ai titled "Leanstral 1.5: Proof abundance for all", a popular 
 
 4. Performance per dollar is getting faster and cheaper
 
-🔶 Hacker News · ⬆️ 325 points · 💬 128 comments · 👤 latchkey
+🔶 Hacker News · ⬆️ 328 points · 💬 129 comments · 👤 latchkey
 
 A link to wafer.ai titled "Performance per dollar is getting faster and cheaper", a popular story on the front page, drawing significant discussion.
 
@@ -38,7 +38,7 @@ A link to wafer.ai titled "Performance per dollar is getting faster and cheaper"
 
 5. Explanation of everything you can see in htop/top on Linux (2019)
 
-🔶 Hacker News · ⬆️ 270 points · 💬 31 comments · 👤 theanonymousone
+🔶 Hacker News · ⬆️ 281 points · 💬 36 comments · 👤 theanonymousone
 
 A link to peteris.rocks titled "Explanation of everything you can see in htop/top on Linux (2019)", a popular story on the front page.
 
@@ -46,7 +46,7 @@ A link to peteris.rocks titled "Explanation of everything you can see in htop/to
 
 6. Giant trees have no trouble pumping water to top branches: new research
 
-🔶 Hacker News · ⬆️ 250 points · 💬 110 comments · 👤 hhs
+🔶 Hacker News · ⬆️ 254 points · 💬 111 comments · 👤 hhs
 
 A link to news.exeter.ac.uk titled "Giant trees have no trouble pumping water to top branches: new research", a popular story on the front page, drawing significant discussion.
 
@@ -54,9 +54,9 @@ A link to news.exeter.ac.uk titled "Giant trees have no trouble pumping water to
 
 7. Potential session/cache leakage between workspace instances or consumer accounts
 
-🔶 Hacker News · ⬆️ 214 points · 💬 99 comments · 👤 chatmasta
+🔶 Hacker News · ⬆️ 225 points · 💬 110 comments · 👤 chatmasta
 
-A link to github.com titled "Potential session/cache leakage between workspace instances or consumer accounts", a popular story on the front page.
+A link to github.com titled "Potential session/cache leakage between workspace instances or consumer accounts", a popular story on the front page, drawing significant discussion.
 
 [Discuss](https://news.ycombinator.com/item?id=48785485) · [Source](https://github.com/anthropics/claude-code/issues/74066)
 
@@ -84,4 +84,4 @@ A link to hackers.pub titled "Why implementing ActivityPub is hard, and why it d
 
 [Discuss](https://lobste.rs/s/1g5bum) · [Source](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
 
-*daily-tech-digest · MileFisher · 2026-07-04T18:36:19.209Z*
+*daily-tech-digest · MileFisher · 2026-07-04T19:04:14.735Z*
