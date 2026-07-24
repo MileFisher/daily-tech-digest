@@ -2,148 +2,72 @@
 marp: true
 paginate: true
 transition: fade
+# PechaKucha: 6 slides, 20s auto-advance. Do not change the count.
+auto-advance: 20
 ---
 
 <!-- slide 1 -->
-# 🗞️ daily-tech-digest
-## Tech Stack & Architecture
+# Who's my person?
+<!-- 20s -->
 
-A CLI tool that fetches top tech stories from Hacker News + Lobsters,
-filters noise, and produces a clean bilingual markdown digest — daily.
-
-**Author:** MileFisher  
-**Repo:** github.com/MileFisher/daily-tech-digest
+A developer who opens Hacker News every morning,
+scrolls for 20 minutes, and still feels like they missed something important.
 
 ---
 
 <!-- slide 2 -->
-# Tech Stack
+# Their problem
 
-| Layer | Technology |
-|---|---|
-| **Runtime** | Node.js 18+ (vanilla, zero npm deps) |
-| **APIs** | Hacker News Firebase API · Lobsters JSON API |
-| **Translation** | MyMemory free tier (no API key) |
-| **Hosting** | GitHub Pages (from `docs/` on `main`) |
-| **CI/CD** | GitHub Actions (cron at 02:00 UTC) |
-| **AI Assistant** | Claude Code |
+HN has 500+ stories a day. Good ones are buried under Ask HN, hiring posts, and low-effort links.
 
-All external APIs are public and keyless.
+They want the **top 10 stories worth reading** — not a homepage to scroll.
+
+Lobsters has great content too, but its scoring scale is much lower — you can't just merge and sort.
 
 ---
 
 <!-- slide 3 -->
-# Subagent — `content-filter`
+# What I built
 
-**File:** `.claude/agents/content-filter.md`
+**daily-tech-digest** — a CLI tool that:
 
-A standalone filtering agent that cleans raw story data before formatting:
-
-1. Drops non-story types
-2. Strips Ask HN, Tell HN, Show HN (unless it has a URL + score ≥ 100)
-3. Enforces per-source score floors (HN ≥ 50, Lobsters ≥ 15)
-4. Removes stories with no URL
-5. Sorts by score descending per source
-6. Reserves fixed slots (default: 7 HN + 3 Lobsters)
-
-Returns a clean JSON array — no commentary, just data.
+1. Fetches top stories from Hacker News + Lobsters
+2. Filters noise per-source (score floors, drop Ask/Tell/Show without URL)
+3. Reserves fixed slots (7 HN + 3 Lobsters) so both sources get represented
+4. Translates to Burmese via MyMemory API
+5. Saves bilingual markdown to `output/digest-YYYY-MM-DD.md + .my.md`
 
 ---
 
 <!-- slide 4 -->
-# Skill — `digest-format`
+# How I built it
 
-**File:** `.claude/skills/digest-format/SKILL.md`
+- **Tech stack:** Node.js 18+ (zero npm deps), GitHub Pages, GitHub Actions cron
+- **MCP:** `filesystem` — Claude reads output files and checks them against the skill during dev
+- **Skill:** `digest-format` — defines structure, tone, and file naming rules for every digest
+- **Agent:** `content-filter` — strict rules for what makes the cut (type, score, URL, reserved slots)
 
-A Claude Code skill that enforces the output format:
-
-- **Structure:** H1 header → subtitle → separator → ranked entries → footer
-- **Source tags:** `🔶 Hacker News` / `🦞 Lobsters`
-- **Tone:** Neutral, factual, no hype — one sentence per story
-- **Bilingual:** English + Burmese (`.my.md`), with strict rules on what *not* to translate
-- **Edge cases:** Missing URL, zero comments, failed translation fallback
-
-Loaded via `/digest-format` in Claude Code.
+CLI flags: `--date`, `--top`, `--keep`, `--hn-keep`, `--lobsters-keep`, `--dry-run`, `--no-translate`
 
 ---
 
 <!-- slide 5 -->
-# Methodology
+# Why it matters
 
-The pipeline runs as a single `main()` call — no framework, no build step:
+No login. No algorithm. No infinite scroll.
 
-```
-CLI args → Fetch HN + Lobsters (parallel)
-         → Normalize to common shape
-         → content-filter agent (per-source rules + reserved slots)
-         → digest-format skill (markdown structure)
-         → Translate titles + summaries (EN → MY)
-         → Write output/digest-*.md
-```
+A developer gets their morning brief in **under 3 seconds**, in their editor, as a plain markdown file they actually own.
 
-**Design principles:**
-- Zero external npm dependencies
-- Fail-soft: a source going down → digest still works with remaining data
-- Generated files are never edited manually
-- Filter rules, format rules, and code stay in sync (CLAUDE.md enforces this)
+Bilingual output (EN + MY) makes tech news accessible to a wider audience. GitHub Pages auto-updates daily at 9 AM ICT.
 
 ---
 
 <!-- slide 6 -->
-# Triggers & Commands
+# Done checklist
 
-| Trigger | When | Command |
-|---|---|---|
-| **Daily cron** | 02:00 UTC (09:00 ICT) | GitHub Actions — auto |
-| **Manual run** | Any time | `node generate.js` |
-| **Custom date** | Backfill | `node generate.js --date 2026-06-30` |
-| **More stories** | Tune volume | `node generate.js --top 50 --keep 15` |
-| **Per-source slots** | Tune mix | `node generate.js --hn-keep 8 --lobsters-keep 2` |
-| **Dry run** | Preview | `node generate.js --dry-run` |
-| **Skip translation** | English only | `node generate.js --no-translate` |
-| **Archive pruning** | After digest | `node scripts/prune-archive.js` |
-| **Skill invoke** | In Claude Code | `/digest-format` |
-| **Agent invoke** | In Claude Code | Agent tool with story data |
-
----
-
-<!-- slide 7 -->
-# Architecture Diagram
-
-```
-┌──────────────┐     ┌──────────────┐
-│  Hacker News  │     │   Lobsters   │
-│  Firebase API │     │  JSON API    │
-└──────┬───────┘     └──────┬───────┘
-       │                    │
-       ▼                    ▼
-┌──────────────────────────────┐
-│     normalizeStory()         │
-│  (common {source,type,...}   │
-│   shape for both sources)    │
-└──────────┬───────────────────┘
-           │
-           ▼
-┌──────────────────────────────┐
-│  content-filter Subagent     │
-│  (per-source rules + slots)  │
-└──────────┬───────────────────┘
-           │
-           ▼
-┌──────────────────────────────┐
-│  formatDigest()              │
-│  (digest-format Skill rules) │
-└──────────┬───────────────────┘
-           │
-           ▼
-┌──────────────────────────────┐
-│  translateDigest()           │
-│  (MyMemory API, fail-soft)   │
-└──────────┬───────────────────┘
-           │
-           ▼
-┌──────────────────────────────┐
-│  output/digest-*.md          │
-│  docs/ (Pages deploy)        │
-└──────────────────────────────┘
-```
+- [x] repo public — github.com/MileFisher/daily-tech-digest
+- [x] MCP + skill + agent used and proven
+- [x] report.md in team repo
+- [x] GitHub Pages live — https://milefisher.github.io/daily-tech-digest/
+- [x] Feedback collected from 3 users
+- [x] License (MIT)
