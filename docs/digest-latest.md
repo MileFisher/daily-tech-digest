@@ -1,12 +1,12 @@
 # 🗞️ Daily Tech Digest — 2026-07-25
 
-> Top 10 stories from Hacker News & Lobsters · Generated 17:09 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 17:54 ICT
 
 ---
 
 1. Claude Opus 5
 
-🔶 Hacker News · ⬆️ 1559 points · 💬 902 comments · 👤 alvis
+🔶 Hacker News · ⬆️ 1578 points · 💬 920 comments · 👤 alvis
 
 A link to anthropic.com titled "Claude Opus 5", one of the highest-scoring stories on the front page, with an active discussion thread.
 
@@ -14,7 +14,7 @@ A link to anthropic.com titled "Claude Opus 5", one of the highest-scoring stori
 
 2. India's first privately-developed rocket reaches orbit on debut launch
 
-🔶 Hacker News · ⬆️ 615 points · 💬 175 comments · 👤 sohkamyung
+🔶 Hacker News · ⬆️ 618 points · 💬 176 comments · 👤 sohkamyung
 
 A link to arstechnica.com titled "India's first privately-developed rocket reaches orbit on debut launch", one of the highest-scoring stories on the front page, drawing significant discussion.
 
@@ -22,7 +22,7 @@ A link to arstechnica.com titled "India's first privately-developed rocket reach
 
 3. Nvidia, Microsoft, Meta warn against overregulating open-weight models
 
-🔶 Hacker News · ⬆️ 611 points · 💬 268 comments · 👤 louiereederson
+🔶 Hacker News · ⬆️ 615 points · 💬 271 comments · 👤 louiereederson
 
 A link to cnbc.com titled "Nvidia, Microsoft, Meta warn against overregulating open-weight models", one of the highest-scoring stories on the front page, drawing significant discussion.
 
@@ -30,7 +30,7 @@ A link to cnbc.com titled "Nvidia, Microsoft, Meta warn against overregulating o
 
 4. My security camera shipped a GitHub admin token in its login page
 
-🔶 Hacker News · ⬆️ 596 points · 💬 191 comments · 👤 hhh
+🔶 Hacker News · ⬆️ 596 points · 💬 193 comments · 👤 hhh
 
 A link to hhh.hn titled "My security camera shipped a GitHub admin token in its login page", one of the highest-scoring stories on the front page, drawing significant discussion.
 
@@ -38,15 +38,15 @@ A link to hhh.hn titled "My security camera shipped a GitHub admin token in its 
 
 5. Firefox Containers Preview
 
-🔶 Hacker News · ⬆️ 346 points · 💬 97 comments · 👤 twapi
+🔶 Hacker News · ⬆️ 356 points · 💬 100 comments · 👤 twapi
 
-A link to blog.mozilla.org titled "Firefox Containers Preview", a popular story on the front page.
+A link to blog.mozilla.org titled "Firefox Containers Preview", a popular story on the front page, drawing significant discussion.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=48995409) · [Source](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 
 6. Postgres LISTEN/NOTIFY actually scales
 
-🔶 Hacker News · ⬆️ 309 points · 💬 59 comments · 👤 KraftyOne
+🔶 Hacker News · ⬆️ 314 points · 💬 59 comments · 👤 KraftyOne
 
 A link to dbos.dev titled "Postgres LISTEN/NOTIFY actually scales", a popular story on the front page.
 
@@ -54,7 +54,7 @@ A link to dbos.dev titled "Postgres LISTEN/NOTIFY actually scales", a popular st
 
 7. Half-Life 2 running natively on HaikuOS
 
-🔶 Hacker News · ⬆️ 305 points · 💬 56 comments · 👤 m0do1
+🔶 Hacker News · ⬆️ 308 points · 💬 57 comments · 👤 m0do1
 
 A link to discuss.haiku-os.org titled "Half-Life 2 running natively on HaikuOS", a popular story on the front page.
 
@@ -70,7 +70,7 @@ A link to mitchellh.com titled "Everyone Should Know SIMD".
 
 9. Don't take the black pill
 
-🦞 Lobsters · ⬆️ 112 points · 💬 40 comments · 👤 Malp
+🦞 Lobsters · ⬆️ 113 points · 💬 40 comments · 👤 Malp
 
 A link to youtube.com titled "Don't take the black pill".
 
@@ -84,4 +84,4 @@ A link to justif.lyall.co titled "Justif: Knuth-Plass justification and microtyp
 
 [Discuss on Lobsters](https://lobste.rs/s/p1jpv1) · [Source](https://justif.lyall.co/)
 
-*daily-tech-digest · MileFisher · 2026-07-25T10:09:28.132Z*
+*daily-tech-digest · MileFisher · 2026-07-25T10:54:40.916Z*

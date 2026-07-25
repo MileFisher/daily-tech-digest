@@ -1,12 +1,12 @@
 # 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-07-25
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:09 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:54 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
 1. Claude Opus 5
 
-🔶 Hacker News · ⬆️ 1559 points · 💬 902 comments · 👤 alvis
+🔶 Hacker News · ⬆️ 1578 points · 💬 920 comments · 👤 alvis
 
 Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Claude Opus 5", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
@@ -14,7 +14,7 @@ Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "C
 
 2. Home သ တင်း များ ဒေ သ တွင်း အိန္ဒိယ ၏ ပထမဆုံး ဒုံးပျံ လွှတ်တင်မှု စတင်
 
-🔶 Hacker News · ⬆️ 615 points · 💬 175 comments · 👤 sohkamyung
+🔶 Hacker News · ⬆️ 618 points · 💬 176 comments · 👤 sohkamyung
 
 Arstechnica.com သို့ ချိတ်ဆက်ထားသော "အိန္ဒိယ ၏ ပထမဆုံး ပုဂ္ဂလိကဖွံ့ဖြိုးပြီး ဒုံးပျံသည် ပွဲဦးထွက်လွှတ်တင်မှုတွင် ဂြိုဟ်ပတ်လမ်းကြောင်းသို့ ရောက်ရှိသွားသည်" ဟူသော ခေါင်းစဉ်ဖြင့် ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုကို ဆွဲဆောင်နေသည် ။
 
@@ -22,7 +22,7 @@ Arstechnica.com သို့ ချိတ်ဆက်ထားသော "အိ�
 
 3. Nvidia, Microsoft က, Meta ကိုပွင့်လင်း-အလေးချိန်မော်ဒယ်များ overregulating ဆန့်ကျင်သတိပေး
 
-🔶 Hacker News · ⬆️ 611 points · 💬 268 comments · 👤 louiereederson
+🔶 Hacker News · ⬆️ 615 points · 💬 271 comments · 👤 louiereederson
 
 Cnbc.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Nvidia, Microsoft, Meta သည်မျက်နှာပြင်ပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သော open-weight မော်ဒယ်များကိုအလွန်အကျွံထိန်းညှိခြင်းမှသတိပေးသည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲသည် ။
 
@@ -30,7 +30,7 @@ Cnbc.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Nvidia
 
 4. ကျွန်ုပ် ၏ လုံခြုံရေးကင်မရာသည် GitHub admin token ကို ၎ င်း ၏ login စာမျက်နှာတွင်တင်ပို့ခဲ့သည်
 
-🔶 Hacker News · ⬆️ 596 points · 💬 191 comments · 👤 hhh
+🔶 Hacker News · ⬆️ 596 points · 💬 193 comments · 👤 hhh
 
 Hhh.hn ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကျွန်ုပ် ၏ လုံခြုံရေးကင်မရာသည် GitHub admin token ကို ၎ င်း ၏ login စာမျက်နှာတွင်တင်ပို့ခဲ့သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
@@ -38,15 +38,15 @@ Hhh.hn ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကျ�
 
 5. Firefox ကွန်တိန်နာ အကြိုသင်ခန်းစာ
 
-🔶 Hacker News · ⬆️ 346 points · 💬 97 comments · 👤 twapi
+🔶 Hacker News · ⬆️ 356 points · 💬 100 comments · 👤 twapi
 
-Blog.mozilla.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "Firefox ကွန်တိန်နာ Preview", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+"Firefox Containers Preview" ခေါင်းစဉ်ဖြင့် blog.mozilla.org သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲနေသည် ။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=48995409) · [Source](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 
 6. Postgres အမှန်တကယ်စကေးနားထောင်/အကြောင်းကြား
 
-🔶 Hacker News · ⬆️ 309 points · 💬 59 comments · 👤 KraftyOne
+🔶 Hacker News · ⬆️ 314 points · 💬 59 comments · 👤 KraftyOne
 
 Dbos.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "Postgres နားထောင်/အသိပေးအမှန်တကယ်စကေး", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
@@ -54,7 +54,7 @@ Dbos.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "Postgr
 
 7. 2 Apk ~ က်ဳိကၡမီသားလင္းႏိုင္ဦး
 
-🔶 Hacker News · ⬆️ 305 points · 💬 56 comments · 👤 m0do1
+🔶 Hacker News · ⬆️ 308 points · 💬 57 comments · 👤 m0do1
 
 ဆွေးနွေးရန် link.haiku-os.org ခေါင်းစဉ်ဖြင့် "Half-Life 2 running natively on HaikuOS" အမည်ရှိစာမျက်နှာ ၏ ရှေ့ဆုံးတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်သည် ။
 
@@ -70,7 +70,7 @@ Mitchellh.com သို့ "လူတိုင်း SIMD ကိုသိသင�
 
 9. အနက်ရောင်ဆေးပြားကို မယူပါနှင့် ။
 
-🦞 Lobsters · ⬆️ 112 points · 💬 40 comments · 👤 Malp
+🦞 Lobsters · ⬆️ 113 points · 💬 40 comments · 👤 Malp
 
 Com မှ "အနက်ရောင်ဆေးပြားကိုမယူပါနှင့်" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ။
 
@@ -84,4 +84,4 @@ Justif.lyall.co ခေါင်းစဉ်ဖြင့် link တစ်ခု 
 
 [Discuss on Lobsters](https://lobste.rs/s/p1jpv1) · [Source](https://justif.lyall.co/)
 
-*daily-tech-digest · MileFisher · 2026-07-25T10:09:28.132Z*
+*daily-tech-digest · MileFisher · 2026-07-25T10:54:40.916Z*
