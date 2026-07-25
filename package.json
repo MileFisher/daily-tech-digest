@@ -14,11 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/MileFisher/daily-tech-digest.git"
   },
-  "keywords": ["hacker-news", "digest", "tech-news"],
+  "keywords": [
+    "hacker-news",
+    "digest",
+    "tech-news"
+  ],
   "author": "MileFisher",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MileFisher/daily-tech-digest/issues"
   },
-  "homepage": "https://github.com/MileFisher/daily-tech-digest#readme"
+  "homepage": "https://github.com/MileFisher/daily-tech-digest#readme",
+  "dependencies": {
+    "playwright": "^1.62.0"
+  }
 }
