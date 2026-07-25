@@ -1,119 +1,160 @@
-# 🗞️ daily-tech-digest
+# 🗞️ Daily Tech Digest
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)
+![Deploy](https://github.com/MileFisher/daily-tech-digest/actions/workflows/daily-digest.yml/badge.svg)
 
-Fetches top tech stories from Hacker News and Lobsters, filters out the noise, and writes
-a clean markdown digest — in English and Burmese — to `output/digest-YYYY-MM-DD.md`.
+**Your bilingual morning tech briefing — generated daily at 9 AM ICT.**
 
-**→ [Live Digest](https://milefisher.github.io/daily-tech-digest/)** (auto-updates daily at 9 AM ICT, with language and archive selectors)
+Fetches the top stories from Hacker News and Lobsters, filters out the noise,
+formats a clean ranked digest, translates it to Burmese, and publishes it as a
+live page — all with zero API keys and zero external dependencies.
 
-## What it does
-
-1. Fetches the top 30 story IDs from the Hacker News API, plus the current Lobsters "hottest" list.
-2. Fetches each HN story's details in parallel; Lobsters returns full details in one call.
-3. Filters both sources (dropping low-score posts, Ask/Tell/Show HN threads, hiring
-   posts, and items without a link), then **reserves fixed slots per source**
-   (default: 7 from Hacker News, 3 from Lobsters) so Lobsters — which scores on
-   a much smaller scale — isn't crowded out by a global sort.
-4. Formats the survivors as a ranked markdown digest, tagged with a source icon.
-5. Translates the digest to Burmese via the free MyMemory API (skippable with `--no-translate`).
-6. Saves both to `output/digest-YYYY-MM-DD.md` and `output/digest-YYYY-MM-DD.my.md` (dated in `Asia/Ho_Chi_Minh`).
-
-No API key required — Hacker News, Lobsters, and MyMemory (free tier) are all public.
-
-## Run it
-
-```bash
-node generate.js                                # Generate today's digest (EN + MY)
-node generate.js --date 2026-06-30              # Override the date
-node generate.js --top 50 --keep 15             # Fetch 50 HN stories, keep top 15 total
-node generate.js --hn-keep 8 --lobsters-keep 2  # Explicit per-source slot counts
-node generate.js --no-translate                 # Skip Burmese translation
-node generate.js --dry-run                      # Print to stdout, don't write file
-```
-
-Requires **Node.js 18+** (uses the built-in `fetch`). No dependencies to install.
-
-### Error handling
-- **HN API unreachable** → logs a clear error and exits with code `1`.
-- **Lobsters unreachable** → non-fatal; the digest falls back to Hacker News only.
-- **A single story fetch fails** (404, network blip) → skips that story and continues.
-- **A translation call fails** → falls back to the original English text for that entry.
-- **Fewer than 3 stories pass the filter** → logs a warning but still saves the file.
-
-## Output
-
-Each digest looks like this:
-
-```markdown
-# 🗞️ Daily Tech Digest — 2026-07-05
-
-> Top 10 stories from Hacker News & Lobsters · Generated 01:36 ICT
+> **→ [Live Digest](https://milefisher.github.io/daily-tech-digest/)** — updated daily, with EN/MY toggle, archive, and dark mode.
 
 ---
 
-1. The bottleneck might be the air in the room
+## Features
 
-🔶 Hacker News · ⬆️ 672 points · 💬 372 comments · 👤 gslin
+- **Dual sources** — Hacker News (7 slots) + Lobsters (3 slots) for diverse coverage
+- **Smart filtering** — strips Ask/Tell/Show HN without URL, hiring posts, low-score stories
+- **Bilingual** — English + Burmese (via MyMemory free translation API)
+- **Live page** — responsive layout with hero story, 2-column grid, dark mode, archive browser
+- **Daily automation** — GitHub Actions cron at 9 AM ICT, auto-deploys to GitHub Pages
+- **Zero config** — no API keys, no `.env`, no database. Just Node 18+ and `node generate.js`
+- **Claude Code ready** — ships with MCP, skill, and agent definitions for AI-driven development
 
-A link to blog.mikebowler.ca titled "The bottleneck might be the air in the room",
-one of the highest-scoring stories on the front page, with an active discussion thread.
+## Quick start
 
-[Discuss](https://news.ycombinator.com/item?id=48783117) · [Source](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-
-...
-
-8. Clickhouse is winning the Observability Wars
-
-🦞 Lobsters · ⬆️ 73 points · 💬 27 comments · 👤 siddhartha_golu
-
-A link to matduggan.com titled "Clickhouse is winning the Observability Wars".
-
-[Discuss](https://lobste.rs/s/asi79o) · [Source](https://matduggan.com/clickhouse-is-winning-the-observability-wars/)
-
-...
-
-*daily-tech-digest · MileFisher · 2026-07-04T18:36:19.209Z*
+```bash
+node generate.js                     # Generate today's digest (EN + MY)
 ```
 
-The Burmese version (`digest-YYYY-MM-DD.my.md`) translates only the title and
-summary of each story — score, comments, author, links, and the footer
-timestamp are never translated.
+That's it. The digest lands in `output/digest-YYYY-MM-DD.md` and `output/digest-YYYY-MM-DD.my.md`.
 
-> Files in `output/` are generated — don't edit them by hand.
+### Options
 
-## Screenshots
+| Flag | Default | Description |
+|---|---|---|
+| `--date YYYY-MM-DD` | today | Override the date in filename/header |
+| `--top N` | 30 | Number of HN story IDs to fetch |
+| `--keep N` | 10 | Total stories to keep after filtering |
+| `--hn-keep N` | 70% of `--keep` | Slots reserved for Hacker News |
+| `--lobsters-keep N` | 30% of `--keep` | Slots reserved for Lobsters |
+| `--no-translate` | — | Skip Burmese translation |
+| `--dry-run` | — | Print to stdout, don't write files |
 
-<!-- Replace with actual screenshots after GitHub Pages is live -->
-Screenshots will be added in `screenshots/` once the Pages site is deployed.
+### Error handling
 
-## GitHub Pages
+| Scenario | Behavior |
+|---|---|
+| HN API unreachable | Logs error, exits with code 1 |
+| Lobsters unreachable | Non-fatal — falls back to HN-only digest |
+| Single story fetch fails | Skips that story, continues |
+| Translation call fails | Falls back to original English text |
+| Fewer than 3 stories pass | Logs a warning, still saves |
 
-The project deploys a static page via GitHub Actions. The workflow:
-1. Runs daily at 9 AM ICT (cron)
-2. Generates the digest (English + Burmese)
-3. Copies both to `docs/digest-latest.md` / `.my.md` and archives them under `docs/archive/`
-4. Prunes the archive to the last 30 days and rebuilds `docs/archive/index.json`
-5. Commits, pushes, and deploys to Pages
+---
 
-The site itself (`docs/index.html`) has:
-- A **language toggle** (EN/MY) that translates the digest content only, not the site UI
-- An **archive picker** for browsing the last 30 days of digests
-- A dark/light theme toggle
+## Screenshot
 
-GitHub Pages serves from the `docs/` folder on `main`.
+![Daily Tech Digest — desktop view](screenshots/desktop-1280x800.png)
+*Desktop (1280×800) — sidebar with filter stats, hero featured story, 2-column grid.*
 
-## Claude Code setup
+<div align="center">
+  <img src="screenshots/mobile-390x844.png" alt="Mobile view" width="280">
+</div>
 
-This project is built to be driven from Claude Code, using:
+---
 
-- **MCP — `filesystem`** (`@modelcontextprotocol/server-filesystem`, scoped to the
-  project root): lets Claude read and write project files. Configured in `.mcp.json`.
-- **Skill — `digest-format`** (`.claude/skills/digest-format/SKILL.md`): defines the
-  digest's structure, tone, file naming, source tags, and Burmese translation rules.
-- **Agent — `content-filter`** (`.claude/agents/content-filter.md`): the two-source
-  filtering rules (story type, prefix and score thresholds, per-source reserved
-  slots) that `generate.js` implements.
+## How it works
+
+```
+HN Firebase API ──┐
+                   ├── fetch ──▶ filter ──▶ merge ──▶ format ──▶ translate ──▶ write
+Lobsters JSON ────┘
+```
+
+1. **Fetch** — Pulls top 30 HN story IDs + Lobsters hottest list concurrently
+2. **Normalize** — Maps each source onto a common `{source, title, url, score, by, ...}` shape
+3. **Filter** — Drops non-story types, Ask/Tell/Show-without-URL, low-score (HN ≥ 50, Lobsters ≥ 15), no-URL items
+4. **Merge** — Reserves 7 HN + 3 Lobsters slots (instead of a global sort that would starve Lobsters)
+5. **Format** — Builds markdown with source tags, metadata, contextual summaries, and per-source Discuss links
+6. **Translate** — Calls MyMemory API for each title + summary (fail-soft: keeps English on error)
+7. **Output** — Writes English `.md`, Burmese `.my.md`, and structured `.json` for the web UI
+
+## Output sample
+
+```markdown
+# 🗞️ Daily Tech Digest — 2026-07-25
+
+> Top 10 stories from Hacker News & Lobsters · Generated 09:00 ICT
+
+---
+
+1. Claude Opus 5
+
+🔶 Hacker News · ⬆️ 1533 points · 💬 866 comments · 👤 alvis
+
+A link to anthropic.com titled "Claude Opus 5", one of the highest-scoring
+stories on the front page, with an active discussion thread.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=49038433) · [Source](https://www.anthropic.com/news/claude-opus-5)
+```
+
+## Web UI
+
+The live site at **[milefisher.github.io/daily-tech-digest/](https://milefisher.github.io/daily-tech-digest/)** is a single-page static app:
+
+- **Header** — site title, system status badge (LIVE / GENERATED), EN/MY segmented toggle, dark mode button
+- **Sidebar** (desktop) — per-source slot breakdown with progress bars, archive browser, translator card
+- **Hero story** — featured top story with serif typography, source badge, score, Read Source / View Thread links
+- **Story grid** — 2-column layout (desktop) / 1-column (mobile) with rank badges, bilingual titles, author, DISCUSS links
+- **Footer** — engine/runtime/data tags, build version, timestamp
+
+The page renders from a JSON API (`digest-latest.json`) generated alongside the markdown files. No database, no server — flat files served by GitHub Pages.
+
+## GitHub Actions
+
+The workflow (`.github/workflows/daily-digest.yml`):
+1. Runs on schedule at **02:00 UTC (09:00 ICT)** or manually via `workflow_dispatch`
+2. Executes `node generate.js` (produces `.md`, `.my.md`, `.json`)
+3. Syncs files to `docs/` and `docs/archive/`
+4. Prunes archive to last 30 days, rebuilds `archive/index.json`
+5. Commits, pushes, deploys to Pages
+
+## Claude Code integration
+
+This project is designed to pair with Claude Code:
+
+- **MCP** — `@modelcontextprotocol/server-filesystem` (scoped to project root) for file read/write
+- **Skill** — `.claude/skills/digest-format/SKILL.md` defines output format and tone
+- **Agent** — `.claude/agents/content-filter.md` specifies the two-source filtering rules
+
+## Project structure
+
+```
+.github/workflows/daily-digest.yml   # CI/CD pipeline
+docs/
+  index.html                          # Web UI (single-page app)
+  digest-latest.md / .my.md / .json   # Latest digest (generated)
+  archive/                            # 30-day rolling archive (generated)
+generate.js                           # Main pipeline script
+scripts/
+  smoke-test.mjs                      # Playwright UI smoke test
+  prune-archive.js                    # Archive maintenance
+.output/                              # Generated markdown + JSON
+```
+
+## Test
+
+```bash
+node scripts/smoke-test.mjs
+```
+
+Runs Playwright against the live site at 3 viewports (desktop / tablet / mobile),
+checking for console errors, story rendering, language toggle, theme toggle,
+sidebar visibility, and error states.
 
 ## License
 
