@@ -315,7 +315,8 @@ function formatStory(story, rank, translatedTitle = null, translatedSummary = nu
   lines.push(translatedSummary || summarize(story));
   lines.push('');
 
-  const discussionLink = `[Discuss](${story.permalink})`;
+  const sourceName = story.source === 'lobsters' ? 'Lobsters' : 'HN';
+  const discussionLink = `[Discuss on ${sourceName}](${story.permalink})`;
   if (story.url) {
     lines.push(`${discussionLink} · [Source](${story.url})`);
   } else {
