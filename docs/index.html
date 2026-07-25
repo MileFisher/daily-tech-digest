@@ -6,229 +6,710 @@
   <title>Daily Tech Digest</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
   <style>
+    /* ── Light theme (default) ────────────────────────────────────────── */
     :root {
-      --bg: #f8f9fa;
-      --fg: #1e1e2e;
-      --muted: #6b7280;
-      --border: #d1d5db;
+      --bg: #fdfdfd;
+      --fg: #1a1a1a;
+      --border: #e4e4e7;
       --card-bg: #ffffff;
+      --sidebar-bg: #fafafa;
+      --muted: #a1a1aa;
+      --muted-fg: #71717a;
       --accent: #ea580c;
+      --accent-hover: #c2410c;
       --accent-subtle: #fff7ed;
+      --hn-bg: #ea580c;
+      --lobsters-bg: #991b1b;
       --link: #2563eb;
       --link-hover: #1d4ed8;
-      --code-bg: #f3f4f6;
-      --story-sep: #e5e7eb;
+      --pill-bg: #f4f4f5;
+      --pill-active: #ffffff;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.04);
+      --hero-rule: #e4e4e7;
+      --tag-bg: #f4f4f5;
+      --tag-fg: #52525b;
     }
 
+    /* ── Dark theme ───────────────────────────────────────────────────── */
     [data-theme="dark"] {
       --bg: #0d1117;
       --fg: #e6edf3;
-      --muted: #8b949e;
       --border: #30363d;
       --card-bg: #161b22;
+      --sidebar-bg: #0d1117;
+      --muted: #484f58;
+      --muted-fg: #8b949e;
       --accent: #f97316;
+      --accent-hover: #fb923c;
       --accent-subtle: #1c1400;
+      --hn-bg: #ea580c;
+      --lobsters-bg: #b91c1c;
       --link: #58a6ff;
       --link-hover: #79c0ff;
-      --code-bg: #1c2028;
-      --story-sep: #30363d;
+      --pill-bg: #21262d;
+      --pill-active: #30363d;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      --hero-rule: #21262d;
+      --tag-bg: #161b22;
+      --tag-fg: #8b949e;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
+    html, body { height: 100%; }
+
     body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       background: var(--bg);
       color: var(--fg);
-      line-height: 1.7;
+      line-height: 1.6;
       text-align: left;
       transition: background 0.2s, color 0.2s;
+      display: flex;
+      flex-direction: column;
     }
 
-    .container {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 2rem 1.5rem 4rem;
-    }
-
-    /* Header bar */
+    /* ── Header ───────────────────────────────────────────────────────── */
     .header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 2rem;
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--card-bg);
+      flex-shrink: 0;
+      gap: 1rem;
     }
 
-    .header h1 {
-      font-size: 1.5rem;
-      font-weight: 700;
-      color: var(--accent);
-    }
-
-    .controls {
+    .header-left {
       display: flex;
       align-items: center;
-      gap: 0.5rem;
+      gap: 1rem;
+    }
+
+    .logo-mark {
+      display: none;
+      font-size: 1.125rem;
+      font-weight: 900;
+      letter-spacing: -0.05em;
+      text-transform: uppercase;
+      border: 2px solid var(--fg);
+      padding: 0.125rem 0.375rem;
+      line-height: 1.2;
+    }
+
+    @media (min-width: 640px) {
+      .logo-mark { display: block; }
+    }
+
+    .header-title h1 {
+      font-size: 1.125rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      line-height: 1.2;
+    }
+
+    .header-title .subtitle {
+      font-size: 0.625rem;
+      font-weight: 500;
+      color: var(--muted-fg);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
       flex-shrink: 0;
     }
 
-    .theme-toggle,
-    .lang-toggle,
-    .archive-select {
-      background: var(--card-bg);
+    .status-badge {
+      display: none;
+      flex-direction: column;
+      align-items: flex-end;
+    }
+
+    @media (min-width: 640px) {
+      .status-badge { display: flex; }
+    }
+
+    .status-badge .label {
+      font-size: 0.625rem;
+      font-weight: 700;
+      color: var(--muted-fg);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .status-badge .value {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #16a34a;
+    }
+
+    .status-badge .value .dot {
+      width: 0.5rem;
+      height: 0.5rem;
+      border-radius: 50%;
+      background: #16a34a;
+    }
+
+    .status-badge .value.fetching {
+      color: var(--muted-fg);
+    }
+    .status-badge .value.fetching .dot {
+      background: var(--muted);
+    }
+
+    /* ── Lang pill toggle ─────────────────────────────────────────────── */
+    .lang-pill {
+      display: flex;
+      background: var(--pill-bg);
+      border-radius: 9999px;
+      padding: 0.2rem;
+    }
+
+    .lang-pill button {
+      padding: 0.3rem 0.75rem;
+      font-size: 0.75rem;
+      font-weight: 700;
+      border: none;
+      border-radius: 9999px;
+      cursor: pointer;
+      background: transparent;
+      color: var(--muted-fg);
+      font-family: inherit;
+      transition: background 0.15s, color 0.15s, box-shadow 0.15s;
+    }
+
+    .lang-pill button.active {
+      background: var(--pill-active);
+      color: var(--fg);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .lang-pill button:hover:not(.active) {
+      color: var(--fg);
+    }
+
+    .theme-btn {
+      background: none;
       border: 1px solid var(--border);
       border-radius: 8px;
-      padding: 0.4rem 0.75rem;
+      padding: 0.35rem 0.55rem;
       cursor: pointer;
-      font-size: 0.9rem;
-      color: var(--fg);
-      transition: border-color 0.2s, box-shadow 0.2s;
-      font-family: inherit;
+      font-size: 1rem;
+      line-height: 1;
+      transition: border-color 0.2s;
     }
 
-    .theme-toggle {
-      font-size: 1.1rem;
-    }
-
-    .theme-toggle:hover,
-    .lang-toggle:hover,
-    .archive-select:hover {
+    .theme-btn:hover {
       border-color: var(--accent);
-      box-shadow: 0 0 0 2px var(--accent-subtle);
     }
 
-    .archive-select {
-      max-width: 9rem;
+    /* ── Layout: sidebar + main ───────────────────────────────────────── */
+    .layout {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
     }
 
-    /* Digest content rendered from markdown */
-    .digest {
+    /* ── Sidebar ──────────────────────────────────────────────────────── */
+    .sidebar {
+      display: none;
+      width: 16rem;
+      flex-shrink: 0;
+      border-right: 1px solid var(--border);
+      background: var(--sidebar-bg);
+      padding: 1.5rem;
+      overflow-y: auto;
+      flex-direction: column;
+    }
+
+    @media (min-width: 768px) {
+      .sidebar { display: flex; }
+    }
+
+    .sidebar-section {
+      margin-bottom: 2rem;
+    }
+
+    .sidebar-section h3 {
+      font-size: 0.625rem;
+      font-weight: 800;
+      color: var(--muted-fg);
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      margin-bottom: 0.75rem;
+    }
+
+    .filter-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .filter-row .name {
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--muted-fg);
+    }
+
+    .filter-row .count {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .filter-row .count.lobsters {
+      color: var(--lobsters-bg);
+    }
+
+    .progress-bar {
+      height: 0.375rem;
+      width: 100%;
+      background: var(--border);
+      border-radius: 9999px;
+      overflow: hidden;
+      margin-bottom: 0.75rem;
+    }
+
+    .progress-bar .fill {
+      height: 100%;
+      border-radius: 9999px;
+      transition: width 0.4s ease;
+    }
+
+    .progress-bar .fill.hn { background: var(--hn-bg); }
+    .progress-bar .fill.lobsters { background: var(--lobsters-bg); }
+
+    .sidebar-footnote {
+      font-size: 0.625rem;
+      font-style: italic;
+      color: var(--muted-fg);
+      margin-top: 0.25rem;
+    }
+
+    /* -- Archive list in sidebar -- */
+    .archive-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .archive-item {
+      display: flex;
+      align-items: center;
+      gap: 0.625rem;
+      padding: 0.5rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--muted-fg);
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .archive-item:hover {
+      background: var(--card-bg);
+      color: var(--fg);
+    }
+
+    .archive-item.active {
       background: var(--card-bg);
       border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 2.25rem;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      color: var(--fg);
     }
 
-    .digest h1 {
-      font-size: 1.75rem;
+    .archive-item .dot {
+      width: 0.375rem;
+      height: 0.375rem;
+      border-radius: 50%;
+      background: var(--accent);
+      flex-shrink: 0;
+    }
+
+    .archive-item.active .dot {
+      background: var(--accent);
+    }
+
+    /* -- Translator card -- */
+    .translator-card {
+      margin-top: auto;
+      padding: 1rem;
+      background: #18181b;
+      color: #fff;
+      border-radius: 1rem;
+    }
+
+    [data-theme="dark"] .translator-card {
+      background: #1c2028;
+      border: 1px solid var(--border);
+    }
+
+    .translator-card .label {
+      font-size: 0.625rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #a1a1aa;
+      margin-bottom: 0.25rem;
+    }
+
+    .translator-card .name {
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #e4e4e7;
+    }
+
+    .translator-card .badge {
+      display: inline-block;
+      margin-top: 0.5rem;
+      padding: 0.2rem 0.5rem;
+      background: #27272a;
+      border-radius: 4px;
+      font-size: 0.5625rem;
       font-weight: 700;
+      text-transform: uppercase;
+      color: #a1a1aa;
+    }
+
+    /* ── Main content area ────────────────────────────────────────────── */
+    .main {
+      flex: 1;
+      background: var(--card-bg);
+      padding: 1.5rem;
+      overflow-y: auto;
+    }
+
+    @media (min-width: 768px) {
+      .main { padding: 2.5rem; }
+    }
+
+    /* ── Loading / Error ──────────────────────────────────────────────── */
+    .status {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 20rem;
+      color: var(--muted-fg);
+    }
+
+    .status .spinner {
+      width: 2rem;
+      height: 2rem;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 1rem;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .status p {
+      font-family: 'Inter', monospace;
+      font-size: 0.625rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-weight: 700;
+    }
+
+    .status.error p {
+      color: #ef4444;
+    }
+
+    /* ── Featured hero story ──────────────────────────────────────────── */
+    .hero {
+      margin-bottom: 2.5rem;
+    }
+
+    .hero-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
       margin-bottom: 0.75rem;
-      border-bottom: 2px solid var(--accent);
-      padding-bottom: 0.75rem;
-      line-height: 1.3;
     }
 
-    .digest h2 {
-      font-size: 1.35rem;
-      font-weight: 600;
-      margin-top: 2rem;
-      margin-bottom: 0.5rem;
-      line-height: 1.35;
-    }
-
-    .digest h3 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      margin-top: 1.5rem;
-      margin-bottom: 0.5rem;
-      line-height: 1.4;
-    }
-
-    .digest blockquote {
-      color: var(--muted);
-      border-left: 3px solid var(--accent);
-      padding-left: 1rem;
-      margin: 1rem 0;
+    .source-badge {
+      font-size: 0.5625rem;
+      font-weight: 800;
+      color: #fff;
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
       font-style: italic;
     }
 
-    /* Story separator — the horizontal rule between entries */
-    .digest hr {
-      border: none;
-      border-top: 1px solid var(--story-sep);
-      margin: 1.75rem 0;
+    .source-badge.hn { background: var(--hn-bg); }
+    .source-badge.lobsters { background: var(--lobsters-bg); }
+
+    .hero-score {
+      font-size: 0.625rem;
+      font-weight: 700;
+      color: var(--muted-fg);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
     }
 
-    /* Each story is a <p> group separated by <hr> — give them breathing room */
-    .digest p {
-      margin: 0.5rem 0;
-      line-height: 1.75;
+    .hero-rule {
+      flex: 1;
+      height: 1px;
+      background: var(--hero-rule);
     }
 
-    /* Story numbered rank (first <p> after <hr> or at start) */
-    .digest hr + p {
-      margin-top: 0;
+    .hero h2 {
+      font-family: 'PT Serif', Georgia, serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: 0.5rem;
     }
 
-    .digest a {
-      color: var(--link);
+    @media (min-width: 768px) {
+      .hero h2 { font-size: 1.875rem; }
+    }
+
+    .hero h2 a {
+      color: var(--fg);
       text-decoration: none;
       transition: color 0.15s;
     }
 
-    .digest a:hover {
-      color: var(--link-hover);
-      text-decoration: underline;
+    .hero h2 a:hover {
+      color: var(--accent);
     }
 
-    .digest strong {
-      font-weight: 600;
-    }
-
-    .digest em {
-      color: var(--muted);
-      font-style: normal;
-    }
-
-    .digest ol, .digest ul {
-      padding-left: 1.5rem;
-      margin: 0.75rem 0;
-    }
-
-    .digest li {
-      margin: 0.35rem 0;
-      line-height: 1.6;
-    }
-
-    .digest code {
-      background: var(--code-bg);
-      padding: 0.2rem 0.45rem;
-      border-radius: 4px;
-      font-size: 0.875em;
-    }
-
-    /* Source icon + metadata line */
-    .digest p:has(> strong:only-child) {
-      margin: 0.35rem 0;
-    }
-
-    /* Loading / error states */
-    .status {
-      text-align: center;
-      padding: 3.5rem 1rem;
-      color: var(--muted);
-    }
-
-    .status .icon {
-      font-size: 2.25rem;
+    .hero .title-my {
+      font-family: 'PT Serif', Georgia, serif;
+      font-style: italic;
+      font-size: 1rem;
+      color: var(--muted-fg);
       margin-bottom: 0.75rem;
     }
 
-    .status.error {
-      color: #ef4444;
+    @media (min-width: 768px) {
+      .hero .title-my { font-size: 1.125rem; }
     }
 
-    /* Footer */
-    .footer {
-      text-align: center;
-      margin-top: 2.25rem;
+    .hero-actions {
+      display: flex;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .hero-actions a {
+      font-size: 0.625rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      text-decoration: none;
+      padding-bottom: 0.125rem;
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .hero-actions .source-link {
+      color: var(--fg);
+      border-bottom-color: var(--fg);
+    }
+
+    .hero-actions .source-link:hover {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    .hero-actions .discuss-link {
+      color: var(--muted-fg);
+    }
+
+    .hero-actions .discuss-link:hover {
+      color: var(--fg);
+    }
+
+    /* ── Story grid ───────────────────────────────────────────────────── */
+    .story-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem 3rem;
+    }
+
+    @media (min-width: 768px) {
+      .story-grid { grid-template-columns: 1fr 1fr; }
+    }
+
+    .story-card {
+      border-top: 1px solid var(--hero-rule);
+      padding-top: 1rem;
+    }
+
+    .story-card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .story-card-header .rank {
+      font-size: 0.5625rem;
+      font-weight: 800;
+      color: #fff;
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+      font-style: italic;
+    }
+
+    .story-card-header .rank.hn { background: var(--hn-bg); }
+    .story-card-header .rank.lobsters { background: var(--lobsters-bg); }
+
+    .story-card-header .pts {
+      font-size: 0.5625rem;
+      font-weight: 700;
+      color: var(--muted-fg);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-left: auto;
+    }
+
+    .story-card h3 {
+      font-size: 0.875rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 0.25rem;
+    }
+
+    @media (min-width: 768px) {
+      .story-card h3 { font-size: 1rem; }
+    }
+
+    .story-card h3 a {
+      color: var(--fg);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .story-card h3 a:hover {
+      color: var(--accent);
+    }
+
+    .story-card .title-my {
+      font-style: italic;
+      font-size: 0.75rem;
+      color: var(--muted-fg);
+      margin-bottom: 0.25rem;
+    }
+
+    .story-card-footer {
+      display: flex;
+      gap: 0.75rem;
+      margin-top: 0.5rem;
+      align-items: center;
+    }
+
+    .story-card-footer .author {
+      font-size: 0.5625rem;
+      font-weight: 700;
       color: var(--muted);
-      font-size: 0.85rem;
-      line-height: 1.6;
+      text-transform: uppercase;
+      max-width: 7rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .story-card-footer .discuss {
+      font-size: 0.5625rem;
+      font-weight: 700;
+      text-decoration: underline;
+      color: var(--muted-fg);
+      text-transform: uppercase;
+    }
+
+    .story-card-footer .discuss:hover {
+      color: var(--fg);
+    }
+
+    /* ── Archive select (mobile) ──────────────────────────────────────── */
+    .archive-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    @media (min-width: 768px) {
+      .archive-bar { display: none; }
+    }
+
+    .archive-bar select {
+      flex: 1;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.4rem 0.75rem;
+      font-size: 0.8rem;
+      color: var(--fg);
+      font-family: inherit;
+    }
+
+    /* ── Footer ───────────────────────────────────────────────────────── */
+    .footer {
+      padding: 0.75rem 1.5rem;
+      border-top: 1px solid var(--border);
+      background: var(--sidebar-bg);
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.625rem;
+      color: var(--muted-fg);
+    }
+
+    @media (min-width: 640px) {
+      .footer {
+        flex-direction: row;
+        justify-content: space-between;
+      }
+    }
+
+    .footer-tags {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .footer-tags .tag {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .footer-tags .tag .tag-label {
+      font-weight: 800;
+      text-transform: uppercase;
+      color: var(--muted-fg);
+    }
+
+    .footer-tags .tag .tag-value {
+      font-family: 'Inter', monospace;
+      font-weight: 700;
+      color: var(--muted-fg);
+    }
+
+    .footer-version {
+      font-family: 'Inter', monospace;
     }
 
     .footer a {
@@ -239,140 +720,332 @@
     .footer a:hover {
       text-decoration: underline;
     }
-
-    /* Mobile */
-    @media (max-width: 640px) {
-      .container { padding: 1rem 1rem 3rem; }
-      .header { flex-wrap: wrap; gap: 0.75rem; }
-      .header h1 { font-size: 1.25rem; }
-      .digest { padding: 1.25rem; border-radius: 10px; }
-      .digest h1 { font-size: 1.4rem; }
-      .digest hr { margin: 1.25rem 0; }
-    }
   </style>
 </head>
 <body>
-  <div class="container">
-    <div class="header">
-      <h1 id="siteTitle">🗞️ Daily Tech Digest</h1>
-      <div class="controls">
-        <select class="archive-select" id="archiveSelect" onchange="onArchiveChange()" aria-label="Choose a date">
-          <option value="latest">Latest</option>
+  <!-- ═══ HEADER ═══ -->
+  <header class="header">
+    <div class="header-left">
+      <div class="logo-mark">T-D</div>
+      <div class="header-title">
+        <h1 id="siteTitle">Daily Tech Digest</h1>
+        <p class="subtitle" id="siteSubtitle">Bilingual News Aggregation</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="status-badge">
+        <span class="label">System Status</span>
+        <span class="value" id="statusValue">
+          <span class="dot"></span> LIVE / GENERATED
+        </span>
+      </div>
+      <div class="lang-pill" id="langPill">
+        <button onclick="setLanguage('en')" class="active" id="langEn">EN</button>
+        <button onclick="setLanguage('my')" id="langMy">MY (မြန်မာ)</button>
+      </div>
+      <button class="theme-btn" onclick="toggleTheme()" id="themeBtn" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </header>
+
+  <!-- ═══ LAYOUT ═══ -->
+  <div class="layout">
+    <!-- Sidebar (desktop) -->
+    <aside class="sidebar" id="sidebar">
+      <!-- Filter stats -->
+      <div class="sidebar-section" id="filterStats">
+        <h3>Current Filter</h3>
+        <div class="filter-row">
+          <span class="name">Hacker News</span>
+          <span class="count" id="hnCount">7 Slots</span>
+        </div>
+        <div class="progress-bar">
+          <div class="fill hn" id="hnBar" style="width:70%"></div>
+        </div>
+        <div class="filter-row">
+          <span class="name">Lobste.rs</span>
+          <span class="count lobsters" id="lobstersCount">3 Slots</span>
+        </div>
+        <div class="progress-bar">
+          <div class="fill lobsters" id="lobstersBar" style="width:30%"></div>
+        </div>
+        <p class="sidebar-footnote" id="filterFootnote">From raw story IDs analyzed today.</p>
+      </div>
+
+      <!-- Archive -->
+      <div class="sidebar-section" style="flex:1">
+        <h3>Last 30 Days</h3>
+        <nav class="archive-list" id="archiveList">
+          <!-- populated by JS -->
+        </nav>
+      </div>
+
+      <!-- Translator card -->
+      <div class="translator-card">
+        <p class="label">Translator</p>
+        <p class="name">MyMemory API (Free Tier)</p>
+        <span class="badge">Active</span>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="main">
+      <!-- Archive select (mobile) -->
+      <div class="archive-bar">
+        <select id="archiveSelectMobile" onchange="onArchiveChange()" aria-label="Choose a date">
+          <option value="latest">Latest Digest</option>
         </select>
-        <button class="lang-toggle" onclick="toggleLanguage()" id="langToggle" aria-label="Switch language">MY</button>
-        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌙</button>
       </div>
-    </div>
 
-    <div class="digest" id="content">
-      <div class="status">
-        <div class="icon">⏳</div>
-        <p>Loading latest digest...</p>
+      <div id="content">
+        <div class="status">
+          <div class="spinner"></div>
+          <p>Aggregating sources...</p>
+        </div>
       </div>
-    </div>
-
-    <div class="footer">
-      <p>Built with <a href="https://github.com/MileFisher/daily-tech-digest">daily-tech-digest</a> · Powered by <a href="https://news.ycombinator.com">Hacker News</a> &amp; <a href="https://lobste.rs">Lobsters</a></p>
-    </div>
+    </main>
   </div>
 
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="footer">
+    <div class="footer-tags">
+      <span class="tag">
+        <span class="tag-label">Engine</span>
+        <span class="tag-value">Node.js</span>
+      </span>
+      <span class="tag">
+        <span class="tag-label">Runtime</span>
+        <span class="tag-value">Fetch + marked</span>
+      </span>
+      <span class="tag">
+        <span class="tag-label">Data</span>
+        <span class="tag-value"><a href="https://news.ycombinator.com">HN</a> &amp; <a href="https://lobste.rs">Lobsters</a></span>
+      </span>
+    </div>
+    <div class="footer-version" id="footerVersion">daily-tech-digest · MileFisher</div>
+  </footer>
+
   <script>
-    // Theme toggle
+    // ═══ THEME ═══════════════════════════════════════════════════════════
     function toggleTheme() {
-      const body = document.documentElement;
-      const isDark = body.getAttribute('data-theme') === 'dark';
-      body.setAttribute('data-theme', isDark ? '' : 'dark');
+      const root = document.documentElement;
+      const isDark = root.getAttribute('data-theme') === 'dark';
+      root.setAttribute('data-theme', isDark ? '' : 'dark');
       localStorage.setItem('theme', isDark ? 'light' : 'dark');
-      document.querySelector('.theme-toggle').textContent = isDark ? '🌙' : '☀️';
+      document.getElementById('themeBtn').textContent = isDark ? '🌙' : '☀️';
     }
 
-    // Restore saved theme
-    (function() {
+    (function restoreTheme() {
       const saved = localStorage.getItem('theme');
       if (saved === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
-        document.querySelector('.theme-toggle').textContent = '☀️';
+        document.getElementById('themeBtn').textContent = '☀️';
       }
     })();
 
-    // --- language state (content translation only, not UI chrome) ---------
+    // ═══ LANGUAGE ════════════════════════════════════════════════════════
     let currentLang = localStorage.getItem('lang') || 'en';
 
-    function updateLangUI() {
-      const btn = document.getElementById('langToggle');
+    function setLanguage(lang) {
+      currentLang = lang;
+      localStorage.setItem('lang', lang);
+      document.getElementById('langEn').className = lang === 'en' ? 'active' : '';
+      document.getElementById('langMy').className = lang === 'my' ? 'active' : '';
       const title = document.getElementById('siteTitle');
-      if (currentLang === 'my') {
-        btn.textContent = 'EN';
-        title.textContent = '🗞️ နေ့စဉ် နည်းပညာသတင်းများ';
+      const subtitle = document.getElementById('siteSubtitle');
+      if (lang === 'my') {
+        title.textContent = 'နေ့စဉ် နည်းပညာသတင်းများ';
+        subtitle.textContent = 'Bilingual News Aggregation';
       } else {
-        btn.textContent = 'MY';
-        title.textContent = '🗞️ Daily Tech Digest';
+        title.textContent = 'Daily Tech Digest';
+        subtitle.textContent = 'Bilingual News Aggregation';
       }
+      renderDigest();
     }
 
-    function toggleLanguage() {
-      currentLang = currentLang === 'my' ? 'en' : 'my';
-      localStorage.setItem('lang', currentLang);
-      updateLangUI();
-      loadDigest();
-    }
+    // ═══ STATE ═══════════════════════════════════════════════════════════
+    let currentDate = 'latest';
+    let digestData = null;    // parsed JSON
+    let archiveDates = [];    // from index.json
 
-    // --- archive state -------------------------------------------------------
-    let currentDate = 'latest'; // 'latest' or 'YYYY-MM-DD'
-
+    // ═══ ARCHIVE ═════════════════════════════════════════════════════════
     async function loadArchiveList() {
-      const select = document.getElementById('archiveSelect');
       try {
         const res = await fetch('archive/index.json');
-        if (!res.ok) return; // no archive yet — keep just "Latest"
+        if (!res.ok) return;
         const entries = await res.json();
+        archiveDates = entries.map(e => e.date);
+
+        // Populate sidebar
+        const sidebarList = document.getElementById('archiveList');
+        sidebarList.innerHTML = '';
+        const latestItem = document.createElement('div');
+        latestItem.className = 'archive-item active';
+        latestItem.innerHTML = '<span class="dot"></span> Latest Digest';
+        latestItem.onclick = () => selectArchive('latest');
+        sidebarList.appendChild(latestItem);
+
+        for (const entry of entries) {
+          const item = document.createElement('div');
+          item.className = 'archive-item';
+          item.innerHTML = `<span class="dot"></span> ${entry.date}`;
+          item.dataset.date = entry.date;
+          item.onclick = () => selectArchive(entry.date);
+          sidebarList.appendChild(item);
+        }
+
+        // Populate mobile select
+        const select = document.getElementById('archiveSelectMobile');
         for (const entry of entries) {
           const opt = document.createElement('option');
           opt.value = entry.date;
           opt.textContent = entry.date;
           select.appendChild(opt);
         }
-      } catch {
-        // Archive not available yet — "Latest" remains the only option.
+      } catch { /* no archive yet */ }
+    }
+
+    function selectArchive(date) {
+      currentDate = date;
+      // Update sidebar active state
+      document.querySelectorAll('.archive-item').forEach(el => el.classList.remove('active'));
+      if (date === 'latest') {
+        document.querySelector('.archive-item:first-child')?.classList.add('active');
+      } else {
+        document.querySelector(`.archive-item[data-date="${date}"]`)?.classList.add('active');
       }
+      // Update mobile select
+      document.getElementById('archiveSelectMobile').value = date;
+      renderDigest();
     }
 
     function onArchiveChange() {
-      currentDate = document.getElementById('archiveSelect').value;
-      loadDigest();
+      const date = document.getElementById('archiveSelectMobile').value;
+      selectArchive(date);
     }
 
-    // --- digest fetch/render ---------------------------------------------------
-    function digestPath() {
-      const suffix = currentLang === 'my' ? '.my.md' : '.md';
-      if (currentDate === 'latest') {
-        return `digest-latest${suffix}`;
-      }
-      return `archive/${currentDate}${suffix}`;
+    // ═══ FETCH + RENDER ═════════════════════════════════════════════════
+    function jsonPath() {
+      if (currentDate === 'latest') return 'digest-latest.json';
+      return `archive/${currentDate}.json`;
     }
 
-    async function loadDigest() {
+    async function renderDigest() {
       const el = document.getElementById('content');
-      el.innerHTML = `<div class="status"><div class="icon">⏳</div><p>Loading...</p></div>`;
+      el.innerHTML = `<div class="status"><div class="spinner"></div><p>Aggregating sources...</p></div>`;
+
+      // Update status badge
+      const statusVal = document.querySelector('.status-badge .value');
+      statusVal.className = 'value fetching';
+      statusVal.innerHTML = '<span class="dot"></span> LIVE / FETCHING';
+
       try {
-        const res = await fetch(digestPath());
+        const res = await fetch(jsonPath());
         if (!res.ok) throw new Error(`No digest found (${res.status})`);
-        const md = await res.text();
-        el.innerHTML = marked.parse(md);
+        digestData = await res.json();
+        el.innerHTML = buildHTML(digestData);
+        updateSidebarStats(digestData);
+
+        // Update status badge
+        statusVal.className = 'value';
+        statusVal.innerHTML = '<span class="dot"></span> LIVE / GENERATED';
       } catch (err) {
         el.innerHTML = `
           <div class="status error">
-            <div class="icon">📭</div>
             <p>${err.message}</p>
-            <p style="margin-top:0.5rem;font-size:0.85rem">Run <code>node generate.js</code> to create today's digest.</p>
+            <p style="margin-top:0.5rem;color:var(--muted-fg);font-weight:400;text-transform:none;letter-spacing:0;font-size:0.75rem">
+              Run <code style="background:var(--tag-bg);padding:0.1rem 0.3rem;border-radius:3px">node generate.js</code> to create today's digest.
+            </p>
           </div>
         `;
+        statusVal.className = 'value';
+        statusVal.innerHTML = '<span class="dot" style="background:#ef4444"></span> ERROR';
       }
     }
 
-    updateLangUI();
+    function updateSidebarStats(data) {
+      const items = data.items || [];
+      const hnItems = items.filter(s => s.sourceIcon === 'hn').length;
+      const lobstersItems = items.filter(s => s.sourceIcon === 'lobsters').length;
+      const total = items.length;
+
+      document.getElementById('hnCount').textContent = `${hnItems} Slots`;
+      document.getElementById('lobstersCount').textContent = `${lobstersItems} Slots`;
+      document.getElementById('hnBar').style.width = total ? `${(hnItems / total) * 100}%` : '0%';
+      document.getElementById('lobstersBar').style.width = total ? `${(lobstersItems / total) * 100}%` : '0%';
+      document.getElementById('filterFootnote').textContent = `* ${total} stories curated today.`;
+    }
+
+    function buildHTML(data) {
+      const items = data.items || [];
+      if (!items.length) {
+        return '<div class="status error"><p>No stories available.</p></div>';
+      }
+
+      const top = items[0];
+      const rest = items.slice(1);
+
+      return `
+        <!-- Featured story -->
+        <section class="hero">
+          <div class="hero-meta">
+            <span class="source-badge ${top.sourceIcon}">${top.source} #1</span>
+            <span class="hero-score">${fmtScore(top.score)} · ${top.comments} COMM</span>
+            <span class="hero-rule"></span>
+          </div>
+          <h2><a href="${escapeAttr(top.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(top.title.en)}</a></h2>
+          ${currentLang === 'en' && top.title.my && top.title.my !== top.title.en
+            ? `<p class="title-my">${escapeHtml(top.title.my)}</p>` : ''}
+          ${currentLang === 'my'
+            ? `<p class="title-my">${escapeHtml(top.title.en)}</p>` : ''}
+          <div class="hero-actions">
+            <a href="${escapeAttr(top.url)}" target="_blank" rel="noopener noreferrer" class="source-link">Read Source</a>
+            <a href="${escapeAttr(top.discussUrl)}" target="_blank" rel="noopener noreferrer" class="discuss-link">View ${top.sourceIcon === 'hn' ? 'HN' : 'Lobsters'} Thread</a>
+          </div>
+        </section>
+
+        <!-- Story grid -->
+        <div class="story-grid">
+          ${rest.map((item, i) => `
+            <div class="story-card">
+              <div class="story-card-header">
+                <span class="rank ${item.sourceIcon}">${item.sourceIcon === 'hn' ? 'HN' : 'Lobsters'} #${i + 2}</span>
+                <span class="pts">${fmtScore(item.score)} PTS</span>
+              </div>
+              <h3><a href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer">${currentLang === 'en' ? escapeHtml(item.title.en) : escapeHtml(item.title.my || item.title.en)}</a></h3>
+              ${currentLang === 'en' && item.title.my && item.title.my !== item.title.en
+                ? `<p class="title-my">${escapeHtml(item.title.my)}</p>` : ''}
+              ${currentLang === 'my'
+                ? `<p class="title-my">${escapeHtml(item.title.en)}</p>` : ''}
+              <div class="story-card-footer">
+                <span class="author">${escapeHtml(item.author)}</span>
+                <a href="${escapeAttr(item.discussUrl)}" target="_blank" rel="noopener noreferrer" class="discuss">DISCUSS (${item.comments})</a>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    // ═══ HELPERS ════════════════════════════════════════════════════════
+    function fmtScore(n) {
+      if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+      return String(n);
+    }
+
+    function escapeHtml(str) {
+      const d = document.createElement('div');
+      d.textContent = str;
+      return d.innerHTML;
+    }
+
+    function escapeAttr(str) {
+      return str.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    // ═══ INIT ═══════════════════════════════════════════════════════════
+    setLanguage(currentLang);
     loadArchiveList();
-    loadDigest();
+    renderDigest();
   </script>
 </body>
 </html>

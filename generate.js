@@ -326,6 +326,26 @@ function formatStory(story, rank, translatedTitle = null, translatedSummary = nu
   return lines.join('\n');
 }
 
+function buildJsonDigest(stories, parts, translations = null) {
+  return {
+    date: parts.date,
+    items: stories.map((s, i) => ({
+      id: String(s.permalink?.split('/').pop() || i),
+      title: {
+        en: s.title,
+        my: translations?.[i]?.title || s.title,
+      },
+      sourceIcon: s.source === 'lobsters' ? 'lobsters' : 'hn',
+      source: s.source === 'lobsters' ? 'Lobsters' : 'Hacker News',
+      score: s.score || 0,
+      comments: s.descendants || 0,
+      author: s.by || 'anonymous',
+      url: s.url || s.permalink,
+      discussUrl: s.permalink,
+    })),
+  };
+}
+
 function formatDigest(stories, parts, options = {}) {
   const { language = 'en', translations = null } = options;
 
@@ -422,8 +442,9 @@ async function main() {
   const markdownEn = formatDigest(merged, parts, { language: 'en' });
 
   let markdownMy = null;
+  let translations = null;
   if (opts.translate) {
-    const translations = await translateDigest(merged);
+    translations = await translateDigest(merged);
     markdownMy = formatDigest(merged, parts, { language: 'my', translations });
   }
 
@@ -448,6 +469,18 @@ async function main() {
     fs.writeFileSync(outPathMy, markdownMy, 'utf8');
     console.log(`✅ Burmese digest saved to ${outPathMy}`);
   }
+
+  // --- JSON output for the web UI -------------------------------------------
+  const jsonData = buildJsonDigest(merged, parts, translations);
+  const jsonStr = JSON.stringify(jsonData, null, 2);
+
+  const jsonOutPath = path.join(outDir, `digest-${parts.date}.json`);
+  fs.writeFileSync(jsonOutPath, jsonStr, 'utf8');
+  console.log(`✅ JSON digest saved to ${jsonOutPath}`);
+
+  const docsJsonPath = path.join(__dirname, 'docs', 'digest-latest.json');
+  fs.writeFileSync(docsJsonPath, jsonStr, 'utf8');
+  console.log(`✅ JSON digest synced to ${docsJsonPath}`);
 }
 
 main().catch((err) => {

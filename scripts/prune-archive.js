@@ -22,7 +22,7 @@ function main() {
 
   const toRemove = dates.slice(0, Math.max(0, dates.length - ARCHIVE_DAYS));
   for (const date of toRemove) {
-    for (const suffix of ['.md', '.my.md']) {
+    for (const suffix of ['.md', '.my.md', '.json']) {
       const filePath = path.join(archiveDir, `${date}${suffix}`);
       if (fs.existsSync(filePath)) {
         fs.unlinkSync(filePath);

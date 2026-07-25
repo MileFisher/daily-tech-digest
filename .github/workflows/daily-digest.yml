@@ -47,6 +47,12 @@ jobs:
           else
             echo "⚠️ No Burmese digest generated for ${TODAY}"
           fi
+          if [ -f "output/digest-${TODAY}.json" ]; then
+            cp "output/digest-${TODAY}.json" docs/digest-latest.json
+            cp "output/digest-${TODAY}.json" "docs/archive/${TODAY}.json"
+          else
+            echo "⚠️ No JSON digest generated for ${TODAY}"
+          fi
 
       - name: Prune archive to last 30 days and rebuild index
         run: node scripts/prune-archive.js
@@ -55,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ docs/digest-latest.md docs/digest-latest.my.md docs/archive/
+          git add output/ docs/digest-latest.md docs/digest-latest.my.md docs/digest-latest.json docs/archive/
           git diff --cached --quiet || git commit -m "chore: generate digest $(TZ=Asia/Ho_Chi_Minh date +%Y-%m-%d)"
           git push
 
