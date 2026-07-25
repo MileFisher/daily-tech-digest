@@ -1,87 +1,87 @@
 # 🗞️ Daily Tech Digest — 2026-07-25
 
-> Top 10 stories from Hacker News & Lobsters · Generated 12:16 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 17:09 ICT
 
 ---
 
 1. Claude Opus 5
 
-🔶 Hacker News · ⬆️ 1411 points · 💬 769 comments · 👤 alvis
+🔶 Hacker News · ⬆️ 1559 points · 💬 902 comments · 👤 alvis
 
 A link to anthropic.com titled "Claude Opus 5", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss](https://news.ycombinator.com/item?id=49038433) · [Source](https://www.anthropic.com/news/claude-opus-5)
+[Discuss on HN](https://news.ycombinator.com/item?id=49038433) · [Source](https://www.anthropic.com/news/claude-opus-5)
 
-2. If coding has been solved, why does software keep getting worse?
+2. India's first privately-developed rocket reaches orbit on debut launch
 
-🔶 Hacker News · ⬆️ 648 points · 💬 495 comments · 👤 pchm
-
-A link to ptrchm.com titled "If coding has been solved, why does software keep getting worse?", one of the highest-scoring stories on the front page, with an active discussion thread.
-
-[Discuss](https://news.ycombinator.com/item?id=49033004) · [Source](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
-
-3. Nvidia, Microsoft, Meta warn against overregulating open-weight models
-
-🔶 Hacker News · ⬆️ 566 points · 💬 254 comments · 👤 louiereederson
-
-A link to cnbc.com titled "Nvidia, Microsoft, Meta warn against overregulating open-weight models", one of the highest-scoring stories on the front page, drawing significant discussion.
-
-[Discuss](https://news.ycombinator.com/item?id=49035303) · [Source](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
-
-4. India's first privately-developed rocket reaches orbit on debut launch
-
-🔶 Hacker News · ⬆️ 553 points · 💬 155 comments · 👤 sohkamyung
+🔶 Hacker News · ⬆️ 615 points · 💬 175 comments · 👤 sohkamyung
 
 A link to arstechnica.com titled "India's first privately-developed rocket reaches orbit on debut launch", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss](https://news.ycombinator.com/item?id=48973835) · [Source](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+[Discuss on HN](https://news.ycombinator.com/item?id=48973835) · [Source](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 
-5. My security camera shipped a GitHub admin token in its login page
+3. Nvidia, Microsoft, Meta warn against overregulating open-weight models
 
-🔶 Hacker News · ⬆️ 544 points · 💬 185 comments · 👤 hhh
+🔶 Hacker News · ⬆️ 611 points · 💬 268 comments · 👤 louiereederson
+
+A link to cnbc.com titled "Nvidia, Microsoft, Meta warn against overregulating open-weight models", one of the highest-scoring stories on the front page, drawing significant discussion.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=49035303) · [Source](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
+
+4. My security camera shipped a GitHub admin token in its login page
+
+🔶 Hacker News · ⬆️ 596 points · 💬 191 comments · 👤 hhh
 
 A link to hhh.hn titled "My security camera shipped a GitHub admin token in its login page", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss](https://news.ycombinator.com/item?id=49034292) · [Source](https://hhh.hn/hanwha-github-token/)
+[Discuss on HN](https://news.ycombinator.com/item?id=49034292) · [Source](https://hhh.hn/hanwha-github-token/)
 
-6. Be skeptical of OpenAI's rogue hacker agent story
+5. Firefox Containers Preview
 
-🔶 Hacker News · ⬆️ 467 points · 💬 272 comments · 👤 rwmj
+🔶 Hacker News · ⬆️ 346 points · 💬 97 comments · 👤 twapi
 
-A link to theguardian.com titled "Be skeptical of OpenAI's rogue hacker agent story", a popular story on the front page, drawing significant discussion.
+A link to blog.mozilla.org titled "Firefox Containers Preview", a popular story on the front page.
 
-[Discuss](https://news.ycombinator.com/item?id=49038060) · [Source](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+[Discuss on HN](https://news.ycombinator.com/item?id=48995409) · [Source](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 
-7. Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey
+6. Postgres LISTEN/NOTIFY actually scales
 
-🔶 Hacker News · ⬆️ 423 points · 💬 305 comments · 👤 rootkea
+🔶 Hacker News · ⬆️ 309 points · 💬 59 comments · 👤 KraftyOne
 
-A link to thehindu.com titled "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey", a popular story on the front page, with an active discussion thread.
+A link to dbos.dev titled "Postgres LISTEN/NOTIFY actually scales", a popular story on the front page.
 
-[Discuss](https://news.ycombinator.com/item?id=49036433) · [Source](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+[Discuss on HN](https://news.ycombinator.com/item?id=49040296) · [Source](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+
+7. Half-Life 2 running natively on HaikuOS
+
+🔶 Hacker News · ⬆️ 305 points · 💬 56 comments · 👤 m0do1
+
+A link to discuss.haiku-os.org titled "Half-Life 2 running natively on HaikuOS", a popular story on the front page.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=49034868) · [Source](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
 
 8. Everyone Should Know SIMD
 
-🦞 Lobsters · ⬆️ 121 points · 💬 23 comments · 👤 seg6
+🦞 Lobsters · ⬆️ 125 points · 💬 24 comments · 👤 seg6
 
 A link to mitchellh.com titled "Everyone Should Know SIMD".
 
-[Discuss](https://lobste.rs/s/gpqa52) · [Source](https://mitchellh.com/writing/everyone-should-know-simd)
+[Discuss on Lobsters](https://lobste.rs/s/gpqa52) · [Source](https://mitchellh.com/writing/everyone-should-know-simd)
 
 9. Don't take the black pill
 
-🦞 Lobsters · ⬆️ 97 points · 💬 33 comments · 👤 Malp
+🦞 Lobsters · ⬆️ 112 points · 💬 40 comments · 👤 Malp
 
 A link to youtube.com titled "Don't take the black pill".
 
-[Discuss](https://lobste.rs/s/td8rne) · [Source](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+[Discuss on Lobsters](https://lobste.rs/s/td8rne) · [Source](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 
 10. Justif: Knuth-Plass justification and microtypography for the web
 
-🦞 Lobsters · ⬆️ 84 points · 💬 30 comments · 👤 lyall
+🦞 Lobsters · ⬆️ 85 points · 💬 32 comments · 👤 lyall
 
 A link to justif.lyall.co titled "Justif: Knuth-Plass justification and microtypography for the web".
 
-[Discuss](https://lobste.rs/s/p1jpv1) · [Source](https://justif.lyall.co/)
+[Discuss on Lobsters](https://lobste.rs/s/p1jpv1) · [Source](https://justif.lyall.co/)
 
-*daily-tech-digest · MileFisher · 2026-07-25T05:16:26.647Z*
+*daily-tech-digest · MileFisher · 2026-07-25T10:09:28.132Z*

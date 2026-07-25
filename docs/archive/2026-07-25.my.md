@@ -1,87 +1,87 @@
 # 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-07-25
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 12:16 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:09 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
 1. Claude Opus 5
 
-🔶 Hacker News · ⬆️ 1411 points · 💬 769 comments · 👤 alvis
+🔶 Hacker News · ⬆️ 1559 points · 💬 902 comments · 👤 alvis
 
 Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Claude Opus 5", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss](https://news.ycombinator.com/item?id=49038433) · [Source](https://www.anthropic.com/news/claude-opus-5)
+[Discuss on HN](https://news.ycombinator.com/item?id=49038433) · [Source](https://www.anthropic.com/news/claude-opus-5)
 
-2. Coding ကိုဖြေရှင်းပြီးပြီဆိုရင်ဘာလို့ software တွေကပိုဆိုးနေသေးတာလဲ ။
+2. Home သ တင်း များ ဒေ သ တွင်း အိန္ဒိယ ၏ ပထမဆုံး ဒုံးပျံ လွှတ်တင်မှု စတင်
 
-🔶 Hacker News · ⬆️ 648 points · 💬 495 comments · 👤 pchm
-
-Ptrchm.com ခေါင်းစဉ်နဲ့ link တစ်ခု "coding ပြေလည်ပြီဆိုရင်ဘာလို့ဆော့ဖ်ဝဲကိုပိုမိုဆိုးရွားလာ?", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ပုံပြင်တစ်ခုဖြစ်ပါသည်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
-
-[Discuss](https://news.ycombinator.com/item?id=49033004) · [Source](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
-
-3. Nvidia, Microsoft က, Meta ကိုပွင့်လင်း-အလေးချိန်မော်ဒယ်များ overregulating ဆန့်ကျင်သတိပေး
-
-🔶 Hacker News · ⬆️ 566 points · 💬 254 comments · 👤 louiereederson
-
-Cnbc.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Nvidia, Microsoft, Meta သည်မျက်နှာပြင်ပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သော open-weight မော်ဒယ်များကိုအလွန်အကျွံထိန်းညှိခြင်းမှသတိပေးသည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲသည် ။
-
-[Discuss](https://news.ycombinator.com/item?id=49035303) · [Source](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
-
-4. Home သ တင်း များ ဒေ သ တွင်း အိန္ဒိယ ၏ ပထမဆုံး ဒုံးပျံ လွှတ်တင်မှု စတင်
-
-🔶 Hacker News · ⬆️ 553 points · 💬 155 comments · 👤 sohkamyung
+🔶 Hacker News · ⬆️ 615 points · 💬 175 comments · 👤 sohkamyung
 
 Arstechnica.com သို့ ချိတ်ဆက်ထားသော "အိန္ဒိယ ၏ ပထမဆုံး ပုဂ္ဂလိကဖွံ့ဖြိုးပြီး ဒုံးပျံသည် ပွဲဦးထွက်လွှတ်တင်မှုတွင် ဂြိုဟ်ပတ်လမ်းကြောင်းသို့ ရောက်ရှိသွားသည်" ဟူသော ခေါင်းစဉ်ဖြင့် ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုကို ဆွဲဆောင်နေသည် ။
 
-[Discuss](https://news.ycombinator.com/item?id=48973835) · [Source](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+[Discuss on HN](https://news.ycombinator.com/item?id=48973835) · [Source](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 
-5. ကျွန်ုပ် ၏ လုံခြုံရေးကင်မရာသည် GitHub admin token ကို ၎ င်း ၏ login စာမျက်နှာတွင်တင်ပို့ခဲ့သည်
+3. Nvidia, Microsoft က, Meta ကိုပွင့်လင်း-အလေးချိန်မော်ဒယ်များ overregulating ဆန့်ကျင်သတိပေး
 
-🔶 Hacker News · ⬆️ 544 points · 💬 185 comments · 👤 hhh
+🔶 Hacker News · ⬆️ 611 points · 💬 268 comments · 👤 louiereederson
+
+Cnbc.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Nvidia, Microsoft, Meta သည်မျက်နှာပြင်ပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သော open-weight မော်ဒယ်များကိုအလွန်အကျွံထိန်းညှိခြင်းမှသတိပေးသည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲသည် ။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=49035303) · [Source](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
+
+4. ကျွန်ုပ် ၏ လုံခြုံရေးကင်မရာသည် GitHub admin token ကို ၎ င်း ၏ login စာမျက်နှာတွင်တင်ပို့ခဲ့သည်
+
+🔶 Hacker News · ⬆️ 596 points · 💬 191 comments · 👤 hhh
 
 Hhh.hn ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကျွန်ုပ် ၏ လုံခြုံရေးကင်မရာသည် GitHub admin token ကို ၎ င်း ၏ login စာမျက်နှာတွင်တင်ပို့ခဲ့သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss](https://news.ycombinator.com/item?id=49034292) · [Source](https://hhh.hn/hanwha-github-token/)
+[Discuss on HN](https://news.ycombinator.com/item?id=49034292) · [Source](https://hhh.hn/hanwha-github-token/)
 
-6. OpenAI ၏ ရက်စက်သောဟက်ကာအေးဂျင့်ဇာတ်လမ်းကိုသံသယဖြစ်ပါ
+5. Firefox ကွန်တိန်နာ အကြိုသင်ခန်းစာ
 
-🔶 Hacker News · ⬆️ 467 points · 💬 272 comments · 👤 rwmj
+🔶 Hacker News · ⬆️ 346 points · 💬 97 comments · 👤 twapi
 
-"OpenAI ၏ ရက်စက်သောဟက်ကာအေးဂျင့်ပုံပြင်ကိုသံသယဖြစ်ခြင်း" ခေါင်းစဉ်ဖြင့် theguardian.com သို့ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Blog.mozilla.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "Firefox ကွန်တိန်နာ Preview", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss](https://news.ycombinator.com/item?id=49038060) · [Source](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+[Discuss on HN](https://news.ycombinator.com/item?id=48995409) · [Source](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 
-7. အစိုးရကဘလူးတုသ်-based ချက်တင် app ကိုဖယ်ရှားပစ်ရန် GitHub အမိန့် Bitchat: ဂျက် Dorsey
+6. Postgres အမှန်တကယ်စကေးနားထောင်/အကြောင်းကြား
 
-🔶 Hacker News · ⬆️ 423 points · 💬 305 comments · 👤 rootkea
+🔶 Hacker News · ⬆️ 309 points · 💬 59 comments · 👤 KraftyOne
 
-"အစိုးရကဘလူးတုသ်-based ချက်တင် app ကို Bitchat ဖယ်ရှားပစ်ရန် GitHub အမိန့်: ဂျက် Dorsey," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူခေါင်းစဉ်တစ်ခု link ကို ။
+Dbos.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "Postgres နားထောင်/အသိပေးအမှန်တကယ်စကေး", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss](https://news.ycombinator.com/item?id=49036433) · [Source](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+[Discuss on HN](https://news.ycombinator.com/item?id=49040296) · [Source](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+
+7. 2 Apk ~ က်ဳိကၡမီသားလင္းႏိုင္ဦး
+
+🔶 Hacker News · ⬆️ 305 points · 💬 56 comments · 👤 m0do1
+
+ဆွေးနွေးရန် link.haiku-os.org ခေါင်းစဉ်ဖြင့် "Half-Life 2 running natively on HaikuOS" အမည်ရှိစာမျက်နှာ ၏ ရှေ့ဆုံးတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်သည် ။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=49034868) · [Source](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
 
 8. လူတိုင်း SIMD ကိုသိသင့်သည်
 
-🦞 Lobsters · ⬆️ 121 points · 💬 23 comments · 👤 seg6
+🦞 Lobsters · ⬆️ 125 points · 💬 24 comments · 👤 seg6
 
 Mitchellh.com သို့ "လူတိုင်း SIMD ကိုသိသင့်သည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss](https://lobste.rs/s/gpqa52) · [Source](https://mitchellh.com/writing/everyone-should-know-simd)
+[Discuss on Lobsters](https://lobste.rs/s/gpqa52) · [Source](https://mitchellh.com/writing/everyone-should-know-simd)
 
 9. အနက်ရောင်ဆေးပြားကို မယူပါနှင့် ။
 
-🦞 Lobsters · ⬆️ 97 points · 💬 33 comments · 👤 Malp
+🦞 Lobsters · ⬆️ 112 points · 💬 40 comments · 👤 Malp
 
 Com မှ "အနက်ရောင်ဆေးပြားကိုမယူပါနှင့်" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ။
 
-[Discuss](https://lobste.rs/s/td8rne) · [Source](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+[Discuss on Lobsters](https://lobste.rs/s/td8rne) · [Source](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 
 10. JUSTIF: Knuth-Plass တရားမျှတမှုနှင့်ဝက်ဘ်အတွက် microtypography
 
-🦞 Lobsters · ⬆️ 84 points · 💬 30 comments · 👤 lyall
+🦞 Lobsters · ⬆️ 85 points · 💬 32 comments · 👤 lyall
 
 Justif.lyall.co ခေါင်းစဉ်ဖြင့် link တစ်ခု "Justif: Knuth-Plass ကိုကျိုးကြောင်းဆီလျော်ခြင်းနှင့်ဝက်ဘ်ဆိုက်အတွက် microtypography" ။
 
-[Discuss](https://lobste.rs/s/p1jpv1) · [Source](https://justif.lyall.co/)
+[Discuss on Lobsters](https://lobste.rs/s/p1jpv1) · [Source](https://justif.lyall.co/)
 
-*daily-tech-digest · MileFisher · 2026-07-25T05:16:26.647Z*
+*daily-tech-digest · MileFisher · 2026-07-25T10:09:28.132Z*
