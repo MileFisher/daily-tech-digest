@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-10
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-11
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:11 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:24 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
 1. Cloudflare DENO ဝယ်ယူ
 
-🔶 Hacker News · ⬆️ 1192 points · 💬 609 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 1348 points · 💬 702 comments · 👤 ilreb
 
 Deno.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Cloudflare တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခုဖြစ်သော Deno ကိုဝယ်ယူသည် ။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50019911) · [Source](https://deno.com/blog/cloudflare)
 
-2. Triple-A Minesweeper
+2. 2D မော်တော်ယာဉ်များ
 
-🔶 Hacker News · ⬆️ 912 points · 💬 174 comments · 👤 robin_reala
+🔶 Hacker News · ⬆️ 449 points · 💬 99 comments · 👤 Michelangelo11
 
-"Triple-A Minesweeper" ခေါင်းစဉ်ဖြင့် minesweeper.mikelacher.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
+Patkerr.co.uk ခေါင်းစဉ်ဖြင့် link တစ်ခု "2D ယာဉ်များ," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50022292) · [Source](https://minesweeper.mikelacher.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=49991852) · [Source](https://patkerr.co.uk/2d-vehicles/)
 
-3. စိတ်မကောင်းပါဘူး ၊ ငါအစည်းအဝေးတစ်ခုမှာရှိနေတာပါ ။
+3. Telegram Desktop အားနည်းချက်သည်မည်သည့်အသုံးပြုသူ ၏ ဖိုင်ကိုမဆိုခိုးယူရန်ခွင့်ပြုသည်
 
-🔶 Hacker News · ⬆️ 876 points · 💬 247 comments · 👤 splintersio
+🔶 Hacker News · ⬆️ 447 points · 💬 285 comments · 👤 g-b-r
 
-Iminafleeting.com ကို "Sorry, I 'm in a meeting" လို့ အမည်ပေးထားတဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ရေးဆွဲထားပါတယ် ။
+Beaksec.github.io ခေါင်းစဉ်ဖြင့် link တစ်ခု "တယ်လီဂရမ် Desktop အားနည်းချက်သည်မည်သည့်အသုံးပြုသူ ၏ ဖိုင်ကိုမဆိုခိုးယူခွင့်ပြုသည်" ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50018088) · [Source](https://iminafleeting.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50029123) · [Source](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 
-4. ကျွန်ုပ်တို့ ၏ $ 445M စီးရီး D ကို
+4. ပျက်စီးဆုံးရှုံးမှု Details
 
-🔶 Hacker News · ⬆️ 645 points · 💬 294 comments · 👤 ahlCVA
+🔶 Hacker News · ⬆️ 432 points · 💬 343 comments · 👤 signa11
 
-"ကျွန်ုပ်တို့ ၏ $ 445M စီးရီး D ကို" ခေါင်းစဉ်ဖြင့် oxide.computer ကို link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခု, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"Grieving the Loss of Details" ခေါင်းစဉ်ဖြင့် purplesyringa.moe သို့ ချိတ်ဆက်ထားသော စာမျက်နှာတစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ တက်ကြွသော ဆွေးနွေးချက်ချည်နှောင်မှုဖြင့် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50020014) · [Source](https://oxide.computer/blog/our-445m-series-d)
+[Discuss on HN](https://news.ycombinator.com/item?id=49980880) · [Source](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
-5. Home သ တင်း များ ဒေ သ တွင်း ရဲတပ်ဖွဲ့ဝင်များကို ခြေရာခံရန် သိုးစုပုံစံ ကင်မရာကို ဆောက်လုပ်ပြီးနောက် ရဲတပ်ဖွဲ့ဝင်များ သူ့ကို သွားရောက်ကြည့်ရှုခဲ့ကြောင်း YouTuber ပြောကြား
+5. အဆိုပါ Lightbulb ကွန်ပျူတာ
 
-🔶 Hacker News · ⬆️ 551 points · 💬 302 comments · 👤 gumby
+🔶 Hacker News · ⬆️ 382 points · 💬 61 comments · 👤 oskarth
 
-Gizmodo.com သို့ပေးပို့ထားသော link တစ်ခုမှာ "YouTuber Says Cops သူသည် Flock-Style Camera to Track Cops" ကိုတည်ဆောက်ပြီးနောက်သူ့ကိုသွားရောက်ကြည့်ရှုခဲ့သည် ။
+ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ်ဖြစ်သော "The Lightbulb Computer" ခေါင်းစဉ်ဖြင့် lightbulbcomputer.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50026555) · [Source](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+[Discuss on HN](https://news.ycombinator.com/item?id=50029487) · [Source](https://lightbulbcomputer.com/)
 
-6. Typesafe AI ကို $ 7.5B မှာ $ 870M မြှင့်တင်
+6. သင္မႀကိဳက္တဲ့ ၿမိဳ႕ႀကီးတစ္ၿမိဳ႕အေၾကာင္း_SHWEMOM
 
-🔶 Hacker News · ⬆️ 355 points · 💬 259 comments · 👤 tosh
+🔶 Hacker News · ⬆️ 324 points · 💬 101 comments · 👤 JumpCrisscross
 
-Typesafe.ai ခေါင်းစဉ်ဖြင့် link တစ်ခု "Typesafe AI သည်ဒေါ်လာ ၈၇၀ မီလီယံကိုဒေါ်လာ ၇.
+Home.over.pizza မှ link တစ်ခု "မြို့တော်သည်သင်မကြိုက်နှစ်သက်သောမြို့တည်ဆောက်ရေးဂိမ်းတစ်ခု" ခေါင်းစဉ်ဖြင့်ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50023450) · [Source](https://typesafe.ai/blog/series-ai)
+[Discuss on HN](https://news.ycombinator.com/item?id=50036864) · [Source](https://housing.over.pizza/)
 
-7. REA ပြောင်းပြန် – အင်ဂျင်နီယာအရာရာ
+7. Talorys – Cloudflare ၏ အခမဲ့အဆင့်တွင်ကိုယ်ပိုင်ကိုယ်ပိုင် AI အေးဂျင့်
 
-🔶 Hacker News · ⬆️ 352 points · 💬 121 comments · 👤 modinfo
+🔶 Hacker News · ⬆️ 287 points · 💬 132 comments · 👤 rociiu
 
-"REA ပြောင်းပြန် – အင်ဂျင်နီယာဘာမဆို" ခေါင်းစဉ်ဖြင့် rea.tools မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Talorys – Cloudflare ၏ အခမဲ့အဆင့်အပေါ်ကိုယ်ပိုင်ကိုယ်ပိုင် AI အေးဂျင့်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50028275) · [Source](https://rea.tools/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50031614) · [Source](https://github.com/rociiu/talorys)
 
-8. ရွှံ့နွံအမှားကိုင်တွယ်ရာတွင် ပျောက်နေသောအပိုင်းအစ
+8. ပရိုဂရမ္က မထူးဆန္းပါဘူး
 
-🦞 Lobsters · ⬆️ 74 points · 💬 23 comments · 👤 snej
-
-Mcmah309.github.io သို့ "သံချေးအမှားကိုင်တွယ်ရာတွင်ပျောက်ဆုံးနေသောအပိုင်းအစ" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
-
-[Discuss on Lobsters](https://lobste.rs/s/3vfu09) · [Source](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
-
-9. ပရိုဂရမ္က မထူးဆန္းပါဘူး
-
-🦞 Lobsters · ⬆️ 69 points · 💬 37 comments · 👤 hugoarnal
+🦞 Lobsters · ⬆️ 81 points · 💬 48 comments · 👤 hugoarnal
 
 Blog.glyph.im သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု "ပရိုဂရမ်ရေးဆွဲခြင်းသည် အထူးမဟုတ်ပါ" ဟု အမည်ပေးထားသည် ။
 
 [Discuss on Lobsters](https://lobste.rs/s/ily7as) · [Source](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 
-10. Bevy 0.20
+9. Python ကို 3.15.0
 
-🦞 Lobsters · ⬆️ 61 points · 💬 2 comments · 👤 BD103
+🦞 Lobsters · ⬆️ 69 points · 💬 5 comments · 👤 kaycebasques
 
-Bevy.org သို့ "Bevy 0.20" ဟုအမည်ပေးထားသော link တစ်ခု ။
+"Python 3.15.0" ခေါင်းစဉ်ဖြင့် python.org သို့လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/3gikyb) · [Source](https://bevy.org/news/bevy-0-20/)
+[Discuss on Lobsters](https://lobste.rs/s/rpiwtb) · [Source](https://www.python.org/downloads/release/python-3150/)
 
-*daily-tech-digest · MileFisher · 2026-10-10T08:11:45.780Z*
+10. Uninstaller သည်ယခုအခါ Open Source ဖြစ်သည်
+
+🦞 Lobsters · ⬆️ 64 points · 💬 4 comments · 👤 bontaq
+
+"Unison Cloud သည်ယခုအခါပွင့်လင်းအရင်းအမြစ်ဖြစ်သည်" ခေါင်းစဉ်ဖြင့် unison-lang.org သို့ link တစ်ခု ။
+
+[Discuss on Lobsters](https://lobste.rs/s/zubabn) · [Source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
+
+*daily-tech-digest · MileFisher · 2026-10-11T08:24:33.412Z*

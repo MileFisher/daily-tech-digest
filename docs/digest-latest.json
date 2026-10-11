@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
       "id": "item?id=50019911",
@@ -9,109 +9,95 @@
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1192,
-      "comments": 609,
+      "score": 1348,
+      "comments": 702,
       "author": "ilreb",
       "url": "https://deno.com/blog/cloudflare",
       "discussUrl": "https://news.ycombinator.com/item?id=50019911"
     },
     {
-      "id": "item?id=50022292",
+      "id": "item?id=49991852",
       "title": {
-        "en": "Triple-A Minesweeper",
-        "my": "Triple-A Minesweeper"
+        "en": "2D Vehicles",
+        "my": "2D မော်တော်ယာဉ်များ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 912,
-      "comments": 174,
-      "author": "robin_reala",
-      "url": "https://minesweeper.mikelacher.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50022292"
+      "score": 449,
+      "comments": 99,
+      "author": "Michelangelo11",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "discussUrl": "https://news.ycombinator.com/item?id=49991852"
     },
     {
-      "id": "item?id=50018088",
+      "id": "item?id=50029123",
       "title": {
-        "en": "Sorry, I'm in a meeting",
-        "my": "စိတ်မကောင်းပါဘူး ၊ ငါအစည်းအဝေးတစ်ခုမှာရှိနေတာပါ ။"
+        "en": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "my": "Telegram Desktop အားနည်းချက်သည်မည်သည့်အသုံးပြုသူ ၏ ဖိုင်ကိုမဆိုခိုးယူရန်ခွင့်ပြုသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 876,
-      "comments": 247,
-      "author": "splintersio",
-      "url": "https://iminafleeting.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50018088"
+      "score": 447,
+      "comments": 285,
+      "author": "g-b-r",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50029123"
     },
     {
-      "id": "item?id=50020014",
+      "id": "item?id=49980880",
       "title": {
-        "en": "Our $445M Series D",
-        "my": "ကျွန်ုပ်တို့ ၏ $ 445M စီးရီး D ကို"
+        "en": "Grieving the loss of details",
+        "my": "ပျက်စီးဆုံးရှုံးမှု Details"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 645,
-      "comments": 294,
-      "author": "ahlCVA",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "discussUrl": "https://news.ycombinator.com/item?id=50020014"
+      "score": 432,
+      "comments": 343,
+      "author": "signa11",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "discussUrl": "https://news.ycombinator.com/item?id=49980880"
     },
     {
-      "id": "item?id=50026555",
+      "id": "item?id=50029487",
       "title": {
-        "en": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-        "my": "Home သ တင်း များ ဒေ သ တွင်း ရဲတပ်ဖွဲ့ဝင်များကို ခြေရာခံရန် သိုးစုပုံစံ ကင်မရာကို ဆောက်လုပ်ပြီးနောက် ရဲတပ်ဖွဲ့ဝင်များ သူ့ကို သွားရောက်ကြည့်ရှုခဲ့ကြောင်း YouTuber ပြောကြား"
+        "en": "The Lightbulb Computer",
+        "my": "အဆိုပါ Lightbulb ကွန်ပျူတာ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 551,
-      "comments": 302,
-      "author": "gumby",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "discussUrl": "https://news.ycombinator.com/item?id=50026555"
+      "score": 382,
+      "comments": 61,
+      "author": "oskarth",
+      "url": "https://lightbulbcomputer.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50029487"
     },
     {
-      "id": "item?id=50023450",
+      "id": "item?id=50036864",
       "title": {
-        "en": "Typesafe AI raises $870M at $7.5B",
-        "my": "Typesafe AI ကို $ 7.5B မှာ $ 870M မြှင့်တင်"
+        "en": "A city-building game in which the city would prefer you didn't",
+        "my": "သင္မႀကိဳက္တဲ့ ၿမိဳ႕ႀကီးတစ္ၿမိဳ႕အေၾကာင္း_SHWEMOM"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 355,
-      "comments": 259,
-      "author": "tosh",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "discussUrl": "https://news.ycombinator.com/item?id=50023450"
+      "score": 324,
+      "comments": 101,
+      "author": "JumpCrisscross",
+      "url": "https://housing.over.pizza/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50036864"
     },
     {
-      "id": "item?id=50028275",
+      "id": "item?id=50031614",
       "title": {
-        "en": "REA Reverse – Engineer Anything",
-        "my": "REA ပြောင်းပြန် – အင်ဂျင်နီယာအရာရာ"
+        "en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "my": "Talorys – Cloudflare ၏ အခမဲ့အဆင့်တွင်ကိုယ်ပိုင်ကိုယ်ပိုင် AI အေးဂျင့်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 352,
-      "comments": 121,
-      "author": "modinfo",
-      "url": "https://rea.tools/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50028275"
-    },
-    {
-      "id": "3vfu09",
-      "title": {
-        "en": "The Missing Piece in Rust Error Handling",
-        "my": "ရွှံ့နွံအမှားကိုင်တွယ်ရာတွင် ပျောက်နေသောအပိုင်းအစ"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 74,
-      "comments": 23,
-      "author": "snej",
-      "url": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
-      "discussUrl": "https://lobste.rs/s/3vfu09"
+      "score": 287,
+      "comments": 132,
+      "author": "rociiu",
+      "url": "https://github.com/rociiu/talorys",
+      "discussUrl": "https://news.ycombinator.com/item?id=50031614"
     },
     {
       "id": "ily7as",
@@ -121,25 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 69,
-      "comments": 37,
+      "score": 81,
+      "comments": 48,
       "author": "hugoarnal",
       "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
       "discussUrl": "https://lobste.rs/s/ily7as"
     },
     {
-      "id": "3gikyb",
+      "id": "rpiwtb",
       "title": {
-        "en": "Bevy 0.20",
-        "my": "Bevy 0.20"
+        "en": "Python 3.15.0",
+        "my": "Python ကို 3.15.0"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 61,
-      "comments": 2,
-      "author": "BD103",
-      "url": "https://bevy.org/news/bevy-0-20/",
-      "discussUrl": "https://lobste.rs/s/3gikyb"
+      "score": 69,
+      "comments": 5,
+      "author": "kaycebasques",
+      "url": "https://www.python.org/downloads/release/python-3150/",
+      "discussUrl": "https://lobste.rs/s/rpiwtb"
+    },
+    {
+      "id": "zubabn",
+      "title": {
+        "en": "Unison Cloud is now open source",
+        "my": "Uninstaller သည်ယခုအခါ Open Source ဖြစ်သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 64,
+      "comments": 4,
+      "author": "bontaq",
+      "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
+      "discussUrl": "https://lobste.rs/s/zubabn"
     }
   ]
 }

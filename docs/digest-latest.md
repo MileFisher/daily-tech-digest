@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-10
+# 🗞️ Daily Tech Digest — 2026-10-11
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:11 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:24 ICT
 
 ---
 
 1. Cloudflare acquires Deno
 
-🔶 Hacker News · ⬆️ 1192 points · 💬 609 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 1348 points · 💬 702 comments · 👤 ilreb
 
 A link to deno.com titled "Cloudflare acquires Deno", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50019911) · [Source](https://deno.com/blog/cloudflare)
 
-2. Triple-A Minesweeper
+2. 2D Vehicles
 
-🔶 Hacker News · ⬆️ 912 points · 💬 174 comments · 👤 robin_reala
+🔶 Hacker News · ⬆️ 449 points · 💬 99 comments · 👤 Michelangelo11
 
-A link to minesweeper.mikelacher.com titled "Triple-A Minesweeper", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to patkerr.co.uk titled "2D Vehicles", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50022292) · [Source](https://minesweeper.mikelacher.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=49991852) · [Source](https://patkerr.co.uk/2d-vehicles/)
 
-3. Sorry, I'm in a meeting
+3. Telegram Desktop vulnerability allowed any user's file to be stolen
 
-🔶 Hacker News · ⬆️ 876 points · 💬 247 comments · 👤 splintersio
+🔶 Hacker News · ⬆️ 447 points · 💬 285 comments · 👤 g-b-r
 
-A link to iminafleeting.com titled "Sorry, I'm in a meeting", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to beaksec.github.io titled "Telegram Desktop vulnerability allowed any user's file to be stolen", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50018088) · [Source](https://iminafleeting.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50029123) · [Source](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 
-4. Our $445M Series D
+4. Grieving the loss of details
 
-🔶 Hacker News · ⬆️ 645 points · 💬 294 comments · 👤 ahlCVA
+🔶 Hacker News · ⬆️ 432 points · 💬 343 comments · 👤 signa11
 
-A link to oxide.computer titled "Our $445M Series D", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to purplesyringa.moe titled "Grieving the loss of details", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50020014) · [Source](https://oxide.computer/blog/our-445m-series-d)
+[Discuss on HN](https://news.ycombinator.com/item?id=49980880) · [Source](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
-5. YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
+5. The Lightbulb Computer
 
-🔶 Hacker News · ⬆️ 551 points · 💬 302 comments · 👤 gumby
+🔶 Hacker News · ⬆️ 382 points · 💬 61 comments · 👤 oskarth
 
-A link to gizmodo.com titled "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to lightbulbcomputer.com titled "The Lightbulb Computer", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50026555) · [Source](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+[Discuss on HN](https://news.ycombinator.com/item?id=50029487) · [Source](https://lightbulbcomputer.com/)
 
-6. Typesafe AI raises $870M at $7.5B
+6. A city-building game in which the city would prefer you didn't
 
-🔶 Hacker News · ⬆️ 355 points · 💬 259 comments · 👤 tosh
+🔶 Hacker News · ⬆️ 324 points · 💬 101 comments · 👤 JumpCrisscross
 
-A link to typesafe.ai titled "Typesafe AI raises $870M at $7.5B", a popular story on the front page, drawing significant discussion.
+A link to housing.over.pizza titled "A city-building game in which the city would prefer you didn't", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50023450) · [Source](https://typesafe.ai/blog/series-ai)
+[Discuss on HN](https://news.ycombinator.com/item?id=50036864) · [Source](https://housing.over.pizza/)
 
-7. REA Reverse – Engineer Anything
+7. Talorys – A self-hosted personal AI agent on Cloudflare's free tier
 
-🔶 Hacker News · ⬆️ 352 points · 💬 121 comments · 👤 modinfo
+🔶 Hacker News · ⬆️ 287 points · 💬 132 comments · 👤 rociiu
 
-A link to rea.tools titled "REA Reverse – Engineer Anything", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "Talorys – A self-hosted personal AI agent on Cloudflare's free tier", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50028275) · [Source](https://rea.tools/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50031614) · [Source](https://github.com/rociiu/talorys)
 
-8. The Missing Piece in Rust Error Handling
+8. Programming Isn’t Special
 
-🦞 Lobsters · ⬆️ 74 points · 💬 23 comments · 👤 snej
-
-A link to mcmah309.github.io titled "The Missing Piece in Rust Error Handling".
-
-[Discuss on Lobsters](https://lobste.rs/s/3vfu09) · [Source](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
-
-9. Programming Isn’t Special
-
-🦞 Lobsters · ⬆️ 69 points · 💬 37 comments · 👤 hugoarnal
+🦞 Lobsters · ⬆️ 81 points · 💬 48 comments · 👤 hugoarnal
 
 A link to blog.glyph.im titled "Programming Isn’t Special".
 
 [Discuss on Lobsters](https://lobste.rs/s/ily7as) · [Source](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 
-10. Bevy 0.20
+9. Python 3.15.0
 
-🦞 Lobsters · ⬆️ 61 points · 💬 2 comments · 👤 BD103
+🦞 Lobsters · ⬆️ 69 points · 💬 5 comments · 👤 kaycebasques
 
-A link to bevy.org titled "Bevy 0.20".
+A link to python.org titled "Python 3.15.0".
 
-[Discuss on Lobsters](https://lobste.rs/s/3gikyb) · [Source](https://bevy.org/news/bevy-0-20/)
+[Discuss on Lobsters](https://lobste.rs/s/rpiwtb) · [Source](https://www.python.org/downloads/release/python-3150/)
 
-*daily-tech-digest · MileFisher · 2026-10-10T08:11:45.780Z*
+10. Unison Cloud is now open source
+
+🦞 Lobsters · ⬆️ 64 points · 💬 4 comments · 👤 bontaq
+
+A link to unison-lang.org titled "Unison Cloud is now open source".
+
+[Discuss on Lobsters](https://lobste.rs/s/zubabn) · [Source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
+
+*daily-tech-digest · MileFisher · 2026-10-11T08:24:33.412Z*

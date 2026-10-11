@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-11",
+  "items": [
+    {
+      "id": "item?id=50019911",
+      "title": {
+        "en": "Cloudflare acquires Deno",
+        "my": "Cloudflare DENO ဝယ်ယူ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1348,
+      "comments": 702,
+      "author": "ilreb",
+      "url": "https://deno.com/blog/cloudflare",
+      "discussUrl": "https://news.ycombinator.com/item?id=50019911"
+    },
+    {
+      "id": "item?id=49991852",
+      "title": {
+        "en": "2D Vehicles",
+        "my": "2D မော်တော်ယာဉ်များ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 449,
+      "comments": 99,
+      "author": "Michelangelo11",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "discussUrl": "https://news.ycombinator.com/item?id=49991852"
+    },
+    {
+      "id": "item?id=50029123",
+      "title": {
+        "en": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "my": "Telegram Desktop အားနည်းချက်သည်မည်သည့်အသုံးပြုသူ ၏ ဖိုင်ကိုမဆိုခိုးယူရန်ခွင့်ပြုသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 447,
+      "comments": 285,
+      "author": "g-b-r",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50029123"
+    },
+    {
+      "id": "item?id=49980880",
+      "title": {
+        "en": "Grieving the loss of details",
+        "my": "ပျက်စီးဆုံးရှုံးမှု Details"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 432,
+      "comments": 343,
+      "author": "signa11",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "discussUrl": "https://news.ycombinator.com/item?id=49980880"
+    },
+    {
+      "id": "item?id=50029487",
+      "title": {
+        "en": "The Lightbulb Computer",
+        "my": "အဆိုပါ Lightbulb ကွန်ပျူတာ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 382,
+      "comments": 61,
+      "author": "oskarth",
+      "url": "https://lightbulbcomputer.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50029487"
+    },
+    {
+      "id": "item?id=50036864",
+      "title": {
+        "en": "A city-building game in which the city would prefer you didn't",
+        "my": "သင္မႀကိဳက္တဲ့ ၿမိဳ႕ႀကီးတစ္ၿမိဳ႕အေၾကာင္း_SHWEMOM"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 324,
+      "comments": 101,
+      "author": "JumpCrisscross",
+      "url": "https://housing.over.pizza/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50036864"
+    },
+    {
+      "id": "item?id=50031614",
+      "title": {
+        "en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "my": "Talorys – Cloudflare ၏ အခမဲ့အဆင့်တွင်ကိုယ်ပိုင်ကိုယ်ပိုင် AI အေးဂျင့်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 287,
+      "comments": 132,
+      "author": "rociiu",
+      "url": "https://github.com/rociiu/talorys",
+      "discussUrl": "https://news.ycombinator.com/item?id=50031614"
+    },
+    {
+      "id": "ily7as",
+      "title": {
+        "en": "Programming Isn’t Special",
+        "my": "ပရိုဂရမ္က မထူးဆန္းပါဘူး"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 81,
+      "comments": 48,
+      "author": "hugoarnal",
+      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "discussUrl": "https://lobste.rs/s/ily7as"
+    },
+    {
+      "id": "rpiwtb",
+      "title": {
+        "en": "Python 3.15.0",
+        "my": "Python ကို 3.15.0"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 69,
+      "comments": 5,
+      "author": "kaycebasques",
+      "url": "https://www.python.org/downloads/release/python-3150/",
+      "discussUrl": "https://lobste.rs/s/rpiwtb"
+    },
+    {
+      "id": "zubabn",
+      "title": {
+        "en": "Unison Cloud is now open source",
+        "my": "Uninstaller သည်ယခုအခါ Open Source ဖြစ်သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 64,
+      "comments": 4,
+      "author": "bontaq",
+      "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
+      "discussUrl": "https://lobste.rs/s/zubabn"
+    }
+  ]
+}
