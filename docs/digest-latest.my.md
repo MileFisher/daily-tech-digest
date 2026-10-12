@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-11
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-12
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:24 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:45 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Cloudflare DENO ဝယ်ယူ
+1. PocketWin သည်ထောင်ချောက်တစ်ခုဖြစ်သည်
 
-🔶 Hacker News · ⬆️ 1348 points · 💬 702 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 589 points · 💬 341 comments · 👤 laurex
 
-Deno.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Cloudflare တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခုဖြစ်သော Deno ကိုဝယ်ယူသည် ။
+Nonfunctional.substack.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Passkeys တစ်ဦးထောင်ချောက်ဖြစ်ကြသည်" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ပုံပြင်တစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50019911) · [Source](https://deno.com/blog/cloudflare)
+[Discuss on HN](https://news.ycombinator.com/item?id=50048312) · [Source](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
 
-2. 2D မော်တော်ယာဉ်များ
+2. စုစုပေါင်းဖျက်သိမ်း, ခေတ်သစ်ကွန်ပျူတာများအတွက်ပြန်လည်တည်ဆောက်
 
-🔶 Hacker News · ⬆️ 449 points · 💬 99 comments · 👤 Michelangelo11
+🔶 Hacker News · ⬆️ 493 points · 💬 197 comments · 👤 jttnr
 
-Patkerr.co.uk ခေါင်းစဉ်ဖြင့် link တစ်ခု "2D ယာဉ်များ," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+"Total Annihilation, Rebuilt for Modern Computer" ခေါင်းစဉ်ဖြင့် nanolathe.gg သို့ ချိတ်ဆက်ထားသော စာမျက်နှာတစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲခဲ့သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=49991852) · [Source](https://patkerr.co.uk/2d-vehicles/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50045984) · [Source](https://nanolathe.gg)
 
-3. Telegram Desktop အားနည်းချက်သည်မည်သည့်အသုံးပြုသူ ၏ ဖိုင်ကိုမဆိုခိုးယူရန်ခွင့်ပြုသည်
+3. NYC ၏ "Cancel ကိုနှိပ်ပါ" စည်းမျဉ်းသည်ယခုအကျိုးသက်ရောက်သည်
 
-🔶 Hacker News · ⬆️ 447 points · 💬 285 comments · 👤 g-b-r
+🔶 Hacker News · ⬆️ 464 points · 💬 217 comments · 👤 gregsadetsky
 
-Beaksec.github.io ခေါင်းစဉ်ဖြင့် link တစ်ခု "တယ်လီဂရမ် Desktop အားနည်းချက်သည်မည်သည့်အသုံးပြုသူ ၏ ဖိုင်ကိုမဆိုခိုးယူခွင့်ပြုသည်" ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"NYC ၏ " Cancel ကိုနှိပ်ပါ " စည်းမျဉ်း" ခေါင်းစဉ်ဖြင့် nyc.gov သို့လင့်ခ်တစ်ခုသည်ယခုအခါအကျိုးသက်ရောက်နေသည် ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50029123) · [Source](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50045946) · [Source](https://www.nyc.gov/main/click-to-cancel)
 
-4. ပျက်စီးဆုံးရှုံးမှု Details
+4. LLM စွမ်းရည် ၏ မျှဝေနားလည်မှုကွာဟချက် ကျယ်ပြန့်လာသည်
 
-🔶 Hacker News · ⬆️ 432 points · 💬 343 comments · 👤 signa11
+🔶 Hacker News · ⬆️ 443 points · 💬 634 comments · 👤 albertzeyer
 
-"Grieving the Loss of Details" ခေါင်းစဉ်ဖြင့် purplesyringa.moe သို့ ချိတ်ဆက်ထားသော စာမျက်နှာတစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ တက်ကြွသော ဆွေးနွေးချက်ချည်နှောင်မှုဖြင့် ။
+Twitter.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "LLM စွမ်းရည်ကိုမျှဝေနားလည်မှု ၏ ကွာဟချက်ကျယ်ပြန့်နေသည်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=49980880) · [Source](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50047422) · [Source](https://twitter.com/karpathy/status/2109361546505966046)
 
-5. အဆိုပါ Lightbulb ကွန်ပျူတာ
+5. Terence Tao: သင်္ချာ 2.0 [pdf]
 
-🔶 Hacker News · ⬆️ 382 points · 💬 61 comments · 👤 oskarth
+🔶 Hacker News · ⬆️ 387 points · 💬 421 comments · 👤 Anon84
 
-ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ်ဖြစ်သော "The Lightbulb Computer" ခေါင်းစဉ်ဖြင့် lightbulbcomputer.
+"Terence Tao: Math 2.0 [pdf]" ခေါင်းစဉ်ဖြင့် teorth.github.io သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက် ချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50029487) · [Source](https://lightbulbcomputer.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50043026) · [Source](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 
-6. သင္မႀကိဳက္တဲ့ ၿမိဳ႕ႀကီးတစ္ၿမိဳ႕အေၾကာင္း_SHWEMOM
+6. လက်ဗွေများသည် cookies အသစ်များဖြစ်သည်
 
-🔶 Hacker News · ⬆️ 324 points · 💬 101 comments · 👤 JumpCrisscross
+🔶 Hacker News · ⬆️ 347 points · 💬 162 comments · 👤 royfish
 
-Home.over.pizza မှ link တစ်ခု "မြို့တော်သည်သင်မကြိုက်နှစ်သက်သောမြို့တည်ဆောက်ရေးဂိမ်းတစ်ခု" ခေါင်းစဉ်ဖြင့်ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Royfish.dev အမည်ရှိ link တစ်ခု "လက်ဗွေသည် cookies အသစ်များဖြစ်သည်" ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50036864) · [Source](https://housing.over.pizza/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50048642) · [Source](https://royfish.dev/fingerprints-are-the-new-cookies)
 
-7. Talorys – Cloudflare ၏ အခမဲ့အဆင့်တွင်ကိုယ်ပိုင်ကိုယ်ပိုင် AI အေးဂျင့်
+7. ဒီတော့ မင်းရဲ့ အန်နီမေးရှင်းရဲ့ ပုံနှိပ်ထုတ်ဝေမှုတွေကို ရောင်းချချင်လား ။
 
-🔶 Hacker News · ⬆️ 287 points · 💬 132 comments · 👤 rociiu
+🔶 Hacker News · ⬆️ 318 points · 💬 48 comments · 👤 mooreds
 
-Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Talorys – Cloudflare ၏ အခမဲ့အဆင့်အပေါ်ကိုယ်ပိုင်ကိုယ်ပိုင် AI အေးဂျင့်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/ကြက်သွန်နီ_(ကြက်သွန်နီ) "မှ ရယူရန်
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50031614) · [Source](https://github.com/rociiu/talorys)
+[Discuss on HN](https://news.ycombinator.com/item?id=50047055) · [Source](https://theonion.com/archivehunt/)
 
-8. ပရိုဂရမ္က မထူးဆန္းပါဘူး
+8. အခုမွပဲ လာဖတ္မိေတာ့တယ္... ဒီမွာ မေရးျဖစ္ေသးဘူး ။
 
-🦞 Lobsters · ⬆️ 81 points · 💬 48 comments · 👤 hugoarnal
+🦞 Lobsters · ⬆️ 130 points · 💬 31 comments · 👤 jcd
 
-Blog.glyph.im သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု "ပရိုဂရမ်ရေးဆွဲခြင်းသည် အထူးမဟုတ်ပါ" ဟု အမည်ပေးထားသည် ။
+Rachelbythebay.com မှ link တစ်ခုခေါင်းစဉ် "ငါနေဆဲပတ်ပတ်လည်ပါပဲ.. ငါဒီမှာမရေးပါဘူး ။"
 
-[Discuss on Lobsters](https://lobste.rs/s/ily7as) · [Source](https://blog.glyph.im/2026/10/programming-isnt-special.html)
+[Discuss on Lobsters](https://lobste.rs/s/4ehrkn) · [Source](https://rachelbythebay.com/w/2026/10/08/idle/)
 
-9. Python ကို 3.15.0
+9. အဆိုပါ Lightbulb ကွန်ပျူတာ: ပရောဂျက်များနှင့်အတူအာကာသ & ပတ်ဝန်းကျင်ကွန်ပျူတာ reimagining
 
-🦞 Lobsters · ⬆️ 69 points · 💬 5 comments · 👤 kaycebasques
+🦞 Lobsters · ⬆️ 71 points · 💬 12 comments · 👤 pyfisch
 
-"Python 3.15.0" ခေါင်းစဉ်ဖြင့် python.org သို့လင့်ခ်တစ်ခု ။
+"The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors" ခေါင်းစဉ်ဖြင့် lightbulbcomputer.com သို့ လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/rpiwtb) · [Source](https://www.python.org/downloads/release/python-3150/)
+[Discuss on Lobsters](https://lobste.rs/s/0g9ctg) · [Source](https://lightbulbcomputer.com/)
 
-10. Uninstaller သည်ယခုအခါ Open Source ဖြစ်သည်
+10. * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * အ
 
-🦞 Lobsters · ⬆️ 64 points · 💬 4 comments · 👤 bontaq
+🦞 Lobsters · ⬆️ 65 points · 💬 31 comments · 👤 seb
 
-"Unison Cloud သည်ယခုအခါပွင့်လင်းအရင်းအမြစ်ဖြစ်သည်" ခေါင်းစဉ်ဖြင့် unison-lang.org သို့ link တစ်ခု ။
+Sebsite.pw အမည်ရှိ link တစ်ခု "အိုး ၊ ထင်ရှားသည်မှာစံ c တွင် string-to-float ပြောင်းလဲမှုအမှားများကို portably စစ်ဆေးရန်မဖြစ်နိုင်ပါ ။"
 
-[Discuss on Lobsters](https://lobste.rs/s/zubabn) · [Source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
+[Discuss on Lobsters](https://lobste.rs/s/rb2ulg) · [Source](https://sebsite.pw/w/20261009-strtod.html)
 
-*daily-tech-digest · MileFisher · 2026-10-11T08:24:33.412Z*
+*daily-tech-digest · MileFisher · 2026-10-12T08:45:58.314Z*

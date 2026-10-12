@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-11
+# 🗞️ Daily Tech Digest — 2026-10-12
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:24 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:45 ICT
 
 ---
 
-1. Cloudflare acquires Deno
+1. Passkeys are a trap
 
-🔶 Hacker News · ⬆️ 1348 points · 💬 702 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 589 points · 💬 341 comments · 👤 laurex
 
-A link to deno.com titled "Cloudflare acquires Deno", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to nonfunctional.substack.com titled "Passkeys are a trap", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50019911) · [Source](https://deno.com/blog/cloudflare)
+[Discuss on HN](https://news.ycombinator.com/item?id=50048312) · [Source](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
 
-2. 2D Vehicles
+2. Total Annihilation, rebuilt for modern computers
 
-🔶 Hacker News · ⬆️ 449 points · 💬 99 comments · 👤 Michelangelo11
+🔶 Hacker News · ⬆️ 493 points · 💬 197 comments · 👤 jttnr
 
-A link to patkerr.co.uk titled "2D Vehicles", a popular story on the front page.
+A link to nanolathe.gg titled "Total Annihilation, rebuilt for modern computers", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=49991852) · [Source](https://patkerr.co.uk/2d-vehicles/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50045984) · [Source](https://nanolathe.gg)
 
-3. Telegram Desktop vulnerability allowed any user's file to be stolen
+3. NYC's "Click to Cancel" rule is now in effect
 
-🔶 Hacker News · ⬆️ 447 points · 💬 285 comments · 👤 g-b-r
+🔶 Hacker News · ⬆️ 464 points · 💬 217 comments · 👤 gregsadetsky
 
-A link to beaksec.github.io titled "Telegram Desktop vulnerability allowed any user's file to be stolen", a popular story on the front page, drawing significant discussion.
+A link to nyc.gov titled "NYC's "Click to Cancel" rule is now in effect", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50029123) · [Source](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50045946) · [Source](https://www.nyc.gov/main/click-to-cancel)
 
-4. Grieving the loss of details
+4. The gap in shared understanding of LLM capability is widening
 
-🔶 Hacker News · ⬆️ 432 points · 💬 343 comments · 👤 signa11
+🔶 Hacker News · ⬆️ 443 points · 💬 634 comments · 👤 albertzeyer
 
-A link to purplesyringa.moe titled "Grieving the loss of details", a popular story on the front page, with an active discussion thread.
+A link to twitter.com titled "The gap in shared understanding of LLM capability is widening", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=49980880) · [Source](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50047422) · [Source](https://twitter.com/karpathy/status/2109361546505966046)
 
-5. The Lightbulb Computer
+5. Terence Tao: Math 2.0 [pdf]
 
-🔶 Hacker News · ⬆️ 382 points · 💬 61 comments · 👤 oskarth
+🔶 Hacker News · ⬆️ 387 points · 💬 421 comments · 👤 Anon84
 
-A link to lightbulbcomputer.com titled "The Lightbulb Computer", a popular story on the front page.
+A link to teorth.github.io titled "Terence Tao: Math 2.0 [pdf]", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50029487) · [Source](https://lightbulbcomputer.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50043026) · [Source](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 
-6. A city-building game in which the city would prefer you didn't
+6. Fingerprints are the new cookies
 
-🔶 Hacker News · ⬆️ 324 points · 💬 101 comments · 👤 JumpCrisscross
+🔶 Hacker News · ⬆️ 347 points · 💬 162 comments · 👤 royfish
 
-A link to housing.over.pizza titled "A city-building game in which the city would prefer you didn't", a popular story on the front page, drawing significant discussion.
+A link to royfish.dev titled "Fingerprints are the new cookies", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50036864) · [Source](https://housing.over.pizza/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50048642) · [Source](https://royfish.dev/fingerprints-are-the-new-cookies)
 
-7. Talorys – A self-hosted personal AI agent on Cloudflare's free tier
+7. So, you’d like to sell your print issues of The Onion?
 
-🔶 Hacker News · ⬆️ 287 points · 💬 132 comments · 👤 rociiu
+🔶 Hacker News · ⬆️ 318 points · 💬 48 comments · 👤 mooreds
 
-A link to github.com titled "Talorys – A self-hosted personal AI agent on Cloudflare's free tier", a popular story on the front page, drawing significant discussion.
+A link to theonion.com titled "So, you’d like to sell your print issues of The Onion?", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50031614) · [Source](https://github.com/rociiu/talorys)
+[Discuss on HN](https://news.ycombinator.com/item?id=50047055) · [Source](https://theonion.com/archivehunt/)
 
-8. Programming Isn’t Special
+8. I'm still around.. I'm just not writing here
 
-🦞 Lobsters · ⬆️ 81 points · 💬 48 comments · 👤 hugoarnal
+🦞 Lobsters · ⬆️ 130 points · 💬 31 comments · 👤 jcd
 
-A link to blog.glyph.im titled "Programming Isn’t Special".
+A link to rachelbythebay.com titled "I'm still around.. I'm just not writing here".
 
-[Discuss on Lobsters](https://lobste.rs/s/ily7as) · [Source](https://blog.glyph.im/2026/10/programming-isnt-special.html)
+[Discuss on Lobsters](https://lobste.rs/s/4ehrkn) · [Source](https://rachelbythebay.com/w/2026/10/08/idle/)
 
-9. Python 3.15.0
+9. The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors
 
-🦞 Lobsters · ⬆️ 69 points · 💬 5 comments · 👤 kaycebasques
+🦞 Lobsters · ⬆️ 71 points · 💬 12 comments · 👤 pyfisch
 
-A link to python.org titled "Python 3.15.0".
+A link to lightbulbcomputer.com titled "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors".
 
-[Discuss on Lobsters](https://lobste.rs/s/rpiwtb) · [Source](https://www.python.org/downloads/release/python-3150/)
+[Discuss on Lobsters](https://lobste.rs/s/0g9ctg) · [Source](https://lightbulbcomputer.com/)
 
-10. Unison Cloud is now open source
+10. oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c
 
-🦞 Lobsters · ⬆️ 64 points · 💬 4 comments · 👤 bontaq
+🦞 Lobsters · ⬆️ 65 points · 💬 31 comments · 👤 seb
 
-A link to unison-lang.org titled "Unison Cloud is now open source".
+A link to sebsite.pw titled "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c".
 
-[Discuss on Lobsters](https://lobste.rs/s/zubabn) · [Source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
+[Discuss on Lobsters](https://lobste.rs/s/rb2ulg) · [Source](https://sebsite.pw/w/20261009-strtod.html)
 
-*daily-tech-digest · MileFisher · 2026-10-11T08:24:33.412Z*
+*daily-tech-digest · MileFisher · 2026-10-12T08:45:58.314Z*

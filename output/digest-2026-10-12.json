@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-12",
+  "items": [
+    {
+      "id": "item?id=50048312",
+      "title": {
+        "en": "Passkeys are a trap",
+        "my": "PocketWin သည်ထောင်ချောက်တစ်ခုဖြစ်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 589,
+      "comments": 341,
+      "author": "laurex",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "discussUrl": "https://news.ycombinator.com/item?id=50048312"
+    },
+    {
+      "id": "item?id=50045984",
+      "title": {
+        "en": "Total Annihilation, rebuilt for modern computers",
+        "my": "စုစုပေါင်းဖျက်သိမ်း, ခေတ်သစ်ကွန်ပျူတာများအတွက်ပြန်လည်တည်ဆောက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 493,
+      "comments": 197,
+      "author": "jttnr",
+      "url": "https://nanolathe.gg",
+      "discussUrl": "https://news.ycombinator.com/item?id=50045984"
+    },
+    {
+      "id": "item?id=50045946",
+      "title": {
+        "en": "NYC's \"Click to Cancel\" rule is now in effect",
+        "my": "NYC ၏ \"Cancel ကိုနှိပ်ပါ\" စည်းမျဉ်းသည်ယခုအကျိုးသက်ရောက်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 464,
+      "comments": 217,
+      "author": "gregsadetsky",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "discussUrl": "https://news.ycombinator.com/item?id=50045946"
+    },
+    {
+      "id": "item?id=50047422",
+      "title": {
+        "en": "The gap in shared understanding of LLM capability is widening",
+        "my": "LLM စွမ်းရည် ၏ မျှဝေနားလည်မှုကွာဟချက် ကျယ်ပြန့်လာသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 443,
+      "comments": 634,
+      "author": "albertzeyer",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "discussUrl": "https://news.ycombinator.com/item?id=50047422"
+    },
+    {
+      "id": "item?id=50043026",
+      "title": {
+        "en": "Terence Tao: Math 2.0 [pdf]",
+        "my": "Terence Tao: သင်္ချာ 2.0 [pdf]"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 387,
+      "comments": 421,
+      "author": "Anon84",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "discussUrl": "https://news.ycombinator.com/item?id=50043026"
+    },
+    {
+      "id": "item?id=50048642",
+      "title": {
+        "en": "Fingerprints are the new cookies",
+        "my": "လက်ဗွေများသည် cookies အသစ်များဖြစ်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 347,
+      "comments": 162,
+      "author": "royfish",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "discussUrl": "https://news.ycombinator.com/item?id=50048642"
+    },
+    {
+      "id": "item?id=50047055",
+      "title": {
+        "en": "So, you’d like to sell your print issues of The Onion?",
+        "my": "ဒီတော့ မင်းရဲ့ အန်နီမေးရှင်းရဲ့ ပုံနှိပ်ထုတ်ဝေမှုတွေကို ရောင်းချချင်လား ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 318,
+      "comments": 48,
+      "author": "mooreds",
+      "url": "https://theonion.com/archivehunt/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50047055"
+    },
+    {
+      "id": "4ehrkn",
+      "title": {
+        "en": "I'm still around.. I'm just not writing here",
+        "my": "အခုမွပဲ လာဖတ္မိေတာ့တယ္... ဒီမွာ မေရးျဖစ္ေသးဘူး ။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 130,
+      "comments": 31,
+      "author": "jcd",
+      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+      "discussUrl": "https://lobste.rs/s/4ehrkn"
+    },
+    {
+      "id": "0g9ctg",
+      "title": {
+        "en": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+        "my": "အဆိုပါ Lightbulb ကွန်ပျူတာ: ပရောဂျက်များနှင့်အတူအာကာသ & ပတ်ဝန်းကျင်ကွန်ပျူတာ reimagining"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 71,
+      "comments": 12,
+      "author": "pyfisch",
+      "url": "https://lightbulbcomputer.com/",
+      "discussUrl": "https://lobste.rs/s/0g9ctg"
+    },
+    {
+      "id": "rb2ulg",
+      "title": {
+        "en": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
+        "my": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * အ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 65,
+      "comments": 31,
+      "author": "seb",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "discussUrl": "https://lobste.rs/s/rb2ulg"
+    }
+  ]
+}
