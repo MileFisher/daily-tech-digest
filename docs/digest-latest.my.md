@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-12
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-13
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:45 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:04 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. PocketWin သည်ထောင်ချောက်တစ်ခုဖြစ်သည်
+1. ဥရောပတစ်ဝှမ်းစူပါမားကတ်ရေခဲသေတ္တာများတွင်အလိုအလျောက် defrosting activate ဟက်ကာများ
 
-🔶 Hacker News · ⬆️ 589 points · 💬 341 comments · 👤 laurex
+🔶 Hacker News · ⬆️ 678 points · 💬 804 comments · 👤 Zeekaas
 
-Nonfunctional.substack.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Passkeys တစ်ဦးထောင်ချောက်ဖြစ်ကြသည်" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ပုံပြင်တစ်ခုဖြစ်သည် ။
+Tomshardware.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ဟက်ကာများသည်ဥရောပတစ်ဝှမ်းရှိစူပါမားကတ်ရေခဲသေတ္တာများတွင်အလိုအလျောက် defrosting ကိုသက်ဝင်စေသည်" ၊ ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်များထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50048312) · [Source](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+[Discuss on HN](https://news.ycombinator.com/item?id=50055304) · [Source](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
-2. စုစုပေါင်းဖျက်သိမ်း, ခေတ်သစ်ကွန်ပျူတာများအတွက်ပြန်လည်တည်ဆောက်
+2. Muse Wonder
 
-🔶 Hacker News · ⬆️ 493 points · 💬 197 comments · 👤 jttnr
+🔶 Hacker News · ⬆️ 627 points · 💬 333 comments · 👤 meetpateltech
 
-"Total Annihilation, Rebuilt for Modern Computer" ခေါင်းစဉ်ဖြင့် nanolathe.gg သို့ ချိတ်ဆက်ထားသော စာမျက်နှာတစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲခဲ့သည် ။
+&quot;Muse Wonder&quot; ဟု အမည်ပေးထားသော research.meta.ai သို့ လင့်ခ်တစ်ခု၊ ၎င်းသည် မျက်နှာဖုံးတွင် အမှတ်အများဆုံးရရှိသော ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှု thread တစ်ခုပါရှိသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50045984) · [Source](https://nanolathe.gg)
+[Discuss on HN](https://news.ycombinator.com/item?id=50059115) · [Source](https://research.meta.ai/blog/muse-wonder)
 
-3. NYC ၏ "Cancel ကိုနှိပ်ပါ" စည်းမျဉ်းသည်ယခုအကျိုးသက်ရောက်သည်
+3. Codex CLI သည်ပုံမှန်အားဖြင့်စဉ်ဆက်မပြတ် ၊ မိမိကိုယ်ကိုအပ်ဒိတ်လုပ်သောနောက်ခံ daemon ကိုတပ်ဆင်သည်
 
-🔶 Hacker News · ⬆️ 464 points · 💬 217 comments · 👤 gregsadetsky
+🔶 Hacker News · ⬆️ 554 points · 💬 273 comments · 👤 whimblepop
 
-"NYC ၏ " Cancel ကိုနှိပ်ပါ " စည်းမျဉ်း" ခေါင်းစဉ်ဖြင့် nyc.gov သို့လင့်ခ်တစ်ခုသည်ယခုအခါအကျိုးသက်ရောက်နေသည် ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Codex CLI သည်ပုံမှန်အားဖြင့်စဉ်ဆက်မပြတ် ၊ မိမိကိုယ်ကိုအပ်ဒိတ်လုပ်သောနောက်ခံ daemon ကိုတပ်ဆင်သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50045946) · [Source](https://www.nyc.gov/main/click-to-cancel)
+[Discuss on HN](https://news.ycombinator.com/item?id=50060694) · [Source](https://github.com/openai/codex/issues/48195)
 
-4. LLM စွမ်းရည် ၏ မျှဝေနားလည်မှုကွာဟချက် ကျယ်ပြန့်လာသည်
+4. GLM-Legal
 
-🔶 Hacker News · ⬆️ 443 points · 💬 634 comments · 👤 albertzeyer
+🔶 Hacker News · ⬆️ 551 points · 💬 313 comments · 👤 ilreb
 
-Twitter.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "LLM စွမ်းရည်ကိုမျှဝေနားလည်မှု ၏ ကွာဟချက်ကျယ်ပြန့်နေသည်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+Z.ai အမည်ရှိ link တစ်ခု "GLM-Legal", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50047422) · [Source](https://twitter.com/karpathy/status/2109361546505966046)
+[Discuss on HN](https://news.ycombinator.com/item?id=50058507) · [Source](https://z.ai/blog/glm-legal)
 
-5. Terence Tao: သင်္ချာ 2.0 [pdf]
+5. C အတွက်တစ်ဦးကခေတ်သစ်က်ဘ် App ကို
 
-🔶 Hacker News · ⬆️ 387 points · 💬 421 comments · 👤 Anon84
+🔶 Hacker News · ⬆️ 551 points · 💬 232 comments · 👤 prophittcorey
 
-"Terence Tao: Math 2.0 [pdf]" ခေါင်းစဉ်ဖြင့် teorth.github.io သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက် ချည်နှောင်ထားသည် ။
+"A Modern Web App in C" ခေါင်းစဉ်ဖြင့် prophitt.me သို့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50043026) · [Source](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50058528) · [Source](https://prophitt.me/writing/a-modern-web-app-in-c)
 
-6. လက်ဗွေများသည် cookies အသစ်များဖြစ်သည်
+6. A ားလံုးဟာ A က်U္းသားေတြျဖစ္ၿပီး A က်U္းသားေတြ
 
-🔶 Hacker News · ⬆️ 347 points · 💬 162 comments · 👤 royfish
+🔶 Hacker News · ⬆️ 397 points · 💬 319 comments · 👤 layer8
 
-Royfish.dev အမည်ရှိ link တစ်ခု "လက်ဗွေသည် cookies အသစ်များဖြစ်သည်" ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"AI သည်ကိရိယာတစ်ခုဖြစ်ပြီး ၎ င်းကိုကောင်းစွာအသုံးပြုခြင်းသည်ကျွမ်းကျင်မှုလိုအပ်သည်" ဟုခေါင်းစဉ်တပ်ထားသော yyhh.org သို့ link တစ်ခုသည်ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50048642) · [Source](https://royfish.dev/fingerprints-are-the-new-cookies)
+[Discuss on HN](https://news.ycombinator.com/item?id=50063427) · [Source](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
-7. ဒီတော့ မင်းရဲ့ အန်နီမေးရှင်းရဲ့ ပုံနှိပ်ထုတ်ဝေမှုတွေကို ရောင်းချချင်လား ။
+7. တစ်ဦး WIFI 7 Router ကိုတစ်ဦး 320Msps ဆော့ဖ်ဝဲကိုသတ်မှတ်ရေဒီယို Receiver သို့လှည့်
 
-🔶 Hacker News · ⬆️ 318 points · 💬 48 comments · 👤 mooreds
+🔶 Hacker News · ⬆️ 343 points · 💬 90 comments · 👤 djfergus
 
-Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/ကြက်သွန်နီ_(ကြက်သွန်နီ) "မှ ရယူရန်
+Github.com သို့ "WiFi 7 Router ကို 320Msps Software Defined Radio Receiver သို့ပြောင်းပါ" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ်ဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50047055) · [Source](https://theonion.com/archivehunt/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50055593) · [Source](https://github.com/h0m3us3r/w1700k-sdr)
 
-8. အခုမွပဲ လာဖတ္မိေတာ့တယ္... ဒီမွာ မေရးျဖစ္ေသးဘူး ။
+8. D-ဘတ်စ်ကားငရဲ
 
-🦞 Lobsters · ⬆️ 130 points · 💬 31 comments · 👤 jcd
+🦞 Lobsters · ⬆️ 117 points · 💬 28 comments · 👤 isuffix
 
-Rachelbythebay.com မှ link တစ်ခုခေါင်းစဉ် "ငါနေဆဲပတ်ပတ်လည်ပါပဲ.. ငါဒီမှာမရေးပါဘူး ။"
+Dbushell.com မှ "D-ဘတ်စ်ကားငရဲ" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/4ehrkn) · [Source](https://rachelbythebay.com/w/2026/10/08/idle/)
+[Discuss on Lobsters](https://lobste.rs/s/qgybwb) · [Source](https://dbushell.com/2026/10/11/d-bus-hell/)
 
-9. အဆိုပါ Lightbulb ကွန်ပျူတာ: ပရောဂျက်များနှင့်အတူအာကာသ & ပတ်ဝန်းကျင်ကွန်ပျူတာ reimagining
+9. သနားပါတယ္ ၊ စဥ္းစားစရာေတြ ရွိေနဆဲပါ ။
 
-🦞 Lobsters · ⬆️ 71 points · 💬 12 comments · 👤 pyfisch
+🦞 Lobsters · ⬆️ 96 points · 💬 6 comments · 👤 dimonomid
 
-"The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors" ခေါင်းစဉ်ဖြင့် lightbulbcomputer.com သို့ လင့်ခ်တစ်ခု ။
+A link to itsallaboutthebit.com ခေါင်းစဉ်ဖြင့် "စိတ်မကောင်းပါဘူး ၊ သို့သော်သင်စဉ်းစားရန်လိုသေးသည် ။
 
-[Discuss on Lobsters](https://lobste.rs/s/0g9ctg) · [Source](https://lightbulbcomputer.com/)
+[Discuss on Lobsters](https://lobste.rs/s/k2natg) · [Source](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 
-10. * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * အ
+10. 'အာ' က ကိရိယာမဟုတ္ဘူး ။
 
-🦞 Lobsters · ⬆️ 65 points · 💬 31 comments · 👤 seb
+🦞 Lobsters · ⬆️ 92 points · 💬 35 comments · 👤 regulator
 
-Sebsite.pw အမည်ရှိ link တစ်ခု "အိုး ၊ ထင်ရှားသည်မှာစံ c တွင် string-to-float ပြောင်းလဲမှုအမှားများကို portably စစ်ဆေးရန်မဖြစ်နိုင်ပါ ။"
+Linkedin.com သို့ "'AI' သည်ကိရိယာတစ်ခုမဟုတ်ပါ" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/rb2ulg) · [Source](https://sebsite.pw/w/20261009-strtod.html)
+[Discuss on Lobsters](https://lobste.rs/s/ikk8ie) · [Source](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
-*daily-tech-digest · MileFisher · 2026-10-12T08:45:58.314Z*
+*daily-tech-digest · MileFisher · 2026-10-13T09:04:14.008Z*

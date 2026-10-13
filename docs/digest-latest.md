@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-12
+# 🗞️ Daily Tech Digest — 2026-10-13
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:45 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:04 ICT
 
 ---
 
-1. Passkeys are a trap
+1. Hackers activate automatic defrosting in supermarket fridges across Europe
 
-🔶 Hacker News · ⬆️ 589 points · 💬 341 comments · 👤 laurex
+🔶 Hacker News · ⬆️ 678 points · 💬 804 comments · 👤 Zeekaas
 
-A link to nonfunctional.substack.com titled "Passkeys are a trap", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to tomshardware.com titled "Hackers activate automatic defrosting in supermarket fridges across Europe", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50048312) · [Source](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+[Discuss on HN](https://news.ycombinator.com/item?id=50055304) · [Source](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
-2. Total Annihilation, rebuilt for modern computers
+2. Muse Wonder
 
-🔶 Hacker News · ⬆️ 493 points · 💬 197 comments · 👤 jttnr
+🔶 Hacker News · ⬆️ 627 points · 💬 333 comments · 👤 meetpateltech
 
-A link to nanolathe.gg titled "Total Annihilation, rebuilt for modern computers", a popular story on the front page, drawing significant discussion.
+A link to research.meta.ai titled "Muse Wonder", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50045984) · [Source](https://nanolathe.gg)
+[Discuss on HN](https://news.ycombinator.com/item?id=50059115) · [Source](https://research.meta.ai/blog/muse-wonder)
 
-3. NYC's "Click to Cancel" rule is now in effect
+3. Codex CLI installs a persistent, self-updating background daemon by default
 
-🔶 Hacker News · ⬆️ 464 points · 💬 217 comments · 👤 gregsadetsky
+🔶 Hacker News · ⬆️ 554 points · 💬 273 comments · 👤 whimblepop
 
-A link to nyc.gov titled "NYC's "Click to Cancel" rule is now in effect", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "Codex CLI installs a persistent, self-updating background daemon by default", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50045946) · [Source](https://www.nyc.gov/main/click-to-cancel)
+[Discuss on HN](https://news.ycombinator.com/item?id=50060694) · [Source](https://github.com/openai/codex/issues/48195)
 
-4. The gap in shared understanding of LLM capability is widening
+4. GLM-Legal
 
-🔶 Hacker News · ⬆️ 443 points · 💬 634 comments · 👤 albertzeyer
+🔶 Hacker News · ⬆️ 551 points · 💬 313 comments · 👤 ilreb
 
-A link to twitter.com titled "The gap in shared understanding of LLM capability is widening", a popular story on the front page, with an active discussion thread.
+A link to z.ai titled "GLM-Legal", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50047422) · [Source](https://twitter.com/karpathy/status/2109361546505966046)
+[Discuss on HN](https://news.ycombinator.com/item?id=50058507) · [Source](https://z.ai/blog/glm-legal)
 
-5. Terence Tao: Math 2.0 [pdf]
+5. A Modern Web App in C
 
-🔶 Hacker News · ⬆️ 387 points · 💬 421 comments · 👤 Anon84
+🔶 Hacker News · ⬆️ 551 points · 💬 232 comments · 👤 prophittcorey
 
-A link to teorth.github.io titled "Terence Tao: Math 2.0 [pdf]", a popular story on the front page, with an active discussion thread.
+A link to prophitt.me titled "A Modern Web App in C", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50043026) · [Source](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50058528) · [Source](https://prophitt.me/writing/a-modern-web-app-in-c)
 
-6. Fingerprints are the new cookies
+6. AI is a tool and using it well takes skill
 
-🔶 Hacker News · ⬆️ 347 points · 💬 162 comments · 👤 royfish
+🔶 Hacker News · ⬆️ 397 points · 💬 319 comments · 👤 layer8
 
-A link to royfish.dev titled "Fingerprints are the new cookies", a popular story on the front page, drawing significant discussion.
+A link to yyhh.org titled "AI is a tool and using it well takes skill", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50048642) · [Source](https://royfish.dev/fingerprints-are-the-new-cookies)
+[Discuss on HN](https://news.ycombinator.com/item?id=50063427) · [Source](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
-7. So, you’d like to sell your print issues of The Onion?
+7. Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver
 
-🔶 Hacker News · ⬆️ 318 points · 💬 48 comments · 👤 mooreds
+🔶 Hacker News · ⬆️ 343 points · 💬 90 comments · 👤 djfergus
 
-A link to theonion.com titled "So, you’d like to sell your print issues of The Onion?", a popular story on the front page.
+A link to github.com titled "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50047055) · [Source](https://theonion.com/archivehunt/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50055593) · [Source](https://github.com/h0m3us3r/w1700k-sdr)
 
-8. I'm still around.. I'm just not writing here
+8. D-Bus Hell
 
-🦞 Lobsters · ⬆️ 130 points · 💬 31 comments · 👤 jcd
+🦞 Lobsters · ⬆️ 117 points · 💬 28 comments · 👤 isuffix
 
-A link to rachelbythebay.com titled "I'm still around.. I'm just not writing here".
+A link to dbushell.com titled "D-Bus Hell".
 
-[Discuss on Lobsters](https://lobste.rs/s/4ehrkn) · [Source](https://rachelbythebay.com/w/2026/10/08/idle/)
+[Discuss on Lobsters](https://lobste.rs/s/qgybwb) · [Source](https://dbushell.com/2026/10/11/d-bus-hell/)
 
-9. The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors
+9. I'm sorry, but you still have to think
 
-🦞 Lobsters · ⬆️ 71 points · 💬 12 comments · 👤 pyfisch
+🦞 Lobsters · ⬆️ 96 points · 💬 6 comments · 👤 dimonomid
 
-A link to lightbulbcomputer.com titled "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors".
+A link to itsallaboutthebit.com titled "I'm sorry, but you still have to think".
 
-[Discuss on Lobsters](https://lobste.rs/s/0g9ctg) · [Source](https://lightbulbcomputer.com/)
+[Discuss on Lobsters](https://lobste.rs/s/k2natg) · [Source](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 
-10. oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c
+10. 'AI' is Not a Tool
 
-🦞 Lobsters · ⬆️ 65 points · 💬 31 comments · 👤 seb
+🦞 Lobsters · ⬆️ 92 points · 💬 35 comments · 👤 regulator
 
-A link to sebsite.pw titled "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c".
+A link to linkedin.com titled "'AI' is Not a Tool".
 
-[Discuss on Lobsters](https://lobste.rs/s/rb2ulg) · [Source](https://sebsite.pw/w/20261009-strtod.html)
+[Discuss on Lobsters](https://lobste.rs/s/ikk8ie) · [Source](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
-*daily-tech-digest · MileFisher · 2026-10-12T08:45:58.314Z*
+*daily-tech-digest · MileFisher · 2026-10-13T09:04:14.008Z*

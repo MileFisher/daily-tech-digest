@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "id": "item?id=50055304",
+      "title": {
+        "en": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "my": "ဥရောပတစ်ဝှမ်းစူပါမားကတ်ရေခဲသေတ္တာများတွင်အလိုအလျောက် defrosting activate ဟက်ကာများ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 678,
+      "comments": 804,
+      "author": "Zeekaas",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "discussUrl": "https://news.ycombinator.com/item?id=50055304"
+    },
+    {
+      "id": "item?id=50059115",
+      "title": {
+        "en": "Muse Wonder",
+        "my": "Muse Wonder"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 627,
+      "comments": 333,
+      "author": "meetpateltech",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "discussUrl": "https://news.ycombinator.com/item?id=50059115"
+    },
+    {
+      "id": "item?id=50060694",
+      "title": {
+        "en": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "my": "Codex CLI သည်ပုံမှန်အားဖြင့်စဉ်ဆက်မပြတ် ၊ မိမိကိုယ်ကိုအပ်ဒိတ်လုပ်သောနောက်ခံ daemon ကိုတပ်ဆင်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 554,
+      "comments": 273,
+      "author": "whimblepop",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "discussUrl": "https://news.ycombinator.com/item?id=50060694"
+    },
+    {
+      "id": "item?id=50058507",
+      "title": {
+        "en": "GLM-Legal",
+        "my": "GLM-Legal"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 551,
+      "comments": 313,
+      "author": "ilreb",
+      "url": "https://z.ai/blog/glm-legal",
+      "discussUrl": "https://news.ycombinator.com/item?id=50058507"
+    },
+    {
+      "id": "item?id=50058528",
+      "title": {
+        "en": "A Modern Web App in C",
+        "my": "C အတွက်တစ်ဦးကခေတ်သစ်က်ဘ် App ကို"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 551,
+      "comments": 232,
+      "author": "prophittcorey",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "discussUrl": "https://news.ycombinator.com/item?id=50058528"
+    },
+    {
+      "id": "item?id=50063427",
+      "title": {
+        "en": "AI is a tool and using it well takes skill",
+        "my": "A ားလံုးဟာ A က်U္းသားေတြျဖစ္ၿပီး A က်U္းသားေတြ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 397,
+      "comments": 319,
+      "author": "layer8",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50063427"
+    },
+    {
+      "id": "item?id=50055593",
+      "title": {
+        "en": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+        "my": "တစ်ဦး WIFI 7 Router ကိုတစ်ဦး 320Msps ဆော့ဖ်ဝဲကိုသတ်မှတ်ရေဒီယို Receiver သို့လှည့်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 343,
+      "comments": 90,
+      "author": "djfergus",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "discussUrl": "https://news.ycombinator.com/item?id=50055593"
+    },
+    {
+      "id": "qgybwb",
+      "title": {
+        "en": "D-Bus Hell",
+        "my": "D-ဘတ်စ်ကားငရဲ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 117,
+      "comments": 28,
+      "author": "isuffix",
+      "url": "https://dbushell.com/2026/10/11/d-bus-hell/",
+      "discussUrl": "https://lobste.rs/s/qgybwb"
+    },
+    {
+      "id": "k2natg",
+      "title": {
+        "en": "I'm sorry, but you still have to think",
+        "my": "သနားပါတယ္ ၊ စဥ္းစားစရာေတြ ရွိေနဆဲပါ ။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 96,
+      "comments": 6,
+      "author": "dimonomid",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "discussUrl": "https://lobste.rs/s/k2natg"
+    },
+    {
+      "id": "ikk8ie",
+      "title": {
+        "en": "'AI' is Not a Tool",
+        "my": "'အာ' က ကိရိယာမဟုတ္ဘူး ။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 92,
+      "comments": 35,
+      "author": "regulator",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "discussUrl": "https://lobste.rs/s/ikk8ie"
+    }
+  ]
+}
