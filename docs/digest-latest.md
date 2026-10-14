@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-13
+# 🗞️ Daily Tech Digest — 2026-10-14
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:04 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:14 ICT
 
 ---
 
-1. Hackers activate automatic defrosting in supermarket fridges across Europe
+1. Gemini 4 Argon
 
-🔶 Hacker News · ⬆️ 678 points · 💬 804 comments · 👤 Zeekaas
+🔶 Hacker News · ⬆️ 1215 points · 💬 856 comments · 👤 737max
 
-A link to tomshardware.com titled "Hackers activate automatic defrosting in supermarket fridges across Europe", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to deepmind.google titled "Gemini 4 Argon", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50055304) · [Source](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+[Discuss on HN](https://news.ycombinator.com/item?id=50073879) · [Source](https://deepmind.google/models/gemini/)
 
-2. Muse Wonder
+2. Apple HomeView
 
-🔶 Hacker News · ⬆️ 627 points · 💬 333 comments · 👤 meetpateltech
+🔶 Hacker News · ⬆️ 716 points · 💬 842 comments · 👤 etothet
 
-A link to research.meta.ai titled "Muse Wonder", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to apple.com titled "Apple HomeView", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50059115) · [Source](https://research.meta.ai/blog/muse-wonder)
+[Discuss on HN](https://news.ycombinator.com/item?id=50071017) · [Source](https://www.apple.com/apple-homeview/)
 
-3. Codex CLI installs a persistent, self-updating background daemon by default
+3. Redesigning source control at Anthropic
 
-🔶 Hacker News · ⬆️ 554 points · 💬 273 comments · 👤 whimblepop
+🔶 Hacker News · ⬆️ 713 points · 💬 689 comments · 👤 Philpax
 
-A link to github.com titled "Codex CLI installs a persistent, self-updating background daemon by default", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to anthropic.com titled "Redesigning source control at Anthropic", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50060694) · [Source](https://github.com/openai/codex/issues/48195)
+[Discuss on HN](https://news.ycombinator.com/item?id=50073633) · [Source](https://www.anthropic.com/engineering/redesigning-source-control)
 
-4. GLM-Legal
+4. 11 year old unsoundness bugs found in Rust borrow checker
 
-🔶 Hacker News · ⬆️ 551 points · 💬 313 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 710 points · 💬 395 comments · 👤 formerly_proven
 
-A link to z.ai titled "GLM-Legal", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to github.com titled "11 year old unsoundness bugs found in Rust borrow checker", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50058507) · [Source](https://z.ai/blog/glm-legal)
+[Discuss on HN](https://news.ycombinator.com/item?id=50069499) · [Source](https://github.com/rust-lang/rust/issues/164250)
 
-5. A Modern Web App in C
+5. AI is a tool and using it well takes skill
 
-🔶 Hacker News · ⬆️ 551 points · 💬 232 comments · 👤 prophittcorey
+🔶 Hacker News · ⬆️ 662 points · 💬 529 comments · 👤 layer8
 
-A link to prophitt.me titled "A Modern Web App in C", one of the highest-scoring stories on the front page, drawing significant discussion.
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50058528) · [Source](https://prophitt.me/writing/a-modern-web-app-in-c)
-
-6. AI is a tool and using it well takes skill
-
-🔶 Hacker News · ⬆️ 397 points · 💬 319 comments · 👤 layer8
-
-A link to yyhh.org titled "AI is a tool and using it well takes skill", a popular story on the front page, with an active discussion thread.
+A link to yyhh.org titled "AI is a tool and using it well takes skill", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50063427) · [Source](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
-7. Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver
+6. Ledger confirms spy chip implant behind wallet crypto thefts
 
-🔶 Hacker News · ⬆️ 343 points · 💬 90 comments · 👤 djfergus
+🔶 Hacker News · ⬆️ 624 points · 💬 415 comments · 👤 thm
 
-A link to github.com titled "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver", a popular story on the front page.
+A link to bleepingcomputer.com titled "Ledger confirms spy chip implant behind wallet crypto thefts", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50055593) · [Source](https://github.com/h0m3us3r/w1700k-sdr)
+[Discuss on HN](https://news.ycombinator.com/item?id=50054092) · [Source](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
-8. D-Bus Hell
+7. OpenAI engineer arrested in bugging of executive conference room
 
-🦞 Lobsters · ⬆️ 117 points · 💬 28 comments · 👤 isuffix
+🔶 Hacker News · ⬆️ 536 points · 💬 447 comments · 👤 forthwall
 
-A link to dbushell.com titled "D-Bus Hell".
+A link to sfstandard.com titled "OpenAI engineer arrested in bugging of executive conference room", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on Lobsters](https://lobste.rs/s/qgybwb) · [Source](https://dbushell.com/2026/10/11/d-bus-hell/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50078141) · [Source](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 
-9. I'm sorry, but you still have to think
+8. Vi Hart's Big Navier-Stokes Post
 
-🦞 Lobsters · ⬆️ 96 points · 💬 6 comments · 👤 dimonomid
+🦞 Lobsters · ⬆️ 99 points · 💬 4 comments · 👤 archagon
 
-A link to itsallaboutthebit.com titled "I'm sorry, but you still have to think".
+A link to patreon.com titled "Vi Hart's Big Navier-Stokes Post".
 
-[Discuss on Lobsters](https://lobste.rs/s/k2natg) · [Source](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
+[Discuss on Lobsters](https://lobste.rs/s/j30pg4) · [Source](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 
-10. 'AI' is Not a Tool
+9. A plea not to use uv-build
 
-🦞 Lobsters · ⬆️ 92 points · 💬 35 comments · 👤 regulator
+🦞 Lobsters · ⬆️ 77 points · 💬 34 comments · 👤 lim
 
-A link to linkedin.com titled "'AI' is Not a Tool".
+A link to blogs.gentoo.org titled "A plea not to use uv-build".
 
-[Discuss on Lobsters](https://lobste.rs/s/ikk8ie) · [Source](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+[Discuss on Lobsters](https://lobste.rs/s/73ssw1) · [Source](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 
-*daily-tech-digest · MileFisher · 2026-10-13T09:04:14.008Z*
+10. Who is vfmaddrnd231pd??
+
+🦞 Lobsters · ⬆️ 75 points · 💬 15 comments · 👤 valdemar
+
+A link to purplesyringa.moe titled "Who is vfmaddrnd231pd??".
+
+[Discuss on Lobsters](https://lobste.rs/s/2h9opx) · [Source](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+
+*daily-tech-digest · MileFisher · 2026-10-14T07:14:00.963Z*

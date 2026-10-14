@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-13
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-14
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:04 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:14 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. ဥရောပတစ်ဝှမ်းစူပါမားကတ်ရေခဲသေတ္တာများတွင်အလိုအလျောက် defrosting activate ဟက်ကာများ
+1. Gemini 4 Argon
 
-🔶 Hacker News · ⬆️ 678 points · 💬 804 comments · 👤 Zeekaas
+🔶 Hacker News · ⬆️ 1215 points · 💬 856 comments · 👤 737max
 
-Tomshardware.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ဟက်ကာများသည်ဥရောပတစ်ဝှမ်းရှိစူပါမားကတ်ရေခဲသေတ္တာများတွင်အလိုအလျောက် defrosting ကိုသက်ဝင်စေသည်" ၊ ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်များထဲမှတစ်ခုဖြစ်သည် ။
+"Gemini 4 Argon" ဟုအမည်ပေးထားသော deepmind.google သို့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွစွာဆွေးနွေးချက်ချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50055304) · [Source](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+[Discuss on HN](https://news.ycombinator.com/item?id=50073879) · [Source](https://deepmind.google/models/gemini/)
 
-2. Muse Wonder
+2. Apple HomeView
 
-🔶 Hacker News · ⬆️ 627 points · 💬 333 comments · 👤 meetpateltech
+🔶 Hacker News · ⬆️ 716 points · 💬 842 comments · 👤 etothet
 
-&quot;Muse Wonder&quot; ဟု အမည်ပေးထားသော research.meta.ai သို့ လင့်ခ်တစ်ခု၊ ၎င်းသည် မျက်နှာဖုံးတွင် အမှတ်အများဆုံးရရှိသော ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှု thread တစ်ခုပါရှိသည်။
+"Apple HomeView" လို့ အမည်ပေးထားတဲ့ apple.com ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက်ချည်နှောင်ထားပါတယ် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50059115) · [Source](https://research.meta.ai/blog/muse-wonder)
+[Discuss on HN](https://news.ycombinator.com/item?id=50071017) · [Source](https://www.apple.com/apple-homeview/)
 
-3. Codex CLI သည်ပုံမှန်အားဖြင့်စဉ်ဆက်မပြတ် ၊ မိမိကိုယ်ကိုအပ်ဒိတ်လုပ်သောနောက်ခံ daemon ကိုတပ်ဆင်သည်
+3. Anthropic တွင်အရင်းအမြစ်ထိန်းချုပ်မှုကိုပြန်လည်ဒီဇိုင်းဆွဲခြင်း
 
-🔶 Hacker News · ⬆️ 554 points · 💬 273 comments · 👤 whimblepop
+🔶 Hacker News · ⬆️ 713 points · 💬 689 comments · 👤 Philpax
 
-Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Codex CLI သည်ပုံမှန်အားဖြင့်စဉ်ဆက်မပြတ် ၊ မိမိကိုယ်ကိုအပ်ဒိတ်လုပ်သောနောက်ခံ daemon ကိုတပ်ဆင်သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲသည် ။
+Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Anthropic မှာအရင်းအမြစ်ထိန်းချုပ်မှု Redesigning," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50060694) · [Source](https://github.com/openai/codex/issues/48195)
+[Discuss on HN](https://news.ycombinator.com/item?id=50073633) · [Source](https://www.anthropic.com/engineering/redesigning-source-control)
 
-4. GLM-Legal
+4. 11 နှစ်အရွယ် unsoundness bug တွေ Rust ချေး checker မှာတွေ့ရှိ
 
-🔶 Hacker News · ⬆️ 551 points · 💬 313 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 710 points · 💬 395 comments · 👤 formerly_proven
 
-Z.ai အမည်ရှိ link တစ်ခု "GLM-Legal", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+"Rust ချေးငွေစစ်ဆေးသူတွင်တွေ့ရသော ၁၁ နှစ်အရွယ် unsoundness bugs" ခေါင်းစဉ်ဖြင့် github.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိရမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50058507) · [Source](https://z.ai/blog/glm-legal)
+[Discuss on HN](https://news.ycombinator.com/item?id=50069499) · [Source](https://github.com/rust-lang/rust/issues/164250)
 
-5. C အတွက်တစ်ဦးကခေတ်သစ်က်ဘ် App ကို
+5. A ားလံုးဟာ A က်U္းသားေတြျဖစ္ၿပီး A က်U္းသားေတြ
 
-🔶 Hacker News · ⬆️ 551 points · 💬 232 comments · 👤 prophittcorey
+🔶 Hacker News · ⬆️ 662 points · 💬 529 comments · 👤 layer8
 
-"A Modern Web App in C" ခေါင်းစဉ်ဖြင့် prophitt.me သို့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50058528) · [Source](https://prophitt.me/writing/a-modern-web-app-in-c)
-
-6. A ားလံုးဟာ A က်U္းသားေတြျဖစ္ၿပီး A က်U္းသားေတြ
-
-🔶 Hacker News · ⬆️ 397 points · 💬 319 comments · 👤 layer8
-
-"AI သည်ကိရိယာတစ်ခုဖြစ်ပြီး ၎ င်းကိုကောင်းစွာအသုံးပြုခြင်းသည်ကျွမ်းကျင်မှုလိုအပ်သည်" ဟုခေါင်းစဉ်တပ်ထားသော yyhh.org သို့ link တစ်ခုသည်ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+Yyhh.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "AI သည်ကိရိယာတစ်ခုဖြစ်ပြီး ၎ င်းကိုကောင်းစွာအသုံးပြုခြင်းသည်ကျွမ်းကျင်မှုလိုအပ်သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50063427) · [Source](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
-7. တစ်ဦး WIFI 7 Router ကိုတစ်ဦး 320Msps ဆော့ဖ်ဝဲကိုသတ်မှတ်ရေဒီယို Receiver သို့လှည့်
+6. Ledger ပိုက်ဆံအိတ် crypto ခိုးယူမှုနောက်ကွယ်မှသူလျှို chip ကို implant အတည်ပြု
 
-🔶 Hacker News · ⬆️ 343 points · 💬 90 comments · 👤 djfergus
+🔶 Hacker News · ⬆️ 624 points · 💬 415 comments · 👤 thm
 
-Github.com သို့ "WiFi 7 Router ကို 320Msps Software Defined Radio Receiver သို့ပြောင်းပါ" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ်ဖြစ်သည် ။
+Bleepingcomputer.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Ledger အိတ်ဆောင် crypto ခိုးယူမှုများနောက်ကွယ်မှသူလျှို chip ကို implant အတည်ပြု" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ပုံပြင်များထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50055593) · [Source](https://github.com/h0m3us3r/w1700k-sdr)
+[Discuss on HN](https://news.ycombinator.com/item?id=50054092) · [Source](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
-8. D-ဘတ်စ်ကားငရဲ
+7. OpenAI အင်ဂျင်နီယာအလုပ်အမှုဆောင်ကွန်ဖရင့်ခန်း ၏ bugging အဖမ်းခံခဲ့ရ
 
-🦞 Lobsters · ⬆️ 117 points · 💬 28 comments · 👤 isuffix
+🔶 Hacker News · ⬆️ 536 points · 💬 447 comments · 👤 forthwall
 
-Dbushell.com မှ "D-ဘတ်စ်ကားငရဲ" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Sfstandard.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "အမှုဆောင်ကွန်ဖရင့်အခန်း ၏ bugging အတွက်ဖမ်းဆီး OpenAI အင်ဂျင်နီယာ", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခု, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on Lobsters](https://lobste.rs/s/qgybwb) · [Source](https://dbushell.com/2026/10/11/d-bus-hell/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50078141) · [Source](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 
-9. သနားပါတယ္ ၊ စဥ္းစားစရာေတြ ရွိေနဆဲပါ ။
+8. Vi Hart ရဲ့ Big Navier-Stokes Post ကို
 
-🦞 Lobsters · ⬆️ 96 points · 💬 6 comments · 👤 dimonomid
+🦞 Lobsters · ⬆️ 99 points · 💬 4 comments · 👤 archagon
 
-A link to itsallaboutthebit.com ခေါင်းစဉ်ဖြင့် "စိတ်မကောင်းပါဘူး ၊ သို့သော်သင်စဉ်းစားရန်လိုသေးသည် ။
+"Vi Hart's Big Navier-Stokes Post" ခေါင်းစဉ်ဖြင့် patreon.com သို့ လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/k2natg) · [Source](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
+[Discuss on Lobsters](https://lobste.rs/s/j30pg4) · [Source](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 
-10. 'အာ' က ကိရိယာမဟုတ္ဘူး ။
+9. Ubuntu ကို မသုံးဖို့ အကြံပြုချက်
 
-🦞 Lobsters · ⬆️ 92 points · 💬 35 comments · 👤 regulator
+🦞 Lobsters · ⬆️ 77 points · 💬 34 comments · 👤 lim
 
-Linkedin.com သို့ "'AI' သည်ကိရိယာတစ်ခုမဟုတ်ပါ" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ။
+"uv-build ကို အသုံးမပြုရန် မေတ္တာရပ်ခံချက်" ခေါင်းစဉ်ဖြင့် blogs.gentoo.org သို့ လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/ikk8ie) · [Source](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+[Discuss on Lobsters](https://lobste.rs/s/73ssw1) · [Source](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 
-*daily-tech-digest · MileFisher · 2026-10-13T09:04:14.008Z*
+10. Vfmaddrnd231pd ဆိုတာ ဘယ္သူလဲ
+
+🦞 Lobsters · ⬆️ 75 points · 💬 15 comments · 👤 valdemar
+
+Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/ဗမာ_(ဗမာ_ဗမာ) "မှ ရယူရန်
+
+[Discuss on Lobsters](https://lobste.rs/s/2h9opx) · [Source](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+
+*daily-tech-digest · MileFisher · 2026-10-14T07:14:00.963Z*
