@@ -1,117 +1,117 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
-      "id": "item?id=50073879",
+      "id": "item?id=50093568",
       "title": {
-        "en": "Gemini 4 Argon",
-        "my": "Gemini 4 Argon"
+        "en": "Things to know when you get cancer",
+        "my": "ကင်ဆာဖြစ်တဲ့အခါ သိထားသင့်တဲ့ အရာများ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1215,
-      "comments": 856,
-      "author": "737max",
-      "url": "https://deepmind.google/models/gemini/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50073879"
+      "score": 1178,
+      "comments": 296,
+      "author": "jjmaxwell4",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50093568"
     },
     {
-      "id": "item?id=50071017",
+      "id": "item?id=50091788",
       "title": {
-        "en": "Apple HomeView",
-        "my": "Apple HomeView"
+        "en": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+        "my": "ထိန်းချုပ်ရေးနှင့်စောင့်ကြည့်ရေးပျက်ကွက် AI ကိုဟက်ကာအစီရင်ခံစာများအတွက်အပြစ်ရှိသည်: ကျွမ်းကျင်သူများက"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 716,
-      "comments": 842,
-      "author": "etothet",
-      "url": "https://www.apple.com/apple-homeview/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50071017"
+      "score": 874,
+      "comments": 512,
+      "author": "latexr",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50091788"
     },
     {
-      "id": "item?id=50073633",
+      "id": "item?id=50084757",
       "title": {
-        "en": "Redesigning source control at Anthropic",
-        "my": "Anthropic တွင်အရင်းအမြစ်ထိန်းချုပ်မှုကိုပြန်လည်ဒီဇိုင်းဆွဲခြင်း"
+        "en": "How Amazon pushes up prices all across the Internet",
+        "my": "Amazon သည်အင်တာနက်တစ်လျှောက်ရှိစျေးနှုန်းများကိုမည်သို့တွန်းအားပေးသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 713,
-      "comments": 689,
-      "author": "Philpax",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "discussUrl": "https://news.ycombinator.com/item?id=50073633"
+      "score": 795,
+      "comments": 625,
+      "author": "sighborg",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50084757"
     },
     {
-      "id": "item?id=50069499",
+      "id": "item?id=50050553",
       "title": {
-        "en": "11 year old unsoundness bugs found in Rust borrow checker",
-        "my": "11 နှစ်အရွယ် unsoundness bug တွေ Rust ချေး checker မှာတွေ့ရှိ"
+        "en": "Do dentists know what they're doing?",
+        "my": "သူတို့ဘာတွေလုပ်နေလဲဆိုတာ ဒိုင်လူကြီးတွေ သိကြလား ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 710,
-      "comments": 395,
-      "author": "formerly_proven",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "discussUrl": "https://news.ycombinator.com/item?id=50069499"
+      "score": 614,
+      "comments": 431,
+      "author": "doitLP",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "discussUrl": "https://news.ycombinator.com/item?id=50050553"
     },
     {
-      "id": "item?id=50063427",
+      "id": "item?id=50088935",
       "title": {
-        "en": "AI is a tool and using it well takes skill",
-        "my": "A ားလံုးဟာ A က်U္းသားေတြျဖစ္ၿပီး A က်U္းသားေတြ"
+        "en": "Passkeys are not a trap",
+        "my": "PASSKEYS သည်ထောင်ချောက်မဟုတ်ပါ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 662,
-      "comments": 529,
-      "author": "layer8",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50063427"
+      "score": 575,
+      "comments": 725,
+      "author": "speckx",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50088935"
     },
     {
-      "id": "item?id=50054092",
+      "id": "item?id=50094994",
       "title": {
-        "en": "Ledger confirms spy chip implant behind wallet crypto thefts",
-        "my": "Ledger ပိုက်ဆံအိတ် crypto ခိုးယူမှုနောက်ကွယ်မှသူလျှို chip ကို implant အတည်ပြု"
+        "en": "OpenCode 2.0",
+        "my": "OpenCode 2.0"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 624,
-      "comments": 415,
-      "author": "thm",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50054092"
+      "score": 522,
+      "comments": 207,
+      "author": "gmays",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50094994"
     },
     {
-      "id": "item?id=50078141",
+      "id": "item?id=50090349",
       "title": {
-        "en": "OpenAI engineer arrested in bugging of executive conference room",
-        "my": "OpenAI အင်ဂျင်နီယာအလုပ်အမှုဆောင်ကွန်ဖရင့်ခန်း ၏ bugging အဖမ်းခံခဲ့ရ"
+        "en": "Google is silently linking your phone number across all signed-in accounts",
+        "my": "Google သည်သင် ၏ ဖုန်းနံပါတ်ကို sign-in လုပ်ထားသောအကောင့်အားလုံးတွင်တိတ်တဆိတ်ချိတ်ဆက်နေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 536,
-      "comments": 447,
-      "author": "forthwall",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50078141"
+      "score": 451,
+      "comments": 120,
+      "author": "Brajeshwar",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50090349"
     },
     {
-      "id": "j30pg4",
+      "id": "7xg9rm",
       "title": {
-        "en": "Vi Hart's Big Navier-Stokes Post",
-        "my": "Vi Hart ရဲ့ Big Navier-Stokes Post ကို"
+        "en": "Introducing Firefox Enterprise",
+        "my": "Firefox Enterprise ကို မိတ်ဆက်ခြင်း"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 99,
-      "comments": 4,
-      "author": "archagon",
-      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-      "discussUrl": "https://lobste.rs/s/j30pg4"
+      "score": 112,
+      "comments": 31,
+      "author": "viccuad",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "discussUrl": "https://lobste.rs/s/7xg9rm"
     },
     {
       "id": "73ssw1",
@@ -121,25 +121,25 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 77,
-      "comments": 34,
+      "score": 96,
+      "comments": 71,
       "author": "lim",
       "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
       "discussUrl": "https://lobste.rs/s/73ssw1"
     },
     {
-      "id": "2h9opx",
+      "id": "uiulqe",
       "title": {
-        "en": "Who is vfmaddrnd231pd??",
-        "my": "Vfmaddrnd231pd ဆိုတာ ဘယ္သူလဲ"
+        "en": "Did Ente Locker copy my code without attribution?",
+        "my": "Ente Locker သည် attribution မပါဘဲကျွန်ုပ် ၏ ကုဒ်ကိုကူးယူခဲ့ပါသလား ။"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 75,
-      "comments": 15,
-      "author": "valdemar",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "discussUrl": "https://lobste.rs/s/2h9opx"
+      "score": 91,
+      "comments": 14,
+      "author": "tusharhero",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "discussUrl": "https://lobste.rs/s/uiulqe"
     }
   ]
 }

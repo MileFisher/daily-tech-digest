@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-14
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-15
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:14 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:05 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Gemini 4 Argon
+1. ကင်ဆာဖြစ်တဲ့အခါ သိထားသင့်တဲ့ အရာများ
 
-🔶 Hacker News · ⬆️ 1215 points · 💬 856 comments · 👤 737max
+🔶 Hacker News · ⬆️ 1178 points · 💬 296 comments · 👤 jjmaxwell4
 
-"Gemini 4 Argon" ဟုအမည်ပေးထားသော deepmind.google သို့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွစွာဆွေးနွေးချက်ချည်နှောင်ထားသည် ။
+Jjmaxwell4.com သို့ပေးပို့ထားသော link တစ်ခု "ကင်ဆာရောဂါရသည့်အခါသိရန်အရာများ" ခေါင်းစဉ်ဖြင့်, ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50073879) · [Source](https://deepmind.google/models/gemini/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50093568) · [Source](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 
-2. Apple HomeView
+2. ထိန်းချုပ်ရေးနှင့်စောင့်ကြည့်ရေးပျက်ကွက် AI ကိုဟက်ကာအစီရင်ခံစာများအတွက်အပြစ်ရှိသည်: ကျွမ်းကျင်သူများက
 
-🔶 Hacker News · ⬆️ 716 points · 💬 842 comments · 👤 etothet
+🔶 Hacker News · ⬆️ 874 points · 💬 512 comments · 👤 latexr
 
-"Apple HomeView" လို့ အမည်ပေးထားတဲ့ apple.com ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက်ချည်နှောင်ထားပါတယ် ။
+Csoonline.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ထိန်းချုပ်မှုနှင့်စောင့်ကြည့်ရေးပျက်ကွက်မှုများမှာ AI ဟက်ကာအစီရင်ခံစာများအတွက်အပြစ်တင်ရန်ဖြစ်သည်: ကျွမ်းကျင်သူများ", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50071017) · [Source](https://www.apple.com/apple-homeview/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50091788) · [Source](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
-3. Anthropic တွင်အရင်းအမြစ်ထိန်းချုပ်မှုကိုပြန်လည်ဒီဇိုင်းဆွဲခြင်း
+3. Amazon သည်အင်တာနက်တစ်လျှောက်ရှိစျေးနှုန်းများကိုမည်သို့တွန်းအားပေးသည်
 
-🔶 Hacker News · ⬆️ 713 points · 💬 689 comments · 👤 Philpax
+🔶 Hacker News · ⬆️ 795 points · 💬 625 comments · 👤 sighborg
 
-Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Anthropic မှာအရင်းအမြစ်ထိန်းချုပ်မှု Redesigning," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများတစ်ခုဖြစ်သည် ။
+Not-ship.com ခေါင်းစဉ်နဲ့ link တစ်ခု "အမေဇုံအားလုံးအင်တာနက်ကိုဖြတ်ပြီးစျေးနှုန်းများတက်တွန်း", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50073633) · [Source](https://www.anthropic.com/engineering/redesigning-source-control)
+[Discuss on HN](https://news.ycombinator.com/item?id=50084757) · [Source](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 
-4. 11 နှစ်အရွယ် unsoundness bug တွေ Rust ချေး checker မှာတွေ့ရှိ
+4. သူတို့ဘာတွေလုပ်နေလဲဆိုတာ ဒိုင်လူကြီးတွေ သိကြလား ။
 
-🔶 Hacker News · ⬆️ 710 points · 💬 395 comments · 👤 formerly_proven
+🔶 Hacker News · ⬆️ 614 points · 💬 431 comments · 👤 doitLP
 
-"Rust ချေးငွေစစ်ဆေးသူတွင်တွေ့ရသော ၁၁ နှစ်အရွယ် unsoundness bugs" ခေါင်းစဉ်ဖြင့် github.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိရမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
+Mapwriting.substack.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "သွားဆရာဝန်များသူတို့ဘာတွေလုပ်နေတယ်ဆိုတာသိပါသလား", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ပုံပြင်တစ်ခု, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50069499) · [Source](https://github.com/rust-lang/rust/issues/164250)
+[Discuss on HN](https://news.ycombinator.com/item?id=50050553) · [Source](https://mapwriting.substack.com/p/dentists)
 
-5. A ားလံုးဟာ A က်U္းသားေတြျဖစ္ၿပီး A က်U္းသားေတြ
+5. PASSKEYS သည်ထောင်ချောက်မဟုတ်ပါ
 
-🔶 Hacker News · ⬆️ 662 points · 💬 529 comments · 👤 layer8
+🔶 Hacker News · ⬆️ 575 points · 💬 725 comments · 👤 speckx
 
-Yyhh.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "AI သည်ကိရိယာတစ်ခုဖြစ်ပြီး ၎ င်းကိုကောင်းစွာအသုံးပြုခြင်းသည်ကျွမ်းကျင်မှုလိုအပ်သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+Scotthelme. co. uk ခေါင်းစဉ်ဖြင့် link တစ်ခု "Passkeys သည်ထောင်ချောက်မဟုတ်ပါ" တက်ကြွစွာဆွေးနွေးချက်ချည်နှောင်ထားသောစာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50063427) · [Source](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50088935) · [Source](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 
-6. Ledger ပိုက်ဆံအိတ် crypto ခိုးယူမှုနောက်ကွယ်မှသူလျှို chip ကို implant အတည်ပြု
+6. OpenCode 2.0
 
-🔶 Hacker News · ⬆️ 624 points · 💬 415 comments · 👤 thm
+🔶 Hacker News · ⬆️ 522 points · 💬 207 comments · 👤 gmays
 
-Bleepingcomputer.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Ledger အိတ်ဆောင် crypto ခိုးယူမှုများနောက်ကွယ်မှသူလျှို chip ကို implant အတည်ပြု" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ပုံပြင်များထဲမှတစ်ခုဖြစ်သည် ။
+Anoma.ly ခေါင်းစဉ်ဖြင့် link တစ်ခု "OpenCode 2.0", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ပုံပြင်များထဲမှတစ်ခုဖြစ်သည်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50054092) · [Source](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50094994) · [Source](https://anoma.ly/notes/opencode-2-0/)
 
-7. OpenAI အင်ဂျင်နီယာအလုပ်အမှုဆောင်ကွန်ဖရင့်ခန်း ၏ bugging အဖမ်းခံခဲ့ရ
+7. Google သည်သင် ၏ ဖုန်းနံပါတ်ကို sign-in လုပ်ထားသောအကောင့်အားလုံးတွင်တိတ်တဆိတ်ချိတ်ဆက်နေသည်
 
-🔶 Hacker News · ⬆️ 536 points · 💬 447 comments · 👤 forthwall
+🔶 Hacker News · ⬆️ 451 points · 💬 120 comments · 👤 Brajeshwar
 
-Sfstandard.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "အမှုဆောင်ကွန်ဖရင့်အခန်း ၏ bugging အတွက်ဖမ်းဆီး OpenAI အင်ဂျင်နီယာ", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခု, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+Androidauthority.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Google သည်သင် ၏ ဖုန်းနံပါတ်ကို sign-in လုပ်ထားသောအကောင့်အားလုံးတွင်တိတ်တဆိတ်ချိတ်ဆက်နေသည်" ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50078141) · [Source](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50090349) · [Source](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/)
 
-8. Vi Hart ရဲ့ Big Navier-Stokes Post ကို
+8. Firefox Enterprise ကို မိတ်ဆက်ခြင်း
 
-🦞 Lobsters · ⬆️ 99 points · 💬 4 comments · 👤 archagon
+🦞 Lobsters · ⬆️ 112 points · 💬 31 comments · 👤 viccuad
 
-"Vi Hart's Big Navier-Stokes Post" ခေါင်းစဉ်ဖြင့် patreon.com သို့ လင့်ခ်တစ်ခု ။
+"Firefox Enterprise ကို မိတ်ဆက်ခြင်း" ခေါင်းစဉ်ဖြင့် blog.mozilla.org သို့ လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/j30pg4) · [Source](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
+[Discuss on Lobsters](https://lobste.rs/s/7xg9rm) · [Source](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 
 9. Ubuntu ကို မသုံးဖို့ အကြံပြုချက်
 
-🦞 Lobsters · ⬆️ 77 points · 💬 34 comments · 👤 lim
+🦞 Lobsters · ⬆️ 96 points · 💬 71 comments · 👤 lim
 
 "uv-build ကို အသုံးမပြုရန် မေတ္တာရပ်ခံချက်" ခေါင်းစဉ်ဖြင့် blogs.gentoo.org သို့ လင့်ခ်တစ်ခု ။
 
 [Discuss on Lobsters](https://lobste.rs/s/73ssw1) · [Source](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 
-10. Vfmaddrnd231pd ဆိုတာ ဘယ္သူလဲ
+10. Ente Locker သည် attribution မပါဘဲကျွန်ုပ် ၏ ကုဒ်ကိုကူးယူခဲ့ပါသလား ။
 
-🦞 Lobsters · ⬆️ 75 points · 💬 15 comments · 👤 valdemar
+🦞 Lobsters · ⬆️ 91 points · 💬 14 comments · 👤 tusharhero
 
-Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/ဗမာ_(ဗမာ_ဗမာ) "မှ ရယူရန်
+Fairscan.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "Ente Locker attribution မပါဘဲငါ့ကုဒ်ကိုကူးယူခဲ့သလား ။"
 
-[Discuss on Lobsters](https://lobste.rs/s/2h9opx) · [Source](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+[Discuss on Lobsters](https://lobste.rs/s/uiulqe) · [Source](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 
-*daily-tech-digest · MileFisher · 2026-10-14T07:14:00.963Z*
+*daily-tech-digest · MileFisher · 2026-10-15T07:05:44.467Z*

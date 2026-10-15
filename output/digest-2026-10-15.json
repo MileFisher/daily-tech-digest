@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-15",
+  "items": [
+    {
+      "id": "item?id=50093568",
+      "title": {
+        "en": "Things to know when you get cancer",
+        "my": "ကင်ဆာဖြစ်တဲ့အခါ သိထားသင့်တဲ့ အရာများ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1178,
+      "comments": 296,
+      "author": "jjmaxwell4",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50093568"
+    },
+    {
+      "id": "item?id=50091788",
+      "title": {
+        "en": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+        "my": "ထိန်းချုပ်ရေးနှင့်စောင့်ကြည့်ရေးပျက်ကွက် AI ကိုဟက်ကာအစီရင်ခံစာများအတွက်အပြစ်ရှိသည်: ကျွမ်းကျင်သူများက"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 874,
+      "comments": 512,
+      "author": "latexr",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50091788"
+    },
+    {
+      "id": "item?id=50084757",
+      "title": {
+        "en": "How Amazon pushes up prices all across the Internet",
+        "my": "Amazon သည်အင်တာနက်တစ်လျှောက်ရှိစျေးနှုန်းများကိုမည်သို့တွန်းအားပေးသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 795,
+      "comments": 625,
+      "author": "sighborg",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50084757"
+    },
+    {
+      "id": "item?id=50050553",
+      "title": {
+        "en": "Do dentists know what they're doing?",
+        "my": "သူတို့ဘာတွေလုပ်နေလဲဆိုတာ ဒိုင်လူကြီးတွေ သိကြလား ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 614,
+      "comments": 431,
+      "author": "doitLP",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "discussUrl": "https://news.ycombinator.com/item?id=50050553"
+    },
+    {
+      "id": "item?id=50088935",
+      "title": {
+        "en": "Passkeys are not a trap",
+        "my": "PASSKEYS သည်ထောင်ချောက်မဟုတ်ပါ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 575,
+      "comments": 725,
+      "author": "speckx",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50088935"
+    },
+    {
+      "id": "item?id=50094994",
+      "title": {
+        "en": "OpenCode 2.0",
+        "my": "OpenCode 2.0"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 522,
+      "comments": 207,
+      "author": "gmays",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50094994"
+    },
+    {
+      "id": "item?id=50090349",
+      "title": {
+        "en": "Google is silently linking your phone number across all signed-in accounts",
+        "my": "Google သည်သင် ၏ ဖုန်းနံပါတ်ကို sign-in လုပ်ထားသောအကောင့်အားလုံးတွင်တိတ်တဆိတ်ချိတ်ဆက်နေသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 451,
+      "comments": 120,
+      "author": "Brajeshwar",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50090349"
+    },
+    {
+      "id": "7xg9rm",
+      "title": {
+        "en": "Introducing Firefox Enterprise",
+        "my": "Firefox Enterprise ကို မိတ်ဆက်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 112,
+      "comments": 31,
+      "author": "viccuad",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "discussUrl": "https://lobste.rs/s/7xg9rm"
+    },
+    {
+      "id": "73ssw1",
+      "title": {
+        "en": "A plea not to use uv-build",
+        "my": "Ubuntu ကို မသုံးဖို့ အကြံပြုချက်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 96,
+      "comments": 71,
+      "author": "lim",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "discussUrl": "https://lobste.rs/s/73ssw1"
+    },
+    {
+      "id": "uiulqe",
+      "title": {
+        "en": "Did Ente Locker copy my code without attribution?",
+        "my": "Ente Locker သည် attribution မပါဘဲကျွန်ုပ် ၏ ကုဒ်ကိုကူးယူခဲ့ပါသလား ။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 91,
+      "comments": 14,
+      "author": "tusharhero",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "discussUrl": "https://lobste.rs/s/uiulqe"
+    }
+  ]
+}

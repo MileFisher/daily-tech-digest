@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-14
+# 🗞️ Daily Tech Digest — 2026-10-15
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:14 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:05 ICT
 
 ---
 
-1. Gemini 4 Argon
+1. Things to know when you get cancer
 
-🔶 Hacker News · ⬆️ 1215 points · 💬 856 comments · 👤 737max
+🔶 Hacker News · ⬆️ 1178 points · 💬 296 comments · 👤 jjmaxwell4
 
-A link to deepmind.google titled "Gemini 4 Argon", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to jjmaxwell4.com titled "Things to know when you get cancer", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50073879) · [Source](https://deepmind.google/models/gemini/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50093568) · [Source](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 
-2. Apple HomeView
+2. Containment and monitoring failures are to blame for AI hacking reports: experts
 
-🔶 Hacker News · ⬆️ 716 points · 💬 842 comments · 👤 etothet
+🔶 Hacker News · ⬆️ 874 points · 💬 512 comments · 👤 latexr
 
-A link to apple.com titled "Apple HomeView", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to csoonline.com titled "Containment and monitoring failures are to blame for AI hacking reports: experts", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50071017) · [Source](https://www.apple.com/apple-homeview/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50091788) · [Source](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
-3. Redesigning source control at Anthropic
+3. How Amazon pushes up prices all across the Internet
 
-🔶 Hacker News · ⬆️ 713 points · 💬 689 comments · 👤 Philpax
+🔶 Hacker News · ⬆️ 795 points · 💬 625 comments · 👤 sighborg
 
-A link to anthropic.com titled "Redesigning source control at Anthropic", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to not-ship.com titled "How Amazon pushes up prices all across the Internet", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50073633) · [Source](https://www.anthropic.com/engineering/redesigning-source-control)
+[Discuss on HN](https://news.ycombinator.com/item?id=50084757) · [Source](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 
-4. 11 year old unsoundness bugs found in Rust borrow checker
+4. Do dentists know what they're doing?
 
-🔶 Hacker News · ⬆️ 710 points · 💬 395 comments · 👤 formerly_proven
+🔶 Hacker News · ⬆️ 614 points · 💬 431 comments · 👤 doitLP
 
-A link to github.com titled "11 year old unsoundness bugs found in Rust borrow checker", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to mapwriting.substack.com titled "Do dentists know what they're doing?", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50069499) · [Source](https://github.com/rust-lang/rust/issues/164250)
+[Discuss on HN](https://news.ycombinator.com/item?id=50050553) · [Source](https://mapwriting.substack.com/p/dentists)
 
-5. AI is a tool and using it well takes skill
+5. Passkeys are not a trap
 
-🔶 Hacker News · ⬆️ 662 points · 💬 529 comments · 👤 layer8
+🔶 Hacker News · ⬆️ 575 points · 💬 725 comments · 👤 speckx
 
-A link to yyhh.org titled "AI is a tool and using it well takes skill", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to scotthelme.co.uk titled "Passkeys are not a trap", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50063427) · [Source](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50088935) · [Source](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 
-6. Ledger confirms spy chip implant behind wallet crypto thefts
+6. OpenCode 2.0
 
-🔶 Hacker News · ⬆️ 624 points · 💬 415 comments · 👤 thm
+🔶 Hacker News · ⬆️ 522 points · 💬 207 comments · 👤 gmays
 
-A link to bleepingcomputer.com titled "Ledger confirms spy chip implant behind wallet crypto thefts", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to anoma.ly titled "OpenCode 2.0", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50054092) · [Source](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50094994) · [Source](https://anoma.ly/notes/opencode-2-0/)
 
-7. OpenAI engineer arrested in bugging of executive conference room
+7. Google is silently linking your phone number across all signed-in accounts
 
-🔶 Hacker News · ⬆️ 536 points · 💬 447 comments · 👤 forthwall
+🔶 Hacker News · ⬆️ 451 points · 💬 120 comments · 👤 Brajeshwar
 
-A link to sfstandard.com titled "OpenAI engineer arrested in bugging of executive conference room", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to androidauthority.com titled "Google is silently linking your phone number across all signed-in accounts", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50078141) · [Source](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50090349) · [Source](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/)
 
-8. Vi Hart's Big Navier-Stokes Post
+8. Introducing Firefox Enterprise
 
-🦞 Lobsters · ⬆️ 99 points · 💬 4 comments · 👤 archagon
+🦞 Lobsters · ⬆️ 112 points · 💬 31 comments · 👤 viccuad
 
-A link to patreon.com titled "Vi Hart's Big Navier-Stokes Post".
+A link to blog.mozilla.org titled "Introducing Firefox Enterprise".
 
-[Discuss on Lobsters](https://lobste.rs/s/j30pg4) · [Source](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
+[Discuss on Lobsters](https://lobste.rs/s/7xg9rm) · [Source](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 
 9. A plea not to use uv-build
 
-🦞 Lobsters · ⬆️ 77 points · 💬 34 comments · 👤 lim
+🦞 Lobsters · ⬆️ 96 points · 💬 71 comments · 👤 lim
 
 A link to blogs.gentoo.org titled "A plea not to use uv-build".
 
 [Discuss on Lobsters](https://lobste.rs/s/73ssw1) · [Source](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 
-10. Who is vfmaddrnd231pd??
+10. Did Ente Locker copy my code without attribution?
 
-🦞 Lobsters · ⬆️ 75 points · 💬 15 comments · 👤 valdemar
+🦞 Lobsters · ⬆️ 91 points · 💬 14 comments · 👤 tusharhero
 
-A link to purplesyringa.moe titled "Who is vfmaddrnd231pd??".
+A link to fairscan.org titled "Did Ente Locker copy my code without attribution?".
 
-[Discuss on Lobsters](https://lobste.rs/s/2h9opx) · [Source](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+[Discuss on Lobsters](https://lobste.rs/s/uiulqe) · [Source](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 
-*daily-tech-digest · MileFisher · 2026-10-14T07:14:00.963Z*
+*daily-tech-digest · MileFisher · 2026-10-15T07:05:44.467Z*
