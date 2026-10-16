@@ -1,103 +1,117 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
-      "id": "item?id=50093568",
+      "id": "item?id=50107379",
       "title": {
-        "en": "Things to know when you get cancer",
-        "my": "ကင်ဆာဖြစ်တဲ့အခါ သိထားသင့်တဲ့ အရာများ"
+        "en": "Muse Spark Open",
+        "my": "Muse Spark ဖွင့်လှစ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1178,
-      "comments": 296,
-      "author": "jjmaxwell4",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50093568"
+      "score": 754,
+      "comments": 388,
+      "author": "bigwheels",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "discussUrl": "https://news.ycombinator.com/item?id=50107379"
     },
     {
-      "id": "item?id=50091788",
+      "id": "item?id=50105647",
       "title": {
-        "en": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-        "my": "ထိန်းချုပ်ရေးနှင့်စောင့်ကြည့်ရေးပျက်ကွက် AI ကိုဟက်ကာအစီရင်ခံစာများအတွက်အပြစ်ရှိသည်: ကျွမ်းကျင်သူများက"
+        "en": "Neural networks are clean",
+        "my": "အာရုံကြောကွန်ရက်များသန့်ရှင်းသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 874,
-      "comments": 512,
-      "author": "latexr",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50091788"
+      "score": 626,
+      "comments": 229,
+      "author": "themgt",
+      "url": "https://already-clean.goodfire.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50105647"
     },
     {
-      "id": "item?id=50084757",
+      "id": "item?id=50103338",
       "title": {
-        "en": "How Amazon pushes up prices all across the Internet",
-        "my": "Amazon သည်အင်တာနက်တစ်လျှောက်ရှိစျေးနှုန်းများကိုမည်သို့တွန်းအားပေးသည်"
+        "en": "Wayland desktop for Linux with skeuomorphic design",
+        "my": "Skeuomorphic ဒီဇိုင်းနှင့်အတူ Linux အတွက် Wayland Desktop ကို"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 795,
-      "comments": 625,
-      "author": "sighborg",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50084757"
+      "score": 574,
+      "comments": 227,
+      "author": "FinalDestiny",
+      "url": "https://github.com/fyzugx/DEsk",
+      "discussUrl": "https://news.ycombinator.com/item?id=50103338"
     },
     {
-      "id": "item?id=50050553",
+      "id": "item?id=50101813",
       "title": {
-        "en": "Do dentists know what they're doing?",
-        "my": "သူတို့ဘာတွေလုပ်နေလဲဆိုတာ ဒိုင်လူကြီးတွေ သိကြလား ။"
+        "en": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+        "my": "AdFection: ပစ်မှတ်ထားကြော်ငြာများသုည-ကလစ်ငှားရမ်း spyware များအတွက်ပိုက်လိုင်းသို့လှည့်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 614,
-      "comments": 431,
-      "author": "doitLP",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "discussUrl": "https://news.ycombinator.com/item?id=50050553"
+      "score": 444,
+      "comments": 592,
+      "author": "jcomp",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50101813"
     },
     {
-      "id": "item?id=50088935",
+      "id": "item?id=50109715",
       "title": {
-        "en": "Passkeys are not a trap",
-        "my": "PASSKEYS သည်ထောင်ချောက်မဟုတ်ပါ"
+        "en": "What I self-host",
+        "my": "ငါ့ကိုယ္ငါ ယံုၾကည္မႈ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 575,
-      "comments": 725,
+      "score": 412,
+      "comments": 258,
+      "author": "BrunoBernardino",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50109715"
+    },
+    {
+      "id": "item?id=50106023",
+      "title": {
+        "en": "Jev meets the Trolley Problem",
+        "my": "JEV သည် Trolley ပြဿနာကိုဖြေရှင်းသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 406,
+      "comments": 174,
+      "author": "zlandes86",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50106023"
+    },
+    {
+      "id": "item?id=50108872",
+      "title": {
+        "en": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+        "my": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * # * * * * *"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 306,
+      "comments": 141,
       "author": "speckx",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50088935"
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "discussUrl": "https://news.ycombinator.com/item?id=50108872"
     },
     {
-      "id": "item?id=50094994",
+      "id": "plcgps",
       "title": {
-        "en": "OpenCode 2.0",
-        "my": "OpenCode 2.0"
+        "en": "Anthropic's Scion is heavily inspired by Mononoke",
+        "my": "Anthropic ၏ Scion သည် Mononoke ကိုအလွန်အမင်းလှုံ့ဆော်သည်"
       },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 522,
-      "comments": 207,
-      "author": "gmays",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50094994"
-    },
-    {
-      "id": "item?id=50090349",
-      "title": {
-        "en": "Google is silently linking your phone number across all signed-in accounts",
-        "my": "Google သည်သင် ၏ ဖုန်းနံပါတ်ကို sign-in လုပ်ထားသောအကောင့်အားလုံးတွင်တိတ်တဆိတ်ချိတ်ဆက်နေသည်"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 451,
-      "comments": 120,
-      "author": "Brajeshwar",
-      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50090349"
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 142,
+      "comments": 48,
+      "author": "mitsuhiko",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "discussUrl": "https://lobste.rs/s/plcgps"
     },
     {
       "id": "7xg9rm",
@@ -107,39 +121,25 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 112,
-      "comments": 31,
+      "score": 131,
+      "comments": 35,
       "author": "viccuad",
       "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
       "discussUrl": "https://lobste.rs/s/7xg9rm"
     },
     {
-      "id": "73ssw1",
+      "id": "j4tlzg",
       "title": {
-        "en": "A plea not to use uv-build",
-        "my": "Ubuntu ကို မသုံးဖို့ အကြံပြုချက်"
+        "en": "What I Self-Host",
+        "my": "ငါ့ကိုယ္ငါ ယံုၾကည္မႈ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 96,
-      "comments": 71,
-      "author": "lim",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-      "discussUrl": "https://lobste.rs/s/73ssw1"
-    },
-    {
-      "id": "uiulqe",
-      "title": {
-        "en": "Did Ente Locker copy my code without attribution?",
-        "my": "Ente Locker သည် attribution မပါဘဲကျွန်ုပ် ၏ ကုဒ်ကိုကူးယူခဲ့ပါသလား ။"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 91,
-      "comments": 14,
-      "author": "tusharhero",
-      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-      "discussUrl": "https://lobste.rs/s/uiulqe"
+      "score": 80,
+      "comments": 47,
+      "author": "tonymet",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "discussUrl": "https://lobste.rs/s/j4tlzg"
     }
   ]
 }
