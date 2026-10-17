@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "item?id=50112657",
+      "title": {
+        "en": "Tesla Roadster",
+        "my": "Tesla Roadster"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1343,
+      "comments": 2383,
+      "author": "shekhar101",
+      "url": "https://www.tesla.com/roadster",
+      "discussUrl": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "id": "item?id=50122800",
+      "title": {
+        "en": "Claude reveals ECDSA curve origins",
+        "my": "Claude ECDSA ကွေးဇာစ်မြစ်ထုတ်ဖော်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 811,
+      "comments": 306,
+      "author": "ahlCVA",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "discussUrl": "https://news.ycombinator.com/item?id=50122800"
+    },
+    {
+      "id": "item?id=50121179",
+      "title": {
+        "en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "my": "အမေရိကန်အလုပ်ချိန် ၏ ၉၀ % သည် AI စံနှုန်းများဖြင့်ကောင်းစွာမဖုံးအုပ်ထားသောအလုပ်များအတွက်ကုန်ဆုံးသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 465,
+      "comments": 401,
+      "author": "speckx",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50121179"
+    },
+    {
+      "id": "item?id=50117746",
+      "title": {
+        "en": "I love software rendering",
+        "my": "I LOVE SOFTWARE ကိုပြန်လည်ဆန်းစစ်ခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 313,
+      "comments": 199,
+      "author": "speckx",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50117746"
+    },
+    {
+      "id": "item?id=50122951",
+      "title": {
+        "en": "How the Claude Code team does code review",
+        "my": "Claude Code အဖွဲ့က ကုဒ်ပြန်လည်သုံးသပ်ပုံ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 311,
+      "comments": 283,
+      "author": "pretext",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50122951"
+    },
+    {
+      "id": "item?id=50118320",
+      "title": {
+        "en": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "my": "Apple က ML သုတေသန: Mac စတူဒီယိုအပေါ် MLX နှင့်အတူ Muse Spark ပွင့်လင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 300,
+      "comments": 148,
+      "author": "antipaul",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "discussUrl": "https://news.ycombinator.com/item?id=50118320"
+    },
+    {
+      "id": "item?id=50122431",
+      "title": {
+        "en": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "my": "တစ်ဦး jailbroken PS5 အပေါ် Llama.cpp: အဆိုပါ console ကိုအပေါ်ဇာတိမဆို GGUF မော်ဒယ် run"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 261,
+      "comments": 64,
+      "author": "Anon84",
+      "url": "https://github.com/cobanov/PS5LM",
+      "discussUrl": "https://news.ycombinator.com/item?id=50122431"
+    },
+    {
+      "id": "uejdwj",
+      "title": {
+        "en": "JPEG XL vs AVIF for web use-cases",
+        "my": "JPEG XL vs AVIF for web use-cases"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 101,
+      "comments": 30,
+      "author": "jaffathecake",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "discussUrl": "https://lobste.rs/s/uejdwj"
+    },
+    {
+      "id": "qvomvk",
+      "title": {
+        "en": "Why are we even doing all this?",
+        "my": "ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 97,
+      "comments": 13,
+      "author": "dcao",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "discussUrl": "https://lobste.rs/s/qvomvk"
+    },
+    {
+      "id": "xiq59t",
+      "title": {
+        "en": "Linus Torvalds on AI-assisted kernel contributions",
+        "my": "Linus Torvalds အေအိုင်-ကူညီ kernel ကိုပံ့ပိုးမှုအပေါ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 85,
+      "comments": 151,
+      "author": "thang",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "discussUrl": "https://lobste.rs/s/xiq59t"
+    }
+  ]
+}

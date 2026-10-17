@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-16
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-17
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 13:48 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 13:41 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Muse Spark ဖွင့်လှစ်
+1. Tesla Roadster
 
-🔶 Hacker News · ⬆️ 754 points · 💬 388 comments · 👤 bigwheels
+🔶 Hacker News · ⬆️ 1343 points · 💬 2383 comments · 👤 shekhar101
 
-"Muse Spark Open" လို့ အမည်ပေးထားတဲ့ research.meta.ai ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ ဂိုးအများဆုံးသွင်းထားတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက် ချည်နှောင်ထားပါတယ် ။
+"Tesla Roadster" လို့ အမည်ပေးထားတဲ့ Tesla.com ရဲ့ Link တစ်ခုဟာ ရှေ့မျက်နှာစာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက် Thread တစ်ခုပါ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50107379) · [Source](https://research.meta.ai/blog/muse-spark-open)
+[Discuss on HN](https://news.ycombinator.com/item?id=50112657) · [Source](https://www.tesla.com/roadster)
 
-2. အာရုံကြောကွန်ရက်များသန့်ရှင်းသည်
+2. Claude ECDSA ကွေးဇာစ်မြစ်ထုတ်ဖော်
 
-🔶 Hacker News · ⬆️ 626 points · 💬 229 comments · 👤 themgt
+🔶 Hacker News · ⬆️ 811 points · 💬 306 comments · 👤 ahlCVA
 
-ပြီးသား-clean.goodfire.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "အာရုံကြောကွန်ယက်များသန့်ရှင်းကြသည်", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခု, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Claude ECDSA ကွေးဇာစ်မြစ်ကိုထုတ်ဖော်ပြသ" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50105647) · [Source](https://already-clean.goodfire.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50122800) · [Source](https://www.anthropic.com/research/ecdsa-curve-origins)
 
-3. Skeuomorphic ဒီဇိုင်းနှင့်အတူ Linux အတွက် Wayland Desktop ကို
+3. အမေရိကန်အလုပ်ချိန် ၏ ၉၀ % သည် AI စံနှုန်းများဖြင့်ကောင်းစွာမဖုံးအုပ်ထားသောအလုပ်များအတွက်ကုန်ဆုံးသည်
 
-🔶 Hacker News · ⬆️ 574 points · 💬 227 comments · 👤 FinalDestiny
+🔶 Hacker News · ⬆️ 465 points · 💬 401 comments · 👤 speckx
 
-Github.com သို့ link တစ်ခု "Skeuomorphic ဒီဇိုင်းနှင့်အတူ Linux ကိုများအတွက် Wayland desktop ကို", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Mercor.com သို့ပေးပို့ထားသော link တစ်ခု "အမေရိကန်အလုပ်ချိန် ၏ ၉၀ % သည် AI benchmarks မှကောင်းစွာမဖုံးအုပ်ထားသောအလုပ်များအပေါ်တွင်ကုန်ဆုံးသည်" ဟုခေါင်းစဉ်တပ်ထားသောစာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50103338) · [Source](https://github.com/fyzugx/DEsk)
+[Discuss on HN](https://news.ycombinator.com/item?id=50121179) · [Source](https://www.mercor.com/research/labor-index/benchmark-map/)
 
-4. AdFection: ပစ်မှတ်ထားကြော်ငြာများသုည-ကလစ်ငှားရမ်း spyware များအတွက်ပိုက်လိုင်းသို့လှည့်
+4. I LOVE SOFTWARE ကိုပြန်လည်ဆန်းစစ်ခြင်း
 
-🔶 Hacker News · ⬆️ 444 points · 💬 592 comments · 👤 jcomp
+🔶 Hacker News · ⬆️ 313 points · 💬 199 comments · 👤 speckx
 
-"AdFection: Targeted Ads" ခေါင်းစဉ်ဖြင့် citizenlab.ca သို့လင့်ခ်တစ်ခုသည်တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်ထားသောစာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်သော zero-click mercenary spyware အတွက်ပိုက်လိုင်းတစ်ခုအဖြစ်သို့ပြောင်းလဲသွားသည် ။
+Jamesfmackenzie.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ငါဆော့ဖ်ဝဲလ် rendering ကိုချစ်တယ်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50101813) · [Source](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50117746) · [Source](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 
-5. ငါ့ကိုယ္ငါ ယံုၾကည္မႈ
+5. Claude Code အဖွဲ့က ကုဒ်ပြန်လည်သုံးသပ်ပုံ
 
-🔶 Hacker News · ⬆️ 412 points · 💬 258 comments · 👤 BrunoBernardino
+🔶 Hacker News · ⬆️ 311 points · 💬 283 comments · 👤 pretext
 
-Viceconsole.fyi ခေါင်းစဉ်နဲ့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်က လူကြိုက်များတဲ့ ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားတဲ့ ဆွေးနွေးချက်တွေကို ရေးဆွဲထားပါတယ် ။
+Claude.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "အဆိုပါ Claude Code ကိုအဖွဲ့က code ကိုပြန်လည်သုံးသပ်လုပ်ပုံ", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50109715) · [Source](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50122951) · [Source](https://claude.dev/blog/solving-code-review-at-anthropic/)
 
-6. JEV သည် Trolley ပြဿနာကိုဖြေရှင်းသည်
+6. Apple က ML သုတေသန: Mac စတူဒီယိုအပေါ် MLX နှင့်အတူ Muse Spark ပွင့်လင်း
 
-🔶 Hacker News · ⬆️ 406 points · 💬 174 comments · 👤 zlandes86
+🔶 Hacker News · ⬆️ 300 points · 💬 148 comments · 👤 antipaul
 
-Zachlandes.com ခေါင်းစဉ်နဲ့ link တစ်ခု "JEV အဆိုပါ Trolley ပြဿနာတွေ့ဆုံ," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"Apple ML သုတေသန: Muse Spark Open with MLX on Mac Studio" ခေါင်းစဉ်ဖြင့် machinelearning.apple.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုများရေးဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50106023) · [Source](https://zachlandes.com/trolley-problem/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50118320) · [Source](https://machinelearning.apple.com/research/mlx-distributed-inference)
 
-7. * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * # * * * * *
+7. တစ်ဦး jailbroken PS5 အပေါ် Llama.cpp: အဆိုပါ console ကိုအပေါ်ဇာတိမဆို GGUF မော်ဒယ် run
 
-🔶 Hacker News · ⬆️ 306 points · 💬 141 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 261 points · 💬 64 comments · 👤 Anon84
 
-Thereallo.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "တစ်စုံတစ် ဦး က Torrent ဆိုက်များပေါ်တွင်ငါ့ Sonarr နှင့်အတူ fuck ဆိုတဲ့စောင့်ရှောက်," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Github.com မှ link တစ်ခုခေါင်းစဉ် "တစ်ဦး jailbroken PS5 အပေါ် Llama.cpp: console ကိုအပေါ်ဇာတိမဆို GGUF မော်ဒယ် run", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50108872) · [Source](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+[Discuss on HN](https://news.ycombinator.com/item?id=50122431) · [Source](https://github.com/cobanov/PS5LM)
 
-8. Anthropic ၏ Scion သည် Mononoke ကိုအလွန်အမင်းလှုံ့ဆော်သည်
+8. JPEG XL vs AVIF for web use-cases
 
-🦞 Lobsters · ⬆️ 142 points · 💬 48 comments · 👤 mitsuhiko
+🦞 Lobsters · ⬆️ 101 points · 💬 30 comments · 👤 jaffathecake
 
-"Anthropic's Scion ကို Mononoke မှအကြီးအကျယ်လှုံ့ဆော်ပေးသည်" ဟုအမည်ပေးထားသော Sunshower.io နှင့်ချိတ်ဆက်ထားသည် ။
+Jakearchibald.com မှတစ်ဦးက link ကိုခေါင်းစဉ် "ဝက်ဘ်အသုံးပြုမှု-cases များအတွက် AVIF vs JPEG XL" ။
 
-[Discuss on Lobsters](https://lobste.rs/s/plcgps) · [Source](https://sunshowers.io/posts/anthropic-mononoke/)
+[Discuss on Lobsters](https://lobste.rs/s/uejdwj) · [Source](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 
-9. Firefox Enterprise ကို မိတ်ဆက်ခြင်း
+9. ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?
 
-🦞 Lobsters · ⬆️ 131 points · 💬 35 comments · 👤 viccuad
+🦞 Lobsters · ⬆️ 97 points · 💬 13 comments · 👤 dcao
 
-"Firefox Enterprise ကို မိတ်ဆက်ခြင်း" ခေါင်းစဉ်ဖြင့် blog.mozilla.org သို့ လင့်ခ်တစ်ခု ။
+Terrytao.wordpress.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ငါတို့ဘာကြောင့်ဒါတွေအားလုံးလုပ်နေတာလဲ ။
 
-[Discuss on Lobsters](https://lobste.rs/s/7xg9rm) · [Source](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
+[Discuss on Lobsters](https://lobste.rs/s/qvomvk) · [Source](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 
-10. ငါ့ကိုယ္ငါ ယံုၾကည္မႈ
+10. Linus Torvalds အေအိုင်-ကူညီ kernel ကိုပံ့ပိုးမှုအပေါ်
 
-🦞 Lobsters · ⬆️ 80 points · 💬 47 comments · 👤 tonymet
+🦞 Lobsters · ⬆️ 85 points · 💬 151 comments · 👤 thang
 
-Viceconsole.fyi သို့ ချိတ်ဆက်ထားသော စာမျက်နှာတစ်ခု ၏ ခေါင်းစဉ်မှာ "ငါသည် အဘယ်သို့သော ကိုယ်ကျိုးစွန့်ခြင်း" ဖြစ်သည် ။
+Lore.kernel.org သို့ ချိတ်ဆက်ထားသော "Linus Torvalds on AI-assisted kernel contributions" ခေါင်းစဉ်ဖြင့် သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ရေးဆွဲနေသည် ။
 
-[Discuss on Lobsters](https://lobste.rs/s/j4tlzg) · [Source](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+[Discuss on Lobsters](https://lobste.rs/s/xiq59t) · [Source](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 
-*daily-tech-digest · MileFisher · 2026-10-16T06:48:38.084Z*
+*daily-tech-digest · MileFisher · 2026-10-17T06:41:23.594Z*
