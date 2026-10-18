@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "item?id=50129045",
+      "title": {
+        "en": "DeepSeek-v4.1-Flash-1017",
+        "my": "DeepSeek-v4.1-Flash ကို-1017"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 809,
+      "comments": 633,
+      "author": "theykk",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "discussUrl": "https://news.ycombinator.com/item?id=50129045"
+    },
+    {
+      "id": "item?id=50131256",
+      "title": {
+        "en": "Solar surpasses nuclear power globally for first time",
+        "my": "နေရောင်ခြည်စွမ်းအင်သည် ကမ္ဘာတစ်ဝှမ်းတွင် ပထမဆုံးအကြိမ် နျူကလီးယားစွမ်းအင်ကို ကျော်တက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 564,
+      "comments": 344,
+      "author": "xbmcuser",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50131256"
+    },
+    {
+      "id": "item?id=50122878",
+      "title": {
+        "en": "You could have invented transformers from memory",
+        "my": "မှတ်ဉာဏ်ကနေ Transformers ကို တီထွင်နိုင်ခဲ့တယ် ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 542,
+      "comments": 126,
+      "author": "speckx",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50122878"
+    },
+    {
+      "id": "item?id=50126253",
+      "title": {
+        "en": "Bleached corals thrive within days when touching healthy neighbour",
+        "my": "ကျန်းမာသောအိမ်နီးချင်းကိုထိသည့်နေ့ရက်များအတွင်းသွေးစွန်းသောသန္တာန်များကြီးထွားလာသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 414,
+      "comments": 92,
+      "author": "alkyon",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "discussUrl": "https://news.ycombinator.com/item?id=50126253"
+    },
+    {
+      "id": "item?id=50132193",
+      "title": {
+        "en": "Pele – Mermaid diagrams as themeable SVG",
+        "my": "Pele – ခေါင်းစဉ် SVG အဖြစ် Mermaid ပုံကြမ်းများ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 374,
+      "comments": 31,
+      "author": "dchest",
+      "url": "https://pele.run/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50132193"
+    },
+    {
+      "id": "item?id=50100994",
+      "title": {
+        "en": "Furifont, a Japanese font that shows furigana",
+        "my": "Furigana ကို ပြသပေးမယ့် Furifont ဂျပန်ဖောင့်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 326,
+      "comments": 67,
+      "author": "plaguna",
+      "url": "https://furifont.antfu.me/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50100994"
+    },
+    {
+      "id": "item?id=50132870",
+      "title": {
+        "en": "Gold is now the top U.S. export",
+        "my": "အခုေလာေလာဆယ္ ျမန္မာႏုိင္ငံဟာ အေမရိကန္ျပည္ေထာင္စုရဲ႕ ထိပ္တန္း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 307,
+      "comments": 158,
+      "author": "iamnothere",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "discussUrl": "https://news.ycombinator.com/item?id=50132870"
+    },
+    {
+      "id": "qvomvk",
+      "title": {
+        "en": "Why are we even doing all this?",
+        "my": "ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 126,
+      "comments": 20,
+      "author": "dcao",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "discussUrl": "https://lobste.rs/s/qvomvk"
+    },
+    {
+      "id": "ddtqtn",
+      "title": {
+        "en": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+        "my": "The NIST Elliptic Curves Bounty တောင်းဆိုခဲ့သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 110,
+      "comments": 22,
+      "author": "FiloSottile",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "discussUrl": "https://lobste.rs/s/ddtqtn"
+    },
+    {
+      "id": "xiq59t",
+      "title": {
+        "en": "Linus Torvalds on AI-assisted kernel contributions",
+        "my": "Linus Torvalds အေအိုင်-ကူညီ kernel ကိုပံ့ပိုးမှုအပေါ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 88,
+      "comments": 159,
+      "author": "thang",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "discussUrl": "https://lobste.rs/s/xiq59t"
+    }
+  ]
+}

@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-17
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-18
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 13:41 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:01 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Tesla Roadster
+1. DeepSeek-v4.1-Flash ကို-1017
 
-🔶 Hacker News · ⬆️ 1343 points · 💬 2383 comments · 👤 shekhar101
+🔶 Hacker News · ⬆️ 809 points · 💬 633 comments · 👤 theykk
 
-"Tesla Roadster" လို့ အမည်ပေးထားတဲ့ Tesla.com ရဲ့ Link တစ်ခုဟာ ရှေ့မျက်နှာစာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက် Thread တစ်ခုပါ ။
+"DeepSeek-v4.1-Flash-1017" ဟုအမည်ပေးထားသော huggingface.co သို့လင့်ခ်တစ်ခုသည်တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူမျက်နှာပြင်ပေါ်တွင်ရမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50112657) · [Source](https://www.tesla.com/roadster)
+[Discuss on HN](https://news.ycombinator.com/item?id=50129045) · [Source](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
-2. Claude ECDSA ကွေးဇာစ်မြစ်ထုတ်ဖော်
+2. နေရောင်ခြည်စွမ်းအင်သည် ကမ္ဘာတစ်ဝှမ်းတွင် ပထမဆုံးအကြိမ် နျူကလီးယားစွမ်းအင်ကို ကျော်တက်
 
-🔶 Hacker News · ⬆️ 811 points · 💬 306 comments · 👤 ahlCVA
+🔶 Hacker News · ⬆️ 564 points · 💬 344 comments · 👤 xbmcuser
 
-Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Claude ECDSA ကွေးဇာစ်မြစ်ကိုထုတ်ဖော်ပြသ" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
+Pv-magazine.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "နေရောင်ခြည်စွမ်းအင်သည်ကမ္ဘာလုံးဆိုင်ရာနျူကလီးယားစွမ်းအင်ကိုပထမ ဦး ဆုံးအကြိမ်ကျော်လွန်သည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်ထားသောစာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122800) · [Source](https://www.anthropic.com/research/ecdsa-curve-origins)
+[Discuss on HN](https://news.ycombinator.com/item?id=50131256) · [Source](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 
-3. အမေရိကန်အလုပ်ချိန် ၏ ၉၀ % သည် AI စံနှုန်းများဖြင့်ကောင်းစွာမဖုံးအုပ်ထားသောအလုပ်များအတွက်ကုန်ဆုံးသည်
+3. မှတ်ဉာဏ်ကနေ Transformers ကို တီထွင်နိုင်ခဲ့တယ် ။
 
-🔶 Hacker News · ⬆️ 465 points · 💬 401 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 542 points · 💬 126 comments · 👤 speckx
 
-Mercor.com သို့ပေးပို့ထားသော link တစ်ခု "အမေရိကန်အလုပ်ချိန် ၏ ၉၀ % သည် AI benchmarks မှကောင်းစွာမဖုံးအုပ်ထားသောအလုပ်များအပေါ်တွင်ကုန်ဆုံးသည်" ဟုခေါင်းစဉ်တပ်ထားသောစာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+"မှတ်ဉာဏ်မှ ထရန်စဖော်မာများကို သင်တီထွင်နိုင်ခဲ့သည်" ဟူသော ခေါင်းစဉ်ဖြင့် alexwang.ai သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးမှုကို ရေးဆွဲခဲ့သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50121179) · [Source](https://www.mercor.com/research/labor-index/benchmark-map/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50122878) · [Source](https://alexwang.ai/posts/associative-memory/)
 
-4. I LOVE SOFTWARE ကိုပြန်လည်ဆန်းစစ်ခြင်း
+4. ကျန်းမာသောအိမ်နီးချင်းကိုထိသည့်နေ့ရက်များအတွင်းသွေးစွန်းသောသန္တာန်များကြီးထွားလာသည်
 
-🔶 Hacker News · ⬆️ 313 points · 💬 199 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 414 points · 💬 92 comments · 👤 alkyon
 
-Jamesfmackenzie.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ငါဆော့ဖ်ဝဲလ် rendering ကိုချစ်တယ်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"ကျန်းမာသောအိမ်နီးချင်းကိုထိသောအခါ Bleached သန္တာကျောက်တန်းများ" ခေါင်းစဉ်ဖြင့်သဘာဝက်ဘ်ဆိုက်မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50117746) · [Source](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50126253) · [Source](https://www.nature.com/articles/d41586-026-03266-x)
 
-5. Claude Code အဖွဲ့က ကုဒ်ပြန်လည်သုံးသပ်ပုံ
+5. Pele – ခေါင်းစဉ် SVG အဖြစ် Mermaid ပုံကြမ်းများ
 
-🔶 Hacker News · ⬆️ 311 points · 💬 283 comments · 👤 pretext
+🔶 Hacker News · ⬆️ 374 points · 💬 31 comments · 👤 dchest
 
-Claude.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "အဆိုပါ Claude Code ကိုအဖွဲ့က code ကိုပြန်လည်သုံးသပ်လုပ်ပုံ", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Pele.run ခေါင်းစဉ်ဖြင့် link တစ်ခု "Pele – Mermaid Diagrams as themeable SVG," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122951) · [Source](https://claude.dev/blog/solving-code-review-at-anthropic/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50132193) · [Source](https://pele.run/)
 
-6. Apple က ML သုတေသန: Mac စတူဒီယိုအပေါ် MLX နှင့်အတူ Muse Spark ပွင့်လင်း
+6. Furigana ကို ပြသပေးမယ့် Furifont ဂျပန်ဖောင့်
 
-🔶 Hacker News · ⬆️ 300 points · 💬 148 comments · 👤 antipaul
+🔶 Hacker News · ⬆️ 326 points · 💬 67 comments · 👤 plaguna
 
-"Apple ML သုတေသန: Muse Spark Open with MLX on Mac Studio" ခေါင်းစဉ်ဖြင့် machinelearning.apple.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုများရေးဆွဲသည် ။
+Furifont.antfu.me ကို "Furifont, furigana ကိုပြသောဂျပန်စာလုံး" ဟုအမည်ပေးထားသော link တစ်ခုသည်ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်တစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50118320) · [Source](https://machinelearning.apple.com/research/mlx-distributed-inference)
+[Discuss on HN](https://news.ycombinator.com/item?id=50100994) · [Source](https://furifont.antfu.me/)
 
-7. တစ်ဦး jailbroken PS5 အပေါ် Llama.cpp: အဆိုပါ console ကိုအပေါ်ဇာတိမဆို GGUF မော်ဒယ် run
+7. အခုေလာေလာဆယ္ ျမန္မာႏုိင္ငံဟာ အေမရိကန္ျပည္ေထာင္စုရဲ႕ ထိပ္တန္း
 
-🔶 Hacker News · ⬆️ 261 points · 💬 64 comments · 👤 Anon84
+🔶 Hacker News · ⬆️ 307 points · 💬 158 comments · 👤 iamnothere
 
-Github.com မှ link တစ်ခုခေါင်းစဉ် "တစ်ဦး jailbroken PS5 အပေါ် Llama.cpp: console ကိုအပေါ်ဇာတိမဆို GGUF မော်ဒယ် run", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+Numismaticnews.net ခေါင်းစဉ်နဲ့ link တစ်ခု "ရွှေယခုထိပ်တန်းအမေရိကန်ပို့ကုန်ဖြစ်ပါတယ်" ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122431) · [Source](https://github.com/cobanov/PS5LM)
+[Discuss on HN](https://news.ycombinator.com/item?id=50132870) · [Source](https://www.numismaticnews.net/gold-now-top-u-s-export)
 
-8. JPEG XL vs AVIF for web use-cases
+8. ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?
 
-🦞 Lobsters · ⬆️ 101 points · 💬 30 comments · 👤 jaffathecake
-
-Jakearchibald.com မှတစ်ဦးက link ကိုခေါင်းစဉ် "ဝက်ဘ်အသုံးပြုမှု-cases များအတွက် AVIF vs JPEG XL" ။
-
-[Discuss on Lobsters](https://lobste.rs/s/uejdwj) · [Source](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
-
-9. ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?
-
-🦞 Lobsters · ⬆️ 97 points · 💬 13 comments · 👤 dcao
+🦞 Lobsters · ⬆️ 126 points · 💬 20 comments · 👤 dcao
 
 Terrytao.wordpress.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ငါတို့ဘာကြောင့်ဒါတွေအားလုံးလုပ်နေတာလဲ ။
 
 [Discuss on Lobsters](https://lobste.rs/s/qvomvk) · [Source](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 
+9. The NIST Elliptic Curves Bounty တောင်းဆိုခဲ့သည်
+
+🦞 Lobsters · ⬆️ 110 points · 💬 22 comments · 👤 FiloSottile
+
+"The NIST Elliptic Curves Seeds Bounty has been Claimed" ဟု အမည်ပေးထားသော words.filippo.io သို့ ချိတ်ဆက်ထားသော စာမျက်နှာများ
+
+[Discuss on Lobsters](https://lobste.rs/s/ddtqtn) · [Source](https://words.filippo.io/seeds-solved/)
+
 10. Linus Torvalds အေအိုင်-ကူညီ kernel ကိုပံ့ပိုးမှုအပေါ်
 
-🦞 Lobsters · ⬆️ 85 points · 💬 151 comments · 👤 thang
+🦞 Lobsters · ⬆️ 88 points · 💬 159 comments · 👤 thang
 
 Lore.kernel.org သို့ ချိတ်ဆက်ထားသော "Linus Torvalds on AI-assisted kernel contributions" ခေါင်းစဉ်ဖြင့် သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ရေးဆွဲနေသည် ။
 
 [Discuss on Lobsters](https://lobste.rs/s/xiq59t) · [Source](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 
-*daily-tech-digest · MileFisher · 2026-10-17T06:41:23.594Z*
+*daily-tech-digest · MileFisher · 2026-10-18T07:01:58.200Z*

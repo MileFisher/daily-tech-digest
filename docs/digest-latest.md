@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-17
+# 🗞️ Daily Tech Digest — 2026-10-18
 
-> Top 10 stories from Hacker News & Lobsters · Generated 13:41 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:01 ICT
 
 ---
 
-1. Tesla Roadster
+1. DeepSeek-v4.1-Flash-1017
 
-🔶 Hacker News · ⬆️ 1343 points · 💬 2383 comments · 👤 shekhar101
+🔶 Hacker News · ⬆️ 809 points · 💬 633 comments · 👤 theykk
 
-A link to tesla.com titled "Tesla Roadster", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to huggingface.co titled "DeepSeek-v4.1-Flash-1017", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50112657) · [Source](https://www.tesla.com/roadster)
+[Discuss on HN](https://news.ycombinator.com/item?id=50129045) · [Source](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
-2. Claude reveals ECDSA curve origins
+2. Solar surpasses nuclear power globally for first time
 
-🔶 Hacker News · ⬆️ 811 points · 💬 306 comments · 👤 ahlCVA
+🔶 Hacker News · ⬆️ 564 points · 💬 344 comments · 👤 xbmcuser
 
-A link to anthropic.com titled "Claude reveals ECDSA curve origins", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to pv-magazine.com titled "Solar surpasses nuclear power globally for first time", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122800) · [Source](https://www.anthropic.com/research/ecdsa-curve-origins)
+[Discuss on HN](https://news.ycombinator.com/item?id=50131256) · [Source](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 
-3. 90% of US working hours are spent on tasks not covered well by AI benchmarks
+3. You could have invented transformers from memory
 
-🔶 Hacker News · ⬆️ 465 points · 💬 401 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 542 points · 💬 126 comments · 👤 speckx
 
-A link to mercor.com titled "90% of US working hours are spent on tasks not covered well by AI benchmarks", a popular story on the front page, with an active discussion thread.
+A link to alexwang.ai titled "You could have invented transformers from memory", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50121179) · [Source](https://www.mercor.com/research/labor-index/benchmark-map/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50122878) · [Source](https://alexwang.ai/posts/associative-memory/)
 
-4. I love software rendering
+4. Bleached corals thrive within days when touching healthy neighbour
 
-🔶 Hacker News · ⬆️ 313 points · 💬 199 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 414 points · 💬 92 comments · 👤 alkyon
 
-A link to jamesfmackenzie.com titled "I love software rendering", a popular story on the front page, drawing significant discussion.
+A link to nature.com titled "Bleached corals thrive within days when touching healthy neighbour", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50117746) · [Source](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50126253) · [Source](https://www.nature.com/articles/d41586-026-03266-x)
 
-5. How the Claude Code team does code review
+5. Pele – Mermaid diagrams as themeable SVG
 
-🔶 Hacker News · ⬆️ 311 points · 💬 283 comments · 👤 pretext
+🔶 Hacker News · ⬆️ 374 points · 💬 31 comments · 👤 dchest
 
-A link to claude.dev titled "How the Claude Code team does code review", a popular story on the front page, drawing significant discussion.
+A link to pele.run titled "Pele – Mermaid diagrams as themeable SVG", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122951) · [Source](https://claude.dev/blog/solving-code-review-at-anthropic/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50132193) · [Source](https://pele.run/)
 
-6. Apple ML Research: Muse Spark Open with MLX on Mac Studio
+6. Furifont, a Japanese font that shows furigana
 
-🔶 Hacker News · ⬆️ 300 points · 💬 148 comments · 👤 antipaul
+🔶 Hacker News · ⬆️ 326 points · 💬 67 comments · 👤 plaguna
 
-A link to machinelearning.apple.com titled "Apple ML Research: Muse Spark Open with MLX on Mac Studio", a popular story on the front page, drawing significant discussion.
+A link to furifont.antfu.me titled "Furifont, a Japanese font that shows furigana", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50118320) · [Source](https://machinelearning.apple.com/research/mlx-distributed-inference)
+[Discuss on HN](https://news.ycombinator.com/item?id=50100994) · [Source](https://furifont.antfu.me/)
 
-7. Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
+7. Gold is now the top U.S. export
 
-🔶 Hacker News · ⬆️ 261 points · 💬 64 comments · 👤 Anon84
+🔶 Hacker News · ⬆️ 307 points · 💬 158 comments · 👤 iamnothere
 
-A link to github.com titled "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console", a popular story on the front page.
+A link to numismaticnews.net titled "Gold is now the top U.S. export", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122431) · [Source](https://github.com/cobanov/PS5LM)
+[Discuss on HN](https://news.ycombinator.com/item?id=50132870) · [Source](https://www.numismaticnews.net/gold-now-top-u-s-export)
 
-8. JPEG XL vs AVIF for web use-cases
+8. Why are we even doing all this?
 
-🦞 Lobsters · ⬆️ 101 points · 💬 30 comments · 👤 jaffathecake
-
-A link to jakearchibald.com titled "JPEG XL vs AVIF for web use-cases".
-
-[Discuss on Lobsters](https://lobste.rs/s/uejdwj) · [Source](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
-
-9. Why are we even doing all this?
-
-🦞 Lobsters · ⬆️ 97 points · 💬 13 comments · 👤 dcao
+🦞 Lobsters · ⬆️ 126 points · 💬 20 comments · 👤 dcao
 
 A link to terrytao.wordpress.com titled "Why are we even doing all this?".
 
 [Discuss on Lobsters](https://lobste.rs/s/qvomvk) · [Source](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 
+9. The NIST Elliptic Curves Seeds Bounty Has Been Claimed
+
+🦞 Lobsters · ⬆️ 110 points · 💬 22 comments · 👤 FiloSottile
+
+A link to words.filippo.io titled "The NIST Elliptic Curves Seeds Bounty Has Been Claimed".
+
+[Discuss on Lobsters](https://lobste.rs/s/ddtqtn) · [Source](https://words.filippo.io/seeds-solved/)
+
 10. Linus Torvalds on AI-assisted kernel contributions
 
-🦞 Lobsters · ⬆️ 85 points · 💬 151 comments · 👤 thang
+🦞 Lobsters · ⬆️ 88 points · 💬 159 comments · 👤 thang
 
 A link to lore.kernel.org titled "Linus Torvalds on AI-assisted kernel contributions", drawing significant discussion.
 
 [Discuss on Lobsters](https://lobste.rs/s/xiq59t) · [Source](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 
-*daily-tech-digest · MileFisher · 2026-10-17T06:41:23.594Z*
+*daily-tech-digest · MileFisher · 2026-10-18T07:01:58.200Z*
