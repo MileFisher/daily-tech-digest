@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-18
+# 🗞️ Daily Tech Digest — 2026-10-19
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:01 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:25 ICT
 
 ---
 
-1. DeepSeek-v4.1-Flash-1017
+1. Namecheap just seized and disabled all my domains
 
-🔶 Hacker News · ⬆️ 809 points · 💬 633 comments · 👤 theykk
+🔶 Hacker News · ⬆️ 551 points · 💬 286 comments · 👤 sashk
 
-A link to huggingface.co titled "DeepSeek-v4.1-Flash-1017", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to reddit.com titled "Namecheap just seized and disabled all my domains", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50129045) · [Source](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+[Discuss on HN](https://news.ycombinator.com/item?id=50142866) · [Source](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 
-2. Solar surpasses nuclear power globally for first time
+2. Someone behind the software
 
-🔶 Hacker News · ⬆️ 564 points · 💬 344 comments · 👤 xbmcuser
+🔶 Hacker News · ⬆️ 409 points · 💬 158 comments · 👤 tosh
 
-A link to pv-magazine.com titled "Solar surpasses nuclear power globally for first time", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to karrisaarinen.com titled "Someone behind the software", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50131256) · [Source](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50142573) · [Source](https://karrisaarinen.com/posts/someone-behind-the-software/)
 
-3. You could have invented transformers from memory
+3. RepRapMicron
 
-🔶 Hacker News · ⬆️ 542 points · 💬 126 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 378 points · 💬 58 comments · 👤 RobotToaster
 
-A link to alexwang.ai titled "You could have invented transformers from memory", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to github.com titled "RepRapMicron", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122878) · [Source](https://alexwang.ai/posts/associative-memory/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50141076) · [Source](https://github.com/VikOlliver/RepRapMicron/wiki)
 
-4. Bleached corals thrive within days when touching healthy neighbour
+4. Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
 
-🔶 Hacker News · ⬆️ 414 points · 💬 92 comments · 👤 alkyon
+🔶 Hacker News · ⬆️ 351 points · 💬 168 comments · 👤 allinonai
 
-A link to nature.com titled "Bleached corals thrive within days when touching healthy neighbour", a popular story on the front page.
+A link to arxiv.org titled "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50126253) · [Source](https://www.nature.com/articles/d41586-026-03266-x)
+[Discuss on HN](https://news.ycombinator.com/item?id=50145337) · [Source](https://arxiv.org/abs/2610.18861)
 
-5. Pele – Mermaid diagrams as themeable SVG
+5. There's never been a better time to go into math (by: 3blue1brown) [video]
 
-🔶 Hacker News · ⬆️ 374 points · 💬 31 comments · 👤 dchest
+🔶 Hacker News · ⬆️ 318 points · 💬 377 comments · 👤 mdp2021
 
-A link to pele.run titled "Pele – Mermaid diagrams as themeable SVG", a popular story on the front page.
+A link to youtube.com titled "There's never been a better time to go into math (by: 3blue1brown) [video]", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50132193) · [Source](https://pele.run/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50136150) · [Source](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 
-6. Furifont, a Japanese font that shows furigana
+6. Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky
 
-🔶 Hacker News · ⬆️ 326 points · 💬 67 comments · 👤 plaguna
+🔶 Hacker News · ⬆️ 199 points · 💬 123 comments · 👤 gmays
 
-A link to furifont.antfu.me titled "Furifont, a Japanese font that shows furigana", a popular story on the front page.
+A link to sciencealert.com titled "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky", drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50100994) · [Source](https://furifont.antfu.me/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50136979) · [Source](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 
-7. Gold is now the top U.S. export
+7. Open MicroManipulator – A sub-micrometer 3D motion control plattform
 
-🔶 Hacker News · ⬆️ 307 points · 💬 158 comments · 👤 iamnothere
+🔶 Hacker News · ⬆️ 192 points · 💬 16 comments · 👤 _Microft
 
-A link to numismaticnews.net titled "Gold is now the top U.S. export", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "Open MicroManipulator – A sub-micrometer 3D motion control plattform".
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50132870) · [Source](https://www.numismaticnews.net/gold-now-top-u-s-export)
+[Discuss on HN](https://news.ycombinator.com/item?id=50140001) · [Source](https://github.com/0x23/MicroManipulatorStepper)
 
-8. Why are we even doing all this?
+8. Men in tech #YesAllMen
 
-🦞 Lobsters · ⬆️ 126 points · 💬 20 comments · 👤 dcao
+🦞 Lobsters · ⬆️ 74 points · 💬 16 comments · 👤 gmem
 
-A link to terrytao.wordpress.com titled "Why are we even doing all this?".
+A link to media.ccc.de titled "Men in tech #YesAllMen".
 
-[Discuss on Lobsters](https://lobste.rs/s/qvomvk) · [Source](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
+[Discuss on Lobsters](https://lobste.rs/s/mp8qye) · [Source](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
 
-9. The NIST Elliptic Curves Seeds Bounty Has Been Claimed
+9. The Brain Sandwich
 
-🦞 Lobsters · ⬆️ 110 points · 💬 22 comments · 👤 FiloSottile
+🦞 Lobsters · ⬆️ 38 points · 💬 14 comments · 👤 ani
 
-A link to words.filippo.io titled "The NIST Elliptic Curves Seeds Bounty Has Been Claimed".
+A link to terriblesoftware.org titled "The Brain Sandwich".
 
-[Discuss on Lobsters](https://lobste.rs/s/ddtqtn) · [Source](https://words.filippo.io/seeds-solved/)
+[Discuss on Lobsters](https://lobste.rs/s/k5omum) · [Source](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 
-10. Linus Torvalds on AI-assisted kernel contributions
+10. ARP! Tell your network to explain itself
 
-🦞 Lobsters · ⬆️ 88 points · 💬 159 comments · 👤 thang
+🦞 Lobsters · ⬆️ 36 points · 💬 13 comments · 👤 benj
 
-A link to lore.kernel.org titled "Linus Torvalds on AI-assisted kernel contributions", drawing significant discussion.
+A link to benjcal.space titled "ARP! Tell your network to explain itself".
 
-[Discuss on Lobsters](https://lobste.rs/s/xiq59t) · [Source](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
+[Discuss on Lobsters](https://lobste.rs/s/mmvhup) · [Source](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
 
-*daily-tech-digest · MileFisher · 2026-10-18T07:01:58.200Z*
+*daily-tech-digest · MileFisher · 2026-10-19T07:25:37.192Z*

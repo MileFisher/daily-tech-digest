@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-18
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-19
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:01 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:25 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. DeepSeek-v4.1-Flash ကို-1017
+1. Namecheap သည်ကျွန်ုပ် ၏ ဒိုမိန်းအားလုံးကိုဖမ်းပြီး disable လုပ်လိုက်သည်
 
-🔶 Hacker News · ⬆️ 809 points · 💬 633 comments · 👤 theykk
+🔶 Hacker News · ⬆️ 551 points · 💬 286 comments · 👤 sashk
 
-"DeepSeek-v4.1-Flash-1017" ဟုအမည်ပေးထားသော huggingface.co သို့လင့်ခ်တစ်ခုသည်တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူမျက်နှာပြင်ပေါ်တွင်ရမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
+Reddit.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Namecheap သည်ကျွန်ုပ် ၏ ဒိုမိန်းအားလုံးကိုဖမ်းဆီးပြီး disabled လုပ်လိုက်သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50129045) · [Source](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+[Discuss on HN](https://news.ycombinator.com/item?id=50142866) · [Source](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 
-2. နေရောင်ခြည်စွမ်းအင်သည် ကမ္ဘာတစ်ဝှမ်းတွင် ပထမဆုံးအကြိမ် နျူကလီးယားစွမ်းအင်ကို ကျော်တက်
+2. ဆော့ဝဲလ်ရဲ့ နောက်ကွယ်က တစ်ယောက်ယောက်
 
-🔶 Hacker News · ⬆️ 564 points · 💬 344 comments · 👤 xbmcuser
+🔶 Hacker News · ⬆️ 409 points · 💬 158 comments · 👤 tosh
 
-Pv-magazine.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "နေရောင်ခြည်စွမ်းအင်သည်ကမ္ဘာလုံးဆိုင်ရာနျူကလီးယားစွမ်းအင်ကိုပထမ ဦး ဆုံးအကြိမ်ကျော်လွန်သည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်ထားသောစာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
+Karrisaarinen.com သို့ "ဆော့ဖ်ဝဲလ်နောက်ကွယ်မှတစ်စုံတစ် ဦး" ခေါင်းစဉ်ဖြင့်လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50131256) · [Source](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50142573) · [Source](https://karrisaarinen.com/posts/someone-behind-the-software/)
 
-3. မှတ်ဉာဏ်ကနေ Transformers ကို တီထွင်နိုင်ခဲ့တယ် ။
+3. RepRapMicron
 
-🔶 Hacker News · ⬆️ 542 points · 💬 126 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 378 points · 💬 58 comments · 👤 RobotToaster
 
-"မှတ်ဉာဏ်မှ ထရန်စဖော်မာများကို သင်တီထွင်နိုင်ခဲ့သည်" ဟူသော ခေါင်းစဉ်ဖြင့် alexwang.ai သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးမှုကို ရေးဆွဲခဲ့သည် ။
+Github.com ကို "RepRapMicron" ခေါင်းစဉ်နဲ့ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50122878) · [Source](https://alexwang.ai/posts/associative-memory/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50141076) · [Source](https://github.com/VikOlliver/RepRapMicron/wiki)
 
-4. ကျန်းမာသောအိမ်နီးချင်းကိုထိသည့်နေ့ရက်များအတွင်းသွေးစွန်းသောသန္တာန်များကြီးထွားလာသည်
+4. Hybrid Reasoning Agents - LLM Agents များသည် အလျားလိုက်နေရာတွင် တွေးပြီး စာသားမှတဆင့် လုပ်ဆောင်သည်
 
-🔶 Hacker News · ⬆️ 414 points · 💬 92 comments · 👤 alkyon
+🔶 Hacker News · ⬆️ 351 points · 💬 168 comments · 👤 allinonai
 
-"ကျန်းမာသောအိမ်နီးချင်းကိုထိသောအခါ Bleached သန္တာကျောက်တန်းများ" ခေါင်းစဉ်ဖြင့်သဘာဝက်ဘ်ဆိုက်မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+Arxiv.org သို့ "Hybrid Reasoning Agents: LLM Agents that think in latent space, act through text" ခေါင်းစဉ်ဖြင့် link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50126253) · [Source](https://www.nature.com/articles/d41586-026-03266-x)
+[Discuss on HN](https://news.ycombinator.com/item?id=50145337) · [Source](https://arxiv.org/abs/2610.18861)
 
-5. Pele – ခေါင်းစဉ် SVG အဖြစ် Mermaid ပုံကြမ်းများ
+5. တစ္ခါမွ မေရာက္ဖူးေသးဘူး (အပိုင္း-၃) ~ လူဗိုလ္ ဟူသည္.
 
-🔶 Hacker News · ⬆️ 374 points · 💬 31 comments · 👤 dchest
+🔶 Hacker News · ⬆️ 318 points · 💬 377 comments · 👤 mdp2021
 
-Pele.run ခေါင်းစဉ်ဖြင့် link တစ်ခု "Pele – Mermaid Diagrams as themeable SVG," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+Youtube.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "သင်္ချာသို့သွားရန်ပိုမိုကောင်းမွန်သောအချိန်တစ်ခါမှမရှိခဲ့ပါ (အားဖြင့်: 3blue1brown) [ဗွီဒီယို]", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50132193) · [Source](https://pele.run/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50136150) · [Source](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 
-6. Furigana ကို ပြသပေးမယ့် Furifont ဂျပန်ဖောင့်
+6. ခွေးများသည် 'bouba' သည်ပတ် ၀ န်းကျင်နှင့် 'kiki' သည် spiky ဖြစ်ကြောင်းလူသားများနှင့်သဘောတူပုံရသည်
 
-🔶 Hacker News · ⬆️ 326 points · 💬 67 comments · 👤 plaguna
+🔶 Hacker News · ⬆️ 199 points · 💬 123 comments · 👤 gmays
 
-Furifont.antfu.me ကို "Furifont, furigana ကိုပြသောဂျပန်စာလုံး" ဟုအမည်ပေးထားသော link တစ်ခုသည်ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင်တစ်ခုဖြစ်သည် ။
+Sciencealert.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ခွေးများသည် 'bouba' သည်ပတ် ၀ န်းကျင်ဖြစ်ပြီး 'kiki' သည် spiky 'ဖြစ်ကြောင်းလူသားများနှင့်သဘောတူပုံရသည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50100994) · [Source](https://furifont.antfu.me/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50136979) · [Source](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 
-7. အခုေလာေလာဆယ္ ျမန္မာႏုိင္ငံဟာ အေမရိကန္ျပည္ေထာင္စုရဲ႕ ထိပ္တန္း
+7. ပွင့်လင်း MicroManipulator – မိုက်ခရိုမီတာခွဲ 3D ရွေ့လျားမှုထိန်းချုပ်မှု plattform
 
-🔶 Hacker News · ⬆️ 307 points · 💬 158 comments · 👤 iamnothere
+🔶 Hacker News · ⬆️ 192 points · 💬 16 comments · 👤 _Microft
 
-Numismaticnews.net ခေါင်းစဉ်နဲ့ link တစ်ခု "ရွှေယခုထိပ်တန်းအမေရိကန်ပို့ကုန်ဖြစ်ပါတယ်" ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Github.com ကို "ပွင့်လင်း MicroManipulator – တစ်ဦးကခွဲမိုက်ခရိုမီတာ 3D ရွေ့လျားမှုထိန်းချုပ်မှု plattform" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50132870) · [Source](https://www.numismaticnews.net/gold-now-top-u-s-export)
+[Discuss on HN](https://news.ycombinator.com/item?id=50140001) · [Source](https://github.com/0x23/MicroManipulatorStepper)
 
-8. ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?
+8. နည္းပညာဆိုင္ရာ အမ်ိဳးသားမ်ား #YesAllMen
 
-🦞 Lobsters · ⬆️ 126 points · 💬 20 comments · 👤 dcao
+🦞 Lobsters · ⬆️ 74 points · 💬 16 comments · 👤 gmem
 
-Terrytao.wordpress.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ငါတို့ဘာကြောင့်ဒါတွေအားလုံးလုပ်နေတာလဲ ။
+Media.ccc.de မှ link တစ်ခုသည် "နည်းပညာရှိယောက်ျားများ # YesAllMen" ဟုအမည်ပေးထားသည် ။
 
-[Discuss on Lobsters](https://lobste.rs/s/qvomvk) · [Source](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
+[Discuss on Lobsters](https://lobste.rs/s/mp8qye) · [Source](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
 
-9. The NIST Elliptic Curves Bounty တောင်းဆိုခဲ့သည်
+9. ဦးနှောက် Sandwich
 
-🦞 Lobsters · ⬆️ 110 points · 💬 22 comments · 👤 FiloSottile
+🦞 Lobsters · ⬆️ 38 points · 💬 14 comments · 👤 ani
 
-"The NIST Elliptic Curves Seeds Bounty has been Claimed" ဟု အမည်ပေးထားသော words.filippo.io သို့ ချိတ်ဆက်ထားသော စာမျက်နှာများ
+Terriblesoftware.org မှ "ဦး နှောက် Sandwich" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/ddtqtn) · [Source](https://words.filippo.io/seeds-solved/)
+[Discuss on Lobsters](https://lobste.rs/s/k5omum) · [Source](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 
-10. Linus Torvalds အေအိုင်-ကူညီ kernel ကိုပံ့ပိုးမှုအပေါ်
+10. ARP! မိမိကိုယ်ကိုရှင်းပြရန်သင့်ကွန်ယက်ကိုပြောပြပါ
 
-🦞 Lobsters · ⬆️ 88 points · 💬 159 comments · 👤 thang
+🦞 Lobsters · ⬆️ 36 points · 💬 13 comments · 👤 benj
 
-Lore.kernel.org သို့ ချိတ်ဆက်ထားသော "Linus Torvalds on AI-assisted kernel contributions" ခေါင်းစဉ်ဖြင့် သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ရေးဆွဲနေသည် ။
+Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/အာကာ "မှ ရယူရန် မင်းရဲ့ ကွန်ရက်ကို သူ့ဘာသာသူ ရှင်းပြဖို့ ပြောပါ"
 
-[Discuss on Lobsters](https://lobste.rs/s/xiq59t) · [Source](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
+[Discuss on Lobsters](https://lobste.rs/s/mmvhup) · [Source](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
 
-*daily-tech-digest · MileFisher · 2026-10-18T07:01:58.200Z*
+*daily-tech-digest · MileFisher · 2026-10-19T07:25:37.192Z*

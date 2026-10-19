@@ -1,145 +1,145 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
-      "id": "item?id=50129045",
+      "id": "item?id=50142866",
       "title": {
-        "en": "DeepSeek-v4.1-Flash-1017",
-        "my": "DeepSeek-v4.1-Flash ကို-1017"
+        "en": "Namecheap just seized and disabled all my domains",
+        "my": "Namecheap သည်ကျွန်ုပ် ၏ ဒိုမိန်းအားလုံးကိုဖမ်းပြီး disable လုပ်လိုက်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 809,
-      "comments": 633,
-      "author": "theykk",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "discussUrl": "https://news.ycombinator.com/item?id=50129045"
+      "score": 551,
+      "comments": 286,
+      "author": "sashk",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50142866"
     },
     {
-      "id": "item?id=50131256",
+      "id": "item?id=50142573",
       "title": {
-        "en": "Solar surpasses nuclear power globally for first time",
-        "my": "နေရောင်ခြည်စွမ်းအင်သည် ကမ္ဘာတစ်ဝှမ်းတွင် ပထမဆုံးအကြိမ် နျူကလီးယားစွမ်းအင်ကို ကျော်တက်"
+        "en": "Someone behind the software",
+        "my": "ဆော့ဝဲလ်ရဲ့ နောက်ကွယ်က တစ်ယောက်ယောက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 564,
-      "comments": 344,
-      "author": "xbmcuser",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50131256"
-    },
-    {
-      "id": "item?id=50122878",
-      "title": {
-        "en": "You could have invented transformers from memory",
-        "my": "မှတ်ဉာဏ်ကနေ Transformers ကို တီထွင်နိုင်ခဲ့တယ် ။"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 542,
-      "comments": 126,
-      "author": "speckx",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50122878"
-    },
-    {
-      "id": "item?id=50126253",
-      "title": {
-        "en": "Bleached corals thrive within days when touching healthy neighbour",
-        "my": "ကျန်းမာသောအိမ်နီးချင်းကိုထိသည့်နေ့ရက်များအတွင်းသွေးစွန်းသောသန္တာန်များကြီးထွားလာသည်"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 414,
-      "comments": 92,
-      "author": "alkyon",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "discussUrl": "https://news.ycombinator.com/item?id=50126253"
-    },
-    {
-      "id": "item?id=50132193",
-      "title": {
-        "en": "Pele – Mermaid diagrams as themeable SVG",
-        "my": "Pele – ခေါင်းစဉ် SVG အဖြစ် Mermaid ပုံကြမ်းများ"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 374,
-      "comments": 31,
-      "author": "dchest",
-      "url": "https://pele.run/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50132193"
-    },
-    {
-      "id": "item?id=50100994",
-      "title": {
-        "en": "Furifont, a Japanese font that shows furigana",
-        "my": "Furigana ကို ပြသပေးမယ့် Furifont ဂျပန်ဖောင့်"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 326,
-      "comments": 67,
-      "author": "plaguna",
-      "url": "https://furifont.antfu.me/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50100994"
-    },
-    {
-      "id": "item?id=50132870",
-      "title": {
-        "en": "Gold is now the top U.S. export",
-        "my": "အခုေလာေလာဆယ္ ျမန္မာႏုိင္ငံဟာ အေမရိကန္ျပည္ေထာင္စုရဲ႕ ထိပ္တန္း"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 307,
+      "score": 409,
       "comments": 158,
-      "author": "iamnothere",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "discussUrl": "https://news.ycombinator.com/item?id=50132870"
+      "author": "tosh",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50142573"
     },
     {
-      "id": "qvomvk",
+      "id": "item?id=50141076",
       "title": {
-        "en": "Why are we even doing all this?",
-        "my": "ဘာကြောင့် ဒါကို လုပ်ဆောင်ကြရတာပါလဲ?"
+        "en": "RepRapMicron",
+        "my": "RepRapMicron"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 378,
+      "comments": 58,
+      "author": "RobotToaster",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "discussUrl": "https://news.ycombinator.com/item?id=50141076"
+    },
+    {
+      "id": "item?id=50145337",
+      "title": {
+        "en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "my": "Hybrid Reasoning Agents - LLM Agents များသည် အလျားလိုက်နေရာတွင် တွေးပြီး စာသားမှတဆင့် လုပ်ဆောင်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 351,
+      "comments": 168,
+      "author": "allinonai",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "discussUrl": "https://news.ycombinator.com/item?id=50145337"
+    },
+    {
+      "id": "item?id=50136150",
+      "title": {
+        "en": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+        "my": "တစ္ခါမွ မေရာက္ဖူးေသးဘူး (အပိုင္း-၃) ~ လူဗိုလ္ ဟူသည္."
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 318,
+      "comments": 377,
+      "author": "mdp2021",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "discussUrl": "https://news.ycombinator.com/item?id=50136150"
+    },
+    {
+      "id": "item?id=50136979",
+      "title": {
+        "en": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+        "my": "ခွေးများသည် 'bouba' သည်ပတ် ၀ န်းကျင်နှင့် 'kiki' သည် spiky ဖြစ်ကြောင်းလူသားများနှင့်သဘောတူပုံရသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 199,
+      "comments": 123,
+      "author": "gmays",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "discussUrl": "https://news.ycombinator.com/item?id=50136979"
+    },
+    {
+      "id": "item?id=50140001",
+      "title": {
+        "en": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+        "my": "ပွင့်လင်း MicroManipulator – မိုက်ခရိုမီတာခွဲ 3D ရွေ့လျားမှုထိန်းချုပ်မှု plattform"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 192,
+      "comments": 16,
+      "author": "_Microft",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "discussUrl": "https://news.ycombinator.com/item?id=50140001"
+    },
+    {
+      "id": "mp8qye",
+      "title": {
+        "en": "Men in tech #YesAllMen",
+        "my": "နည္းပညာဆိုင္ရာ အမ်ိဳးသားမ်ား #YesAllMen"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 126,
-      "comments": 20,
-      "author": "dcao",
-      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-      "discussUrl": "https://lobste.rs/s/qvomvk"
+      "score": 74,
+      "comments": 16,
+      "author": "gmem",
+      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+      "discussUrl": "https://lobste.rs/s/mp8qye"
     },
     {
-      "id": "ddtqtn",
+      "id": "k5omum",
       "title": {
-        "en": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-        "my": "The NIST Elliptic Curves Bounty တောင်းဆိုခဲ့သည်"
+        "en": "The Brain Sandwich",
+        "my": "ဦးနှောက် Sandwich"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 110,
-      "comments": 22,
-      "author": "FiloSottile",
-      "url": "https://words.filippo.io/seeds-solved/",
-      "discussUrl": "https://lobste.rs/s/ddtqtn"
+      "score": 38,
+      "comments": 14,
+      "author": "ani",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "discussUrl": "https://lobste.rs/s/k5omum"
     },
     {
-      "id": "xiq59t",
+      "id": "mmvhup",
       "title": {
-        "en": "Linus Torvalds on AI-assisted kernel contributions",
-        "my": "Linus Torvalds အေအိုင်-ကူညီ kernel ကိုပံ့ပိုးမှုအပေါ်"
+        "en": "ARP! Tell your network to explain itself",
+        "my": "ARP! မိမိကိုယ်ကိုရှင်းပြရန်သင့်ကွန်ယက်ကိုပြောပြပါ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 88,
-      "comments": 159,
-      "author": "thang",
-      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-      "discussUrl": "https://lobste.rs/s/xiq59t"
+      "score": 36,
+      "comments": 13,
+      "author": "benj",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+      "discussUrl": "https://lobste.rs/s/mmvhup"
     }
   ]
 }
