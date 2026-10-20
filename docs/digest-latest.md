@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-19
+# 🗞️ Daily Tech Digest — 2026-10-20
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:25 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:16 ICT
 
 ---
 
-1. Namecheap just seized and disabled all my domains
+1. It's still ok to enjoy programming
 
-🔶 Hacker News · ⬆️ 551 points · 💬 286 comments · 👤 sashk
+🔶 Hacker News · ⬆️ 553 points · 💬 489 comments · 👤 goostavos
 
-A link to reddit.com titled "Namecheap just seized and disabled all my domains", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to chriskiehl.com titled "It's still ok to enjoy programming", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50142866) · [Source](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50134472) · [Source](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 
-2. Someone behind the software
+2. Wine ported to OpenBSD
 
-🔶 Hacker News · ⬆️ 409 points · 💬 158 comments · 👤 tosh
+🔶 Hacker News · ⬆️ 545 points · 💬 183 comments · 👤 iamnothere
 
-A link to karrisaarinen.com titled "Someone behind the software", a popular story on the front page, drawing significant discussion.
+A link to marc.info titled "Wine ported to OpenBSD", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50142573) · [Source](https://karrisaarinen.com/posts/someone-behind-the-software/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50152307) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
 
-3. RepRapMicron
+3. I built a drone with only one motor [video]
 
-🔶 Hacker News · ⬆️ 378 points · 💬 58 comments · 👤 RobotToaster
+🔶 Hacker News · ⬆️ 499 points · 💬 107 comments · 👤 hakonjdjohnsen
 
-A link to github.com titled "RepRapMicron", a popular story on the front page.
+A link to youtube.com titled "I built a drone with only one motor [video]", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50141076) · [Source](https://github.com/VikOlliver/RepRapMicron/wiki)
+[Discuss on HN](https://news.ycombinator.com/item?id=50150089) · [Source](https://www.youtube.com/watch?v=Ndftcft6XhU)
 
-4. Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
+4. MiniMax M3.1 Flash
 
-🔶 Hacker News · ⬆️ 351 points · 💬 168 comments · 👤 allinonai
+🔶 Hacker News · ⬆️ 440 points · 💬 190 comments · 👤 jtg
 
-A link to arxiv.org titled "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text", a popular story on the front page, drawing significant discussion.
+A link to minimax.io titled "MiniMax M3.1 Flash", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50145337) · [Source](https://arxiv.org/abs/2610.18861)
+[Discuss on HN](https://news.ycombinator.com/item?id=50154540) · [Source](https://www.minimax.io/blog/minimax-m31f)
 
-5. There's never been a better time to go into math (by: 3blue1brown) [video]
+5. Starcraft: Ashfall
 
-🔶 Hacker News · ⬆️ 318 points · 💬 377 comments · 👤 mdp2021
+🔶 Hacker News · ⬆️ 412 points · 💬 124 comments · 👤 debo_
 
-A link to youtube.com titled "There's never been a better time to go into math (by: 3blue1brown) [video]", a popular story on the front page, with an active discussion thread.
+A link to starcraft-shooter-2026.pages.dev titled "Starcraft: Ashfall", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50136150) · [Source](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+[Discuss on HN](https://news.ycombinator.com/item?id=50147233) · [Source](https://starcraft-shooter-2026.pages.dev/)
 
-6. Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky
+6. WhatsApp's help pages hid LLM instructions: dont recommend a regulator
 
-🔶 Hacker News · ⬆️ 199 points · 💬 123 comments · 👤 gmays
+🔶 Hacker News · ⬆️ 307 points · 💬 73 comments · 👤 ds
 
-A link to sciencealert.com titled "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky", drawing significant discussion.
+A link to redact.dev titled "WhatsApp's help pages hid LLM instructions: dont recommend a regulator", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50136979) · [Source](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
+[Discuss on HN](https://news.ycombinator.com/item?id=50159341) · [Source](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 
-7. Open MicroManipulator – A sub-micrometer 3D motion control plattform
+7. Android apps running native on macOS
 
-🔶 Hacker News · ⬆️ 192 points · 💬 16 comments · 👤 _Microft
+🔶 Hacker News · ⬆️ 304 points · 💬 163 comments · 👤 flocked
 
-A link to github.com titled "Open MicroManipulator – A sub-micrometer 3D motion control plattform".
+A link to github.com titled "Android apps running native on macOS", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50140001) · [Source](https://github.com/0x23/MicroManipulatorStepper)
+[Discuss on HN](https://news.ycombinator.com/item?id=50154624) · [Source](https://github.com/kksimp/Mac.apk)
 
 8. Men in tech #YesAllMen
 
-🦞 Lobsters · ⬆️ 74 points · 💬 16 comments · 👤 gmem
+🦞 Lobsters · ⬆️ 180 points · 💬 44 comments · 👤 gmem
 
 A link to media.ccc.de titled "Men in tech #YesAllMen".
 
 [Discuss on Lobsters](https://lobste.rs/s/mp8qye) · [Source](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
 
-9. The Brain Sandwich
+9. Wine ported to OpenBSD
 
-🦞 Lobsters · ⬆️ 38 points · 💬 14 comments · 👤 ani
+🦞 Lobsters · ⬆️ 93 points · 💬 17 comments · 👤 nbyqvist
 
-A link to terriblesoftware.org titled "The Brain Sandwich".
+A link to marc.info titled "Wine ported to OpenBSD".
 
-[Discuss on Lobsters](https://lobste.rs/s/k5omum) · [Source](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
+[Discuss on Lobsters](https://lobste.rs/s/gqepzd) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
 
-10. ARP! Tell your network to explain itself
+10. One Hash Bloom Filters
 
-🦞 Lobsters · ⬆️ 36 points · 💬 13 comments · 👤 benj
+🦞 Lobsters · ⬆️ 49 points · 💬 8 comments · 👤 pushcx
 
-A link to benjcal.space titled "ARP! Tell your network to explain itself".
+A link to calabro.io titled "One Hash Bloom Filters".
 
-[Discuss on Lobsters](https://lobste.rs/s/mmvhup) · [Source](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
+[Discuss on Lobsters](https://lobste.rs/s/mpytbn) · [Source](https://www.calabro.io/ohbf)
 
-*daily-tech-digest · MileFisher · 2026-10-19T07:25:37.192Z*
+*daily-tech-digest · MileFisher · 2026-10-20T07:16:18.245Z*
