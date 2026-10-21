@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-20
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-21
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:16 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:12 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Programming ကို ေလ့လာေနဆဲ
+1. DeepInfer: DeepSeek မော်ဒယ်များအတွက်မြင့်မားသောစွမ်းဆောင်ရည်ချဉ်းကပ်မှုမူဘောင်
 
-🔶 Hacker News · ⬆️ 553 points · 💬 489 comments · 👤 goostavos
+🔶 Hacker News · ⬆️ 2213 points · 💬 852 comments · 👤 ggcr
 
-Chriskiehl.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ပရိုဂရမ်ကိုခံစားရန်အဆင်ပြေနေဆဲဖြစ်သည်", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "DeepInfer: DeepSeek မော်ဒယ်များအတွက်မြင့်မားသောစွမ်းဆောင်ရည်ခန့်မှန်းချက်မူဘောင်", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50134472) · [Source](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
+[Discuss on HN](https://news.ycombinator.com/item?id=50163277) · [Source](https://github.com/deepseek-ai/DeepInfer)
 
-2. အိတ်ဖွင့်တင်ဒါခေါ်ယူခြင်း - OpenBSD
+2. eMudhra အလယ်အလတ် CA အပေးအယူ
 
-🔶 Hacker News · ⬆️ 545 points · 💬 183 comments · 👤 iamnothere
+🔶 Hacker News · ⬆️ 848 points · 💬 375 comments · 👤 galadran
 
-"Wine ported to OpenBSD" ခေါင်းစဉ်ဖြင့် marc.info သို့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"eMudhra အလယ်အလတ် CA အပေးအယူ" ခေါင်းစဉ်ဖြင့် emudhra.we-have-a-problem.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်များထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50152307) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
+[Discuss on HN](https://news.ycombinator.com/item?id=50166579) · [Source](https://emudhra.we-have-a-problem.com/)
 
-3. မော်တာတစ်လုံးတည်းဖြင့်မောင်းသူမဲ့လေယာဉ်ကိုတည်ဆောက်ခဲ့သည် (ဗီဒီယို)
+3. HN ပြရန်: SimCity, ဒါပေမယ့်ခွင့်ပြုချက်နှင့်အတူ
 
-🔶 Hacker News · ⬆️ 499 points · 💬 107 comments · 👤 hakonjdjohnsen
+🔶 Hacker News · ⬆️ 726 points · 💬 357 comments · 👤 pcai
 
-Youtube.com ရဲ့ link တစ်ခုဖြစ်တဲ့ "I built a drone with only motor [video]" ဆိုတဲ့ ခေါင်းစဉ်နဲ့ ရှေ့စာမျက်နှာမှာ လူကြိုက်များတဲ့ ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ရေးဆွဲထားပါတယ် ။
+"Show HN: SimCity, but with Permits" ခေါင်းစဉ်ဖြင့် Permit.petercai.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်အမြင့်ဆုံးရမှတ်များထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50150089) · [Source](https://www.youtube.com/watch?v=Ndftcft6XhU)
+[Discuss on HN](https://news.ycombinator.com/item?id=50170593) · [Source](https://permit.petercai.com/)
 
-4. MiniMax M3.1 Flash ကို
+4. Voxtral 3
 
-🔶 Hacker News · ⬆️ 440 points · 💬 190 comments · 👤 jtg
+🔶 Hacker News · ⬆️ 613 points · 💬 156 comments · 👤 ilreb
 
-"MiniMax M3.1 Flash" ဟုအမည်ပေးထားသော minimax.io သို့ link တစ်ခုသည်မျက်နှာစာပေါ်တွင်လူကြိုက်များသောပုံပြင်တစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲသည် ။
+Mistral.ai ခေါင်းစဉ်ဖြင့် link တစ်ခု "Voxtral 3", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50154540) · [Source](https://www.minimax.io/blog/minimax-m31f)
+[Discuss on HN](https://news.ycombinator.com/item?id=50168396) · [Source](https://mistral.ai/news/voxtral-3/)
 
-5. Starcraft: ပြာကျခြင်း
+5. Apple သည် iPads ၏ မရှိမဖြစ်လိုအပ်သောတင်ဆက်မှုအင်္ဂါရပ်ကိုချိုးဖျက်ခဲ့သည်
 
-🔶 Hacker News · ⬆️ 412 points · 💬 124 comments · 👤 debo_
+🔶 Hacker News · ⬆️ 541 points · 💬 269 comments · 👤 evanb
 
-"Starcraft: Ashfall" အမည်ရှိ Starcraft-shooter-2026.pages.dev သို့ ချိတ်ဆက်ထားသော စာမျက်နှာများ ၊ ရှေ့မျက်နှာစာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက် ရေးဆွဲခြင်း ။
+Teddysvoronos.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Apple သည် iPads ၏ မရှိမဖြစ်လိုအပ်သောတင်ဆက်မှုအင်္ဂါရပ်ကိုချိုးဖောက်ခဲ့သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50147233) · [Source](https://starcraft-shooter-2026.pages.dev/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50165208) · [Source](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 
-6. WhatsApp ကိုရဲ့အကူအညီစာမျက်နှာများ LLM ညွှန်ကြားချက်ဖုံးကွယ်: တစ်ဦး Regulator ကိုအကြံပြု NOT
+6. လာမည့်အရေးပါသော PHP လုံခြုံရေးထုတ်ပြန်ချက် (CVE-2026-109618/ -109619)
 
-🔶 Hacker News · ⬆️ 307 points · 💬 73 comments · 👤 ds
+🔶 Hacker News · ⬆️ 493 points · 💬 184 comments · 👤 xd
 
-Redact.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "WhatsApp ၏ အကူအညီစာမျက်နှာများသည် LLM ညွှန်ကြားချက်များကိုဖုံးကွယ်ထားသည်: NOT အကြံပြုသည် စည်းမျဉ်းစည်းကမ်း", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+News-web.php.net သို့ပေးပို့ထားသော link တစ်ခု "အရေးပါသော PHP လုံခြုံရေးဖြန့်ချိမှု (CVE-2026-109618/-109619)" ခေါင်းစဉ်ဖြင့်, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50159341) · [Source](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+[Discuss on HN](https://news.ycombinator.com/item?id=50172041) · [Source](https://news-web.php.net/php.announce/509)
 
-7. MacOS တွင်ဇာတိပြေးနေသော Android အက်ပလီကေးရှင်းများ
+7. TRUESTORY: ရခုိင္အမ်ိဳးသား လြတ္ေျမာက္ေရး လႈပ္ရွားမႈ ရပ္ဆုိင္းရန္ တုိက္တြန္း
 
-🔶 Hacker News · ⬆️ 304 points · 💬 163 comments · 👤 flocked
+🔶 Hacker News · ⬆️ 390 points · 💬 191 comments · 👤 hnisjafx40
 
-Github.com ခေါင်းစဉ်နဲ့ link တစ်ခု "MacOS ပေါ်မှာဇာတိပြေး Android apps များ," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Blog.cloudflare.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Tsrs: TypeScript ကို Rust ၏ ဆိပ်ကမ်း", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50154624) · [Source](https://github.com/kksimp/Mac.apk)
+[Discuss on HN](https://news.ycombinator.com/item?id=50165953) · [Source](https://blog.cloudflare.com/typescript-rust-port/)
 
-8. နည္းပညာဆိုင္ရာ အမ်ိဳးသားမ်ား #YesAllMen
+8. EMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူပြီးနောက် Firefox ကိုအသုံးပြုသူများကာကွယ်စောင့်ရှောက်ခြင်း
 
-🦞 Lobsters · ⬆️ 180 points · 💬 44 comments · 👤 gmem
+🦞 Lobsters · ⬆️ 143 points · 💬 47 comments · 👤 freddyb
 
-Media.ccc.de မှ link တစ်ခုသည် "နည်းပညာရှိယောက်ျားများ # YesAllMen" ဟုအမည်ပေးထားသည် ။
+"eMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူအောက်ပါ Firefox အသုံးပြုသူများအားကာကွယ်ခြင်း" ခေါင်းစဉ်ဖြင့် blog.mozilla.org သို့လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/mp8qye) · [Source](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
+[Discuss on Lobsters](https://lobste.rs/s/gqyvn5) · [Source](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 
 9. အိတ်ဖွင့်တင်ဒါခေါ်ယူခြင်း - OpenBSD
 
-🦞 Lobsters · ⬆️ 93 points · 💬 17 comments · 👤 nbyqvist
+🦞 Lobsters · ⬆️ 118 points · 💬 22 comments · 👤 nbyqvist
 
 "Wine ported to OpenBSD" ခေါင်းစဉ်ဖြင့် marc.info သို့ လင့်ခ်တစ်ခု ။
 
 [Discuss on Lobsters](https://lobste.rs/s/gqepzd) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
 
-10. တစ်ဦးက Hash Bloom Filter ကို
+10. OpenBSD 8.0
 
-🦞 Lobsters · ⬆️ 49 points · 💬 8 comments · 👤 pushcx
+🦞 Lobsters · ⬆️ 96 points · 💬 11 comments · 👤 dgv
 
-"တစ်ဦးက Hash Bloom Filters" ဟုအမည်ပေးထားသော calabro.io မှ link တစ်ခု ။
+"OpenBSD 8.0" ခေါင်းစဉ်ဖြင့် openbsd.org သို့ လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/mpytbn) · [Source](https://www.calabro.io/ohbf)
+[Discuss on Lobsters](https://lobste.rs/s/sqdhu7) · [Source](https://www.openbsd.org/80.html)
 
-*daily-tech-digest · MileFisher · 2026-10-20T07:16:18.245Z*
+*daily-tech-digest · MileFisher · 2026-10-21T07:12:24.146Z*

@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-21",
+  "items": [
+    {
+      "id": "item?id=50163277",
+      "title": {
+        "en": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "my": "DeepInfer: DeepSeek မော်ဒယ်များအတွက်မြင့်မားသောစွမ်းဆောင်ရည်ချဉ်းကပ်မှုမူဘောင်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 2213,
+      "comments": 852,
+      "author": "ggcr",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "discussUrl": "https://news.ycombinator.com/item?id=50163277"
+    },
+    {
+      "id": "item?id=50166579",
+      "title": {
+        "en": "eMudhra intermediate CA compromise",
+        "my": "eMudhra အလယ်အလတ် CA အပေးအယူ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 848,
+      "comments": 375,
+      "author": "galadran",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50166579"
+    },
+    {
+      "id": "item?id=50170593",
+      "title": {
+        "en": "Show HN: SimCity, but with Permits",
+        "my": "HN ပြရန်: SimCity, ဒါပေမယ့်ခွင့်ပြုချက်နှင့်အတူ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 726,
+      "comments": 357,
+      "author": "pcai",
+      "url": "https://permit.petercai.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50170593"
+    },
+    {
+      "id": "item?id=50168396",
+      "title": {
+        "en": "Voxtral 3",
+        "my": "Voxtral 3"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 613,
+      "comments": 156,
+      "author": "ilreb",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50168396"
+    },
+    {
+      "id": "item?id=50165208",
+      "title": {
+        "en": "Apple broke an essential presentation feature of iPads",
+        "my": "Apple သည် iPads ၏ မရှိမဖြစ်လိုအပ်သောတင်ဆက်မှုအင်္ဂါရပ်ကိုချိုးဖျက်ခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 541,
+      "comments": 269,
+      "author": "evanb",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50165208"
+    },
+    {
+      "id": "item?id=50172041",
+      "title": {
+        "en": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+        "my": "လာမည့်အရေးပါသော PHP လုံခြုံရေးထုတ်ပြန်ချက် (CVE-2026-109618/ -109619)"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 493,
+      "comments": 184,
+      "author": "xd",
+      "url": "https://news-web.php.net/php.announce/509",
+      "discussUrl": "https://news.ycombinator.com/item?id=50172041"
+    },
+    {
+      "id": "item?id=50165953",
+      "title": {
+        "en": "Tsrs: A Port of TypeScript to Rust",
+        "my": "TRUESTORY: ရခုိင္အမ်ိဳးသား လြတ္ေျမာက္ေရး လႈပ္ရွားမႈ ရပ္ဆုိင္းရန္ တုိက္တြန္း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 390,
+      "comments": 191,
+      "author": "hnisjafx40",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50165953"
+    },
+    {
+      "id": "gqyvn5",
+      "title": {
+        "en": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "my": "EMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူပြီးနောက် Firefox ကိုအသုံးပြုသူများကာကွယ်စောင့်ရှောက်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 143,
+      "comments": 47,
+      "author": "freddyb",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "discussUrl": "https://lobste.rs/s/gqyvn5"
+    },
+    {
+      "id": "gqepzd",
+      "title": {
+        "en": "Wine ported to OpenBSD",
+        "my": "အိတ်ဖွင့်တင်ဒါခေါ်ယူခြင်း - OpenBSD"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 118,
+      "comments": 22,
+      "author": "nbyqvist",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "discussUrl": "https://lobste.rs/s/gqepzd"
+    },
+    {
+      "id": "sqdhu7",
+      "title": {
+        "en": "OpenBSD 8.0",
+        "my": "OpenBSD 8.0"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 96,
+      "comments": 11,
+      "author": "dgv",
+      "url": "https://www.openbsd.org/80.html",
+      "discussUrl": "https://lobste.rs/s/sqdhu7"
+    }
+  ]
+}

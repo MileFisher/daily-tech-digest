@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-20
+# 🗞️ Daily Tech Digest — 2026-10-21
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:16 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:12 ICT
 
 ---
 
-1. It's still ok to enjoy programming
+1. DeepInfer: High-performance inference framework for DeepSeek models
 
-🔶 Hacker News · ⬆️ 553 points · 💬 489 comments · 👤 goostavos
+🔶 Hacker News · ⬆️ 2213 points · 💬 852 comments · 👤 ggcr
 
-A link to chriskiehl.com titled "It's still ok to enjoy programming", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to github.com titled "DeepInfer: High-performance inference framework for DeepSeek models", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50134472) · [Source](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
+[Discuss on HN](https://news.ycombinator.com/item?id=50163277) · [Source](https://github.com/deepseek-ai/DeepInfer)
 
-2. Wine ported to OpenBSD
+2. eMudhra intermediate CA compromise
 
-🔶 Hacker News · ⬆️ 545 points · 💬 183 comments · 👤 iamnothere
+🔶 Hacker News · ⬆️ 848 points · 💬 375 comments · 👤 galadran
 
-A link to marc.info titled "Wine ported to OpenBSD", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to emudhra.we-have-a-problem.com titled "eMudhra intermediate CA compromise", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50152307) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
+[Discuss on HN](https://news.ycombinator.com/item?id=50166579) · [Source](https://emudhra.we-have-a-problem.com/)
 
-3. I built a drone with only one motor [video]
+3. Show HN: SimCity, but with Permits
 
-🔶 Hacker News · ⬆️ 499 points · 💬 107 comments · 👤 hakonjdjohnsen
+🔶 Hacker News · ⬆️ 726 points · 💬 357 comments · 👤 pcai
 
-A link to youtube.com titled "I built a drone with only one motor [video]", a popular story on the front page, drawing significant discussion.
+A link to permit.petercai.com titled "Show HN: SimCity, but with Permits", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50150089) · [Source](https://www.youtube.com/watch?v=Ndftcft6XhU)
+[Discuss on HN](https://news.ycombinator.com/item?id=50170593) · [Source](https://permit.petercai.com/)
 
-4. MiniMax M3.1 Flash
+4. Voxtral 3
 
-🔶 Hacker News · ⬆️ 440 points · 💬 190 comments · 👤 jtg
+🔶 Hacker News · ⬆️ 613 points · 💬 156 comments · 👤 ilreb
 
-A link to minimax.io titled "MiniMax M3.1 Flash", a popular story on the front page, drawing significant discussion.
+A link to mistral.ai titled "Voxtral 3", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50154540) · [Source](https://www.minimax.io/blog/minimax-m31f)
+[Discuss on HN](https://news.ycombinator.com/item?id=50168396) · [Source](https://mistral.ai/news/voxtral-3/)
 
-5. Starcraft: Ashfall
+5. Apple broke an essential presentation feature of iPads
 
-🔶 Hacker News · ⬆️ 412 points · 💬 124 comments · 👤 debo_
+🔶 Hacker News · ⬆️ 541 points · 💬 269 comments · 👤 evanb
 
-A link to starcraft-shooter-2026.pages.dev titled "Starcraft: Ashfall", a popular story on the front page, drawing significant discussion.
+A link to teddysvoronos.com titled "Apple broke an essential presentation feature of iPads", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50147233) · [Source](https://starcraft-shooter-2026.pages.dev/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50165208) · [Source](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 
-6. WhatsApp's help pages hid LLM instructions: dont recommend a regulator
+6. Upcoming critical PHP security release (CVE-2026-109618 / -109619)
 
-🔶 Hacker News · ⬆️ 307 points · 💬 73 comments · 👤 ds
+🔶 Hacker News · ⬆️ 493 points · 💬 184 comments · 👤 xd
 
-A link to redact.dev titled "WhatsApp's help pages hid LLM instructions: dont recommend a regulator", a popular story on the front page.
+A link to news-web.php.net titled "Upcoming critical PHP security release (CVE-2026-109618 / -109619)", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50159341) · [Source](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+[Discuss on HN](https://news.ycombinator.com/item?id=50172041) · [Source](https://news-web.php.net/php.announce/509)
 
-7. Android apps running native on macOS
+7. Tsrs: A Port of TypeScript to Rust
 
-🔶 Hacker News · ⬆️ 304 points · 💬 163 comments · 👤 flocked
+🔶 Hacker News · ⬆️ 390 points · 💬 191 comments · 👤 hnisjafx40
 
-A link to github.com titled "Android apps running native on macOS", a popular story on the front page, drawing significant discussion.
+A link to blog.cloudflare.com titled "Tsrs: A Port of TypeScript to Rust", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50154624) · [Source](https://github.com/kksimp/Mac.apk)
+[Discuss on HN](https://news.ycombinator.com/item?id=50165953) · [Source](https://blog.cloudflare.com/typescript-rust-port/)
 
-8. Men in tech #YesAllMen
+8. Protecting Firefox users following the compromise of eMudhra intermediate certificates
 
-🦞 Lobsters · ⬆️ 180 points · 💬 44 comments · 👤 gmem
+🦞 Lobsters · ⬆️ 143 points · 💬 47 comments · 👤 freddyb
 
-A link to media.ccc.de titled "Men in tech #YesAllMen".
+A link to blog.mozilla.org titled "Protecting Firefox users following the compromise of eMudhra intermediate certificates".
 
-[Discuss on Lobsters](https://lobste.rs/s/mp8qye) · [Source](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
+[Discuss on Lobsters](https://lobste.rs/s/gqyvn5) · [Source](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 
 9. Wine ported to OpenBSD
 
-🦞 Lobsters · ⬆️ 93 points · 💬 17 comments · 👤 nbyqvist
+🦞 Lobsters · ⬆️ 118 points · 💬 22 comments · 👤 nbyqvist
 
 A link to marc.info titled "Wine ported to OpenBSD".
 
 [Discuss on Lobsters](https://lobste.rs/s/gqepzd) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
 
-10. One Hash Bloom Filters
+10. OpenBSD 8.0
 
-🦞 Lobsters · ⬆️ 49 points · 💬 8 comments · 👤 pushcx
+🦞 Lobsters · ⬆️ 96 points · 💬 11 comments · 👤 dgv
 
-A link to calabro.io titled "One Hash Bloom Filters".
+A link to openbsd.org titled "OpenBSD 8.0".
 
-[Discuss on Lobsters](https://lobste.rs/s/mpytbn) · [Source](https://www.calabro.io/ohbf)
+[Discuss on Lobsters](https://lobste.rs/s/sqdhu7) · [Source](https://www.openbsd.org/80.html)
 
-*daily-tech-digest · MileFisher · 2026-10-20T07:16:18.245Z*
+*daily-tech-digest · MileFisher · 2026-10-21T07:12:24.146Z*
