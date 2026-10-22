@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "id": "item?id=50180873",
+      "title": {
+        "en": "PHP 8.2.35",
+        "my": "PHP ကို 8.2.35"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1006,
+      "comments": 537,
+      "author": "tuyuri",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "discussUrl": "https://news.ycombinator.com/item?id=50180873"
+    },
+    {
+      "id": "item?id=50182987",
+      "title": {
+        "en": "Today's PHP security release, and how we're strengthening security",
+        "my": "ယေန႔ PHP လံုၿခံဳေရး ထုတ္ျပန္ခ်က္ ၊ လံုၿခံဳေရးကို ဘယ္လို အားျဖည့္ေနသလဲ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 715,
+      "comments": 349,
+      "author": "ejohnso49",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50182987"
+    },
+    {
+      "id": "item?id=50184586",
+      "title": {
+        "en": "EA is shutting down BioWare",
+        "my": "EA သည် BioWare ကိုပိတ်နေသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 600,
+      "comments": 374,
+      "author": "aaronbrethorst",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "discussUrl": "https://news.ycombinator.com/item?id=50184586"
+    },
+    {
+      "id": "item?id=50184820",
+      "title": {
+        "en": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+        "my": "New Mexico Cambridge Analytica အမှုတွင် $ 25B ပြစ်ဒဏ်ပေးရန် Meta အမိန့်ချမှတ်ခံရ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 502,
+      "comments": 306,
+      "author": "cbg0",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50184820"
+    },
+    {
+      "id": "item?id=50181114",
+      "title": {
+        "en": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "my": "Compromised LiteLLM 1.107.0 PyPI အပေါ်တစ်ဦးအထောက်အထားခိုးယူခြင်းနှင့် Backdoor Installs"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 483,
+      "comments": 165,
+      "author": "abhisek",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50181114"
+    },
+    {
+      "id": "item?id=50188948",
+      "title": {
+        "en": "There isn't an easy exploit for this PHP vulnerability",
+        "my": "ဒီ PHP အားနည်းချက်အတွက်လွယ်ကူသောအသုံးချမှုမရှိပါ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 449,
+      "comments": 235,
+      "author": "zkldi",
+      "url": "https://eliastaylor.com/noexploit/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50188948"
+    },
+    {
+      "id": "item?id=50188228",
+      "title": {
+        "en": "Security Disclosure",
+        "my": "လုံခြုံရေးထုတ်ဖော်ခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 418,
+      "comments": 243,
+      "author": "passenger",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "discussUrl": "https://news.ycombinator.com/item?id=50188228"
+    },
+    {
+      "id": "ekxoyt",
+      "title": {
+        "en": "Upcoming Critical PHP Security Release",
+        "my": "လာမည့်အရေးပါသော PHP ကိုလုံခြုံရေးထုတ်ပြန်ချက်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 186,
+      "comments": 128,
+      "author": "pushcx",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "discussUrl": "https://lobste.rs/s/ekxoyt"
+    },
+    {
+      "id": "gqyvn5",
+      "title": {
+        "en": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "my": "EMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူပြီးနောက် Firefox ကိုအသုံးပြုသူများကာကွယ်စောင့်ရှောက်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 169,
+      "comments": 71,
+      "author": "freddyb",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "discussUrl": "https://lobste.rs/s/gqyvn5"
+    },
+    {
+      "id": "w9sxxq",
+      "title": {
+        "en": "Firefox Local Mode",
+        "my": "Firefox ဒေသတွင်း မုဒ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 92,
+      "comments": 18,
+      "author": "lim",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "discussUrl": "https://lobste.rs/s/w9sxxq"
+    }
+  ]
+}

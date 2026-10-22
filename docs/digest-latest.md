@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-21
+# 🗞️ Daily Tech Digest — 2026-10-22
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:12 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:14 ICT
 
 ---
 
-1. DeepInfer: High-performance inference framework for DeepSeek models
+1. PHP 8.2.35
 
-🔶 Hacker News · ⬆️ 2213 points · 💬 852 comments · 👤 ggcr
+🔶 Hacker News · ⬆️ 1006 points · 💬 537 comments · 👤 tuyuri
 
-A link to github.com titled "DeepInfer: High-performance inference framework for DeepSeek models", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to github.com titled "PHP 8.2.35", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50163277) · [Source](https://github.com/deepseek-ai/DeepInfer)
+[Discuss on HN](https://news.ycombinator.com/item?id=50180873) · [Source](https://github.com/php/php-src/releases/tag/php-8.2.35)
 
-2. eMudhra intermediate CA compromise
+2. Today's PHP security release, and how we're strengthening security
 
-🔶 Hacker News · ⬆️ 848 points · 💬 375 comments · 👤 galadran
+🔶 Hacker News · ⬆️ 715 points · 💬 349 comments · 👤 ejohnso49
 
-A link to emudhra.we-have-a-problem.com titled "eMudhra intermediate CA compromise", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to thephp.foundation titled "Today's PHP security release, and how we're strengthening security", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50166579) · [Source](https://emudhra.we-have-a-problem.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50182987) · [Source](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 
-3. Show HN: SimCity, but with Permits
+3. EA is shutting down BioWare
 
-🔶 Hacker News · ⬆️ 726 points · 💬 357 comments · 👤 pcai
+🔶 Hacker News · ⬆️ 600 points · 💬 374 comments · 👤 aaronbrethorst
 
-A link to permit.petercai.com titled "Show HN: SimCity, but with Permits", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to theverge.com titled "EA is shutting down BioWare", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50170593) · [Source](https://permit.petercai.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50184586) · [Source](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
 
-4. Voxtral 3
+4. Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case
 
-🔶 Hacker News · ⬆️ 613 points · 💬 156 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 502 points · 💬 306 comments · 👤 cbg0
 
-A link to mistral.ai titled "Voxtral 3", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to cnbc.com titled "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50168396) · [Source](https://mistral.ai/news/voxtral-3/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50184820) · [Source](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
 
-5. Apple broke an essential presentation feature of iPads
+5. Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
 
-🔶 Hacker News · ⬆️ 541 points · 💬 269 comments · 👤 evanb
+🔶 Hacker News · ⬆️ 483 points · 💬 165 comments · 👤 abhisek
 
-A link to teddysvoronos.com titled "Apple broke an essential presentation feature of iPads", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to safedep.io titled "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50165208) · [Source](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50181114) · [Source](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
 
-6. Upcoming critical PHP security release (CVE-2026-109618 / -109619)
+6. There isn't an easy exploit for this PHP vulnerability
 
-🔶 Hacker News · ⬆️ 493 points · 💬 184 comments · 👤 xd
+🔶 Hacker News · ⬆️ 449 points · 💬 235 comments · 👤 zkldi
 
-A link to news-web.php.net titled "Upcoming critical PHP security release (CVE-2026-109618 / -109619)", a popular story on the front page, drawing significant discussion.
+A link to eliastaylor.com titled "There isn't an easy exploit for this PHP vulnerability", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50172041) · [Source](https://news-web.php.net/php.announce/509)
+[Discuss on HN](https://news.ycombinator.com/item?id=50188948) · [Source](https://eliastaylor.com/noexploit/)
 
-7. Tsrs: A Port of TypeScript to Rust
+7. Security Disclosure
 
-🔶 Hacker News · ⬆️ 390 points · 💬 191 comments · 👤 hnisjafx40
+🔶 Hacker News · ⬆️ 418 points · 💬 243 comments · 👤 passenger
 
-A link to blog.cloudflare.com titled "Tsrs: A Port of TypeScript to Rust", a popular story on the front page, drawing significant discussion.
+A link to blog.railway.com titled "Security Disclosure", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50165953) · [Source](https://blog.cloudflare.com/typescript-rust-port/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50188228) · [Source](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
-8. Protecting Firefox users following the compromise of eMudhra intermediate certificates
+8. Upcoming Critical PHP Security Release
 
-🦞 Lobsters · ⬆️ 143 points · 💬 47 comments · 👤 freddyb
+🦞 Lobsters · ⬆️ 186 points · 💬 128 comments · 👤 pushcx
+
+A link to php.net titled "Upcoming Critical PHP Security Release", drawing significant discussion.
+
+[Discuss on Lobsters](https://lobste.rs/s/ekxoyt) · [Source](https://www.php.net/archive/2026.php#2026-10-20-1)
+
+9. Protecting Firefox users following the compromise of eMudhra intermediate certificates
+
+🦞 Lobsters · ⬆️ 169 points · 💬 71 comments · 👤 freddyb
 
 A link to blog.mozilla.org titled "Protecting Firefox users following the compromise of eMudhra intermediate certificates".
 
 [Discuss on Lobsters](https://lobste.rs/s/gqyvn5) · [Source](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 
-9. Wine ported to OpenBSD
+10. Firefox Local Mode
 
-🦞 Lobsters · ⬆️ 118 points · 💬 22 comments · 👤 nbyqvist
+🦞 Lobsters · ⬆️ 92 points · 💬 18 comments · 👤 lim
 
-A link to marc.info titled "Wine ported to OpenBSD".
+A link to firefox-source-docs.mozilla.org titled "Firefox Local Mode".
 
-[Discuss on Lobsters](https://lobste.rs/s/gqepzd) · [Source](https://marc.info/?l=openbsd-ports&m=179236125692175)
+[Discuss on Lobsters](https://lobste.rs/s/w9sxxq) · [Source](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 
-10. OpenBSD 8.0
-
-🦞 Lobsters · ⬆️ 96 points · 💬 11 comments · 👤 dgv
-
-A link to openbsd.org titled "OpenBSD 8.0".
-
-[Discuss on Lobsters](https://lobste.rs/s/sqdhu7) · [Source](https://www.openbsd.org/80.html)
-
-*daily-tech-digest · MileFisher · 2026-10-21T07:12:24.146Z*
+*daily-tech-digest · MileFisher · 2026-10-22T07:14:40.263Z*

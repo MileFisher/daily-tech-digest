@@ -1,103 +1,117 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "items": [
     {
-      "id": "item?id=50163277",
+      "id": "item?id=50180873",
       "title": {
-        "en": "DeepInfer: High-performance inference framework for DeepSeek models",
-        "my": "DeepInfer: DeepSeek မော်ဒယ်များအတွက်မြင့်မားသောစွမ်းဆောင်ရည်ချဉ်းကပ်မှုမူဘောင်"
+        "en": "PHP 8.2.35",
+        "my": "PHP ကို 8.2.35"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 2213,
-      "comments": 852,
-      "author": "ggcr",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "discussUrl": "https://news.ycombinator.com/item?id=50163277"
+      "score": 1006,
+      "comments": 537,
+      "author": "tuyuri",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "discussUrl": "https://news.ycombinator.com/item?id=50180873"
     },
     {
-      "id": "item?id=50166579",
+      "id": "item?id=50182987",
       "title": {
-        "en": "eMudhra intermediate CA compromise",
-        "my": "eMudhra အလယ်အလတ် CA အပေးအယူ"
+        "en": "Today's PHP security release, and how we're strengthening security",
+        "my": "ယေန႔ PHP လံုၿခံဳေရး ထုတ္ျပန္ခ်က္ ၊ လံုၿခံဳေရးကို ဘယ္လို အားျဖည့္ေနသလဲ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 848,
-      "comments": 375,
-      "author": "galadran",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50166579"
+      "score": 715,
+      "comments": 349,
+      "author": "ejohnso49",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50182987"
     },
     {
-      "id": "item?id=50170593",
+      "id": "item?id=50184586",
       "title": {
-        "en": "Show HN: SimCity, but with Permits",
-        "my": "HN ပြရန်: SimCity, ဒါပေမယ့်ခွင့်ပြုချက်နှင့်အတူ"
+        "en": "EA is shutting down BioWare",
+        "my": "EA သည် BioWare ကိုပိတ်နေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 726,
-      "comments": 357,
-      "author": "pcai",
-      "url": "https://permit.petercai.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50170593"
+      "score": 600,
+      "comments": 374,
+      "author": "aaronbrethorst",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "discussUrl": "https://news.ycombinator.com/item?id=50184586"
     },
     {
-      "id": "item?id=50168396",
+      "id": "item?id=50184820",
       "title": {
-        "en": "Voxtral 3",
-        "my": "Voxtral 3"
+        "en": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+        "my": "New Mexico Cambridge Analytica အမှုတွင် $ 25B ပြစ်ဒဏ်ပေးရန် Meta အမိန့်ချမှတ်ခံရ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 613,
-      "comments": 156,
-      "author": "ilreb",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50168396"
+      "score": 502,
+      "comments": 306,
+      "author": "cbg0",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50184820"
     },
     {
-      "id": "item?id=50165208",
+      "id": "item?id=50181114",
       "title": {
-        "en": "Apple broke an essential presentation feature of iPads",
-        "my": "Apple သည် iPads ၏ မရှိမဖြစ်လိုအပ်သောတင်ဆက်မှုအင်္ဂါရပ်ကိုချိုးဖျက်ခဲ့သည်"
+        "en": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "my": "Compromised LiteLLM 1.107.0 PyPI အပေါ်တစ်ဦးအထောက်အထားခိုးယူခြင်းနှင့် Backdoor Installs"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 541,
-      "comments": 269,
-      "author": "evanb",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50165208"
+      "score": 483,
+      "comments": 165,
+      "author": "abhisek",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50181114"
     },
     {
-      "id": "item?id=50172041",
+      "id": "item?id=50188948",
       "title": {
-        "en": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-        "my": "လာမည့်အရေးပါသော PHP လုံခြုံရေးထုတ်ပြန်ချက် (CVE-2026-109618/ -109619)"
+        "en": "There isn't an easy exploit for this PHP vulnerability",
+        "my": "ဒီ PHP အားနည်းချက်အတွက်လွယ်ကူသောအသုံးချမှုမရှိပါ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 493,
-      "comments": 184,
-      "author": "xd",
-      "url": "https://news-web.php.net/php.announce/509",
-      "discussUrl": "https://news.ycombinator.com/item?id=50172041"
+      "score": 449,
+      "comments": 235,
+      "author": "zkldi",
+      "url": "https://eliastaylor.com/noexploit/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50188948"
     },
     {
-      "id": "item?id=50165953",
+      "id": "item?id=50188228",
       "title": {
-        "en": "Tsrs: A Port of TypeScript to Rust",
-        "my": "TRUESTORY: ရခုိင္အမ်ိဳးသား လြတ္ေျမာက္ေရး လႈပ္ရွားမႈ ရပ္ဆုိင္းရန္ တုိက္တြန္း"
+        "en": "Security Disclosure",
+        "my": "လုံခြုံရေးထုတ်ဖော်ခြင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 390,
-      "comments": 191,
-      "author": "hnisjafx40",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50165953"
+      "score": 418,
+      "comments": 243,
+      "author": "passenger",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "discussUrl": "https://news.ycombinator.com/item?id=50188228"
+    },
+    {
+      "id": "ekxoyt",
+      "title": {
+        "en": "Upcoming Critical PHP Security Release",
+        "my": "လာမည့်အရေးပါသော PHP ကိုလုံခြုံရေးထုတ်ပြန်ချက်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 186,
+      "comments": 128,
+      "author": "pushcx",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "discussUrl": "https://lobste.rs/s/ekxoyt"
     },
     {
       "id": "gqyvn5",
@@ -107,39 +121,25 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 143,
-      "comments": 47,
+      "score": 169,
+      "comments": 71,
       "author": "freddyb",
       "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
       "discussUrl": "https://lobste.rs/s/gqyvn5"
     },
     {
-      "id": "gqepzd",
+      "id": "w9sxxq",
       "title": {
-        "en": "Wine ported to OpenBSD",
-        "my": "အိတ်ဖွင့်တင်ဒါခေါ်ယူခြင်း - OpenBSD"
+        "en": "Firefox Local Mode",
+        "my": "Firefox ဒေသတွင်း မုဒ်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 118,
-      "comments": 22,
-      "author": "nbyqvist",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "discussUrl": "https://lobste.rs/s/gqepzd"
-    },
-    {
-      "id": "sqdhu7",
-      "title": {
-        "en": "OpenBSD 8.0",
-        "my": "OpenBSD 8.0"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 96,
-      "comments": 11,
-      "author": "dgv",
-      "url": "https://www.openbsd.org/80.html",
-      "discussUrl": "https://lobste.rs/s/sqdhu7"
+      "score": 92,
+      "comments": 18,
+      "author": "lim",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "discussUrl": "https://lobste.rs/s/w9sxxq"
     }
   ]
 }
