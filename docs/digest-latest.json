@@ -1,131 +1,103 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
-      "id": "item?id=50180873",
+      "id": "item?id=50195959",
       "title": {
-        "en": "PHP 8.2.35",
-        "my": "PHP ကို 8.2.35"
+        "en": "Quad9 to exit France",
+        "my": "ပြင်သစ်မှထွက်ခွာရန် Quad9"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1006,
-      "comments": 537,
-      "author": "tuyuri",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "discussUrl": "https://news.ycombinator.com/item?id=50180873"
+      "score": 1135,
+      "comments": 390,
+      "author": "farrokhi",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50195959"
     },
     {
-      "id": "item?id=50182987",
+      "id": "item?id=50195110",
       "title": {
-        "en": "Today's PHP security release, and how we're strengthening security",
-        "my": "ယေန႔ PHP လံုၿခံဳေရး ထုတ္ျပန္ခ်က္ ၊ လံုၿခံဳေရးကို ဘယ္လို အားျဖည့္ေနသလဲ"
+        "en": "eMudhra to exit global SSL/TLS certificate business",
+        "my": "ကမ္ဘာလုံးဆိုင်ရာ SSL/TLS လက်မှတ်စီးပွားရေးလုပ်ငန်းမှထွက်ခွာရန် eMudhra"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 715,
-      "comments": 349,
-      "author": "ejohnso49",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50182987"
+      "score": 1015,
+      "comments": 670,
+      "author": "bo0tzz",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "discussUrl": "https://news.ycombinator.com/item?id=50195110"
     },
     {
-      "id": "item?id=50184586",
+      "id": "item?id=50190363",
       "title": {
-        "en": "EA is shutting down BioWare",
-        "my": "EA သည် BioWare ကိုပိတ်နေသည်"
+        "en": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "my": "MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: ဖားကန္႔တြင္ တိုက္ပြဲျဖစ္ပြားမႈေၾကာင့္ စစ္ေဘးေရွာင္ ၃၆၀ ဦးခန္႔ ထြက္ေျပးတိမ္းေရွာင္"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 600,
-      "comments": 374,
-      "author": "aaronbrethorst",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "discussUrl": "https://news.ycombinator.com/item?id=50184586"
+      "score": 526,
+      "comments": 164,
+      "author": "alphax314",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50190363"
     },
     {
-      "id": "item?id=50184820",
+      "id": "item?id=50196718",
       "title": {
-        "en": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-        "my": "New Mexico Cambridge Analytica အမှုတွင် $ 25B ပြစ်ဒဏ်ပေးရန် Meta အမိန့်ချမှတ်ခံရ"
+        "en": "Run full iOS 16.5 firmware on Android Devices",
+        "my": "အန်းဒရွိုက် Device များပေါ်တွင်အပြည့်အဝကို iOS 16.5 firmware ကို run"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 502,
-      "comments": 306,
-      "author": "cbg0",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50184820"
+      "score": 397,
+      "comments": 137,
+      "author": "aghuang",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "discussUrl": "https://news.ycombinator.com/item?id=50196718"
     },
     {
-      "id": "item?id=50181114",
+      "id": "item?id=50198675",
       "title": {
-        "en": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "my": "Compromised LiteLLM 1.107.0 PyPI အပေါ်တစ်ဦးအထောက်အထားခိုးယူခြင်းနှင့် Backdoor Installs"
+        "en": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "my": "OpenShell – ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ AI အေးဂျင့်များ ၏ ရေတပ်များအတွက်လုံခြုံ, ပုဂ္ဂလိက runtime"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 483,
-      "comments": 165,
-      "author": "abhisek",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50181114"
+      "score": 369,
+      "comments": 187,
+      "author": "niemandhier",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "discussUrl": "https://news.ycombinator.com/item?id=50198675"
     },
     {
-      "id": "item?id=50188948",
+      "id": "item?id=50202681",
       "title": {
-        "en": "There isn't an easy exploit for this PHP vulnerability",
-        "my": "ဒီ PHP အားနည်းချက်အတွက်လွယ်ကူသောအသုံးချမှုမရှိပါ"
+        "en": "Docker is weird",
+        "my": "Docker သည်ထူးဆန်းသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 449,
-      "comments": 235,
-      "author": "zkldi",
-      "url": "https://eliastaylor.com/noexploit/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50188948"
+      "score": 368,
+      "comments": 183,
+      "author": "psxuaw",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "discussUrl": "https://news.ycombinator.com/item?id=50202681"
     },
     {
-      "id": "item?id=50188228",
+      "id": "item?id=50197313",
       "title": {
-        "en": "Security Disclosure",
-        "my": "လုံခြုံရေးထုတ်ဖော်ခြင်း"
+        "en": "Every AI model has the same \"controversial\" take on humans",
+        "my": "Home \"ဗဟုသုတ\" လူမႈ႔ဘဝ \"အေထြေထြ\" မိန္းကေလးတိုင္း သိထားသင့္တဲ့ အခ်က္မ်ား"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 418,
-      "comments": 243,
-      "author": "passenger",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "discussUrl": "https://news.ycombinator.com/item?id=50188228"
-    },
-    {
-      "id": "ekxoyt",
-      "title": {
-        "en": "Upcoming Critical PHP Security Release",
-        "my": "လာမည့်အရေးပါသော PHP ကိုလုံခြုံရေးထုတ်ပြန်ချက်"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 186,
-      "comments": 128,
-      "author": "pushcx",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "discussUrl": "https://lobste.rs/s/ekxoyt"
-    },
-    {
-      "id": "gqyvn5",
-      "title": {
-        "en": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-        "my": "EMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူပြီးနောက် Firefox ကိုအသုံးပြုသူများကာကွယ်စောင့်ရှောက်ခြင်း"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 169,
-      "comments": 71,
-      "author": "freddyb",
-      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-      "discussUrl": "https://lobste.rs/s/gqyvn5"
+      "score": 355,
+      "comments": 382,
+      "author": "rakannimer",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "discussUrl": "https://news.ycombinator.com/item?id=50197313"
     },
     {
       "id": "w9sxxq",
@@ -135,11 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 92,
-      "comments": 18,
+      "score": 141,
+      "comments": 25,
       "author": "lim",
       "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
       "discussUrl": "https://lobste.rs/s/w9sxxq"
+    },
+    {
+      "id": "ebsqsp",
+      "title": {
+        "en": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "my": "၈၈ မ်ိဳးဆက္ ေက်ာင္းသားေခါင္းေဆာင္မ်ား လြတ္ေျမာက္ေရး ဆႏၵျပ_dawnmanhon"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 79,
+      "comments": 26,
+      "author": "pims",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "discussUrl": "https://lobste.rs/s/ebsqsp"
+    },
+    {
+      "id": "hplfis",
+      "title": {
+        "en": "examining the macOS gcc binary",
+        "my": "macOS GCC Binary ကိုပြန်လည်ဆန်းစစ်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 58,
+      "comments": 21,
+      "author": "juliethefoxcoon",
+      "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+      "discussUrl": "https://lobste.rs/s/hplfis"
     }
   ]
 }

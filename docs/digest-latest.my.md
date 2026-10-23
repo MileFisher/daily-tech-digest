@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-22
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-23
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:14 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:06 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. PHP ကို 8.2.35
+1. ပြင်သစ်မှထွက်ခွာရန် Quad9
 
-🔶 Hacker News · ⬆️ 1006 points · 💬 537 comments · 👤 tuyuri
+🔶 Hacker News · ⬆️ 1135 points · 💬 390 comments · 👤 farrokhi
 
-Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "PHP ကို 8.2.35," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း ။
+"Quad9 to exit France" ဟု အမည်ပေးထားသော quad9.net သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ တက်ကြွသော ဆွေးနွေးချက် ချည်နှောင်မှုဖြင့် ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50180873) · [Source](https://github.com/php/php-src/releases/tag/php-8.2.35)
+[Discuss on HN](https://news.ycombinator.com/item?id=50195959) · [Source](https://quad9.net/news/blog/au-revoir-france/)
 
-2. ယေန႔ PHP လံုၿခံဳေရး ထုတ္ျပန္ခ်က္ ၊ လံုၿခံဳေရးကို ဘယ္လို အားျဖည့္ေနသလဲ
+2. ကမ္ဘာလုံးဆိုင်ရာ SSL/TLS လက်မှတ်စီးပွားရေးလုပ်ငန်းမှထွက်ခွာရန် eMudhra
 
-🔶 Hacker News · ⬆️ 715 points · 💬 349 comments · 👤 ejohnso49
+🔶 Hacker News · ⬆️ 1015 points · 💬 670 comments · 👤 bo0tzz
 
-"ယနေ့ PHP ကိုလုံခြုံရေးလွှတ်ပေးရန်, နှင့်ကျနော်တို့လုံခြုံရေးခိုင်ခံ့အောင်ဘယ်လို" ခေါင်းစဉ်ဖြင့် thephp.foundation မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခု, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
+Emudhra.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကမ္ဘာလုံးဆိုင်ရာ SSL ကို/TLS လက်မှတ်စီးပွားရေးလုပ်ငန်းထွက်ခွာဖို့ eMudhra," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ဇာတ်လမ်းများ ၏ တဦးတည်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50182987) · [Source](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50195110) · [Source](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 
-3. EA သည် BioWare ကိုပိတ်နေသည်
+3. MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: ဖားကန္႔တြင္ တိုက္ပြဲျဖစ္ပြားမႈေၾကာင့္ စစ္ေဘးေရွာင္ ၃၆၀ ဦးခန္႔ ထြက္ေျပးတိမ္းေရွာင္
 
-🔶 Hacker News · ⬆️ 600 points · 💬 374 comments · 👤 aaronbrethorst
+🔶 Hacker News · ⬆️ 526 points · 💬 164 comments · 👤 alphax314
 
-"EA သည် BioWare ကိုပိတ်နေသည်" ခေါင်းစဉ်ဖြင့် theverge.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်အမြင့်ဆုံးဂိုးသွင်းသည့်ဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+Simedw.com ခေါင်းစဉ်နဲ့ link တစ်ခု "WorldTUI: ငါ terminal ကိုဖြစ်ဟန်ဆောင်ဖို့ 360M မော်ဒယ်လေ့ကျင့်," ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခု, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50184586) · [Source](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
+[Discuss on HN](https://news.ycombinator.com/item?id=50190363) · [Source](https://simedw.com/2026/10/21/world-model-terminal/)
 
-4. New Mexico Cambridge Analytica အမှုတွင် $ 25B ပြစ်ဒဏ်ပေးရန် Meta အမိန့်ချမှတ်ခံရ
+4. အန်းဒရွိုက် Device များပေါ်တွင်အပြည့်အဝကို iOS 16.5 firmware ကို run
 
-🔶 Hacker News · ⬆️ 502 points · 💬 306 comments · 👤 cbg0
+🔶 Hacker News · ⬆️ 397 points · 💬 137 comments · 👤 aghuang
 
-Cnbc.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "နယူးမက္ကဆီကို Cambridge Analytica ကိစ္စတွင် $ 25B ပြစ်ဒဏ်ပေးရန် Meta ကအမိန့်ပေးခဲ့သည်", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Android Device များပေါ်တွင် iOS 16.5 အပြည့်အဝ firmware ကို run," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50184820) · [Source](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50196718) · [Source](https://github.com/oosexgang/hackios-xnu-kernel)
 
-5. Compromised LiteLLM 1.107.0 PyPI အပေါ်တစ်ဦးအထောက်အထားခိုးယူခြင်းနှင့် Backdoor Installs
+5. OpenShell – ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ AI အေးဂျင့်များ ၏ ရေတပ်များအတွက်လုံခြုံ, ပုဂ္ဂလိက runtime
 
-🔶 Hacker News · ⬆️ 483 points · 💬 165 comments · 👤 abhisek
+🔶 Hacker News · ⬆️ 369 points · 💬 187 comments · 👤 niemandhier
 
-Safedep.io ခေါင်းစဉ်ဖြင့် "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor" အမည်ရှိလင့်ခ်တစ်ခုသည်ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"OpenShell – ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ AI အေးဂျင့်များ ၏ ရေတပ်များအတွက်လုံခြုံသောပုဂ္ဂလိက runtime" ခေါင်းစဉ်ဖြင့် github.com သို့ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50181114) · [Source](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50198675) · [Source](https://github.com/NVIDIA/OpenShell)
 
-6. ဒီ PHP အားနည်းချက်အတွက်လွယ်ကူသောအသုံးချမှုမရှိပါ
+6. Docker သည်ထူးဆန်းသည်
 
-🔶 Hacker News · ⬆️ 449 points · 💬 235 comments · 👤 zkldi
+🔶 Hacker News · ⬆️ 368 points · 💬 183 comments · 👤 psxuaw
 
-Eliastaylor.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ဤ PHP အားနည်းချက်အတွက်လွယ်ကူသောအသုံးချမှုမရှိပါ", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Codeandcake.dev အမည်ရှိ link တစ်ခု "Docker သည်ထူးဆန်းသည်" ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50188948) · [Source](https://eliastaylor.com/noexploit/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50202681) · [Source](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
-7. လုံခြုံရေးထုတ်ဖော်ခြင်း
+7. Home "ဗဟုသုတ" လူမႈ႔ဘဝ "အေထြေထြ" မိန္းကေလးတိုင္း သိထားသင့္တဲ့ အခ်က္မ်ား
 
-🔶 Hacker News · ⬆️ 418 points · 💬 243 comments · 👤 passenger
+🔶 Hacker News · ⬆️ 355 points · 💬 382 comments · 👤 rakannimer
 
-Blog.railway.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "လုံခြုံရေးထုတ်ဖော်," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Modelcompare.ai ရဲ့ link တစ်ခုဖြစ်တဲ့ "AI model တိုင်းမှာ တူညီတဲ့ "အငြင်းပွားဖွယ်ရာ" take on humans" လို့ အမည်ပေးထားပြီး ရှေ့စာမျက်နှာမှာ လူကြိုက်များတဲ့ ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက်ချည်နှောင်ထားပါတယ် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50188228) · [Source](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+[Discuss on HN](https://news.ycombinator.com/item?id=50197313) · [Source](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 
-8. လာမည့်အရေးပါသော PHP ကိုလုံခြုံရေးထုတ်ပြန်ချက်
+8. Firefox ဒေသတွင်း မုဒ်
 
-🦞 Lobsters · ⬆️ 186 points · 💬 128 comments · 👤 pushcx
-
-Php.net ကို "လာမည့်ဝေဖန်ရေး PHP ကိုလုံခြုံရေးဖြန့်ချိ" ခေါင်းစဉ်ဖြင့် link တစ်ခု, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
-
-[Discuss on Lobsters](https://lobste.rs/s/ekxoyt) · [Source](https://www.php.net/archive/2026.php#2026-10-20-1)
-
-9. EMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူပြီးနောက် Firefox ကိုအသုံးပြုသူများကာကွယ်စောင့်ရှောက်ခြင်း
-
-🦞 Lobsters · ⬆️ 169 points · 💬 71 comments · 👤 freddyb
-
-"eMudhra အလယ်အလတ်လက်မှတ်များ ၏ အပေးအယူအောက်ပါ Firefox အသုံးပြုသူများအားကာကွယ်ခြင်း" ခေါင်းစဉ်ဖြင့် blog.mozilla.org သို့လင့်ခ်တစ်ခု ။
-
-[Discuss on Lobsters](https://lobste.rs/s/gqyvn5) · [Source](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
-
-10. Firefox ဒေသတွင်း မုဒ်
-
-🦞 Lobsters · ⬆️ 92 points · 💬 18 comments · 👤 lim
+🦞 Lobsters · ⬆️ 141 points · 💬 25 comments · 👤 lim
 
 Firefox-source-docs.mozilla.org သို့ "Firefox ဒေသတွင်းမုဒ်" ခေါင်းစဉ်ဖြင့် လင့်ခ်တစ်ခု ။
 
 [Discuss on Lobsters](https://lobste.rs/s/w9sxxq) · [Source](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 
-*daily-tech-digest · MileFisher · 2026-10-22T07:14:40.263Z*
+9. ၈၈ မ်ိဳးဆက္ ေက်ာင္းသားေခါင္းေဆာင္မ်ား လြတ္ေျမာက္ေရး ဆႏၵျပ_dawnmanhon
+
+🦞 Lobsters · ⬆️ 79 points · 💬 26 comments · 👤 pims
+
+Scotthelme.co.uk ခေါင်းစဉ်ဖြင့် link တစ်ခု "ယုံကြည်မှု ၏ ရှစ်နည်းနည်း; eMudhra ရဲ့ CA keys ကို milliseconds အတွက် cracked" ။
+
+[Discuss on Lobsters](https://lobste.rs/s/ebsqsp) · [Source](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+
+10. macOS GCC Binary ကိုပြန်လည်ဆန်းစစ်ခြင်း
+
+🦞 Lobsters · ⬆️ 58 points · 💬 21 comments · 👤 juliethefoxcoon
+
+"macOS gcc binary ကိုစစ်ဆေးခြင်း" ခေါင်းစဉ်ဖြင့် zoey-on-github.github.io သို့လင့်ခ်တစ်ခု ။
+
+[Discuss on Lobsters](https://lobste.rs/s/hplfis) · [Source](https://zoey-on-github.github.io/blog/macgcc.html)
+
+*daily-tech-digest · MileFisher · 2026-10-23T07:06:15.381Z*

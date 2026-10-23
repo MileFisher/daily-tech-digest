@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-22
+# 🗞️ Daily Tech Digest — 2026-10-23
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:14 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:06 ICT
 
 ---
 
-1. PHP 8.2.35
+1. Quad9 to exit France
 
-🔶 Hacker News · ⬆️ 1006 points · 💬 537 comments · 👤 tuyuri
+🔶 Hacker News · ⬆️ 1135 points · 💬 390 comments · 👤 farrokhi
 
-A link to github.com titled "PHP 8.2.35", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to quad9.net titled "Quad9 to exit France", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50180873) · [Source](https://github.com/php/php-src/releases/tag/php-8.2.35)
+[Discuss on HN](https://news.ycombinator.com/item?id=50195959) · [Source](https://quad9.net/news/blog/au-revoir-france/)
 
-2. Today's PHP security release, and how we're strengthening security
+2. eMudhra to exit global SSL/TLS certificate business
 
-🔶 Hacker News · ⬆️ 715 points · 💬 349 comments · 👤 ejohnso49
+🔶 Hacker News · ⬆️ 1015 points · 💬 670 comments · 👤 bo0tzz
 
-A link to thephp.foundation titled "Today's PHP security release, and how we're strengthening security", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to emudhra.com titled "eMudhra to exit global SSL/TLS certificate business", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50182987) · [Source](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50195110) · [Source](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 
-3. EA is shutting down BioWare
+3. WorldTUI: I trained a 360M model to pretend to be a terminal
 
-🔶 Hacker News · ⬆️ 600 points · 💬 374 comments · 👤 aaronbrethorst
+🔶 Hacker News · ⬆️ 526 points · 💬 164 comments · 👤 alphax314
 
-A link to theverge.com titled "EA is shutting down BioWare", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to simedw.com titled "WorldTUI: I trained a 360M model to pretend to be a terminal", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50184586) · [Source](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
+[Discuss on HN](https://news.ycombinator.com/item?id=50190363) · [Source](https://simedw.com/2026/10/21/world-model-terminal/)
 
-4. Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case
+4. Run full iOS 16.5 firmware on Android Devices
 
-🔶 Hacker News · ⬆️ 502 points · 💬 306 comments · 👤 cbg0
+🔶 Hacker News · ⬆️ 397 points · 💬 137 comments · 👤 aghuang
 
-A link to cnbc.com titled "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to github.com titled "Run full iOS 16.5 firmware on Android Devices", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50184820) · [Source](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50196718) · [Source](https://github.com/oosexgang/hackios-xnu-kernel)
 
-5. Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
+5. OpenShell – A safe, private runtime for fleets of autonomous AI agents
 
-🔶 Hacker News · ⬆️ 483 points · 💬 165 comments · 👤 abhisek
+🔶 Hacker News · ⬆️ 369 points · 💬 187 comments · 👤 niemandhier
 
-A link to safedep.io titled "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "OpenShell – A safe, private runtime for fleets of autonomous AI agents", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50181114) · [Source](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50198675) · [Source](https://github.com/NVIDIA/OpenShell)
 
-6. There isn't an easy exploit for this PHP vulnerability
+6. Docker is weird
 
-🔶 Hacker News · ⬆️ 449 points · 💬 235 comments · 👤 zkldi
+🔶 Hacker News · ⬆️ 368 points · 💬 183 comments · 👤 psxuaw
 
-A link to eliastaylor.com titled "There isn't an easy exploit for this PHP vulnerability", a popular story on the front page, drawing significant discussion.
+A link to codeandcake.dev titled "Docker is weird", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50188948) · [Source](https://eliastaylor.com/noexploit/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50202681) · [Source](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
-7. Security Disclosure
+7. Every AI model has the same "controversial" take on humans
 
-🔶 Hacker News · ⬆️ 418 points · 💬 243 comments · 👤 passenger
+🔶 Hacker News · ⬆️ 355 points · 💬 382 comments · 👤 rakannimer
 
-A link to blog.railway.com titled "Security Disclosure", a popular story on the front page, drawing significant discussion.
+A link to modelcompare.ai titled "Every AI model has the same "controversial" take on humans", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50188228) · [Source](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+[Discuss on HN](https://news.ycombinator.com/item?id=50197313) · [Source](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 
-8. Upcoming Critical PHP Security Release
+8. Firefox Local Mode
 
-🦞 Lobsters · ⬆️ 186 points · 💬 128 comments · 👤 pushcx
-
-A link to php.net titled "Upcoming Critical PHP Security Release", drawing significant discussion.
-
-[Discuss on Lobsters](https://lobste.rs/s/ekxoyt) · [Source](https://www.php.net/archive/2026.php#2026-10-20-1)
-
-9. Protecting Firefox users following the compromise of eMudhra intermediate certificates
-
-🦞 Lobsters · ⬆️ 169 points · 💬 71 comments · 👤 freddyb
-
-A link to blog.mozilla.org titled "Protecting Firefox users following the compromise of eMudhra intermediate certificates".
-
-[Discuss on Lobsters](https://lobste.rs/s/gqyvn5) · [Source](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
-
-10. Firefox Local Mode
-
-🦞 Lobsters · ⬆️ 92 points · 💬 18 comments · 👤 lim
+🦞 Lobsters · ⬆️ 141 points · 💬 25 comments · 👤 lim
 
 A link to firefox-source-docs.mozilla.org titled "Firefox Local Mode".
 
 [Discuss on Lobsters](https://lobste.rs/s/w9sxxq) · [Source](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 
-*daily-tech-digest · MileFisher · 2026-10-22T07:14:40.263Z*
+9. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
+
+🦞 Lobsters · ⬆️ 79 points · 💬 26 comments · 👤 pims
+
+A link to scotthelme.co.uk titled "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds".
+
+[Discuss on Lobsters](https://lobste.rs/s/ebsqsp) · [Source](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+
+10. examining the macOS gcc binary
+
+🦞 Lobsters · ⬆️ 58 points · 💬 21 comments · 👤 juliethefoxcoon
+
+A link to zoey-on-github.github.io titled "examining the macOS gcc binary".
+
+[Discuss on Lobsters](https://lobste.rs/s/hplfis) · [Source](https://zoey-on-github.github.io/blog/macgcc.html)
+
+*daily-tech-digest · MileFisher · 2026-10-23T07:06:15.381Z*

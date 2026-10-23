@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "id": "item?id=50195959",
+      "title": {
+        "en": "Quad9 to exit France",
+        "my": "ပြင်သစ်မှထွက်ခွာရန် Quad9"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1135,
+      "comments": 390,
+      "author": "farrokhi",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50195959"
+    },
+    {
+      "id": "item?id=50195110",
+      "title": {
+        "en": "eMudhra to exit global SSL/TLS certificate business",
+        "my": "ကမ္ဘာလုံးဆိုင်ရာ SSL/TLS လက်မှတ်စီးပွားရေးလုပ်ငန်းမှထွက်ခွာရန် eMudhra"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1015,
+      "comments": 670,
+      "author": "bo0tzz",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "discussUrl": "https://news.ycombinator.com/item?id=50195110"
+    },
+    {
+      "id": "item?id=50190363",
+      "title": {
+        "en": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "my": "MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: ဖားကန္႔တြင္ တိုက္ပြဲျဖစ္ပြားမႈေၾကာင့္ စစ္ေဘးေရွာင္ ၃၆၀ ဦးခန္႔ ထြက္ေျပးတိမ္းေရွာင္"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 526,
+      "comments": 164,
+      "author": "alphax314",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50190363"
+    },
+    {
+      "id": "item?id=50196718",
+      "title": {
+        "en": "Run full iOS 16.5 firmware on Android Devices",
+        "my": "အန်းဒရွိုက် Device များပေါ်တွင်အပြည့်အဝကို iOS 16.5 firmware ကို run"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 397,
+      "comments": 137,
+      "author": "aghuang",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "discussUrl": "https://news.ycombinator.com/item?id=50196718"
+    },
+    {
+      "id": "item?id=50198675",
+      "title": {
+        "en": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "my": "OpenShell – ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရ AI အေးဂျင့်များ ၏ ရေတပ်များအတွက်လုံခြုံ, ပုဂ္ဂလိက runtime"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 369,
+      "comments": 187,
+      "author": "niemandhier",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "discussUrl": "https://news.ycombinator.com/item?id=50198675"
+    },
+    {
+      "id": "item?id=50202681",
+      "title": {
+        "en": "Docker is weird",
+        "my": "Docker သည်ထူးဆန်းသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 368,
+      "comments": 183,
+      "author": "psxuaw",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "discussUrl": "https://news.ycombinator.com/item?id=50202681"
+    },
+    {
+      "id": "item?id=50197313",
+      "title": {
+        "en": "Every AI model has the same \"controversial\" take on humans",
+        "my": "Home \"ဗဟုသုတ\" လူမႈ႔ဘဝ \"အေထြေထြ\" မိန္းကေလးတိုင္း သိထားသင့္တဲ့ အခ်က္မ်ား"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 355,
+      "comments": 382,
+      "author": "rakannimer",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "discussUrl": "https://news.ycombinator.com/item?id=50197313"
+    },
+    {
+      "id": "w9sxxq",
+      "title": {
+        "en": "Firefox Local Mode",
+        "my": "Firefox ဒေသတွင်း မုဒ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 141,
+      "comments": 25,
+      "author": "lim",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "discussUrl": "https://lobste.rs/s/w9sxxq"
+    },
+    {
+      "id": "ebsqsp",
+      "title": {
+        "en": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "my": "၈၈ မ်ိဳးဆက္ ေက်ာင္းသားေခါင္းေဆာင္မ်ား လြတ္ေျမာက္ေရး ဆႏၵျပ_dawnmanhon"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 79,
+      "comments": 26,
+      "author": "pims",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "discussUrl": "https://lobste.rs/s/ebsqsp"
+    },
+    {
+      "id": "hplfis",
+      "title": {
+        "en": "examining the macOS gcc binary",
+        "my": "macOS GCC Binary ကိုပြန်လည်ဆန်းစစ်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 58,
+      "comments": 21,
+      "author": "juliethefoxcoon",
+      "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+      "discussUrl": "https://lobste.rs/s/hplfis"
+    }
+  ]
+}
