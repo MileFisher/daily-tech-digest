@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-23
+# 🗞️ Daily Tech Digest — 2026-10-24
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:06 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 13:57 ICT
 
 ---
 
-1. Quad9 to exit France
+1. Local Wikipedia: Wikipedia, but only for things a half hour walk from you
 
-🔶 Hacker News · ⬆️ 1135 points · 💬 390 comments · 👤 farrokhi
+🔶 Hacker News · ⬆️ 1341 points · 💬 230 comments · 👤 sohkamyung
 
-A link to quad9.net titled "Quad9 to exit France", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to edjefferson.com titled "Local Wikipedia: Wikipedia, but only for things a half hour walk from you", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50195959) · [Source](https://quad9.net/news/blog/au-revoir-france/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50202285) · [Source](https://edjefferson.com/localwiki/)
 
-2. eMudhra to exit global SSL/TLS certificate business
+2. Kimi K3.1 Pro and K3.1 Pro Highspeed
 
-🔶 Hacker News · ⬆️ 1015 points · 💬 670 comments · 👤 bo0tzz
+🔶 Hacker News · ⬆️ 854 points · 💬 496 comments · 👤 Jowsey
 
-A link to emudhra.com titled "eMudhra to exit global SSL/TLS certificate business", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to kimi.ai titled "Kimi K3.1 Pro and K3.1 Pro Highspeed", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50195110) · [Source](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+[Discuss on HN](https://news.ycombinator.com/item?id=50212065) · [Source](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
-3. WorldTUI: I trained a 360M model to pretend to be a terminal
+3. Today, we hacked what we'd set out to hack: the iPhone
 
-🔶 Hacker News · ⬆️ 526 points · 💬 164 comments · 👤 alphax314
+🔶 Hacker News · ⬆️ 830 points · 💬 538 comments · 👤 pavel_lishin
 
-A link to simedw.com titled "WorldTUI: I trained a 360M model to pretend to be a terminal", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to blog.calif.io titled "Today, we hacked what we'd set out to hack: the iPhone", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50190363) · [Source](https://simedw.com/2026/10/21/world-model-terminal/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50211474) · [Source](https://blog.calif.io/p/iphone)
 
-4. Run full iOS 16.5 firmware on Android Devices
+4. Apple Music 404 Not Found
 
-🔶 Hacker News · ⬆️ 397 points · 💬 137 comments · 👤 aghuang
+🔶 Hacker News · ⬆️ 713 points · 💬 225 comments · 👤 frizlab
 
-A link to github.com titled "Run full iOS 16.5 firmware on Android Devices", a popular story on the front page, drawing significant discussion.
+A link to music.apple.com titled "Apple Music 404 Not Found", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50196718) · [Source](https://github.com/oosexgang/hackios-xnu-kernel)
+[Discuss on HN](https://news.ycombinator.com/item?id=50207910) · [Source](https://music.apple.com/this-url-doesnt-exist)
 
-5. OpenShell – A safe, private runtime for fleets of autonomous AI agents
+5. Canadians are running out of time to oppose Bill C-22
 
-🔶 Hacker News · ⬆️ 369 points · 💬 187 comments · 👤 niemandhier
+🔶 Hacker News · ⬆️ 392 points · 💬 208 comments · 👤 hn_acker
 
-A link to github.com titled "OpenShell – A safe, private runtime for fleets of autonomous AI agents", a popular story on the front page, drawing significant discussion.
+A link to eff.org titled "Canadians are running out of time to oppose Bill C-22", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50198675) · [Source](https://github.com/NVIDIA/OpenShell)
+[Discuss on HN](https://news.ycombinator.com/item?id=50202114) · [Source](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
 
-6. Docker is weird
+6. Dessa: Conversation Model trained only on speech
 
-🔶 Hacker News · ⬆️ 368 points · 💬 183 comments · 👤 psxuaw
+🔶 Hacker News · ⬆️ 344 points · 💬 132 comments · 👤 dsr12
 
-A link to codeandcake.dev titled "Docker is weird", a popular story on the front page, drawing significant discussion.
+A link to block.xyz titled "Dessa: Conversation Model trained only on speech", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50202681) · [Source](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+[Discuss on HN](https://news.ycombinator.com/item?id=50213925) · [Source](https://block.xyz/dessa)
 
-7. Every AI model has the same "controversial" take on humans
+7. The Real Kevin Bacon
 
-🔶 Hacker News · ⬆️ 355 points · 💬 382 comments · 👤 rakannimer
+🔶 Hacker News · ⬆️ 284 points · 💬 77 comments · 👤 xnx
 
-A link to modelcompare.ai titled "Every AI model has the same "controversial" take on humans", a popular story on the front page, with an active discussion thread.
+A link to pudding.cool titled "The Real Kevin Bacon", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50197313) · [Source](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+[Discuss on HN](https://news.ycombinator.com/item?id=50169499) · [Source](https://pudding.cool/2026/10/kevin-bacon/)
 
-8. Firefox Local Mode
+8. Quad9 DNS Resolver to exit France
 
-🦞 Lobsters · ⬆️ 141 points · 💬 25 comments · 👤 lim
+🦞 Lobsters · ⬆️ 109 points · 💬 11 comments · 👤 mond
 
-A link to firefox-source-docs.mozilla.org titled "Firefox Local Mode".
+A link to quad9.net titled "Quad9 DNS Resolver to exit France".
 
-[Discuss on Lobsters](https://lobste.rs/s/w9sxxq) · [Source](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
+[Discuss on Lobsters](https://lobste.rs/s/s0aktw) · [Source](https://quad9.net/news/blog/au-revoir-france/)
 
-9. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
+9. Docker is weird
 
-🦞 Lobsters · ⬆️ 79 points · 💬 26 comments · 👤 pims
+🦞 Lobsters · ⬆️ 96 points · 💬 43 comments · 👤 nick4
 
-A link to scotthelme.co.uk titled "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds".
+A link to codeandcake.dev titled "Docker is weird".
 
-[Discuss on Lobsters](https://lobste.rs/s/ebsqsp) · [Source](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+[Discuss on Lobsters](https://lobste.rs/s/xsz9sc) · [Source](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
-10. examining the macOS gcc binary
+10. Please don't mess with links
 
-🦞 Lobsters · ⬆️ 58 points · 💬 21 comments · 👤 juliethefoxcoon
+🦞 Lobsters · ⬆️ 93 points · 💬 23 comments · 👤 gavinmorrow
 
-A link to zoey-on-github.github.io titled "examining the macOS gcc binary".
+A link to maurycyz.com titled "Please don't mess with links".
 
-[Discuss on Lobsters](https://lobste.rs/s/hplfis) · [Source](https://zoey-on-github.github.io/blog/macgcc.html)
+[Discuss on Lobsters](https://lobste.rs/s/mucay8) · [Source](https://maurycyz.com/misc/real_links/)
 
-*daily-tech-digest · MileFisher · 2026-10-23T07:06:15.381Z*
+*daily-tech-digest · MileFisher · 2026-10-24T06:57:17.549Z*

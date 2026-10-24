@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-24",
+  "items": [
+    {
+      "id": "item?id=50202285",
+      "title": {
+        "en": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "my": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1341,
+      "comments": 230,
+      "author": "sohkamyung",
+      "url": "https://edjefferson.com/localwiki/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50202285"
+    },
+    {
+      "id": "item?id=50212065",
+      "title": {
+        "en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "my": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 854,
+      "comments": 496,
+      "author": "Jowsey",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "discussUrl": "https://news.ycombinator.com/item?id=50212065"
+    },
+    {
+      "id": "item?id=50211474",
+      "title": {
+        "en": "Today, we hacked what we'd set out to hack: the iPhone",
+        "my": "Today, we hacked what we'd set out to hack: the iPhone"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 830,
+      "comments": 538,
+      "author": "pavel_lishin",
+      "url": "https://blog.calif.io/p/iphone",
+      "discussUrl": "https://news.ycombinator.com/item?id=50211474"
+    },
+    {
+      "id": "item?id=50207910",
+      "title": {
+        "en": "Apple Music 404 Not Found",
+        "my": "Apple Music 404 Not Found"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 713,
+      "comments": 225,
+      "author": "frizlab",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "discussUrl": "https://news.ycombinator.com/item?id=50207910"
+    },
+    {
+      "id": "item?id=50202114",
+      "title": {
+        "en": "Canadians are running out of time to oppose Bill C-22",
+        "my": "Canadians are running out of time to oppose Bill C-22"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 392,
+      "comments": 208,
+      "author": "hn_acker",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "discussUrl": "https://news.ycombinator.com/item?id=50202114"
+    },
+    {
+      "id": "item?id=50213925",
+      "title": {
+        "en": "Dessa: Conversation Model trained only on speech",
+        "my": "Dessa: Conversation Model trained only on speech"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 344,
+      "comments": 132,
+      "author": "dsr12",
+      "url": "https://block.xyz/dessa",
+      "discussUrl": "https://news.ycombinator.com/item?id=50213925"
+    },
+    {
+      "id": "item?id=50169499",
+      "title": {
+        "en": "The Real Kevin Bacon",
+        "my": "The Real Kevin Bacon"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 284,
+      "comments": 77,
+      "author": "xnx",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50169499"
+    },
+    {
+      "id": "s0aktw",
+      "title": {
+        "en": "Quad9 DNS Resolver to exit France",
+        "my": "Quad9 DNS Resolver to exit France"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 109,
+      "comments": 11,
+      "author": "mond",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "discussUrl": "https://lobste.rs/s/s0aktw"
+    },
+    {
+      "id": "xsz9sc",
+      "title": {
+        "en": "Docker is weird",
+        "my": "Docker is weird"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 96,
+      "comments": 43,
+      "author": "nick4",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "discussUrl": "https://lobste.rs/s/xsz9sc"
+    },
+    {
+      "id": "mucay8",
+      "title": {
+        "en": "Please don't mess with links",
+        "my": "Please don't mess with links"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 93,
+      "comments": 23,
+      "author": "gavinmorrow",
+      "url": "https://maurycyz.com/misc/real_links/",
+      "discussUrl": "https://lobste.rs/s/mucay8"
+    }
+  ]
+}
