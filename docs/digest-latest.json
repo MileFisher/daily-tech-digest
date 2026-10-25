@@ -1,145 +1,145 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": [
     {
       "id": "item?id=50202285",
       "title": {
         "en": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "my": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
+        "my": "ဝီကီပီးဒီးယား: ဝီကီပီးဒီးယား သို့ ချိတ်ဆက်ထားသော စာမျက်နှာများ - ဝီကီပီးဒီးယား"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1341,
-      "comments": 230,
+      "score": 1571,
+      "comments": 245,
       "author": "sohkamyung",
       "url": "https://edjefferson.com/localwiki/",
       "discussUrl": "https://news.ycombinator.com/item?id=50202285"
     },
     {
-      "id": "item?id=50212065",
+      "id": "item?id=50224916",
       "title": {
-        "en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "my": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
+        "en": "Show HN: Steal My Bitcoin",
+        "my": "Show ကို HN: အကြှနျုပျ ၏ Bitcoin ခိုးယူ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 854,
-      "comments": 496,
-      "author": "Jowsey",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "discussUrl": "https://news.ycombinator.com/item?id=50212065"
+      "score": 457,
+      "comments": 284,
+      "author": "cloudlandsdev",
+      "url": "https://stealmybitcoin.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50224916"
     },
     {
-      "id": "item?id=50211474",
+      "id": "item?id=50224100",
       "title": {
-        "en": "Today, we hacked what we'd set out to hack: the iPhone",
-        "my": "Today, we hacked what we'd set out to hack: the iPhone"
+        "en": "The Goose Programming Language",
+        "my": "GOOSE ပရိုဂရမ်းမင်းဘာသာစကား"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 830,
-      "comments": 538,
-      "author": "pavel_lishin",
-      "url": "https://blog.calif.io/p/iphone",
-      "discussUrl": "https://news.ycombinator.com/item?id=50211474"
+      "score": 342,
+      "comments": 230,
+      "author": "bobbydigitales",
+      "url": "https://aardappel.github.io/goose/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50224100"
     },
     {
-      "id": "item?id=50207910",
+      "id": "item?id=50225695",
       "title": {
-        "en": "Apple Music 404 Not Found",
-        "my": "Apple Music 404 Not Found"
+        "en": "We should be more ambitious with the software we build",
+        "my": "ကၽြန္ေတာ္တို႔ ေဆာက္လုပ္ေနတဲ့ ေဆာ့ဖ္၀ဲလ္နဲ႔ ပတ္သက္လို႔ ပိုၿပီး စိတ္အားထက္သန္ေနရပါမယ္ ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 713,
-      "comments": 225,
-      "author": "frizlab",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "discussUrl": "https://news.ycombinator.com/item?id=50207910"
+      "score": 332,
+      "comments": 289,
+      "author": "ltratt",
+      "url": "https://danluu.com/ambitious/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50225695"
     },
     {
-      "id": "item?id=50202114",
+      "id": "item?id=50226419",
       "title": {
-        "en": "Canadians are running out of time to oppose Bill C-22",
-        "my": "Canadians are running out of time to oppose Bill C-22"
+        "en": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "my": "Home သ တင်း များ ဒေ သ တွင်း အမေရိကန်တွင် ရုပ်ရှင် ၊ မီဒီယာနှင့် အနုပညာလုပ်ငန်းများတွင် အလုပ်အကိုင်ပေါင်း ၂ သိန်းခန့် ဆုံးရှုံးခဲ့ရ AA က ဘယ်လောက်ရှိလဲ ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 392,
-      "comments": 208,
-      "author": "hn_acker",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "discussUrl": "https://news.ycombinator.com/item?id=50202114"
+      "score": 311,
+      "comments": 308,
+      "author": "gnabgib",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "discussUrl": "https://news.ycombinator.com/item?id=50226419"
     },
     {
-      "id": "item?id=50213925",
+      "id": "item?id=50219666",
       "title": {
-        "en": "Dessa: Conversation Model trained only on speech",
-        "my": "Dessa: Conversation Model trained only on speech"
+        "en": "I don't understand quantum physics (2018)",
+        "my": "ကွမ်တမ်ရူပဗေဒကိုနားမလည်ပါ (2018)"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 344,
-      "comments": 132,
-      "author": "dsr12",
-      "url": "https://block.xyz/dessa",
-      "discussUrl": "https://news.ycombinator.com/item?id=50213925"
+      "score": 302,
+      "comments": 240,
+      "author": "rramadass",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50219666"
     },
     {
-      "id": "item?id=50169499",
+      "id": "item?id=50186450",
       "title": {
-        "en": "The Real Kevin Bacon",
-        "my": "The Real Kevin Bacon"
+        "en": "Physicists trap a single antimatter particle for a month",
+        "my": "ရူပဗေဒပညာရှင်များသည် Antimatter အမှုန်တစ်ခုတည်းကိုတစ်လကြာထောင်ချသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 284,
-      "comments": 77,
-      "author": "xnx",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50169499"
+      "score": 301,
+      "comments": 86,
+      "author": "mooreds",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50186450"
     },
     {
-      "id": "s0aktw",
+      "id": "xgih2x",
       "title": {
-        "en": "Quad9 DNS Resolver to exit France",
-        "my": "Quad9 DNS Resolver to exit France"
+        "en": "I want my Wednesday back",
+        "my": "ငါ့ရဲ႕ ဗုဒၶဟူးေန႔ကို ငါျပန္လိုခ်င္တယ္"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 109,
-      "comments": 11,
-      "author": "mond",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "discussUrl": "https://lobste.rs/s/s0aktw"
+      "score": 102,
+      "comments": 30,
+      "author": "lucasluitjes",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+      "discussUrl": "https://lobste.rs/s/xgih2x"
     },
     {
       "id": "xsz9sc",
       "title": {
         "en": "Docker is weird",
-        "my": "Docker is weird"
+        "my": "Docker သည်ထူးဆန်းသည်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 96,
-      "comments": 43,
+      "score": 101,
+      "comments": 48,
       "author": "nick4",
       "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
       "discussUrl": "https://lobste.rs/s/xsz9sc"
     },
     {
-      "id": "mucay8",
+      "id": "5xzuff",
       "title": {
-        "en": "Please don't mess with links",
-        "my": "Please don't mess with links"
+        "en": "Attention people who think UB is fine",
+        "my": "UB သည်အဆင်ပြေသည်ဟုထင်သောလူများကိုအာရုံစိုက်ပါ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 93,
-      "comments": 23,
-      "author": "gavinmorrow",
-      "url": "https://maurycyz.com/misc/real_links/",
-      "discussUrl": "https://lobste.rs/s/mucay8"
+      "score": 70,
+      "comments": 59,
+      "author": "abareplace",
+      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+      "discussUrl": "https://lobste.rs/s/5xzuff"
     }
   ]
 }
