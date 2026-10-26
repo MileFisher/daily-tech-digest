@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-25
+# 🗞️ Daily Tech Digest — 2026-10-26
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:21 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:30 ICT
 
 ---
 
-1. Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+1. Root shell on Samsung TV
 
-🔶 Hacker News · ⬆️ 1571 points · 💬 245 comments · 👤 sohkamyung
+🔶 Hacker News · ⬆️ 823 points · 💬 614 comments · 👤 testing22321
 
-A link to edjefferson.com titled "Local Wikipedia: Wikipedia, but only for things a half hour walk from you", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to twitter.com titled "Root shell on Samsung TV", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50202285) · [Source](https://edjefferson.com/localwiki/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50218633) · [Source](https://twitter.com/log4j/status/2113014142600953868?s=46)
 
-2. Show HN: Steal My Bitcoin
+2. We should be more ambitious with the software we build
 
-🔶 Hacker News · ⬆️ 457 points · 💬 284 comments · 👤 cloudlandsdev
+🔶 Hacker News · ⬆️ 785 points · 💬 703 comments · 👤 ltratt
 
-A link to stealmybitcoin.com titled "Show HN: Steal My Bitcoin", a popular story on the front page, drawing significant discussion.
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50224916) · [Source](https://stealmybitcoin.com/)
-
-3. The Goose Programming Language
-
-🔶 Hacker News · ⬆️ 342 points · 💬 230 comments · 👤 bobbydigitales
-
-A link to aardappel.github.io titled "The Goose Programming Language", a popular story on the front page, drawing significant discussion.
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50224100) · [Source](https://aardappel.github.io/goose/)
-
-4. We should be more ambitious with the software we build
-
-🔶 Hacker News · ⬆️ 332 points · 💬 289 comments · 👤 ltratt
-
-A link to danluu.com titled "We should be more ambitious with the software we build", a popular story on the front page, drawing significant discussion.
+A link to danluu.com titled "We should be more ambitious with the software we build", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50225695) · [Source](https://danluu.com/ambitious/)
 
-5. America has lost 200k of jobs in media, film and the arts. How much is AI?
+3. A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
 
-🔶 Hacker News · ⬆️ 311 points · 💬 308 comments · 👤 gnabgib
+🔶 Hacker News · ⬆️ 527 points · 💬 230 comments · 👤 sungam
 
-A link to apricitas.io titled "America has lost 200k of jobs in media, film and the arts. How much is AI?", a popular story on the front page, with an active discussion thread.
+A link to lynchlab.net titled "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50226419) · [Source](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+[Discuss on HN](https://news.ycombinator.com/item?id=50233779) · [Source](https://lynchlab.net/llm-skin-cancer)
 
-6. I don't understand quantum physics (2018)
+4. Dolly Parton's Imagination Library
 
-🔶 Hacker News · ⬆️ 302 points · 💬 240 comments · 👤 rramadass
+🔶 Hacker News · ⬆️ 503 points · 💬 88 comments · 👤 jumploops
 
-A link to southampton.ac.uk titled "I don't understand quantum physics (2018)", a popular story on the front page, drawing significant discussion.
+A link to imaginationlibrary.com titled "Dolly Parton's Imagination Library", one of the highest-scoring stories on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50219666) · [Source](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50234474) · [Source](https://imaginationlibrary.com/)
 
-7. Physicists trap a single antimatter particle for a month
+5. Lula wins election after final votes tallied
 
-🔶 Hacker News · ⬆️ 301 points · 💬 86 comments · 👤 mooreds
+🔶 Hacker News · ⬆️ 378 points · 💬 361 comments · 👤 laurenth
 
-A link to scientificamerican.com titled "Physicists trap a single antimatter particle for a month", a popular story on the front page.
+A link to reuters.com titled "Lula wins election after final votes tallied", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50186450) · [Source](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50237485) · [Source](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+
+6. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
+
+🔶 Hacker News · ⬆️ 263 points · 💬 278 comments · 👤 minimaxir
+
+A link to minimaxir.com titled "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?", a popular story on the front page, drawing significant discussion.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50236102) · [Source](https://minimaxir.com/2026/10/cheap-llms/)
+
+7. Overgrown, when plants invade your abandoned tabs
+
+🔶 Hacker News · ⬆️ 246 points · 💬 78 comments · 👤 speckx
+
+A link to charliegerard.dev titled "Overgrown, when plants invade your abandoned tabs", a popular story on the front page.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50197108) · [Source](https://charliegerard.dev/blog/overgrown-extension/)
 
 8. I want my Wednesday back
 
-🦞 Lobsters · ⬆️ 102 points · 💬 30 comments · 👤 lucasluitjes
+🦞 Lobsters · ⬆️ 117 points · 💬 31 comments · 👤 lucasluitjes
 
 A link to blog.luitjes.it titled "I want my Wednesday back".
 
 [Discuss on Lobsters](https://lobste.rs/s/xgih2x) · [Source](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 
-9. Docker is weird
+9. The Slurptop: A home-built luggable that runs on power tool batteries
 
-🦞 Lobsters · ⬆️ 101 points · 💬 48 comments · 👤 nick4
+🦞 Lobsters · ⬆️ 102 points · 💬 26 comments · 👤 hoistbypetard
 
-A link to codeandcake.dev titled "Docker is weird".
+A link to slurpburgers.com titled "The Slurptop: A home-built luggable that runs on power tool batteries".
 
-[Discuss on Lobsters](https://lobste.rs/s/xsz9sc) · [Source](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+[Discuss on Lobsters](https://lobste.rs/s/zfoiw1) · [Source](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 
-10. Attention people who think UB is fine
+10. Indian government sites are serving revoked eMudhra certificates
 
-🦞 Lobsters · ⬆️ 70 points · 💬 59 comments · 👤 abareplace
+🦞 Lobsters · ⬆️ 73 points · 💬 18 comments · 👤 adityaathalye
 
-A link to blog.habets.se titled "Attention people who think UB is fine".
+A link to captnemo.in titled "Indian government sites are serving revoked eMudhra certificates".
 
-[Discuss on Lobsters](https://lobste.rs/s/5xzuff) · [Source](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+[Discuss on Lobsters](https://lobste.rs/s/zug8xv) · [Source](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
 
-*daily-tech-digest · MileFisher · 2026-10-25T07:21:19.200Z*
+*daily-tech-digest · MileFisher · 2026-10-26T07:30:35.379Z*

@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-25
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-26
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:21 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:30 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. ဝီကီပီးဒီးယား: ဝီကီပီးဒီးယား သို့ ချိတ်ဆက်ထားသော စာမျက်နှာများ - ဝီကီပီးဒီးယား
+1. Samsung TV တွင် Root အခွံမာသီး
 
-🔶 Hacker News · ⬆️ 1571 points · 💬 245 comments · 👤 sohkamyung
+🔶 Hacker News · ⬆️ 823 points · 💬 614 comments · 👤 testing22321
 
-Edjefferson.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ဒေသဆိုင်ရာဝီကီပီးဒီးယား: ဝီကီပီးဒီးယား, ဒါပေမယ့်သာသင်တို့ထံမှနာရီဝက်လမ်းလျှောက်အရာများအတွက်", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"Samsung TV ပေါ်မှာ Root shell" လို့ အမည်ပေးထားတဲ့ twitter.com ရဲ့ link တစ်ခုဟာ ရှေ့မျက်နှာစာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက် ချည်နှောင်ထားပါတယ် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50202285) · [Source](https://edjefferson.com/localwiki/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50218633) · [Source](https://twitter.com/log4j/status/2113014142600953868?s=46)
 
-2. Show ကို HN: အကြှနျုပျ ၏ Bitcoin ခိုးယူ
+2. ကၽြန္ေတာ္တို႔ ေဆာက္လုပ္ေနတဲ့ ေဆာ့ဖ္၀ဲလ္နဲ႔ ပတ္သက္လို႔ ပိုၿပီး စိတ္အားထက္သန္ေနရပါမယ္ ။
 
-🔶 Hacker News · ⬆️ 457 points · 💬 284 comments · 👤 cloudlandsdev
+🔶 Hacker News · ⬆️ 785 points · 💬 703 comments · 👤 ltratt
 
-"Show HN: My Bitcoin ခိုးယူ" ခေါင်းစဉ်ဖြင့် stealmybitcoin.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုများရေးဆွဲသည် ။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50224916) · [Source](https://stealmybitcoin.com/)
-
-3. GOOSE ပရိုဂရမ်းမင်းဘာသာစကား
-
-🔶 Hacker News · ⬆️ 342 points · 💬 230 comments · 👤 bobbydigitales
-
-Aardappel.github.io ခေါင်းစဉ်ဖြင့် link တစ်ခု "အဆိုပါ Goose ပရိုဂရမ်ဘာသာစကား," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50224100) · [Source](https://aardappel.github.io/goose/)
-
-4. ကၽြန္ေတာ္တို႔ ေဆာက္လုပ္ေနတဲ့ ေဆာ့ဖ္၀ဲလ္နဲ႔ ပတ္သက္လို႔ ပိုၿပီး စိတ္အားထက္သန္ေနရပါမယ္ ။
-
-🔶 Hacker News · ⬆️ 332 points · 💬 289 comments · 👤 ltratt
-
-Danluu.com ရဲ့ link တစ်ခုဖြစ်တဲ့ "ကျွန်တော်တို့ တည်ဆောက်ထားတဲ့ ဆော့ဖ်ဝဲနဲ့ ပိုပြီး ရည်မှန်းချက်ကြီးသင့်တယ်" ဆိုတဲ့ ခေါင်းစဉ်နဲ့ ရှေ့စာမျက်နှာမှာ လူကြိုက်များတဲ့ ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ရေးဆွဲထားပါတယ် ။
+Danluu.com ရဲ့ Link တစ်ခုဖြစ်တဲ့ "ကျနော်တို့ ဆောက်ထားတဲ့ ဆော့ဖ်ဝဲနဲ့ ပိုပြီး ရည်မှန်းချက်ကြီးသင့်တယ်" ဆိုတဲ့ ခေါင်းစဉ်နဲ့ ရှေ့စာမျက်နှာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်တဲ့ Active Discussion Thread နဲ့အတူ ဖော်ပြပေးလိုက်ပါတယ် ။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50225695) · [Source](https://danluu.com/ambitious/)
 
-5. Home သ တင်း များ ဒေ သ တွင်း အမေရိကန်တွင် ရုပ်ရှင် ၊ မီဒီယာနှင့် အနုပညာလုပ်ငန်းများတွင် အလုပ်အကိုင်ပေါင်း ၂ သိန်းခန့် ဆုံးရှုံးခဲ့ရ AA က ဘယ်လောက်ရှိလဲ ။
+3. Home သ တင်း များ ဒေ သ တွင်း ကင်ဆာရောဂါ ခံစားနေရသည့် အသက် ၁၀ နှစ်အရွယ် ကလေးငယ်
 
-🔶 Hacker News · ⬆️ 311 points · 💬 308 comments · 👤 gnabgib
+🔶 Hacker News · ⬆️ 527 points · 💬 230 comments · 👤 sungam
 
-Home "က်န္းမာေရး" ဗဟုသုတ "လူမႈ႔ဘဝ" အေထြေထြ "လူမႈ႔ဘဝ" အေထြ "လူမႈ႔ဘဝ" အလွအပ "အေထြေထြ" လူမႈ႔ဘဝ "အေထြ" အေထြ "အေထြ" အေထြ "အေထြ" အေထြ "အေထြ" AI ဘယ်လောက်လဲ "တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များဇာတ်လမ်းတစ်ပုဒ် ။
+Lynchlab.net သို့ "အရေပြားကင်ဆာရောဂါရှာဖွေခြင်းအတွက် ၁၀ နှစ်အရွယ် CNN သည် Frontier LLMs ကိုကျော်လွန်သည်" ဟုအမည်ပေးထားသော link တစ်ခုသည်မျက်နှာစာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50226419) · [Source](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+[Discuss on HN](https://news.ycombinator.com/item?id=50233779) · [Source](https://lynchlab.net/llm-skin-cancer)
 
-6. ကွမ်တမ်ရူပဗေဒကိုနားမလည်ပါ (2018)
+4. Dolly Parton ရဲ့စိတ်ကူးယဉ်စာကြည့်တိုက်
 
-🔶 Hacker News · ⬆️ 302 points · 💬 240 comments · 👤 rramadass
+🔶 Hacker News · ⬆️ 503 points · 💬 88 comments · 👤 jumploops
 
-"ကွမ်တမ်ရူပဗေဒ (၂၀၁၈)" အမည်ရှိ Southampton.ac.uk သို့ ချိတ်ဆက်ထားသော စာမျက်နှာတစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
+"Dolly Parton ရဲ့စိတ်ကူးယဉ်စာကြည့်တိုက်" ခေါင်းစဉ်ဖြင့် imaginationlibrary.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းပုံပြင်များထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50219666) · [Source](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50234474) · [Source](https://imaginationlibrary.com/)
 
-7. ရူပဗေဒပညာရှင်များသည် Antimatter အမှုန်တစ်ခုတည်းကိုတစ်လကြာထောင်ချသည်
+5. နောက်ဆုံး မဲ ပေး ပြီးနောက် လူးလာ သည် ရွေးကောက်ပွဲ တွင် အနိုင်ရ ခဲ့ သည်
 
-🔶 Hacker News · ⬆️ 301 points · 💬 86 comments · 👤 mooreds
+🔶 Hacker News · ⬆️ 378 points · 💬 361 comments · 👤 laurenth
 
-"ရူပဗေဒပညာရှင်များသည် antimatter အမှုန်တစ်ခုတည်းကိုတစ်လကြာထောင်ချောက်" ခေါင်းစဉ်ဖြင့် scientificamerican.com သို့ link တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်သည် ။
+"Lula အပြီးသတ်မဲကြာမြင့်ပြီးနောက်ရွေးကောက်ပွဲအနိုင်ရ" ခေါင်းစဉ်ဖြင့် reuters.com သို့လင့်ခ်တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50186450) · [Source](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50237485) · [Source](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+
+6. OpenAI နှင့် Anthropic လအနည်းငယ်အတွင်း 80% အထိသူတို့ရဲ့ LLM စျေးနှုန်းလျှော့ချ ။ အဘယ်ကြောင့်?
+
+🔶 Hacker News · ⬆️ 263 points · 💬 278 comments · 👤 minimaxir
+
+Com သို့ "OpenAI နှင့် Anthropic တို့သည်လအနည်းငယ်အတွင်းသူတို့ ၏ LLM စျေးနှုန်းများကို ၈၀ % အထိလျှော့ချခဲ့သည် ။" ဘာျဖစ္လို႔လဲ "၊ သိသာထင္ရွားတဲ့ ေဆြးေႏြးမႈေတြ ေရးဆြဲထားတဲ့ ေရွးေဟာင္း စာမ်က္ႏွာေပၚက လူႀကိဳက္မ်ားတဲ့ အေၾကာင္းအရာတစ္ခုပါ ။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50236102) · [Source](https://minimaxir.com/2026/10/cheap-llms/)
+
+7. သင် ၏ စွန့်ပစ်ထားသော တဘ်များကို အပင်များ ကျူးကျော်ဝင်ရောက်သည့်အခါ အလွန်အကျွံ ကြီးထွားလာသည်
+
+🔶 Hacker News · ⬆️ 246 points · 💬 78 comments · 👤 speckx
+
+Charliegerard.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "အပင်များသင့်ရဲ့စွန့်ပစ် tabs များကျူးကျော်သောအခါ", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50197108) · [Source](https://charliegerard.dev/blog/overgrown-extension/)
 
 8. ငါ့ရဲ႕ ဗုဒၶဟူးေန႔ကို ငါျပန္လိုခ်င္တယ္
 
-🦞 Lobsters · ⬆️ 102 points · 💬 30 comments · 👤 lucasluitjes
+🦞 Lobsters · ⬆️ 117 points · 💬 31 comments · 👤 lucasluitjes
 
 Blog.luitjes.it ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကျွန်ုပ် ၏ ဗုဒ္ဓဟူးနေ့ကိုပြန်လိုချင်သည်" ။
 
 [Discuss on Lobsters](https://lobste.rs/s/xgih2x) · [Source](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 
-9. Docker သည်ထူးဆန်းသည်
+9. The Slurptop: Power Tool ကိုဘက်ထရီများပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ
 
-🦞 Lobsters · ⬆️ 101 points · 💬 48 comments · 👤 nick4
+🦞 Lobsters · ⬆️ 102 points · 💬 26 comments · 👤 hoistbypetard
 
-Codeandcake.dev သို့ "Docker သည်ထူးဆန်းသည်" ဟုအမည်ပေးထားသော link တစ်ခု ။
+Slurpburgers.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "အဆိုပါ Slurptop: ပါဝါ tool ကိုဘက်ထရီပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ" ။
 
-[Discuss on Lobsters](https://lobste.rs/s/xsz9sc) · [Source](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+[Discuss on Lobsters](https://lobste.rs/s/zfoiw1) · [Source](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 
-10. UB သည်အဆင်ပြေသည်ဟုထင်သောလူများကိုအာရုံစိုက်ပါ
+10. အိန္ဒိယအစိုးရဝက်ဘ်ဆိုက်များသည်ရုပ်သိမ်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကို ၀ န်ဆောင်မှုပေးသည်
 
-🦞 Lobsters · ⬆️ 70 points · 💬 59 comments · 👤 abareplace
+🦞 Lobsters · ⬆️ 73 points · 💬 18 comments · 👤 adityaathalye
 
-Blog.habets.se ခေါင်းစဉ်ဖြင့် link တစ်ခု "UB သည်အဆင်ပြေသည်ဟုထင်သောလူများကိုအာရုံစိုက်ပါ" ။
+CAPNEMO.in သို့ "အိန္ဒိယအစိုးရဝက်ဘ်ဆိုက်များသည်ရုပ်သိမ်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကို ၀ န်ဆောင်မှုပေးနေသည်" ဟူသောခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/5xzuff) · [Source](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+[Discuss on Lobsters](https://lobste.rs/s/zug8xv) · [Source](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
 
-*daily-tech-digest · MileFisher · 2026-10-25T07:21:19.200Z*
+*daily-tech-digest · MileFisher · 2026-10-26T07:30:35.379Z*

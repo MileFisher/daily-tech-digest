@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-26",
+  "items": [
+    {
+      "id": "item?id=50218633",
+      "title": {
+        "en": "Root shell on Samsung TV",
+        "my": "Samsung TV တွင် Root အခွံမာသီး"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 823,
+      "comments": 614,
+      "author": "testing22321",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "discussUrl": "https://news.ycombinator.com/item?id=50218633"
+    },
+    {
+      "id": "item?id=50225695",
+      "title": {
+        "en": "We should be more ambitious with the software we build",
+        "my": "ကၽြန္ေတာ္တို႔ ေဆာက္လုပ္ေနတဲ့ ေဆာ့ဖ္၀ဲလ္နဲ႔ ပတ္သက္လို႔ ပိုၿပီး စိတ္အားထက္သန္ေနရပါမယ္ ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 785,
+      "comments": 703,
+      "author": "ltratt",
+      "url": "https://danluu.com/ambitious/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50225695"
+    },
+    {
+      "id": "item?id=50233779",
+      "title": {
+        "en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "my": "Home သ တင်း များ ဒေ သ တွင်း ကင်ဆာရောဂါ ခံစားနေရသည့် အသက် ၁၀ နှစ်အရွယ် ကလေးငယ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 527,
+      "comments": 230,
+      "author": "sungam",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "discussUrl": "https://news.ycombinator.com/item?id=50233779"
+    },
+    {
+      "id": "item?id=50234474",
+      "title": {
+        "en": "Dolly Parton's Imagination Library",
+        "my": "Dolly Parton ရဲ့စိတ်ကူးယဉ်စာကြည့်တိုက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 503,
+      "comments": 88,
+      "author": "jumploops",
+      "url": "https://imaginationlibrary.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50234474"
+    },
+    {
+      "id": "item?id=50237485",
+      "title": {
+        "en": "Lula wins election after final votes tallied",
+        "my": "နောက်ဆုံး မဲ ပေး ပြီးနောက် လူးလာ သည် ရွေးကောက်ပွဲ တွင် အနိုင်ရ ခဲ့ သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 378,
+      "comments": 361,
+      "author": "laurenth",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50237485"
+    },
+    {
+      "id": "item?id=50236102",
+      "title": {
+        "en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "my": "OpenAI နှင့် Anthropic လအနည်းငယ်အတွင်း 80% အထိသူတို့ရဲ့ LLM စျေးနှုန်းလျှော့ချ ။ အဘယ်ကြောင့်?"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 263,
+      "comments": 278,
+      "author": "minimaxir",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50236102"
+    },
+    {
+      "id": "item?id=50197108",
+      "title": {
+        "en": "Overgrown, when plants invade your abandoned tabs",
+        "my": "သင် ၏ စွန့်ပစ်ထားသော တဘ်များကို အပင်များ ကျူးကျော်ဝင်ရောက်သည့်အခါ အလွန်အကျွံ ကြီးထွားလာသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 246,
+      "comments": 78,
+      "author": "speckx",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50197108"
+    },
+    {
+      "id": "xgih2x",
+      "title": {
+        "en": "I want my Wednesday back",
+        "my": "ငါ့ရဲ႕ ဗုဒၶဟူးေန႔ကို ငါျပန္လိုခ်င္တယ္"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 117,
+      "comments": 31,
+      "author": "lucasluitjes",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+      "discussUrl": "https://lobste.rs/s/xgih2x"
+    },
+    {
+      "id": "zfoiw1",
+      "title": {
+        "en": "The Slurptop: A home-built luggable that runs on power tool batteries",
+        "my": "The Slurptop: Power Tool ကိုဘက်ထရီများပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 102,
+      "comments": 26,
+      "author": "hoistbypetard",
+      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "discussUrl": "https://lobste.rs/s/zfoiw1"
+    },
+    {
+      "id": "zug8xv",
+      "title": {
+        "en": "Indian government sites are serving revoked eMudhra certificates",
+        "my": "အိန္ဒိယအစိုးရဝက်ဘ်ဆိုက်များသည်ရုပ်သိမ်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကို ၀ န်ဆောင်မှုပေးသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 73,
+      "comments": 18,
+      "author": "adityaathalye",
+      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+      "discussUrl": "https://lobste.rs/s/zug8xv"
+    }
+  ]
+}
