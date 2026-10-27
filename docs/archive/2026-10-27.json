@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "id": "item?id=50242939",
+      "title": {
+        "en": "Anthropic S-1",
+        "my": "H1N1 ပိုးတွေ့လူနာ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1579,
+      "comments": 1512,
+      "author": "SiNTEx",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "discussUrl": "https://news.ycombinator.com/item?id=50242939"
+    },
+    {
+      "id": "item?id=50245524",
+      "title": {
+        "en": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+        "my": "Microsoft က ၎ င်း ၏ လုပ်သားအင်အား ၏ လေးပုံတစ်ပုံခန့်အတွက်အစုလိုက်အပြုံလိုက် ၀ ယ်ယူမှုများကိုကမ်းလှမ်းသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 898,
+      "comments": 839,
+      "author": "doctorzook",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50245524"
+    },
+    {
+      "id": "item?id=50251344",
+      "title": {
+        "en": "Three new discoveries in mathematics, computer science, and physics",
+        "my": "သင်္ချာ ၊ ကွန်ပျူတာသိပ္ပံနှင့် ရူပဗေဒဆိုင်ရာ ရှာဖွေတွေ့ရှိမှုအသစ် (၃) ခု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 787,
+      "comments": 349,
+      "author": "jonluca",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50251344"
+    },
+    {
+      "id": "item?id=50245138",
+      "title": {
+        "en": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "my": "ဆောက်လုပ်ရေးအကြောင်းပြချက်မော်ဒယ်များအပေါ် Sebastian Raschka မှခြစ်ဗီဒီယိုသင်တန်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 670,
+      "comments": 94,
+      "author": "sgiannopoulos",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "discussUrl": "https://news.ycombinator.com/item?id=50245138"
+    },
+    {
+      "id": "item?id=50248124",
+      "title": {
+        "en": "GPT-6.1 Terra",
+        "my": "GPT-6.1 မြေပြင်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 575,
+      "comments": 359,
+      "author": "meetpateltech",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50248124"
+    },
+    {
+      "id": "item?id=50251661",
+      "title": {
+        "en": "The Exponential Time Hypothesis Is False [pdf]",
+        "my": "The Exponential Time Hypothesis [ရှားပါး/မတော်တဆမှု ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 547,
+      "comments": 198,
+      "author": "vok",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "discussUrl": "https://news.ycombinator.com/item?id=50251661"
+    },
+    {
+      "id": "item?id=50245831",
+      "title": {
+        "en": "CSS-Tricks has a new owner",
+        "my": "CSS-Tricks တွင်ပိုင်ရှင်အသစ်ရှိသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 436,
+      "comments": 96,
+      "author": "edent",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50245831"
+    },
+    {
+      "id": "zfoiw1",
+      "title": {
+        "en": "The Slurptop: A home-built luggable that runs on power tool batteries",
+        "my": "The Slurptop: Power Tool ကိုဘက်ထရီများပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 133,
+      "comments": 37,
+      "author": "hoistbypetard",
+      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "discussUrl": "https://lobste.rs/s/zfoiw1"
+    },
+    {
+      "id": "tbbiqb",
+      "title": {
+        "en": "POSIX wordexp(3) is dangerous",
+        "my": "POSIX Wordexp(3) သည်အန္တရာယ်ရှိသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 84,
+      "comments": 20,
+      "author": "yossarian",
+      "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+      "discussUrl": "https://lobste.rs/s/tbbiqb"
+    },
+    {
+      "id": "cxwpil",
+      "title": {
+        "en": "Vim Classic",
+        "my": "Vim ဂန္ထဝင်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 80,
+      "comments": 46,
+      "author": "datboi",
+      "url": "https://vim-classic.org/",
+      "discussUrl": "https://lobste.rs/s/cxwpil"
+    }
+  ]
+}

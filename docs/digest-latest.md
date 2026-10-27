@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-26
+# 🗞️ Daily Tech Digest — 2026-10-27
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:30 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 14:26 ICT
 
 ---
 
-1. Root shell on Samsung TV
+1. Anthropic S-1
 
-🔶 Hacker News · ⬆️ 823 points · 💬 614 comments · 👤 testing22321
+🔶 Hacker News · ⬆️ 1579 points · 💬 1512 comments · 👤 SiNTEx
 
-A link to twitter.com titled "Root shell on Samsung TV", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to sec.gov titled "Anthropic S-1", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50218633) · [Source](https://twitter.com/log4j/status/2113014142600953868?s=46)
+[Discuss on HN](https://news.ycombinator.com/item?id=50242939) · [Source](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
-2. We should be more ambitious with the software we build
+2. Microsoft offers mass buyouts for roughly a quarter of its workforce
 
-🔶 Hacker News · ⬆️ 785 points · 💬 703 comments · 👤 ltratt
+🔶 Hacker News · ⬆️ 898 points · 💬 839 comments · 👤 doctorzook
 
-A link to danluu.com titled "We should be more ambitious with the software we build", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to seattletimes.com titled "Microsoft offers mass buyouts for roughly a quarter of its workforce", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50225695) · [Source](https://danluu.com/ambitious/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50245524) · [Source](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
 
-3. A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
+3. Three new discoveries in mathematics, computer science, and physics
 
-🔶 Hacker News · ⬆️ 527 points · 💬 230 comments · 👤 sungam
+🔶 Hacker News · ⬆️ 787 points · 💬 349 comments · 👤 jonluca
 
-A link to lynchlab.net titled "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to openai.com titled "Three new discoveries in mathematics, computer science, and physics", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50233779) · [Source](https://lynchlab.net/llm-skin-cancer)
+[Discuss on HN](https://news.ycombinator.com/item?id=50251344) · [Source](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 
-4. Dolly Parton's Imagination Library
+4. Sebastian Raschka's from-scratch video course on building reasoning models
 
-🔶 Hacker News · ⬆️ 503 points · 💬 88 comments · 👤 jumploops
+🔶 Hacker News · ⬆️ 670 points · 💬 94 comments · 👤 sgiannopoulos
 
-A link to imaginationlibrary.com titled "Dolly Parton's Imagination Library", one of the highest-scoring stories on the front page.
+A link to magazine.sebastianraschka.com titled "Sebastian Raschka's from-scratch video course on building reasoning models", one of the highest-scoring stories on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50234474) · [Source](https://imaginationlibrary.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50245138) · [Source](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 
-5. Lula wins election after final votes tallied
+5. GPT-6.1 Terra
 
-🔶 Hacker News · ⬆️ 378 points · 💬 361 comments · 👤 laurenth
+🔶 Hacker News · ⬆️ 575 points · 💬 359 comments · 👤 meetpateltech
 
-A link to reuters.com titled "Lula wins election after final votes tallied", a popular story on the front page, with an active discussion thread.
+A link to openai.com titled "GPT-6.1 Terra", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50237485) · [Source](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50248124) · [Source](https://openai.com/index/introducing-gpt-6-1-terra/)
 
-6. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
+6. The Exponential Time Hypothesis Is False [pdf]
 
-🔶 Hacker News · ⬆️ 263 points · 💬 278 comments · 👤 minimaxir
+🔶 Hacker News · ⬆️ 547 points · 💬 198 comments · 👤 vok
 
-A link to minimaxir.com titled "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "The Exponential Time Hypothesis Is False [pdf]", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50236102) · [Source](https://minimaxir.com/2026/10/cheap-llms/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50251661) · [Source](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 
-7. Overgrown, when plants invade your abandoned tabs
+7. CSS-Tricks has a new owner
 
-🔶 Hacker News · ⬆️ 246 points · 💬 78 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 436 points · 💬 96 comments · 👤 edent
 
-A link to charliegerard.dev titled "Overgrown, when plants invade your abandoned tabs", a popular story on the front page.
+A link to css-tricks.com titled "CSS-Tricks has a new owner", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50197108) · [Source](https://charliegerard.dev/blog/overgrown-extension/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50245831) · [Source](https://css-tricks.com/css-tricks-has-a-new-owner/)
 
-8. I want my Wednesday back
+8. The Slurptop: A home-built luggable that runs on power tool batteries
 
-🦞 Lobsters · ⬆️ 117 points · 💬 31 comments · 👤 lucasluitjes
-
-A link to blog.luitjes.it titled "I want my Wednesday back".
-
-[Discuss on Lobsters](https://lobste.rs/s/xgih2x) · [Source](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
-
-9. The Slurptop: A home-built luggable that runs on power tool batteries
-
-🦞 Lobsters · ⬆️ 102 points · 💬 26 comments · 👤 hoistbypetard
+🦞 Lobsters · ⬆️ 133 points · 💬 37 comments · 👤 hoistbypetard
 
 A link to slurpburgers.com titled "The Slurptop: A home-built luggable that runs on power tool batteries".
 
 [Discuss on Lobsters](https://lobste.rs/s/zfoiw1) · [Source](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 
-10. Indian government sites are serving revoked eMudhra certificates
+9. POSIX wordexp(3) is dangerous
 
-🦞 Lobsters · ⬆️ 73 points · 💬 18 comments · 👤 adityaathalye
+🦞 Lobsters · ⬆️ 84 points · 💬 20 comments · 👤 yossarian
 
-A link to captnemo.in titled "Indian government sites are serving revoked eMudhra certificates".
+A link to yossarian.net titled "POSIX wordexp(3) is dangerous".
 
-[Discuss on Lobsters](https://lobste.rs/s/zug8xv) · [Source](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+[Discuss on Lobsters](https://lobste.rs/s/tbbiqb) · [Source](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 
-*daily-tech-digest · MileFisher · 2026-10-26T07:30:35.379Z*
+10. Vim Classic
+
+🦞 Lobsters · ⬆️ 80 points · 💬 46 comments · 👤 datboi
+
+A link to vim-classic.org titled "Vim Classic".
+
+[Discuss on Lobsters](https://lobste.rs/s/cxwpil) · [Source](https://vim-classic.org/)
+
+*daily-tech-digest · MileFisher · 2026-10-27T07:26:39.179Z*

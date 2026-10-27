@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-26
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-27
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:30 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 14:26 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Samsung TV တွင် Root အခွံမာသီး
+1. H1N1 ပိုးတွေ့လူနာ
 
-🔶 Hacker News · ⬆️ 823 points · 💬 614 comments · 👤 testing22321
+🔶 Hacker News · ⬆️ 1579 points · 💬 1512 comments · 👤 SiNTEx
 
-"Samsung TV ပေါ်မှာ Root shell" လို့ အမည်ပေးထားတဲ့ twitter.com ရဲ့ link တစ်ခုဟာ ရှေ့မျက်နှာစာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက် ချည်နှောင်ထားပါတယ် ။
+"Anthropic s-1" ခေါင်းစဉ်ဖြင့် sec.gov သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50218633) · [Source](https://twitter.com/log4j/status/2113014142600953868?s=46)
+[Discuss on HN](https://news.ycombinator.com/item?id=50242939) · [Source](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
-2. ကၽြန္ေတာ္တို႔ ေဆာက္လုပ္ေနတဲ့ ေဆာ့ဖ္၀ဲလ္နဲ႔ ပတ္သက္လို႔ ပိုၿပီး စိတ္အားထက္သန္ေနရပါမယ္ ။
+2. Microsoft က ၎ င်း ၏ လုပ်သားအင်အား ၏ လေးပုံတစ်ပုံခန့်အတွက်အစုလိုက်အပြုံလိုက် ၀ ယ်ယူမှုများကိုကမ်းလှမ်းသည်
 
-🔶 Hacker News · ⬆️ 785 points · 💬 703 comments · 👤 ltratt
+🔶 Hacker News · ⬆️ 898 points · 💬 839 comments · 👤 doctorzook
 
-Danluu.com ရဲ့ Link တစ်ခုဖြစ်တဲ့ "ကျနော်တို့ ဆောက်ထားတဲ့ ဆော့ဖ်ဝဲနဲ့ ပိုပြီး ရည်မှန်းချက်ကြီးသင့်တယ်" ဆိုတဲ့ ခေါင်းစဉ်နဲ့ ရှေ့စာမျက်နှာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်တဲ့ Active Discussion Thread နဲ့အတူ ဖော်ပြပေးလိုက်ပါတယ် ။
+Seattletimes.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Microsoft က ၎ င်း ၏ လုပ်သားအင်အား ၏ လေးပုံတစ်ပုံခန့်အတွက်အစုလိုက်အပြုံလိုက် ၀ ယ်ယူမှုကိုကမ်းလှမ်းသည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုဖြင့်မျက်နှာစာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50225695) · [Source](https://danluu.com/ambitious/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50245524) · [Source](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
 
-3. Home သ တင်း များ ဒေ သ တွင်း ကင်ဆာရောဂါ ခံစားနေရသည့် အသက် ၁၀ နှစ်အရွယ် ကလေးငယ်
+3. သင်္ချာ ၊ ကွန်ပျူတာသိပ္ပံနှင့် ရူပဗေဒဆိုင်ရာ ရှာဖွေတွေ့ရှိမှုအသစ် (၃) ခု
 
-🔶 Hacker News · ⬆️ 527 points · 💬 230 comments · 👤 sungam
+🔶 Hacker News · ⬆️ 787 points · 💬 349 comments · 👤 jonluca
 
-Lynchlab.net သို့ "အရေပြားကင်ဆာရောဂါရှာဖွေခြင်းအတွက် ၁၀ နှစ်အရွယ် CNN သည် Frontier LLMs ကိုကျော်လွန်သည်" ဟုအမည်ပေးထားသော link တစ်ခုသည်မျက်နှာစာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"သင်္ချာ ၊ ကွန်ပျူတာသိပ္ပံနှင့် ရူပဗေဒဆိုင်ရာ ရှာဖွေတွေ့ရှိမှုအသစ်သုံးခု" ခေါင်းစဉ်ဖြင့် openai.com သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးချက်ချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50233779) · [Source](https://lynchlab.net/llm-skin-cancer)
+[Discuss on HN](https://news.ycombinator.com/item?id=50251344) · [Source](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 
-4. Dolly Parton ရဲ့စိတ်ကူးယဉ်စာကြည့်တိုက်
+4. ဆောက်လုပ်ရေးအကြောင်းပြချက်မော်ဒယ်များအပေါ် Sebastian Raschka မှခြစ်ဗီဒီယိုသင်တန်း
 
-🔶 Hacker News · ⬆️ 503 points · 💬 88 comments · 👤 jumploops
+🔶 Hacker News · ⬆️ 670 points · 💬 94 comments · 👤 sgiannopoulos
 
-"Dolly Parton ရဲ့စိတ်ကူးယဉ်စာကြည့်တိုက်" ခေါင်းစဉ်ဖြင့် imaginationlibrary.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းပုံပြင်များထဲမှတစ်ခုဖြစ်သည် ။
+မဂ္ဂဇင်း.sebastianraschka.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Sebastian Raschka ၏ အကြောင်းပြချက်မော်ဒယ်များတည်ဆောက်ခြင်းအပေါ်ခြစ်ရာမှဗီဒီယိုသင်တန်း", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းပုံပြင်တစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50234474) · [Source](https://imaginationlibrary.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50245138) · [Source](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 
-5. နောက်ဆုံး မဲ ပေး ပြီးနောက် လူးလာ သည် ရွေးကောက်ပွဲ တွင် အနိုင်ရ ခဲ့ သည်
+5. GPT-6.1 မြေပြင်
 
-🔶 Hacker News · ⬆️ 378 points · 💬 361 comments · 👤 laurenth
+🔶 Hacker News · ⬆️ 575 points · 💬 359 comments · 👤 meetpateltech
 
-"Lula အပြီးသတ်မဲကြာမြင့်ပြီးနောက်ရွေးကောက်ပွဲအနိုင်ရ" ခေါင်းစဉ်ဖြင့် reuters.com သို့လင့်ခ်တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
+"GPT-6.1 Terra" ခေါင်းစဉ်ဖြင့် openai.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50237485) · [Source](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50248124) · [Source](https://openai.com/index/introducing-gpt-6-1-terra/)
 
-6. OpenAI နှင့် Anthropic လအနည်းငယ်အတွင်း 80% အထိသူတို့ရဲ့ LLM စျေးနှုန်းလျှော့ချ ။ အဘယ်ကြောင့်?
+6. The Exponential Time Hypothesis [ရှားပါး/မတော်တဆမှု ။
 
-🔶 Hacker News · ⬆️ 263 points · 💬 278 comments · 👤 minimaxir
+🔶 Hacker News · ⬆️ 547 points · 💬 198 comments · 👤 vok
 
-Com သို့ "OpenAI နှင့် Anthropic တို့သည်လအနည်းငယ်အတွင်းသူတို့ ၏ LLM စျေးနှုန်းများကို ၈၀ % အထိလျှော့ချခဲ့သည် ။" ဘာျဖစ္လို႔လဲ "၊ သိသာထင္ရွားတဲ့ ေဆြးေႏြးမႈေတြ ေရးဆြဲထားတဲ့ ေရွးေဟာင္း စာမ်က္ႏွာေပၚက လူႀကိဳက္မ်ားတဲ့ အေၾကာင္းအရာတစ္ခုပါ ။
+"The Exponential Time Hypothesis Is False [pdf]" ခေါင်းစဉ်ဖြင့် github.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50236102) · [Source](https://minimaxir.com/2026/10/cheap-llms/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50251661) · [Source](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 
-7. သင် ၏ စွန့်ပစ်ထားသော တဘ်များကို အပင်များ ကျူးကျော်ဝင်ရောက်သည့်အခါ အလွန်အကျွံ ကြီးထွားလာသည်
+7. CSS-Tricks တွင်ပိုင်ရှင်အသစ်ရှိသည်
 
-🔶 Hacker News · ⬆️ 246 points · 💬 78 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 436 points · 💬 96 comments · 👤 edent
 
-Charliegerard.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "အပင်များသင့်ရဲ့စွန့်ပစ် tabs များကျူးကျော်သောအခါ", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+Css-tricks.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "CSS-Tricks ပိုင်ရှင်အသစ်ရှိသည်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50197108) · [Source](https://charliegerard.dev/blog/overgrown-extension/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50245831) · [Source](https://css-tricks.com/css-tricks-has-a-new-owner/)
 
-8. ငါ့ရဲ႕ ဗုဒၶဟူးေန႔ကို ငါျပန္လိုခ်င္တယ္
+8. The Slurptop: Power Tool ကိုဘက်ထရီများပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ
 
-🦞 Lobsters · ⬆️ 117 points · 💬 31 comments · 👤 lucasluitjes
-
-Blog.luitjes.it ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကျွန်ုပ် ၏ ဗုဒ္ဓဟူးနေ့ကိုပြန်လိုချင်သည်" ။
-
-[Discuss on Lobsters](https://lobste.rs/s/xgih2x) · [Source](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
-
-9. The Slurptop: Power Tool ကိုဘက်ထရီများပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ
-
-🦞 Lobsters · ⬆️ 102 points · 💬 26 comments · 👤 hoistbypetard
+🦞 Lobsters · ⬆️ 133 points · 💬 37 comments · 👤 hoistbypetard
 
 Slurpburgers.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "အဆိုပါ Slurptop: ပါဝါ tool ကိုဘက်ထရီပေါ်တွင် run သောအိမ်မှာ built-in ခရီးဆောင်သေတ္တာ" ။
 
 [Discuss on Lobsters](https://lobste.rs/s/zfoiw1) · [Source](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 
-10. အိန္ဒိယအစိုးရဝက်ဘ်ဆိုက်များသည်ရုပ်သိမ်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကို ၀ န်ဆောင်မှုပေးသည်
+9. POSIX Wordexp(3) သည်အန္တရာယ်ရှိသည်
 
-🦞 Lobsters · ⬆️ 73 points · 💬 18 comments · 👤 adityaathalye
+🦞 Lobsters · ⬆️ 84 points · 💬 20 comments · 👤 yossarian
 
-CAPNEMO.in သို့ "အိန္ဒိယအစိုးရဝက်ဘ်ဆိုက်များသည်ရုပ်သိမ်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကို ၀ န်ဆောင်မှုပေးနေသည်" ဟူသောခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Yossarian.net သို့ "POSIX wordexp (3)" ဟုအမည်ပေးထားသော link တစ်ခုသည်အန္တရာယ်ရှိသည် ။
 
-[Discuss on Lobsters](https://lobste.rs/s/zug8xv) · [Source](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+[Discuss on Lobsters](https://lobste.rs/s/tbbiqb) · [Source](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 
-*daily-tech-digest · MileFisher · 2026-10-26T07:30:35.379Z*
+10. Vim ဂန္ထဝင်
+
+🦞 Lobsters · ⬆️ 80 points · 💬 46 comments · 👤 datboi
+
+"Vim ဂန္ထဝင်" ခေါင်းစဉ်ဖြင့် vim-classic.org မှ link တစ်ခု ။
+
+[Discuss on Lobsters](https://lobste.rs/s/cxwpil) · [Source](https://vim-classic.org/)
+
+*daily-tech-digest · MileFisher · 2026-10-27T07:26:39.179Z*
