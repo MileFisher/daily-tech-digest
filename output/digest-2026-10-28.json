@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "id": "item?id=50261998",
+      "title": {
+        "en": "Ghostty 1.4",
+        "my": "Ghostty 1.4"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 961,
+      "comments": 297,
+      "author": "deaux",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "discussUrl": "https://news.ycombinator.com/item?id=50261998"
+    },
+    {
+      "id": "item?id=50259604",
+      "title": {
+        "en": "US Government is hiding a secret court ruling about how it spies on Americans",
+        "my": "အမေရိကန်အစိုးရက အမေရိကန်တွေကို သူလျှိုလုပ်နေပုံနဲ့ ပတ်သက်ပြီး လျှို့ဝှက်တရားရုံးရဲ့ ဆုံးဖြတ်ချက်ကို ဖုံးကွယ်ထား"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 912,
+      "comments": 328,
+      "author": "helterskelter2",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50259604"
+    },
+    {
+      "id": "item?id=50261319",
+      "title": {
+        "en": "Genie 4",
+        "my": "Genie 4"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 855,
+      "comments": 502,
+      "author": "acossta",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50261319"
+    },
+    {
+      "id": "item?id=50257419",
+      "title": {
+        "en": "Python's experimental JIT to be removed",
+        "my": "Python ရဲ့စမ်းသပ်မှု JIT ကိုဖယ်ရှားပစ်ရန်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 490,
+      "comments": 259,
+      "author": "f311a",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50257419"
+    },
+    {
+      "id": "item?id=50261352",
+      "title": {
+        "en": "New 14‑inch MacBook Pro with M6",
+        "my": "M6 နှင့်အတူနယူး14လက်မ MacBook Pro ကို"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 347,
+      "comments": 450,
+      "author": "beex",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50261352"
+    },
+    {
+      "id": "item?id=50258538",
+      "title": {
+        "en": "New iMac with M6",
+        "my": "M6 နှင့်အတူ iMac အသစ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 326,
+      "comments": 413,
+      "author": "notfried",
+      "url": "https://www.apple.com/imac/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50258538"
+    },
+    {
+      "id": "item?id=50264853",
+      "title": {
+        "en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "my": "Survival LLM: သင် ၏ ကိုယ်ပိုင်ကွန်ပျူတာပေါ်တွင်အလုပ်လုပ်သော AI လက်ထောက်နှင့်အရေးပေါ်စာကြည့်တိုက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 313,
+      "comments": 129,
+      "author": "Luc",
+      "url": "https://www.brangus.io/survival-llm",
+      "discussUrl": "https://news.ycombinator.com/item?id=50264853"
+    },
+    {
+      "id": "6ntoqr",
+      "title": {
+        "en": "CSS-Tricks has a new owner",
+        "my": "CSS-Tricks တွင်ပိုင်ရှင်အသစ်ရှိသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 112,
+      "comments": 2,
+      "author": "seb",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "discussUrl": "https://lobste.rs/s/6ntoqr"
+    },
+    {
+      "id": "cajuq6",
+      "title": {
+        "en": "Python's experimental JIT to be removed",
+        "my": "Python ရဲ့စမ်းသပ်မှု JIT ကိုဖယ်ရှားပစ်ရန်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 88,
+      "comments": 21,
+      "author": "val",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "discussUrl": "https://lobste.rs/s/cajuq6"
+    },
+    {
+      "id": "olnqh2",
+      "title": {
+        "en": "Websites Should Be Printable",
+        "my": "ဝက်ဘ်ဆိုက်များ ပုံနှိပ်နိုင်သင့်သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 87,
+      "comments": 23,
+      "author": "zk",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "discussUrl": "https://lobste.rs/s/olnqh2"
+    }
+  ]
+}
