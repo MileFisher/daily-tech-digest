@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-28
+# 🗞️ Daily Tech Digest — 2026-10-29
 
-> Top 10 stories from Hacker News & Lobsters · Generated 14:59 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:09 ICT
 
 ---
 
-1. Ghostty 1.4
+1. Apple's git still trusts the compromised eMudhra certificates
 
-🔶 Hacker News · ⬆️ 961 points · 💬 297 comments · 👤 deaux
+🔶 Hacker News · ⬆️ 1113 points · 💬 392 comments · 👤 galadran
 
-A link to ghostty.org titled "Ghostty 1.4", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to emudhra.we-have-a-problem.com titled "Apple's git still trusts the compromised eMudhra certificates", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50261998) · [Source](https://ghostty.org/docs/install/release-notes/1-4-0)
+[Discuss on HN](https://news.ycombinator.com/item?id=50271640) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
 
-2. US Government is hiding a secret court ruling about how it spies on Americans
+2. Why is this fingerprinting script creating bioweapons?
 
-🔶 Hacker News · ⬆️ 912 points · 💬 328 comments · 👤 helterskelter2
+🔶 Hacker News · ⬆️ 1112 points · 💬 220 comments · 👤 hazebooth
 
-A link to wired.com titled "US Government is hiding a secret court ruling about how it spies on Americans", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to nullpt.rs titled "Why is this fingerprinting script creating bioweapons?", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50259604) · [Source](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50276998) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
 
-3. Genie 4
+3. Gemini 4 Carbon
 
-🔶 Hacker News · ⬆️ 855 points · 💬 502 comments · 👤 acossta
+🔶 Hacker News · ⬆️ 903 points · 💬 737 comments · 👤 acossta
 
-A link to deepmind.google titled "Genie 4", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to blog.google titled "Gemini 4 Carbon", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50261319) · [Source](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50276792) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 
-4. Python's experimental JIT to be removed
+4. MacBook Pro with PROLED XDR Display and Touch
 
-🔶 Hacker News · ⬆️ 490 points · 💬 259 comments · 👤 f311a
+🔶 Hacker News · ⬆️ 563 points · 💬 954 comments · 👤 etothet
 
-A link to lwn.net titled "Python's experimental JIT to be removed", a popular story on the front page, drawing significant discussion.
+A link to apple.com titled "MacBook Pro with PROLED XDR Display and Touch", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50257419) · [Source](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50276940) · [Source](https://www.apple.com/macbook-pro/proled-xdr-display/)
 
-5. New 14‑inch MacBook Pro with M6
+5. The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand
 
-🔶 Hacker News · ⬆️ 347 points · 💬 450 comments · 👤 beex
+🔶 Hacker News · ⬆️ 492 points · 💬 219 comments · 👤 seddona
 
-A link to apple.com titled "New 14‑inch MacBook Pro with M6", a popular story on the front page, with an active discussion thread.
+A link to circuithub.com titled "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50261352) · [Source](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50243060) · [Source](https://www.circuithub.com/post/unveiling-the-grid)
 
-6. New iMac with M6
+6. CNC Stone Carving
 
-🔶 Hacker News · ⬆️ 326 points · 💬 413 comments · 👤 notfried
+🔶 Hacker News · ⬆️ 459 points · 💬 128 comments · 👤 bschne
 
-A link to apple.com titled "New iMac with M6", a popular story on the front page, with an active discussion thread.
+A link to carmelitegothic.com titled "CNC Stone Carving", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50258538) · [Source](https://www.apple.com/imac/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50274409) · [Source](https://carmelitegothic.com/cnc-stone-carving/)
 
-7. Survival LLM: AI assistant and emergency library that runs on your own computer
+7. Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
 
-🔶 Hacker News · ⬆️ 313 points · 💬 129 comments · 👤 Luc
+🔶 Hacker News · ⬆️ 379 points · 💬 80 comments · 👤 csmantle
 
-A link to brangus.io titled "Survival LLM: AI assistant and emergency library that runs on your own computer", a popular story on the front page, drawing significant discussion.
+A link to divagr.com titled "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50264853) · [Source](https://www.brangus.io/survival-llm)
+[Discuss on HN](https://news.ycombinator.com/item?id=50282838) · [Source](https://divagr.com/blog/qwenputer)
 
-8. CSS-Tricks has a new owner
+8. This is not sustainable
 
-🦞 Lobsters · ⬆️ 112 points · 💬 2 comments · 👤 seb
+🦞 Lobsters · ⬆️ 132 points · 💬 32 comments · 👤 binjip978
 
-A link to css-tricks.com titled "CSS-Tricks has a new owner".
+A link to netmeister.org titled "This is not sustainable".
 
-[Discuss on Lobsters](https://lobste.rs/s/6ntoqr) · [Source](https://css-tricks.com/css-tricks-has-a-new-owner/)
+[Discuss on Lobsters](https://lobste.rs/s/cpaibp) · [Source](https://www.netmeister.org/blog/defense-ddos.html)
 
-9. Python's experimental JIT to be removed
+9. Apple's git still trusts the compromised eMudhra certificates
 
-🦞 Lobsters · ⬆️ 88 points · 💬 21 comments · 👤 val
+🦞 Lobsters · ⬆️ 99 points · 💬 20 comments · 👤 galadran
 
-A link to lwn.net titled "Python's experimental JIT to be removed".
+A link to emudhra.we-have-a-problem.com titled "Apple's git still trusts the compromised eMudhra certificates".
 
-[Discuss on Lobsters](https://lobste.rs/s/cajuq6) · [Source](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+[Discuss on Lobsters](https://lobste.rs/s/xybmsj) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
 
-10. Websites Should Be Printable
+10. A fast and secure tar parser for the Rust ecosystem
 
-🦞 Lobsters · ⬆️ 87 points · 💬 23 comments · 👤 zk
+🦞 Lobsters · ⬆️ 84 points · 💬 15 comments · 👤 yossarian
 
-A link to brennenputh.me titled "Websites Should Be Printable".
+A link to astral.sh titled "A fast and secure tar parser for the Rust ecosystem".
 
-[Discuss on Lobsters](https://lobste.rs/s/olnqh2) · [Source](https://brennenputh.me/blog/printable-websites/)
+[Discuss on Lobsters](https://lobste.rs/s/q7arzy) · [Source](https://astral.sh/blog/tar-codec)
 
-*daily-tech-digest · MileFisher · 2026-10-28T07:59:52.847Z*
+*daily-tech-digest · MileFisher · 2026-10-29T08:09:28.774Z*
