@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-30",
+  "items": [
+    {
+      "id": "item?id=50294702",
+      "title": {
+        "en": "Patrick Stewart has died",
+        "my": "Patrick Stewart သေဆုံး"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 2860,
+      "comments": 608,
+      "author": "j4mie",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50294702"
+    },
+    {
+      "id": "item?id=50289418",
+      "title": {
+        "en": "We're releasing the weights of Mistral Large 4",
+        "my": "MIUI 4 ကို Root လုပ္နည္း ~ ဝင္းကမာၻေက်ာ္"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1405,
+      "comments": 380,
+      "author": "kuberwastaken",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50289418"
+    },
+    {
+      "id": "item?id=50296470",
+      "title": {
+        "en": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "my": "Binance-hacker-1029 – $ 5.6B Binance မှခိုးယူ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1219,
+      "comments": 750,
+      "author": "Tiberium",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "discussUrl": "https://news.ycombinator.com/item?id=50296470"
+    },
+    {
+      "id": "item?id=50290177",
+      "title": {
+        "en": "LLM Voice",
+        "my": "LLM Voice"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 449,
+      "comments": 244,
+      "author": "ibobev",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50290177"
+    },
+    {
+      "id": "item?id=50291054",
+      "title": {
+        "en": "H.264 Is Magic (2016)",
+        "my": "H.264 မှော်သည် (2016)"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 404,
+      "comments": 148,
+      "author": "ea016",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50291054"
+    },
+    {
+      "id": "item?id=50287775",
+      "title": {
+        "en": "If IPv4 were land",
+        "my": "အကယ် ၍ IPv4 သည်မြေဖြစ်ခဲ့လျှင်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 276,
+      "comments": 385,
+      "author": "rokostik",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "discussUrl": "https://news.ycombinator.com/item?id=50287775"
+    },
+    {
+      "id": "item?id=50296486",
+      "title": {
+        "en": "We ran AI agent swarms in Minecraft and Mindustry",
+        "my": "ကျနော်တို့ Minecraft နှင့် Mindustry အတွက် AI အေးဂျင့် swarms run"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 262,
+      "comments": 88,
+      "author": "sandslash",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50296486"
+    },
+    {
+      "id": "xybmsj",
+      "title": {
+        "en": "Apple's git still trusts the compromised eMudhra certificates",
+        "my": "Apple ၏ GIT သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 123,
+      "comments": 26,
+      "author": "galadran",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "discussUrl": "https://lobste.rs/s/xybmsj"
+    },
+    {
+      "id": "gvy5gz",
+      "title": {
+        "en": "Why Is This Fingerprinting Script Creating Bioweapons?",
+        "my": "အဘယ်ကြောင့်ဤလက်ဗွေ Script ကို Bioweapons ဖန်တီး?"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 115,
+      "comments": 11,
+      "author": "haze",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "discussUrl": "https://lobste.rs/s/gvy5gz"
+    },
+    {
+      "id": "uimyck",
+      "title": {
+        "en": "EMACS turns 50",
+        "my": "EMACS အသက် ၅၀ ပြည့်ပြီ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 80,
+      "comments": 12,
+      "author": "facundoolano",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "discussUrl": "https://lobste.rs/s/uimyck"
+    }
+  ]
+}

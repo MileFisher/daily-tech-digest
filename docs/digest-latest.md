@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-29
+# 🗞️ Daily Tech Digest — 2026-10-30
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:09 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:12 ICT
 
 ---
 
-1. Apple's git still trusts the compromised eMudhra certificates
+1. Patrick Stewart has died
 
-🔶 Hacker News · ⬆️ 1113 points · 💬 392 comments · 👤 galadran
+🔶 Hacker News · ⬆️ 2860 points · 💬 608 comments · 👤 j4mie
 
-A link to emudhra.we-have-a-problem.com titled "Apple's git still trusts the compromised eMudhra certificates", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to nytimes.com titled "Patrick Stewart has died", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50271640) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50294702) · [Source](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
-2. Why is this fingerprinting script creating bioweapons?
+2. We're releasing the weights of Mistral Large 4
 
-🔶 Hacker News · ⬆️ 1112 points · 💬 220 comments · 👤 hazebooth
+🔶 Hacker News · ⬆️ 1405 points · 💬 380 comments · 👤 kuberwastaken
 
-A link to nullpt.rs titled "Why is this fingerprinting script creating bioweapons?", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to mistral.ai titled "We're releasing the weights of Mistral Large 4", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50276998) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
+[Discuss on HN](https://news.ycombinator.com/item?id=50289418) · [Source](https://mistral.ai/news/mistral-large-4-oss/)
 
-3. Gemini 4 Carbon
+3. Binance-hacker-1029 – $5.6B stolen from Binance
 
-🔶 Hacker News · ⬆️ 903 points · 💬 737 comments · 👤 acossta
+🔶 Hacker News · ⬆️ 1219 points · 💬 750 comments · 👤 Tiberium
 
-A link to blog.google titled "Gemini 4 Carbon", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to arkm.com titled "Binance-hacker-1029 – $5.6B stolen from Binance", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50276792) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50296470) · [Source](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
-4. MacBook Pro with PROLED XDR Display and Touch
+4. LLM Voice
 
-🔶 Hacker News · ⬆️ 563 points · 💬 954 comments · 👤 etothet
+🔶 Hacker News · ⬆️ 449 points · 💬 244 comments · 👤 ibobev
 
-A link to apple.com titled "MacBook Pro with PROLED XDR Display and Touch", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to martinfowler.com titled "LLM Voice", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50276940) · [Source](https://www.apple.com/macbook-pro/proled-xdr-display/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50290177) · [Source](https://martinfowler.com/bliki/LLM-Voice.html)
 
-5. The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand
+5. H.264 Is Magic (2016)
 
-🔶 Hacker News · ⬆️ 492 points · 💬 219 comments · 👤 seddona
+🔶 Hacker News · ⬆️ 404 points · 💬 148 comments · 👤 ea016
 
-A link to circuithub.com titled "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand", a popular story on the front page, drawing significant discussion.
+A link to sidbala.com titled "H.264 Is Magic (2016)", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50243060) · [Source](https://www.circuithub.com/post/unveiling-the-grid)
+[Discuss on HN](https://news.ycombinator.com/item?id=50291054) · [Source](https://sidbala.com/h-264-is-magic/)
 
-6. CNC Stone Carving
+6. If IPv4 were land
 
-🔶 Hacker News · ⬆️ 459 points · 💬 128 comments · 👤 bschne
+🔶 Hacker News · ⬆️ 276 points · 💬 385 comments · 👤 rokostik
 
-A link to carmelitegothic.com titled "CNC Stone Carving", a popular story on the front page, drawing significant discussion.
+A link to iptrust.co titled "If IPv4 were land", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50274409) · [Source](https://carmelitegothic.com/cnc-stone-carving/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50287775) · [Source](https://iptrust.co/blog/if-ipv4-were-land)
 
-7. Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+7. We ran AI agent swarms in Minecraft and Mindustry
 
-🔶 Hacker News · ⬆️ 379 points · 💬 80 comments · 👤 csmantle
+🔶 Hacker News · ⬆️ 262 points · 💬 88 comments · 👤 sandslash
 
-A link to divagr.com titled "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5", a popular story on the front page.
+A link to labs.ycombinator.com titled "We ran AI agent swarms in Minecraft and Mindustry", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50282838) · [Source](https://divagr.com/blog/qwenputer)
+[Discuss on HN](https://news.ycombinator.com/item?id=50296486) · [Source](https://labs.ycombinator.com/projects/games/index.html)
 
-8. This is not sustainable
+8. Apple's git still trusts the compromised eMudhra certificates
 
-🦞 Lobsters · ⬆️ 132 points · 💬 32 comments · 👤 binjip978
-
-A link to netmeister.org titled "This is not sustainable".
-
-[Discuss on Lobsters](https://lobste.rs/s/cpaibp) · [Source](https://www.netmeister.org/blog/defense-ddos.html)
-
-9. Apple's git still trusts the compromised eMudhra certificates
-
-🦞 Lobsters · ⬆️ 99 points · 💬 20 comments · 👤 galadran
+🦞 Lobsters · ⬆️ 123 points · 💬 26 comments · 👤 galadran
 
 A link to emudhra.we-have-a-problem.com titled "Apple's git still trusts the compromised eMudhra certificates".
 
 [Discuss on Lobsters](https://lobste.rs/s/xybmsj) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
 
-10. A fast and secure tar parser for the Rust ecosystem
+9. Why Is This Fingerprinting Script Creating Bioweapons?
 
-🦞 Lobsters · ⬆️ 84 points · 💬 15 comments · 👤 yossarian
+🦞 Lobsters · ⬆️ 115 points · 💬 11 comments · 👤 haze
 
-A link to astral.sh titled "A fast and secure tar parser for the Rust ecosystem".
+A link to nullpt.rs titled "Why Is This Fingerprinting Script Creating Bioweapons?".
 
-[Discuss on Lobsters](https://lobste.rs/s/q7arzy) · [Source](https://astral.sh/blog/tar-codec)
+[Discuss on Lobsters](https://lobste.rs/s/gvy5gz) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
 
-*daily-tech-digest · MileFisher · 2026-10-29T08:09:28.774Z*
+10. EMACS turns 50
+
+🦞 Lobsters · ⬆️ 80 points · 💬 12 comments · 👤 facundoolano
+
+A link to technologyreview.com titled "EMACS turns 50".
+
+[Discuss on Lobsters](https://lobste.rs/s/uimyck) · [Source](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
+
+*daily-tech-digest · MileFisher · 2026-10-30T08:12:46.025Z*

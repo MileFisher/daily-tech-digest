@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-29
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-30
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:09 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:12 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Apple ၏ GIT သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်
+1. Patrick Stewart သေဆုံး
 
-🔶 Hacker News · ⬆️ 1113 points · 💬 392 comments · 👤 galadran
+🔶 Hacker News · ⬆️ 2860 points · 💬 608 comments · 👤 j4mie
 
-Emudhra.we-have-a-problem.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Apple ၏ git သည်တက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသောစာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သောညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည် ။
+"ပက်ထရစ် စတူးဝပ် ကွယ်လွန် သွား ပြီ" ခေါင်းစဉ် ဖြင့် nytimes.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50271640) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50294702) · [Source](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
-2. ဘာကြောင့် ဒီလက်ဗွေရာဇာတ်ညွှန်းက ဇီဝလက်နက်တွေကို ဖန်တီးနေရတာလဲ ။
+2. MIUI 4 ကို Root လုပ္နည္း ~ ဝင္းကမာၻေက်ာ္
 
-🔶 Hacker News · ⬆️ 1112 points · 💬 220 comments · 👤 hazebooth
+🔶 Hacker News · ⬆️ 1405 points · 💬 380 comments · 👤 kuberwastaken
 
-Nullpt.rs ခေါင်းစဉ်နဲ့ link တစ်ခု "အဘယ်ကြောင့်ဤလက်ဗွေ script ကို bioweapons ဖန်ဆင်းခြင်းဖြစ်ပါတယ်?", ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Mistral.ai အမည်ရှိ link တစ်ခု "ကျွန်ုပ်တို့သည် Mistral Large 4 ၏ အလေးချိန်ကိုထုတ်လွှင့်နေသည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ၊ တက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50276998) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
+[Discuss on HN](https://news.ycombinator.com/item?id=50289418) · [Source](https://mistral.ai/news/mistral-large-4-oss/)
 
-3. Gemini 4 ကာဗွန်
+3. Binance-hacker-1029 – $ 5.6B Binance မှခိုးယူ
 
-🔶 Hacker News · ⬆️ 903 points · 💬 737 comments · 👤 acossta
+🔶 Hacker News · ⬆️ 1219 points · 💬 750 comments · 👤 Tiberium
 
-"Gemini 4 Carbon" လို့ အမည်ပေးထားတဲ့ ဘလော့ဂ်ဂူဂဲလ်ရဲ့ လင့်ခ်တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ ဂိုးသွင်းအများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက် ချည်နှောင်ထားပါတယ် ။
+Arkm.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Binance-hacker-1029 – Binance မှ $ 5.6B ခိုးယူ" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50276792) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50296470) · [Source](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
-4. PROLED XDR Display နှင့် Touch ပါသော MacBook Pro
+4. LLM Voice
 
-🔶 Hacker News · ⬆️ 563 points · 💬 954 comments · 👤 etothet
+🔶 Hacker News · ⬆️ 449 points · 💬 244 comments · 👤 ibobev
 
-"MacBook Pro with PROLED XDR Display and Touch" လို့ အမည်ပေးထားတဲ့ apple.com ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ ရမှတ်အများဆုံးရရှိထားတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး တက်ကြွတဲ့ ဆွေးနွေးချက်ချည်နှောင်ထားပါတယ် ။
+Martinfowler.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "LLM Voice ကို," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50276940) · [Source](https://www.apple.com/macbook-pro/proled-xdr-display/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50290177) · [Source](https://martinfowler.com/bliki/LLM-Voice.html)
 
-5. ဝယ်လိုအားပေါ်မူတည်ပြီး PCB များတည်ဆောက်သည့် Massachusetts ရှိစက်ရုံအရွယ်အစားစက်ရုပ် The Grid
+5. H.264 မှော်သည် (2016)
 
-🔶 Hacker News · ⬆️ 492 points · 💬 219 comments · 👤 seddona
+🔶 Hacker News · ⬆️ 404 points · 💬 148 comments · 👤 ea016
 
-Circuithub.com သို့ပေးထားသော link တစ်ခု "ဝယ်လိုအားပေါ်တွင် PCBs ကိုတည်ဆောက်သော Massachusetts ရှိစက်ရုံအရွယ်အစားစက်ရုပ်" ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်း ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"H.264 Is Magic (2016)" ခေါင်းစဉ်ဖြင့် sidbala.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50243060) · [Source](https://www.circuithub.com/post/unveiling-the-grid)
+[Discuss on HN](https://news.ycombinator.com/item?id=50291054) · [Source](https://sidbala.com/h-264-is-magic/)
 
-6. CNC ကျောက်ထွင်းထု
+6. အကယ် ၍ IPv4 သည်မြေဖြစ်ခဲ့လျှင်
 
-🔶 Hacker News · ⬆️ 459 points · 💬 128 comments · 👤 bschne
+🔶 Hacker News · ⬆️ 276 points · 💬 385 comments · 👤 rokostik
 
-Carmelitegothic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "CNC ကျောက်ထွင်းထု," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Iptrust.co သို့ "If IPv4 were land" ဟုအမည်ပေးထားသော link တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50274409) · [Source](https://carmelitegothic.com/cnc-stone-carving/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50287775) · [Source](https://iptrust.co/blog/if-ipv4-were-land)
 
-7. Qwenputer: Qwen3.5 အတွင်းတစ်ဦးက functioning, အဆုံးအဖြတ် RISC-V ကို CPU ကို
+7. ကျနော်တို့ Minecraft နှင့် Mindustry အတွက် AI အေးဂျင့် swarms run
 
-🔶 Hacker News · ⬆️ 379 points · 💬 80 comments · 👤 csmantle
+🔶 Hacker News · ⬆️ 262 points · 💬 88 comments · 👤 sandslash
 
-Divagr.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Qwenputer: Qwen3.5 အတွင်းတစ်ဦးက functioning, deterministic RISC-V ကို CPU ကို", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+"ကျနော်တို့ Minecraft နှင့် Mindustry အတွက် AI အေးဂျင့် swarms run" ခေါင်းစဉ် labs.ycombinator.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50282838) · [Source](https://divagr.com/blog/qwenputer)
+[Discuss on HN](https://news.ycombinator.com/item?id=50296486) · [Source](https://labs.ycombinator.com/projects/games/index.html)
 
-8. ဤသည်မှာ ရေရှည်တည်တံ့မှုမရှိပါ
+8. Apple ၏ GIT သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်
 
-🦞 Lobsters · ⬆️ 132 points · 💬 32 comments · 👤 binjip978
-
-Netmeister.org သို့ "ဤသည်မှာ ရေရှည်တည်တံ့မှုမရှိပါ" ခေါင်းစဉ်ဖြင့် လင့်ခ်တစ်ခု ။
-
-[Discuss on Lobsters](https://lobste.rs/s/cpaibp) · [Source](https://www.netmeister.org/blog/defense-ddos.html)
-
-9. Apple ၏ GIT သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်
-
-🦞 Lobsters · ⬆️ 99 points · 💬 20 comments · 👤 galadran
+🦞 Lobsters · ⬆️ 123 points · 💬 26 comments · 👤 galadran
 
 Emudhra.we-have-a-problem.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Apple ၏ git သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်" ။
 
 [Discuss on Lobsters](https://lobste.rs/s/xybmsj) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
 
-10. သံချေးဂေဟစနစ်အတွက်မြန်ပြီးလုံခြုံသော tar parser
+9. အဘယ်ကြောင့်ဤလက်ဗွေ Script ကို Bioweapons ဖန်တီး?
 
-🦞 Lobsters · ⬆️ 84 points · 💬 15 comments · 👤 yossarian
+🦞 Lobsters · ⬆️ 115 points · 💬 11 comments · 👤 haze
 
-Astral.sh ခေါင်းစဉ်ဖြင့် link တစ်ခု "သံချေးဂေဟစနစ်အတွက်မြန်ဆန်ပြီးလုံခြုံသော tar parser" ။
+Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/ဇော်ဝင်းထွဋ် "မှ ရယူရန်
 
-[Discuss on Lobsters](https://lobste.rs/s/q7arzy) · [Source](https://astral.sh/blog/tar-codec)
+[Discuss on Lobsters](https://lobste.rs/s/gvy5gz) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
 
-*daily-tech-digest · MileFisher · 2026-10-29T08:09:28.774Z*
+10. EMACS အသက် ၅၀ ပြည့်ပြီ
+
+🦞 Lobsters · ⬆️ 80 points · 💬 12 comments · 👤 facundoolano
+
+"EMACS အသက် ၅၀ ပြည့်ပြီ" ခေါင်းစဉ်ဖြင့် technologyreview.com သို့လင့်ခ်တစ်ခု ။
+
+[Discuss on Lobsters](https://lobste.rs/s/uimyck) · [Source](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
+
+*daily-tech-digest · MileFisher · 2026-10-30T08:12:46.025Z*
