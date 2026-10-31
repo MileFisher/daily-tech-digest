@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-30
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-10-31
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:12 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:05 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Patrick Stewart သေဆုံး
+1. အဆိုပါ Cursor ကိုစျေးကွက်အပေါ် VS Code ကို extension ကိုများအတွက် Claude Code ကိုအတွက် Backdoor
 
-🔶 Hacker News · ⬆️ 2860 points · 💬 608 comments · 👤 j4mie
+🔶 Hacker News · ⬆️ 876 points · 💬 514 comments · 👤 _chall
 
-"ပက်ထရစ် စတူးဝပ် ကွယ်လွန် သွား ပြီ" ခေါင်းစဉ် ဖြင့် nytimes.
+Phorion.io ခေါင်းစဉ်နဲ့ link တစ်ခု "Cursor Marketplace ပေါ်တွင် VS Code ကို extension ကိုများအတွက် Claude Code ကိုအတွက် Backdoor," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50294702) · [Source](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50300683) · [Source](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 
-2. MIUI 4 ကို Root လုပ္နည္း ~ ဝင္းကမာၻေက်ာ္
+2. ဟီးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးး သူတို႕
 
-🔶 Hacker News · ⬆️ 1405 points · 💬 380 comments · 👤 kuberwastaken
+🔶 Hacker News · ⬆️ 575 points · 💬 422 comments · 👤 dorianniemiec
 
-Mistral.ai အမည်ရှိ link တစ်ခု "ကျွန်ုပ်တို့သည် Mistral Large 4 ၏ အလေးချိန်ကိုထုတ်လွှင့်နေသည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ၊ တက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+Newsletter.signoz.io အမည်ရှိ link တစ်ခုသည် "AI သည် SREs ကိုအစားထိုးခြင်းမဟုတ်ပါ ၊ ၎ င်းသည်သူတို့ကို deskilling လုပ်ခြင်းဖြစ်သည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50289418) · [Source](https://mistral.ai/news/mistral-large-4-oss/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50305693) · [Source](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
-3. Binance-hacker-1029 – $ 5.6B Binance မှခိုးယူ
+3. အဆိုပါ $ 6.3B Binance hack ကရုံ 20 မိနစ်အတွင်းချွတ်ဆွဲထုတ်ခဲ့သည်
 
-🔶 Hacker News · ⬆️ 1219 points · 💬 750 comments · 👤 Tiberium
+🔶 Hacker News · ⬆️ 428 points · 💬 287 comments · 👤 domhudson
 
-Arkm.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Binance-hacker-1029 – Binance မှ $ 5.6B ခိုးယူ" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
+Wired.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "အဆိုပါ $ 6.3B Binance hack ကမိနစ် 20 အတွင်းချွတ်ဆွဲထုတ်ခဲ့သည်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50296470) · [Source](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+[Discuss on HN](https://news.ycombinator.com/item?id=50303172) · [Source](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 
-4. LLM Voice
+4. Northflank ချိုးဖောက်
 
-🔶 Hacker News · ⬆️ 449 points · 💬 244 comments · 👤 ibobev
+🔶 Hacker News · ⬆️ 422 points · 💬 311 comments · 👤 js4ever
 
-Martinfowler.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "LLM Voice ကို," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Status.northflank.com ခေါင်းစဉ်နဲ့ link တစ်ခု "Northflank ချိုးဖောက်," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50290177) · [Source](https://martinfowler.com/bliki/LLM-Voice.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50305025) · [Source](https://status.northflank.com)
 
-5. H.264 မှော်သည် (2016)
+5. Azure ရဲ့အားနည်းချက် link ကို – 5 အပြည့်အဝ Cross-Tenant ညှိနှိုင်းမှု
 
-🔶 Hacker News · ⬆️ 404 points · 💬 148 comments · 👤 ea016
+🔶 Hacker News · ⬆️ 303 points · 💬 58 comments · 👤 swq115
 
-"H.264 Is Magic (2016)" ခေါင်းစဉ်ဖြင့် sidbala.
+တစ်ဦးက link ကို binarysecurity.no ခေါင်းစဉ် "Azure ရဲ့အားနည်းချက် Link ကို – ငါးအပြည့်အဝလက်ဝါးကပ်တိုင်-Tenant ညှိနှိုင်းမှု," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50291054) · [Source](https://sidbala.com/h-264-is-magic/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50301854) · [Source](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 
-6. အကယ် ၍ IPv4 သည်မြေဖြစ်ခဲ့လျှင်
+6. ကျွန်ုပ်အကြိုက်ဆုံး PowerMac သည် Nintendo Wii ဖြစ်သည်
 
-🔶 Hacker News · ⬆️ 276 points · 💬 385 comments · 👤 rokostik
+🔶 Hacker News · ⬆️ 299 points · 💬 81 comments · 👤 DHowett
 
-Iptrust.co သို့ "If IPv4 were land" ဟုအမည်ပေးထားသော link တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
+"ငါ့အကြိုက်ဆုံး PowerMac တစ် Nintendo Wii ဖြစ်ပါတယ်" ခေါင်းစဉ်ဖြင့် virtualfun.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50287775) · [Source](https://iptrust.co/blog/if-ipv4-were-land)
+[Discuss on HN](https://news.ycombinator.com/item?id=50307190) · [Source](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 
-7. ကျနော်တို့ Minecraft နှင့် Mindustry အတွက် AI အေးဂျင့် swarms run
+7. ကပ္ပတိန် Jean-Luc Picard မှတစ်ဆင့် Patrick Stewart သည်လူတစ် ဦး ၏ တိုင်းတာမှုကိုသင်ကြားခဲ့သည်
 
-🔶 Hacker News · ⬆️ 262 points · 💬 88 comments · 👤 sandslash
+🔶 Hacker News · ⬆️ 293 points · 💬 167 comments · 👤 apress
 
-"ကျနော်တို့ Minecraft နှင့် Mindustry အတွက် AI အေးဂျင့် swarms run" ခေါင်းစဉ် labs.ycombinator.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင် ။
+Bostonglobe.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကပ္ပတိန် Jean-Luc Picard မှတဆင့်ပက်ထရစ် Stewart ကကျွန်တော်တို့ကိုလူတစ် ဦး ၏ တိုင်းတာမှု", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခဲ့သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50296486) · [Source](https://labs.ycombinator.com/projects/games/index.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50309647) · [Source](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 
-8. Apple ၏ GIT သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်
+8. VS များအတွက် Claude Code ကိုအတွက် backdoors, Cursor ကိုတရားဝင် extension များ
 
-🦞 Lobsters · ⬆️ 123 points · 💬 26 comments · 👤 galadran
+🦞 Lobsters · ⬆️ 151 points · 💬 38 comments · 👤 dsr
 
-Emudhra.we-have-a-problem.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Apple ၏ git သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်" ။
+"VS များအတွက် Claude Code ကိုအတွက် Backdoors, Cursor ကိုတရားဝင် extension များ" ခေါင်းစဉ် cyberplace.social မှ link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/xybmsj) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
+[Discuss on Lobsters](https://lobste.rs/s/ttp7aq) · [Source](https://cyberplace.social/@GossiTheDog/117528831681803563)
 
-9. အဘယ်ကြောင့်ဤလက်ဗွေ Script ကို Bioweapons ဖန်တီး?
+9. AT-Proto အသုံးပြုသူများသည် ၎ င်းကိုအများပြည်သူသိပါသလား ။
 
-🦞 Lobsters · ⬆️ 115 points · 💬 11 comments · 👤 haze
+🦞 Lobsters · ⬆️ 85 points · 💬 27 comments · 👤 robalex
 
-Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/ဇော်ဝင်းထွဋ် "မှ ရယူရန်
+Melaniekat.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "At-Proto အသုံးပြုသူများသည်ဤအရာသည်အများပြည်သူဖြစ်သည်ကိုသိပါသလား ။"
 
-[Discuss on Lobsters](https://lobste.rs/s/gvy5gz) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
+[Discuss on Lobsters](https://lobste.rs/s/htgcuc) · [Source](https://melaniekat.com/blog/public-on-pds/)
 
-10. EMACS အသက် ၅၀ ပြည့်ပြီ
+10. Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။
 
-🦞 Lobsters · ⬆️ 80 points · 💬 12 comments · 👤 facundoolano
+🦞 Lobsters · ⬆️ 81 points · 💬 22 comments · 👤 calvin
 
-"EMACS အသက် ၅၀ ပြည့်ပြီ" ခေါင်းစဉ်ဖြင့် technologyreview.com သို့လင့်ခ်တစ်ခု ။
+Blog.mistys-internet.website မှ "ဝက်ဘ်ဆိုက်တစ်ခုကိုသင်ချစ်လျှင် ၎ င်းကို back up လုပ်ပါ" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/uimyck) · [Source](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
+[Discuss on Lobsters](https://lobste.rs/s/6ole9g) · [Source](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 
-*daily-tech-digest · MileFisher · 2026-10-30T08:12:46.025Z*
+*daily-tech-digest · MileFisher · 2026-10-31T08:05:43.860Z*

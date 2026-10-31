@@ -1,145 +1,145 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
-      "id": "item?id=50294702",
+      "id": "item?id=50300683",
       "title": {
-        "en": "Patrick Stewart has died",
-        "my": "Patrick Stewart သေဆုံး"
+        "en": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "my": "အဆိုပါ Cursor ကိုစျေးကွက်အပေါ် VS Code ကို extension ကိုများအတွက် Claude Code ကိုအတွက် Backdoor"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 2860,
-      "comments": 608,
-      "author": "j4mie",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50294702"
+      "score": 876,
+      "comments": 514,
+      "author": "_chall",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50300683"
     },
     {
-      "id": "item?id=50289418",
+      "id": "item?id=50305693",
       "title": {
-        "en": "We're releasing the weights of Mistral Large 4",
-        "my": "MIUI 4 ကို Root လုပ္နည္း ~ ဝင္းကမာၻေက်ာ္"
+        "en": "AI isn't replacing SREs, it's deskilling them",
+        "my": "ဟီးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးး သူတို႕"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1405,
-      "comments": 380,
-      "author": "kuberwastaken",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50289418"
+      "score": 575,
+      "comments": 422,
+      "author": "dorianniemiec",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "discussUrl": "https://news.ycombinator.com/item?id=50305693"
     },
     {
-      "id": "item?id=50296470",
+      "id": "item?id=50303172",
       "title": {
-        "en": "Binance-hacker-1029 – $5.6B stolen from Binance",
-        "my": "Binance-hacker-1029 – $ 5.6B Binance မှခိုးယူ"
+        "en": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "my": "အဆိုပါ $ 6.3B Binance hack ကရုံ 20 မိနစ်အတွင်းချွတ်ဆွဲထုတ်ခဲ့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1219,
-      "comments": 750,
-      "author": "Tiberium",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "discussUrl": "https://news.ycombinator.com/item?id=50296470"
+      "score": 428,
+      "comments": 287,
+      "author": "domhudson",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50303172"
     },
     {
-      "id": "item?id=50290177",
+      "id": "item?id=50305025",
       "title": {
-        "en": "LLM Voice",
-        "my": "LLM Voice"
+        "en": "Northflank Breached",
+        "my": "Northflank ချိုးဖောက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 449,
-      "comments": 244,
-      "author": "ibobev",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50290177"
+      "score": 422,
+      "comments": 311,
+      "author": "js4ever",
+      "url": "https://status.northflank.com",
+      "discussUrl": "https://news.ycombinator.com/item?id=50305025"
     },
     {
-      "id": "item?id=50291054",
+      "id": "item?id=50301854",
       "title": {
-        "en": "H.264 Is Magic (2016)",
-        "my": "H.264 မှော်သည် (2016)"
+        "en": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+        "my": "Azure ရဲ့အားနည်းချက် link ကို – 5 အပြည့်အဝ Cross-Tenant ညှိနှိုင်းမှု"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 404,
-      "comments": 148,
-      "author": "ea016",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50291054"
+      "score": 303,
+      "comments": 58,
+      "author": "swq115",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "discussUrl": "https://news.ycombinator.com/item?id=50301854"
     },
     {
-      "id": "item?id=50287775",
+      "id": "item?id=50307190",
       "title": {
-        "en": "If IPv4 were land",
-        "my": "အကယ် ၍ IPv4 သည်မြေဖြစ်ခဲ့လျှင်"
+        "en": "My favourite PowerMac is a Nintendo Wii",
+        "my": "ကျွန်ုပ်အကြိုက်ဆုံး PowerMac သည် Nintendo Wii ဖြစ်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 276,
-      "comments": 385,
-      "author": "rokostik",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "discussUrl": "https://news.ycombinator.com/item?id=50287775"
+      "score": 299,
+      "comments": 81,
+      "author": "DHowett",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50307190"
     },
     {
-      "id": "item?id=50296486",
+      "id": "item?id=50309647",
       "title": {
-        "en": "We ran AI agent swarms in Minecraft and Mindustry",
-        "my": "ကျနော်တို့ Minecraft နှင့် Mindustry အတွက် AI အေးဂျင့် swarms run"
+        "en": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "my": "ကပ္ပတိန် Jean-Luc Picard မှတစ်ဆင့် Patrick Stewart သည်လူတစ် ဦး ၏ တိုင်းတာမှုကိုသင်ကြားခဲ့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 262,
-      "comments": 88,
-      "author": "sandslash",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50296486"
+      "score": 293,
+      "comments": 167,
+      "author": "apress",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50309647"
     },
     {
-      "id": "xybmsj",
+      "id": "ttp7aq",
       "title": {
-        "en": "Apple's git still trusts the compromised eMudhra certificates",
-        "my": "Apple ၏ GIT သည်ညှိနှိုင်းထားသော eMudhra အသိအမှတ်ပြုလက်မှတ်များကိုယုံကြည်နေဆဲဖြစ်သည်"
+        "en": "Backdoors in Claude Code for VS, Cursor official extensions",
+        "my": "VS များအတွက် Claude Code ကိုအတွက် backdoors, Cursor ကိုတရားဝင် extension များ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 123,
-      "comments": 26,
-      "author": "galadran",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "discussUrl": "https://lobste.rs/s/xybmsj"
+      "score": 151,
+      "comments": 38,
+      "author": "dsr",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "discussUrl": "https://lobste.rs/s/ttp7aq"
     },
     {
-      "id": "gvy5gz",
+      "id": "htgcuc",
       "title": {
-        "en": "Why Is This Fingerprinting Script Creating Bioweapons?",
-        "my": "အဘယ်ကြောင့်ဤလက်ဗွေ Script ကို Bioweapons ဖန်တီး?"
+        "en": "Do At-Proto Users Know This Is Public?",
+        "my": "AT-Proto အသုံးပြုသူများသည် ၎ င်းကိုအများပြည်သူသိပါသလား ။"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 115,
-      "comments": 11,
-      "author": "haze",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "discussUrl": "https://lobste.rs/s/gvy5gz"
+      "score": 85,
+      "comments": 27,
+      "author": "robalex",
+      "url": "https://melaniekat.com/blog/public-on-pds/",
+      "discussUrl": "https://lobste.rs/s/htgcuc"
     },
     {
-      "id": "uimyck",
+      "id": "6ole9g",
       "title": {
-        "en": "EMACS turns 50",
-        "my": "EMACS အသက် ၅၀ ပြည့်ပြီ"
+        "en": "If you love a website, back it up",
+        "my": "Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 80,
-      "comments": 12,
-      "author": "facundoolano",
-      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-      "discussUrl": "https://lobste.rs/s/uimyck"
+      "score": 81,
+      "comments": 22,
+      "author": "calvin",
+      "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "discussUrl": "https://lobste.rs/s/6ole9g"
     }
   ]
 }

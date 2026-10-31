@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-10-30
+# 🗞️ Daily Tech Digest — 2026-10-31
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:12 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:05 ICT
 
 ---
 
-1. Patrick Stewart has died
+1. Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
 
-🔶 Hacker News · ⬆️ 2860 points · 💬 608 comments · 👤 j4mie
+🔶 Hacker News · ⬆️ 876 points · 💬 514 comments · 👤 _chall
 
-A link to nytimes.com titled "Patrick Stewart has died", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to phorion.io titled "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50294702) · [Source](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50300683) · [Source](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 
-2. We're releasing the weights of Mistral Large 4
+2. AI isn't replacing SREs, it's deskilling them
 
-🔶 Hacker News · ⬆️ 1405 points · 💬 380 comments · 👤 kuberwastaken
+🔶 Hacker News · ⬆️ 575 points · 💬 422 comments · 👤 dorianniemiec
 
-A link to mistral.ai titled "We're releasing the weights of Mistral Large 4", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to newsletter.signoz.io titled "AI isn't replacing SREs, it's deskilling them", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50289418) · [Source](https://mistral.ai/news/mistral-large-4-oss/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50305693) · [Source](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
-3. Binance-hacker-1029 – $5.6B stolen from Binance
+3. The $6.3B Binance hack was pulled off in just 20 minutes
 
-🔶 Hacker News · ⬆️ 1219 points · 💬 750 comments · 👤 Tiberium
+🔶 Hacker News · ⬆️ 428 points · 💬 287 comments · 👤 domhudson
 
-A link to arkm.com titled "Binance-hacker-1029 – $5.6B stolen from Binance", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to wired.com titled "The $6.3B Binance hack was pulled off in just 20 minutes", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50296470) · [Source](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+[Discuss on HN](https://news.ycombinator.com/item?id=50303172) · [Source](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 
-4. LLM Voice
+4. Northflank Breached
 
-🔶 Hacker News · ⬆️ 449 points · 💬 244 comments · 👤 ibobev
+🔶 Hacker News · ⬆️ 422 points · 💬 311 comments · 👤 js4ever
 
-A link to martinfowler.com titled "LLM Voice", a popular story on the front page, drawing significant discussion.
+A link to status.northflank.com titled "Northflank Breached", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50290177) · [Source](https://martinfowler.com/bliki/LLM-Voice.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50305025) · [Source](https://status.northflank.com)
 
-5. H.264 Is Magic (2016)
+5. Azure's Weakest Link – Five Full Cross-Tenant Compromises
 
-🔶 Hacker News · ⬆️ 404 points · 💬 148 comments · 👤 ea016
+🔶 Hacker News · ⬆️ 303 points · 💬 58 comments · 👤 swq115
 
-A link to sidbala.com titled "H.264 Is Magic (2016)", a popular story on the front page, drawing significant discussion.
+A link to binarysecurity.no titled "Azure's Weakest Link – Five Full Cross-Tenant Compromises", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50291054) · [Source](https://sidbala.com/h-264-is-magic/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50301854) · [Source](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 
-6. If IPv4 were land
+6. My favourite PowerMac is a Nintendo Wii
 
-🔶 Hacker News · ⬆️ 276 points · 💬 385 comments · 👤 rokostik
+🔶 Hacker News · ⬆️ 299 points · 💬 81 comments · 👤 DHowett
 
-A link to iptrust.co titled "If IPv4 were land", a popular story on the front page, with an active discussion thread.
+A link to virtuallyfun.com titled "My favourite PowerMac is a Nintendo Wii", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50287775) · [Source](https://iptrust.co/blog/if-ipv4-were-land)
+[Discuss on HN](https://news.ycombinator.com/item?id=50307190) · [Source](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 
-7. We ran AI agent swarms in Minecraft and Mindustry
+7. Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
 
-🔶 Hacker News · ⬆️ 262 points · 💬 88 comments · 👤 sandslash
+🔶 Hacker News · ⬆️ 293 points · 💬 167 comments · 👤 apress
 
-A link to labs.ycombinator.com titled "We ran AI agent swarms in Minecraft and Mindustry", a popular story on the front page.
+A link to bostonglobe.com titled "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50296486) · [Source](https://labs.ycombinator.com/projects/games/index.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50309647) · [Source](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 
-8. Apple's git still trusts the compromised eMudhra certificates
+8. Backdoors in Claude Code for VS, Cursor official extensions
 
-🦞 Lobsters · ⬆️ 123 points · 💬 26 comments · 👤 galadran
+🦞 Lobsters · ⬆️ 151 points · 💬 38 comments · 👤 dsr
 
-A link to emudhra.we-have-a-problem.com titled "Apple's git still trusts the compromised eMudhra certificates".
+A link to cyberplace.social titled "Backdoors in Claude Code for VS, Cursor official extensions".
 
-[Discuss on Lobsters](https://lobste.rs/s/xybmsj) · [Source](https://emudhra.we-have-a-problem.com/apple.html)
+[Discuss on Lobsters](https://lobste.rs/s/ttp7aq) · [Source](https://cyberplace.social/@GossiTheDog/117528831681803563)
 
-9. Why Is This Fingerprinting Script Creating Bioweapons?
+9. Do At-Proto Users Know This Is Public?
 
-🦞 Lobsters · ⬆️ 115 points · 💬 11 comments · 👤 haze
+🦞 Lobsters · ⬆️ 85 points · 💬 27 comments · 👤 robalex
 
-A link to nullpt.rs titled "Why Is This Fingerprinting Script Creating Bioweapons?".
+A link to melaniekat.com titled "Do At-Proto Users Know This Is Public?".
 
-[Discuss on Lobsters](https://lobste.rs/s/gvy5gz) · [Source](https://nullpt.rs/fingerprinting-bioweapons)
+[Discuss on Lobsters](https://lobste.rs/s/htgcuc) · [Source](https://melaniekat.com/blog/public-on-pds/)
 
-10. EMACS turns 50
+10. If you love a website, back it up
 
-🦞 Lobsters · ⬆️ 80 points · 💬 12 comments · 👤 facundoolano
+🦞 Lobsters · ⬆️ 81 points · 💬 22 comments · 👤 calvin
 
-A link to technologyreview.com titled "EMACS turns 50".
+A link to blog.mistys-internet.website titled "If you love a website, back it up".
 
-[Discuss on Lobsters](https://lobste.rs/s/uimyck) · [Source](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
+[Discuss on Lobsters](https://lobste.rs/s/6ole9g) · [Source](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 
-*daily-tech-digest · MileFisher · 2026-10-30T08:12:46.025Z*
+*daily-tech-digest · MileFisher · 2026-10-31T08:05:43.860Z*
