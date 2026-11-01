@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "id": "item?id=50319510",
+      "title": {
+        "en": "HackerTube: YouTube built from videos recommended by HN",
+        "my": "HackerTube: HN ကအကြံပြုဗီဒီယိုများမှ built Youtube ကို"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1224,
+      "comments": 352,
+      "author": "karpathy",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319510"
+    },
+    {
+      "id": "item?id=50319143",
+      "title": {
+        "en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "my": "TCP အသုံးပြုမှု-ပြီးနောက်-အခမဲ့: CVE-2026-98432 / CVSS 9.8"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 490,
+      "comments": 224,
+      "author": "oger",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319143"
+    },
+    {
+      "id": "item?id=50320963",
+      "title": {
+        "en": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "my": "အီတလီနိုင်ငံမှ လယ်သမားတစ်ဦးက ၎ င်း ၏ အက်တမ်ထဲတွင် အမည်မသိ မျိုးစေ့အချို့ကို တွေ့ရှိ ၍ စိုက်ပျိုးခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 379,
+      "comments": 108,
+      "author": "ecares",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50320963"
+    },
+    {
+      "id": "item?id=50319358",
+      "title": {
+        "en": "Anthropic blocks users for anything touching training larger models",
+        "my": "Anthropic သည်အသုံးပြုသူများအားပိုမိုကြီးမားသောမော်ဒယ်များလေ့ကျင့်ရေးကိုထိခိုက်စေသောမည်သည့်အရာအတွက်မဆိုပိတ်ဆို့ထားသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 333,
+      "comments": 190,
+      "author": "pretext",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319358"
+    },
+    {
+      "id": "item?id=50314699",
+      "title": {
+        "en": "Do the math: How we took over ChatGPT accounts",
+        "my": "သင်္ချာကိုလုပ်ပါ - ChatGPT အကောင့်များကိုကျွန်ုပ်တို့မည်သို့သိမ်းဆည်းခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 325,
+      "comments": 162,
+      "author": "armcat",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "discussUrl": "https://news.ycombinator.com/item?id=50314699"
+    },
+    {
+      "id": "item?id=50316100",
+      "title": {
+        "en": "Jepsen: ParticleDB 1.1.4",
+        "my": "Jepsen: ParticleDB 1.1.4"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 256,
+      "comments": 143,
+      "author": "aphyr",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "discussUrl": "https://news.ycombinator.com/item?id=50316100"
+    },
+    {
+      "id": "item?id=50261253",
+      "title": {
+        "en": "Simple circuits can create complex behaviors",
+        "my": "ရိုးရှင်းသောဆားကစ်များသည်ရှုပ်ထွေးသောအပြုအမူများကိုဖန်တီးနိုင်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 244,
+      "comments": 77,
+      "author": "aatish",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50261253"
+    },
+    {
+      "id": "ttp7aq",
+      "title": {
+        "en": "Backdoors in Claude Code for VS, Cursor official extensions",
+        "my": "VS များအတွက် Claude Code ကိုအတွက် backdoors, Cursor ကိုတရားဝင် extension များ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 167,
+      "comments": 40,
+      "author": "dsr",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "discussUrl": "https://lobste.rs/s/ttp7aq"
+    },
+    {
+      "id": "htgcuc",
+      "title": {
+        "en": "Do At-Proto Users Know This Is Public?",
+        "my": "AT-Proto အသုံးပြုသူများသည် ၎ င်းကိုအများပြည်သူသိပါသလား ။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 96,
+      "comments": 34,
+      "author": "robalex",
+      "url": "https://melaniekat.com/blog/public-on-pds/",
+      "discussUrl": "https://lobste.rs/s/htgcuc"
+    },
+    {
+      "id": "drwd4j",
+      "title": {
+        "en": "Jepsen: ParticleDB 1.1.4",
+        "my": "Jepsen: ParticleDB 1.1.4"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 90,
+      "comments": 17,
+      "author": "aphyr",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "discussUrl": "https://lobste.rs/s/drwd4j"
+    }
+  ]
+}

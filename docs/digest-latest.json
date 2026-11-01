@@ -1,103 +1,103 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "items": [
     {
-      "id": "item?id=50300683",
+      "id": "item?id=50319510",
       "title": {
-        "en": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "my": "အဆိုပါ Cursor ကိုစျေးကွက်အပေါ် VS Code ကို extension ကိုများအတွက် Claude Code ကိုအတွက် Backdoor"
+        "en": "HackerTube: YouTube built from videos recommended by HN",
+        "my": "HackerTube: HN ကအကြံပြုဗီဒီယိုများမှ built Youtube ကို"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 876,
-      "comments": 514,
-      "author": "_chall",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50300683"
+      "score": 1224,
+      "comments": 352,
+      "author": "karpathy",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319510"
     },
     {
-      "id": "item?id=50305693",
+      "id": "item?id=50319143",
       "title": {
-        "en": "AI isn't replacing SREs, it's deskilling them",
-        "my": "ဟီးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးးး သူတို႕"
+        "en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "my": "TCP အသုံးပြုမှု-ပြီးနောက်-အခမဲ့: CVE-2026-98432 / CVSS 9.8"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 575,
-      "comments": 422,
-      "author": "dorianniemiec",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "discussUrl": "https://news.ycombinator.com/item?id=50305693"
+      "score": 490,
+      "comments": 224,
+      "author": "oger",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319143"
     },
     {
-      "id": "item?id=50303172",
+      "id": "item?id=50320963",
       "title": {
-        "en": "The $6.3B Binance hack was pulled off in just 20 minutes",
-        "my": "အဆိုပါ $ 6.3B Binance hack ကရုံ 20 မိနစ်အတွင်းချွတ်ဆွဲထုတ်ခဲ့သည်"
+        "en": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "my": "အီတလီနိုင်ငံမှ လယ်သမားတစ်ဦးက ၎ င်း ၏ အက်တမ်ထဲတွင် အမည်မသိ မျိုးစေ့အချို့ကို တွေ့ရှိ ၍ စိုက်ပျိုးခဲ့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 428,
-      "comments": 287,
-      "author": "domhudson",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50303172"
+      "score": 379,
+      "comments": 108,
+      "author": "ecares",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50320963"
     },
     {
-      "id": "item?id=50305025",
+      "id": "item?id=50319358",
       "title": {
-        "en": "Northflank Breached",
-        "my": "Northflank ချိုးဖောက်"
+        "en": "Anthropic blocks users for anything touching training larger models",
+        "my": "Anthropic သည်အသုံးပြုသူများအားပိုမိုကြီးမားသောမော်ဒယ်များလေ့ကျင့်ရေးကိုထိခိုက်စေသောမည်သည့်အရာအတွက်မဆိုပိတ်ဆို့ထားသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 422,
-      "comments": 311,
-      "author": "js4ever",
-      "url": "https://status.northflank.com",
-      "discussUrl": "https://news.ycombinator.com/item?id=50305025"
+      "score": 333,
+      "comments": 190,
+      "author": "pretext",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319358"
     },
     {
-      "id": "item?id=50301854",
+      "id": "item?id=50314699",
       "title": {
-        "en": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-        "my": "Azure ရဲ့အားနည်းချက် link ကို – 5 အပြည့်အဝ Cross-Tenant ညှိနှိုင်းမှု"
+        "en": "Do the math: How we took over ChatGPT accounts",
+        "my": "သင်္ချာကိုလုပ်ပါ - ChatGPT အကောင့်များကိုကျွန်ုပ်တို့မည်သို့သိမ်းဆည်းခဲ့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 303,
-      "comments": 58,
-      "author": "swq115",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "discussUrl": "https://news.ycombinator.com/item?id=50301854"
+      "score": 325,
+      "comments": 162,
+      "author": "armcat",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "discussUrl": "https://news.ycombinator.com/item?id=50314699"
     },
     {
-      "id": "item?id=50307190",
+      "id": "item?id=50316100",
       "title": {
-        "en": "My favourite PowerMac is a Nintendo Wii",
-        "my": "ကျွန်ုပ်အကြိုက်ဆုံး PowerMac သည် Nintendo Wii ဖြစ်သည်"
+        "en": "Jepsen: ParticleDB 1.1.4",
+        "my": "Jepsen: ParticleDB 1.1.4"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 299,
-      "comments": 81,
-      "author": "DHowett",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50307190"
+      "score": 256,
+      "comments": 143,
+      "author": "aphyr",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "discussUrl": "https://news.ycombinator.com/item?id=50316100"
     },
     {
-      "id": "item?id=50309647",
+      "id": "item?id=50261253",
       "title": {
-        "en": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-        "my": "ကပ္ပတိန် Jean-Luc Picard မှတစ်ဆင့် Patrick Stewart သည်လူတစ် ဦး ၏ တိုင်းတာမှုကိုသင်ကြားခဲ့သည်"
+        "en": "Simple circuits can create complex behaviors",
+        "my": "ရိုးရှင်းသောဆားကစ်များသည်ရှုပ်ထွေးသောအပြုအမူများကိုဖန်တီးနိုင်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 293,
-      "comments": 167,
-      "author": "apress",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50309647"
+      "score": 244,
+      "comments": 77,
+      "author": "aatish",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50261253"
     },
     {
       "id": "ttp7aq",
@@ -107,8 +107,8 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 151,
-      "comments": 38,
+      "score": 167,
+      "comments": 40,
       "author": "dsr",
       "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
       "discussUrl": "https://lobste.rs/s/ttp7aq"
@@ -121,25 +121,25 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 85,
-      "comments": 27,
+      "score": 96,
+      "comments": 34,
       "author": "robalex",
       "url": "https://melaniekat.com/blog/public-on-pds/",
       "discussUrl": "https://lobste.rs/s/htgcuc"
     },
     {
-      "id": "6ole9g",
+      "id": "drwd4j",
       "title": {
-        "en": "If you love a website, back it up",
-        "my": "Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။"
+        "en": "Jepsen: ParticleDB 1.1.4",
+        "my": "Jepsen: ParticleDB 1.1.4"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 81,
-      "comments": 22,
-      "author": "calvin",
-      "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "discussUrl": "https://lobste.rs/s/6ole9g"
+      "score": 90,
+      "comments": 17,
+      "author": "aphyr",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "discussUrl": "https://lobste.rs/s/drwd4j"
     }
   ]
 }
