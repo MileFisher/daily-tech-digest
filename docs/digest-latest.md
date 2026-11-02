@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-01
+# 🗞️ Daily Tech Digest — 2026-11-02
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:51 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:59 ICT
 
 ---
 
 1. HackerTube: YouTube built from videos recommended by HN
 
-🔶 Hacker News · ⬆️ 1224 points · 💬 352 comments · 👤 karpathy
+🔶 Hacker News · ⬆️ 2534 points · 💬 560 comments · 👤 karpathy
 
 A link to karpathy.bearblog.dev titled "HackerTube: YouTube built from videos recommended by HN", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50319510) · [Source](https://karpathy.bearblog.dev/hacker-tube/)
 
-2. TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+2. Show HN: HackerBooks – HackerTube, but for books mentioned on HN
 
-🔶 Hacker News · ⬆️ 490 points · 💬 224 comments · 👤 oger
+🔶 Hacker News · ⬆️ 1338 points · 💬 223 comments · 👤 roansh
 
-A link to atlasum.net titled "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8", a popular story on the front page, drawing significant discussion.
+A link to hackerbooks.org titled "Show HN: HackerBooks – HackerTube, but for books mentioned on HN", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50319143) · [Source](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50326821) · [Source](https://hackerbooks.org)
 
 3. An Italian farmer found some unknown seeds in his attic and planted them
 
-🔶 Hacker News · ⬆️ 379 points · 💬 108 comments · 👤 ecares
+🔶 Hacker News · ⬆️ 803 points · 💬 205 comments · 👤 ecares
 
-A link to smithsonianmag.com titled "An Italian farmer found some unknown seeds in his attic and planted them", a popular story on the front page, drawing significant discussion.
+A link to smithsonianmag.com titled "An Italian farmer found some unknown seeds in his attic and planted them", one of the highest-scoring stories on the front page, drawing significant discussion.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50320963) · [Source](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
 
-4. Anthropic blocks users for anything touching training larger models
+4. Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
 
-🔶 Hacker News · ⬆️ 333 points · 💬 190 comments · 👤 pretext
+🔶 Hacker News · ⬆️ 477 points · 💬 158 comments · 👤 entryleveljobsc
 
-A link to twitter.com titled "Anthropic blocks users for anything touching training larger models", a popular story on the front page, drawing significant discussion.
+A link to reddit.com titled "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50319358) · [Source](https://twitter.com/jiahaoshao1/status/2116475922190922088)
+[Discuss on HN](https://news.ycombinator.com/item?id=50326099) · [Source](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
 
-5. Do the math: How we took over ChatGPT accounts
+5. Postgres 19 is late because so many more bugs are being found now
 
-🔶 Hacker News · ⬆️ 325 points · 💬 162 comments · 👤 armcat
+🔶 Hacker News · ⬆️ 381 points · 💬 244 comments · 👤 soheilpro
 
-A link to parameter.ai titled "Do the math: How we took over ChatGPT accounts", a popular story on the front page, drawing significant discussion.
+A link to rhaas.blogspot.com titled "Postgres 19 is late because so many more bugs are being found now", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50314699) · [Source](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+[Discuss on HN](https://news.ycombinator.com/item?id=50312408) · [Source](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
 
-6. Jepsen: ParticleDB 1.1.4
+6. The AI cost of JavaScript frameworks
 
-🔶 Hacker News · ⬆️ 256 points · 💬 143 comments · 👤 aphyr
+🔶 Hacker News · ⬆️ 362 points · 💬 281 comments · 👤 luu
 
-A link to jepsen.io titled "Jepsen: ParticleDB 1.1.4", a popular story on the front page, drawing significant discussion.
+A link to nolanlawson.com titled "The AI cost of JavaScript frameworks", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50316100) · [Source](https://jepsen.io/analyses/particledb-1.1.4)
+[Discuss on HN](https://news.ycombinator.com/item?id=50323088) · [Source](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
-7. Simple circuits can create complex behaviors
+7. Mathematics has changed. Let's act like it
 
-🔶 Hacker News · ⬆️ 244 points · 💬 77 comments · 👤 aatish
+🔶 Hacker News · ⬆️ 300 points · 💬 324 comments · 👤 smilelamp
 
-A link to aatishb.com titled "Simple circuits can create complex behaviors", a popular story on the front page.
+A link to terrytao.wordpress.com titled "Mathematics has changed. Let's act like it", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50261253) · [Source](https://aatishb.com/myriad/lets-build-a-brain/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50328251) · [Source](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
 
-8. Backdoors in Claude Code for VS, Cursor official extensions
+8. Jepsen: ParticleDB 1.1.4
 
-🦞 Lobsters · ⬆️ 167 points · 💬 40 comments · 👤 dsr
-
-A link to cyberplace.social titled "Backdoors in Claude Code for VS, Cursor official extensions".
-
-[Discuss on Lobsters](https://lobste.rs/s/ttp7aq) · [Source](https://cyberplace.social/@GossiTheDog/117528831681803563)
-
-9. Do At-Proto Users Know This Is Public?
-
-🦞 Lobsters · ⬆️ 96 points · 💬 34 comments · 👤 robalex
-
-A link to melaniekat.com titled "Do At-Proto Users Know This Is Public?".
-
-[Discuss on Lobsters](https://lobste.rs/s/htgcuc) · [Source](https://melaniekat.com/blog/public-on-pds/)
-
-10. Jepsen: ParticleDB 1.1.4
-
-🦞 Lobsters · ⬆️ 90 points · 💬 17 comments · 👤 aphyr
+🦞 Lobsters · ⬆️ 150 points · 💬 43 comments · 👤 aphyr
 
 A link to jepsen.io titled "Jepsen: ParticleDB 1.1.4".
 
 [Discuss on Lobsters](https://lobste.rs/s/drwd4j) · [Source](https://jepsen.io/analyses/particledb-1.1.4)
 
-*daily-tech-digest · MileFisher · 2026-11-01T08:51:23.188Z*
+9. Introducing Kwi, a new KDE terminal emulator
+
+🦞 Lobsters · ⬆️ 114 points · 💬 35 comments · 👤 cesarandreu
+
+A link to blogs.kde.org titled "Introducing Kwi, a new KDE terminal emulator".
+
+[Discuss on Lobsters](https://lobste.rs/s/lt44rt) · [Source](https://blogs.kde.org/2026/11/01/introducing-kwi/)
+
+10. Avoid Public Functions Calling Other Public Functions
+
+🦞 Lobsters · ⬆️ 100 points · 💬 22 comments · 👤 telemachus
+
+A link to matklad.github.io titled "Avoid Public Functions Calling Other Public Functions".
+
+[Discuss on Lobsters](https://lobste.rs/s/k508we) · [Source](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
+
+*daily-tech-digest · MileFisher · 2026-11-02T08:59:01.948Z*

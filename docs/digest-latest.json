@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "items": [
     {
       "id": "item?id=50319510",
@@ -9,25 +9,25 @@
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1224,
-      "comments": 352,
+      "score": 2534,
+      "comments": 560,
       "author": "karpathy",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "discussUrl": "https://news.ycombinator.com/item?id=50319510"
     },
     {
-      "id": "item?id=50319143",
+      "id": "item?id=50326821",
       "title": {
-        "en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-        "my": "TCP အသုံးပြုမှု-ပြီးနောက်-အခမဲ့: CVE-2026-98432 / CVSS 9.8"
+        "en": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "my": "Show ကို HN: HackerBooks – HackerTube, ဒါပေမယ့် HN အပေါ်ဖော်ပြထားသောစာအုပ်များအတွက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 490,
-      "comments": 224,
-      "author": "oger",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "discussUrl": "https://news.ycombinator.com/item?id=50319143"
+      "score": 1338,
+      "comments": 223,
+      "author": "roansh",
+      "url": "https://hackerbooks.org",
+      "discussUrl": "https://news.ycombinator.com/item?id=50326821"
     },
     {
       "id": "item?id=50320963",
@@ -37,95 +37,67 @@
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 379,
-      "comments": 108,
+      "score": 803,
+      "comments": 205,
       "author": "ecares",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "discussUrl": "https://news.ycombinator.com/item?id=50320963"
     },
     {
-      "id": "item?id=50319358",
+      "id": "item?id=50326099",
       "title": {
-        "en": "Anthropic blocks users for anything touching training larger models",
-        "my": "Anthropic သည်အသုံးပြုသူများအားပိုမိုကြီးမားသောမော်ဒယ်များလေ့ကျင့်ရေးကိုထိခိုက်စေသောမည်သည့်အရာအတွက်မဆိုပိတ်ဆို့ထားသည်"
+        "en": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+        "my": "Lenovo ၏ 'Encrypted' လက်ဗွေ USB သည်အမှုတစ်ခုတွင်စာဝှက်မထားသော SD ကဒ်သာဖြစ်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 333,
-      "comments": 190,
-      "author": "pretext",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "discussUrl": "https://news.ycombinator.com/item?id=50319358"
+      "score": 477,
+      "comments": 158,
+      "author": "entryleveljobsc",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50326099"
     },
     {
-      "id": "item?id=50314699",
+      "id": "item?id=50312408",
       "title": {
-        "en": "Do the math: How we took over ChatGPT accounts",
-        "my": "သင်္ချာကိုလုပ်ပါ - ChatGPT အကောင့်များကိုကျွန်ုပ်တို့မည်သို့သိမ်းဆည်းခဲ့သည်"
+        "en": "Postgres 19 is late because so many more bugs are being found now",
+        "my": "Postgres 19 သည်နောက်ကျသွားပြီ ၊ ဘာဖြစ်လို့လဲဆိုတော့အခုနောက်ထပ် bug တွေအများကြီးတွေ့နေလို့ပဲ ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 325,
-      "comments": 162,
-      "author": "armcat",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "discussUrl": "https://news.ycombinator.com/item?id=50314699"
+      "score": 381,
+      "comments": 244,
+      "author": "soheilpro",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50312408"
     },
     {
-      "id": "item?id=50316100",
+      "id": "item?id=50323088",
       "title": {
-        "en": "Jepsen: ParticleDB 1.1.4",
-        "my": "Jepsen: ParticleDB 1.1.4"
+        "en": "The AI cost of JavaScript frameworks",
+        "my": "JavaScript မူဘောင်များ ၏ AI ကုန်ကျစရိတ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 256,
-      "comments": 143,
-      "author": "aphyr",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "discussUrl": "https://news.ycombinator.com/item?id=50316100"
+      "score": 362,
+      "comments": 281,
+      "author": "luu",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50323088"
     },
     {
-      "id": "item?id=50261253",
+      "id": "item?id=50328251",
       "title": {
-        "en": "Simple circuits can create complex behaviors",
-        "my": "ရိုးရှင်းသောဆားကစ်များသည်ရှုပ်ထွေးသောအပြုအမူများကိုဖန်တီးနိုင်သည်"
+        "en": "Mathematics has changed. Let's act like it",
+        "my": "သင်္ချာဟာ ပြောင်းလဲသွားပါပြီ ။ ဒါကို ပြုမူကြပါစို့ ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 244,
-      "comments": 77,
-      "author": "aatish",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50261253"
-    },
-    {
-      "id": "ttp7aq",
-      "title": {
-        "en": "Backdoors in Claude Code for VS, Cursor official extensions",
-        "my": "VS များအတွက် Claude Code ကိုအတွက် backdoors, Cursor ကိုတရားဝင် extension များ"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 167,
-      "comments": 40,
-      "author": "dsr",
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "discussUrl": "https://lobste.rs/s/ttp7aq"
-    },
-    {
-      "id": "htgcuc",
-      "title": {
-        "en": "Do At-Proto Users Know This Is Public?",
-        "my": "AT-Proto အသုံးပြုသူများသည် ၎ င်းကိုအများပြည်သူသိပါသလား ။"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 96,
-      "comments": 34,
-      "author": "robalex",
-      "url": "https://melaniekat.com/blog/public-on-pds/",
-      "discussUrl": "https://lobste.rs/s/htgcuc"
+      "score": 300,
+      "comments": 324,
+      "author": "smilelamp",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50328251"
     },
     {
       "id": "drwd4j",
@@ -135,11 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 90,
-      "comments": 17,
+      "score": 150,
+      "comments": 43,
       "author": "aphyr",
       "url": "https://jepsen.io/analyses/particledb-1.1.4",
       "discussUrl": "https://lobste.rs/s/drwd4j"
+    },
+    {
+      "id": "lt44rt",
+      "title": {
+        "en": "Introducing Kwi, a new KDE terminal emulator",
+        "my": "Kwi, KDE terminal emulator အသစ်ကိုမိတ်ဆက်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 114,
+      "comments": 35,
+      "author": "cesarandreu",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "discussUrl": "https://lobste.rs/s/lt44rt"
+    },
+    {
+      "id": "k508we",
+      "title": {
+        "en": "Avoid Public Functions Calling Other Public Functions",
+        "my": "အခြားသော အများပြည်သူဆိုင်ရာ လုပ်ငန်းတာဝန်များကို ခေါ်ဆိုခြင်းမှ ရှောင်ကြဉ်ပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 100,
+      "comments": 22,
+      "author": "telemachus",
+      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+      "discussUrl": "https://lobste.rs/s/k508we"
     }
   ]
 }

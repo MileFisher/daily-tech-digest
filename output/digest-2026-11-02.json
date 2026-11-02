@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "id": "item?id=50319510",
+      "title": {
+        "en": "HackerTube: YouTube built from videos recommended by HN",
+        "my": "HackerTube: HN ကအကြံပြုဗီဒီယိုများမှ built Youtube ကို"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 2534,
+      "comments": 560,
+      "author": "karpathy",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50319510"
+    },
+    {
+      "id": "item?id=50326821",
+      "title": {
+        "en": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "my": "Show ကို HN: HackerBooks – HackerTube, ဒါပေမယ့် HN အပေါ်ဖော်ပြထားသောစာအုပ်များအတွက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1338,
+      "comments": 223,
+      "author": "roansh",
+      "url": "https://hackerbooks.org",
+      "discussUrl": "https://news.ycombinator.com/item?id=50326821"
+    },
+    {
+      "id": "item?id=50320963",
+      "title": {
+        "en": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "my": "အီတလီနိုင်ငံမှ လယ်သမားတစ်ဦးက ၎ င်း ၏ အက်တမ်ထဲတွင် အမည်မသိ မျိုးစေ့အချို့ကို တွေ့ရှိ ၍ စိုက်ပျိုးခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 803,
+      "comments": 205,
+      "author": "ecares",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50320963"
+    },
+    {
+      "id": "item?id=50326099",
+      "title": {
+        "en": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+        "my": "Lenovo ၏ 'Encrypted' လက်ဗွေ USB သည်အမှုတစ်ခုတွင်စာဝှက်မထားသော SD ကဒ်သာဖြစ်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 477,
+      "comments": 158,
+      "author": "entryleveljobsc",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50326099"
+    },
+    {
+      "id": "item?id=50312408",
+      "title": {
+        "en": "Postgres 19 is late because so many more bugs are being found now",
+        "my": "Postgres 19 သည်နောက်ကျသွားပြီ ၊ ဘာဖြစ်လို့လဲဆိုတော့အခုနောက်ထပ် bug တွေအများကြီးတွေ့နေလို့ပဲ ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 381,
+      "comments": 244,
+      "author": "soheilpro",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50312408"
+    },
+    {
+      "id": "item?id=50323088",
+      "title": {
+        "en": "The AI cost of JavaScript frameworks",
+        "my": "JavaScript မူဘောင်များ ၏ AI ကုန်ကျစရိတ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 362,
+      "comments": 281,
+      "author": "luu",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50323088"
+    },
+    {
+      "id": "item?id=50328251",
+      "title": {
+        "en": "Mathematics has changed. Let's act like it",
+        "my": "သင်္ချာဟာ ပြောင်းလဲသွားပါပြီ ။ ဒါကို ပြုမူကြပါစို့ ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 300,
+      "comments": 324,
+      "author": "smilelamp",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50328251"
+    },
+    {
+      "id": "drwd4j",
+      "title": {
+        "en": "Jepsen: ParticleDB 1.1.4",
+        "my": "Jepsen: ParticleDB 1.1.4"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 150,
+      "comments": 43,
+      "author": "aphyr",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "discussUrl": "https://lobste.rs/s/drwd4j"
+    },
+    {
+      "id": "lt44rt",
+      "title": {
+        "en": "Introducing Kwi, a new KDE terminal emulator",
+        "my": "Kwi, KDE terminal emulator အသစ်ကိုမိတ်ဆက်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 114,
+      "comments": 35,
+      "author": "cesarandreu",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "discussUrl": "https://lobste.rs/s/lt44rt"
+    },
+    {
+      "id": "k508we",
+      "title": {
+        "en": "Avoid Public Functions Calling Other Public Functions",
+        "my": "အခြားသော အများပြည်သူဆိုင်ရာ လုပ်ငန်းတာဝန်များကို ခေါ်ဆိုခြင်းမှ ရှောင်ကြဉ်ပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 100,
+      "comments": 22,
+      "author": "telemachus",
+      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+      "discussUrl": "https://lobste.rs/s/k508we"
+    }
+  ]
+}
