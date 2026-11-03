@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-02
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-03
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:59 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:07 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. HackerTube: HN ကအကြံပြုဗီဒီယိုများမှ built Youtube ကို
+1. လက်ခံဖြတ်ပိုင်းများကို မှန်ကန်စွာ ရေးခြင်းဖတ်ခြင်း 
 
-🔶 Hacker News · ⬆️ 2534 points · 💬 560 comments · 👤 karpathy
+🔶 Hacker News · ⬆️ 2542 points · 💬 784 comments · 👤 dbreunig
 
-Karpathy.bearblog.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "HackerTube: YouTube ကို HN ကအကြံပြုဗီဒီယိုများမှတည်ဆောက်" တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲကတစ်ခုဖြစ်သည် ။
+A link to rikiyat.github.io titled "Astra can read and write weights to improve Qwen", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50319510) · [Source](https://karpathy.bearblog.dev/hacker-tube/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50341174) · [Source](https://rikiyat.github.io/blog/weight-space-programming/)
 
-2. Show ကို HN: HackerBooks – HackerTube, ဒါပေမယ့် HN အပေါ်ဖော်ပြထားသောစာအုပ်များအတွက်
+2. ^Ubuntu ကိုသွင်းပါ
 
-🔶 Hacker News · ⬆️ 1338 points · 💬 223 comments · 👤 roansh
+🔶 Hacker News · ⬆️ 1499 points · 💬 626 comments · 👤 chalmovsky
 
-"Show HN: HackerBooks – HackerTube, but for books mentioned on HN" လို့ အမည်ပေးထားတဲ့ hackerbooks.org ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးချက်တွေကို ရေးဆွဲထားပါတယ် ။
+"WTF Ubuntu?" ခေါင်းစဉ်ဖြင့် chalmovsky.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50326821) · [Source](https://hackerbooks.org)
+[Discuss on HN](https://news.ycombinator.com/item?id=50337608) · [Source](https://chalmovsky.com/posts/wtf-ubuntu)
 
-3. အီတလီနိုင်ငံမှ လယ်သမားတစ်ဦးက ၎ င်း ၏ အက်တမ်ထဲတွင် အမည်မသိ မျိုးစေ့အချို့ကို တွေ့ရှိ ၍ စိုက်ပျိုးခဲ့သည်
+3. Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။
 
-🔶 Hacker News · ⬆️ 803 points · 💬 205 comments · 👤 ecares
+🔶 Hacker News · ⬆️ 533 points · 💬 116 comments · 👤 ingve
 
-Smithsonianmag.com သို့ ချိတ်ဆက်ထားသော "အီတလီလယ်သမားတစ်ဦးသည် သူ ၏ အတ္တလန္တိတ်တွင် အမည်မသိ မျိုးစေ့အချို့ကို တွေ့ရှိခဲ့ပြီး ၎ င်းတို့ကို စိုက်ပျိုးခဲ့သည်" ဟူသော ခေါင်းစဉ်ဖြင့် ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုကို ဆွဲဆောင်ခဲ့သည် ။
+A link to blog.mistys-internet.website titled "If you love a website, back it up", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50320963) · [Source](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50336518) · [Source](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 
-4. Lenovo ၏ 'Encrypted' လက်ဗွေ USB သည်အမှုတစ်ခုတွင်စာဝှက်မထားသော SD ကဒ်သာဖြစ်သည်
+4. Ubuntu သည်ရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်း Linux 0day RCE အတွက် patch ကိုမထုတ်ပေးသေးပါ
 
-🔶 Hacker News · ⬆️ 477 points · 💬 158 comments · 👤 entryleveljobsc
+🔶 Hacker News · ⬆️ 483 points · 💬 137 comments · 👤 majorchord
 
-Reddit.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Lenovo က '' Encrypted 'လက်ဗွေကို USB သာအမှု ၌ unencrypted SD ကဒ်ဖြစ်ပါတယ်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Freenode.net သို့ "Ubuntu သည် Linux 0day RCE အတွက် patch ကိုရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်းမထုတ်ပေးသေးပါ" ဟုအမည်ပေးထားသော link တစ်ခုသည်ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50326099) · [Source](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50341462) · [Source](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432)
 
-5. Postgres 19 သည်နောက်ကျသွားပြီ ၊ ဘာဖြစ်လို့လဲဆိုတော့အခုနောက်ထပ် bug တွေအများကြီးတွေ့နေလို့ပဲ ။
+5. US boy names that became girl names and vice versa
 
-🔶 Hacker News · ⬆️ 381 points · 💬 244 comments · 👤 soheilpro
+🔶 Hacker News · ⬆️ 393 points · 💬 370 comments · 👤 xoobdev
 
-Rhaas.blogspot.com ခေါင်းစဉ်နဲ့ link တစ်ခု "Postgres 19 နောက်ကျသွားပြီဘာဖြစ်လို့လဲဆိုတော့အခုနောက်ထပ် bug တွေအများကြီးတွေ့နေပြီ", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+A link to namedaisy.com titled "US boy names that became girl names and vice versa", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50312408) · [Source](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50339397) · [Source](https://namedaisy.com/blog/boy-names-that-became-girl-names)
 
-6. JavaScript မူဘောင်များ ၏ AI ကုန်ကျစရိတ်
+6. ဤအမိန့်သည် ကယ်လီဖိုးနီးယား၏ လူထုကျန်းမာရေးကို ကာကွယ်ရန် ထုတ်ပြန်ခြင်း ဖြစ်သည်။
 
-🔶 Hacker News · ⬆️ 362 points · 💬 281 comments · 👤 luu
+🔶 Hacker News · ⬆️ 335 points · 💬 248 comments · 👤 cdrnsf
 
-"JavaScript မူဘောင်များ ၏ AI ကုန်ကျစရိတ်" ခေါင်းစဉ်ဖြင့် nolanlawson.
+&quot;လူထုကို ကာကွယ်ဖို့ Anthropic ရဲ့ IPO ကို SEC က ပိတ်ဆို့သင့်တယ်&quot; လို့ ခေါင်းစဉ်တပ်ထားတဲ့ techpolicy.press ကို လင့်ခ်တစ်ခု ပေးထားပြီး အဓိက ဆွေးနွေးမှုတွေ ရှိနေပါတယ်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50323088) · [Source](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50344919) · [Source](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
 
-7. သင်္ချာဟာ ပြောင်းလဲသွားပါပြီ ။ ဒါကို ပြုမူကြပါစို့ ။
+7. HN ကိုပြပါ: voxels ဖြင့် ဝါဆော - မြို့လယ်ခေါင်၏ အပြန်အလှန်တုံ့ပြန်နိုင်သော 3D မြေပုံ
 
-🔶 Hacker News · ⬆️ 300 points · 💬 324 comments · 👤 smilelamp
+🔶 Hacker News · ⬆️ 266 points · 💬 42 comments · 👤 stared
 
-Org/wiki/အထူး: ဘယ်ကလင့်ထားလဲ/တာရာမင်းဝေ "မှ ရယူရန် တက်တက်ကြွကြွ ဆွေးနွေးတဲ့ ချည်နှောင်ထားတဲ့ ရှေ့စာမျက်နှာပေါ်က လူကြိုက်များတဲ့ ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်တဲ့" လုပ်ကြစို့ ။
+&quot;Show HN: Warsaw in voxels – An interactive 3D map of the city centre&quot; ဟု ခေါင်းစဉ်တပ်ထားသော p.migdal.pl သို့ လင့်ခ်တစ်ခု၊ ပထမစာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50328251) · [Source](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50339221) · [Source](https://p.migdal.pl/warsaw-vibe-voxel/)
 
-8. Jepsen: ParticleDB 1.1.4
+8. Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏အမြင်
 
-🦞 Lobsters · ⬆️ 150 points · 💬 43 comments · 👤 aphyr
+🦞 Lobsters · ⬆️ 145 points · 💬 20 comments · 👤 typesanitizer
 
-Jepsen.io ခေါင်းစဉ်ဖြင့် link တစ်ခု "Jepsen: ParticleDB 1.1.4" ။
+&quot;Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏ ရှုထောင့်&quot; ဟု ခေါင်းစဉ်တပ်ထားသော typesanitizer.com သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/drwd4j) · [Source](https://jepsen.io/analyses/particledb-1.1.4)
+[Discuss on Lobsters](https://lobste.rs/s/s2qeww) · [Source](https://typesanitizer.com/blog/scion.html)
 
-9. Kwi, KDE terminal emulator အသစ်ကိုမိတ်ဆက်ခြင်း
+9. အချိန်ပြောင်းလို့ရအောင် ကားရဲ့ navigation system ကို jailbreak လုပ်ခြင်း
 
-🦞 Lobsters · ⬆️ 114 points · 💬 35 comments · 👤 cesarandreu
+🦞 Lobsters · ⬆️ 102 points · 💬 5 comments · 👤 xx
 
-"Kwi ကိုမိတ်ဆက်ခြင်း ၊ KDE terminal emulator အသစ်" ခေါင်းစဉ်ဖြင့် blogs.kde.org သို့လင့်ခ်တစ်ခု ။
+&quot;အချိန်ကို ပြောင်းလဲနိုင်ဖို့ ကားရဲ့ လမ်းညွှန်စနစ်ကို Jailbreaking လုပ်ခြင်း&quot; လို့ ခေါင်းစဉ်တပ်ထားတဲ့ blog.nns.ee ကို လင့်ခ်တစ်ခု ပေးထားပါတယ်။
 
-[Discuss on Lobsters](https://lobste.rs/s/lt44rt) · [Source](https://blogs.kde.org/2026/11/01/introducing-kwi/)
+[Discuss on Lobsters](https://lobste.rs/s/qvdatp) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
 
-10. အခြားသော အများပြည်သူဆိုင်ရာ လုပ်ငန်းတာဝန်များကို ခေါ်ဆိုခြင်းမှ ရှောင်ကြဉ်ပါ
+10. OpenBSD အတွက် GEFS (Good Enough File System) တွင် လုပ်ဆောင်နေသော လုပ်ငန်းစဉ်များ တိုးတက်နေပါသည်။
 
-🦞 Lobsters · ⬆️ 100 points · 💬 22 comments · 👤 telemachus
+🦞 Lobsters · ⬆️ 94 points · 💬 11 comments · 👤 jbauer
 
-Matklad.github.io ခေါင်းစဉ်ဖြင့် link တစ်ခု "အခြားအများပြည်သူဆိုင်ရာလုပ်ဆောင်ချက်များကိုခေါ်ဆိုခြင်းအများပြည်သူဆိုင်ရာလုပ်ဆောင်ချက်များကိုရှောင်ကြဉ်ပါ" ။
+"OpenBSD တိုးတက်မှုများအတွက် GEFS (အဆိုပါကောင်းလုံလောက်သောဖိုင်စနစ်) အပေါ်အလုပ်" ခေါင်းစဉ် undeadly.org မှ link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/k508we) · [Source](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
+[Discuss on Lobsters](https://lobste.rs/s/zjjvbo) · [Source](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
 
-*daily-tech-digest · MileFisher · 2026-11-02T08:59:01.948Z*
+*daily-tech-digest · MileFisher · 2026-11-03T09:07:35.393Z*

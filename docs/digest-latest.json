@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
     {
-      "id": "item?id=50319510",
+      "id": "item?id=50341174",
       "title": {
-        "en": "HackerTube: YouTube built from videos recommended by HN",
-        "my": "HackerTube: HN ကအကြံပြုဗီဒီယိုများမှ built Youtube ကို"
+        "en": "Astra can read and write weights to improve Qwen",
+        "my": "လက်ခံဖြတ်ပိုင်းများကို မှန်ကန်စွာ ရေးခြင်းဖတ်ခြင်း "
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 2534,
-      "comments": 560,
-      "author": "karpathy",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50319510"
+      "score": 2542,
+      "comments": 784,
+      "author": "dbreunig",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50341174"
     },
     {
-      "id": "item?id=50326821",
+      "id": "item?id=50337608",
       "title": {
-        "en": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-        "my": "Show ကို HN: HackerBooks – HackerTube, ဒါပေမယ့် HN အပေါ်ဖော်ပြထားသောစာအုပ်များအတွက်"
+        "en": "WTF Ubuntu?",
+        "my": "^Ubuntu ကိုသွင်းပါ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1338,
-      "comments": 223,
-      "author": "roansh",
-      "url": "https://hackerbooks.org",
-      "discussUrl": "https://news.ycombinator.com/item?id=50326821"
+      "score": 1499,
+      "comments": 626,
+      "author": "chalmovsky",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "discussUrl": "https://news.ycombinator.com/item?id=50337608"
     },
     {
-      "id": "item?id=50320963",
+      "id": "item?id=50336518",
       "title": {
-        "en": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "my": "အီတလီနိုင်ငံမှ လယ်သမားတစ်ဦးက ၎ င်း ၏ အက်တမ်ထဲတွင် အမည်မသိ မျိုးစေ့အချို့ကို တွေ့ရှိ ၍ စိုက်ပျိုးခဲ့သည်"
+        "en": "If you love a website, back it up",
+        "my": "Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 803,
-      "comments": 205,
-      "author": "ecares",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50320963"
+      "score": 533,
+      "comments": 116,
+      "author": "ingve",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50336518"
     },
     {
-      "id": "item?id=50326099",
+      "id": "item?id=50341462",
       "title": {
-        "en": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-        "my": "Lenovo ၏ 'Encrypted' လက်ဗွေ USB သည်အမှုတစ်ခုတွင်စာဝှက်မထားသော SD ကဒ်သာဖြစ်သည်"
+        "en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+        "my": "Ubuntu သည်ရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်း Linux 0day RCE အတွက် patch ကိုမထုတ်ပေးသေးပါ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 477,
-      "comments": 158,
-      "author": "entryleveljobsc",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50326099"
+      "score": 483,
+      "comments": 137,
+      "author": "majorchord",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "discussUrl": "https://news.ycombinator.com/item?id=50341462"
     },
     {
-      "id": "item?id=50312408",
+      "id": "item?id=50339397",
       "title": {
-        "en": "Postgres 19 is late because so many more bugs are being found now",
-        "my": "Postgres 19 သည်နောက်ကျသွားပြီ ၊ ဘာဖြစ်လို့လဲဆိုတော့အခုနောက်ထပ် bug တွေအများကြီးတွေ့နေလို့ပဲ ။"
+        "en": "US boy names that became girl names and vice versa",
+        "my": "US boy names that became girl names and vice versa"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 381,
-      "comments": 244,
-      "author": "soheilpro",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50312408"
+      "score": 393,
+      "comments": 370,
+      "author": "xoobdev",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "discussUrl": "https://news.ycombinator.com/item?id=50339397"
     },
     {
-      "id": "item?id=50323088",
+      "id": "item?id=50344919",
       "title": {
-        "en": "The AI cost of JavaScript frameworks",
-        "my": "JavaScript မူဘောင်များ ၏ AI ကုန်ကျစရိတ်"
+        "en": "The SEC Should Block Anthropic's IPO to Protect the Public",
+        "my": "ဤအမိန့်သည် ကယ်လီဖိုးနီးယား၏ လူထုကျန်းမာရေးကို ကာကွယ်ရန် ထုတ်ပြန်ခြင်း ဖြစ်သည်။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 362,
-      "comments": 281,
-      "author": "luu",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50323088"
+      "score": 335,
+      "comments": 248,
+      "author": "cdrnsf",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50344919"
     },
     {
-      "id": "item?id=50328251",
+      "id": "item?id=50339221",
       "title": {
-        "en": "Mathematics has changed. Let's act like it",
-        "my": "သင်္ချာဟာ ပြောင်းလဲသွားပါပြီ ။ ဒါကို ပြုမူကြပါစို့ ။"
+        "en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+        "my": "HN ကိုပြပါ: voxels ဖြင့် ဝါဆော - မြို့လယ်ခေါင်၏ အပြန်အလှန်တုံ့ပြန်နိုင်သော 3D မြေပုံ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 300,
-      "comments": 324,
-      "author": "smilelamp",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50328251"
+      "score": 266,
+      "comments": 42,
+      "author": "stared",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50339221"
     },
     {
-      "id": "drwd4j",
+      "id": "s2qeww",
       "title": {
-        "en": "Jepsen: ParticleDB 1.1.4",
-        "my": "Jepsen: ParticleDB 1.1.4"
+        "en": "An outsider's perspective on Scion and Mononoke",
+        "my": "Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏အမြင်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 150,
-      "comments": 43,
-      "author": "aphyr",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "discussUrl": "https://lobste.rs/s/drwd4j"
+      "score": 145,
+      "comments": 20,
+      "author": "typesanitizer",
+      "url": "https://typesanitizer.com/blog/scion.html",
+      "discussUrl": "https://lobste.rs/s/s2qeww"
     },
     {
-      "id": "lt44rt",
+      "id": "qvdatp",
       "title": {
-        "en": "Introducing Kwi, a new KDE terminal emulator",
-        "my": "Kwi, KDE terminal emulator အသစ်ကိုမိတ်ဆက်ခြင်း"
+        "en": "Jailbreaking my car's navigation system just so I can change the time",
+        "my": "အချိန်ပြောင်းလို့ရအောင် ကားရဲ့ navigation system ကို jailbreak လုပ်ခြင်း"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 114,
-      "comments": 35,
-      "author": "cesarandreu",
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-      "discussUrl": "https://lobste.rs/s/lt44rt"
+      "score": 102,
+      "comments": 5,
+      "author": "xx",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "discussUrl": "https://lobste.rs/s/qvdatp"
     },
     {
-      "id": "k508we",
+      "id": "zjjvbo",
       "title": {
-        "en": "Avoid Public Functions Calling Other Public Functions",
-        "my": "အခြားသော အများပြည်သူဆိုင်ရာ လုပ်ငန်းတာဝန်များကို ခေါ်ဆိုခြင်းမှ ရှောင်ကြဉ်ပါ"
+        "en": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+        "my": "OpenBSD အတွက် GEFS (Good Enough File System) တွင် လုပ်ဆောင်နေသော လုပ်ငန်းစဉ်များ တိုးတက်နေပါသည်။"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 100,
-      "comments": 22,
-      "author": "telemachus",
-      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
-      "discussUrl": "https://lobste.rs/s/k508we"
+      "score": 94,
+      "comments": 11,
+      "author": "jbauer",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+      "discussUrl": "https://lobste.rs/s/zjjvbo"
     }
   ]
 }

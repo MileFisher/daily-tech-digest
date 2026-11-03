@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-02
+# 🗞️ Daily Tech Digest — 2026-11-03
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:59 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:07 ICT
 
 ---
 
-1. HackerTube: YouTube built from videos recommended by HN
+1. Astra can read and write weights to improve Qwen
 
-🔶 Hacker News · ⬆️ 2534 points · 💬 560 comments · 👤 karpathy
+🔶 Hacker News · ⬆️ 2542 points · 💬 784 comments · 👤 dbreunig
 
-A link to karpathy.bearblog.dev titled "HackerTube: YouTube built from videos recommended by HN", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to rikiyat.github.io titled "Astra can read and write weights to improve Qwen", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50319510) · [Source](https://karpathy.bearblog.dev/hacker-tube/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50341174) · [Source](https://rikiyat.github.io/blog/weight-space-programming/)
 
-2. Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+2. WTF Ubuntu?
 
-🔶 Hacker News · ⬆️ 1338 points · 💬 223 comments · 👤 roansh
+🔶 Hacker News · ⬆️ 1499 points · 💬 626 comments · 👤 chalmovsky
 
-A link to hackerbooks.org titled "Show HN: HackerBooks – HackerTube, but for books mentioned on HN", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to chalmovsky.com titled "WTF Ubuntu?", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50326821) · [Source](https://hackerbooks.org)
+[Discuss on HN](https://news.ycombinator.com/item?id=50337608) · [Source](https://chalmovsky.com/posts/wtf-ubuntu)
 
-3. An Italian farmer found some unknown seeds in his attic and planted them
+3. If you love a website, back it up
 
-🔶 Hacker News · ⬆️ 803 points · 💬 205 comments · 👤 ecares
+🔶 Hacker News · ⬆️ 533 points · 💬 116 comments · 👤 ingve
 
-A link to smithsonianmag.com titled "An Italian farmer found some unknown seeds in his attic and planted them", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to blog.mistys-internet.website titled "If you love a website, back it up", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50320963) · [Source](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50336518) · [Source](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 
-4. Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+4. Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks
 
-🔶 Hacker News · ⬆️ 477 points · 💬 158 comments · 👤 entryleveljobsc
+🔶 Hacker News · ⬆️ 483 points · 💬 137 comments · 👤 majorchord
 
-A link to reddit.com titled "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case", a popular story on the front page, drawing significant discussion.
+A link to freenode.net titled "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50326099) · [Source](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50341462) · [Source](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432)
 
-5. Postgres 19 is late because so many more bugs are being found now
+5. US boy names that became girl names and vice versa
 
-🔶 Hacker News · ⬆️ 381 points · 💬 244 comments · 👤 soheilpro
+🔶 Hacker News · ⬆️ 393 points · 💬 370 comments · 👤 xoobdev
 
-A link to rhaas.blogspot.com titled "Postgres 19 is late because so many more bugs are being found now", a popular story on the front page, drawing significant discussion.
+A link to namedaisy.com titled "US boy names that became girl names and vice versa", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50312408) · [Source](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50339397) · [Source](https://namedaisy.com/blog/boy-names-that-became-girl-names)
 
-6. The AI cost of JavaScript frameworks
+6. The SEC Should Block Anthropic's IPO to Protect the Public
 
-🔶 Hacker News · ⬆️ 362 points · 💬 281 comments · 👤 luu
+🔶 Hacker News · ⬆️ 335 points · 💬 248 comments · 👤 cdrnsf
 
-A link to nolanlawson.com titled "The AI cost of JavaScript frameworks", a popular story on the front page, drawing significant discussion.
+A link to techpolicy.press titled "The SEC Should Block Anthropic's IPO to Protect the Public", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50323088) · [Source](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50344919) · [Source](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
 
-7. Mathematics has changed. Let's act like it
+7. Show HN: Warsaw in voxels – An interactive 3D map of the city centre
 
-🔶 Hacker News · ⬆️ 300 points · 💬 324 comments · 👤 smilelamp
+🔶 Hacker News · ⬆️ 266 points · 💬 42 comments · 👤 stared
 
-A link to terrytao.wordpress.com titled "Mathematics has changed. Let's act like it", a popular story on the front page, with an active discussion thread.
+A link to p.migdal.pl titled "Show HN: Warsaw in voxels – An interactive 3D map of the city centre", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50328251) · [Source](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50339221) · [Source](https://p.migdal.pl/warsaw-vibe-voxel/)
 
-8. Jepsen: ParticleDB 1.1.4
+8. An outsider's perspective on Scion and Mononoke
 
-🦞 Lobsters · ⬆️ 150 points · 💬 43 comments · 👤 aphyr
+🦞 Lobsters · ⬆️ 145 points · 💬 20 comments · 👤 typesanitizer
 
-A link to jepsen.io titled "Jepsen: ParticleDB 1.1.4".
+A link to typesanitizer.com titled "An outsider's perspective on Scion and Mononoke".
 
-[Discuss on Lobsters](https://lobste.rs/s/drwd4j) · [Source](https://jepsen.io/analyses/particledb-1.1.4)
+[Discuss on Lobsters](https://lobste.rs/s/s2qeww) · [Source](https://typesanitizer.com/blog/scion.html)
 
-9. Introducing Kwi, a new KDE terminal emulator
+9. Jailbreaking my car's navigation system just so I can change the time
 
-🦞 Lobsters · ⬆️ 114 points · 💬 35 comments · 👤 cesarandreu
+🦞 Lobsters · ⬆️ 102 points · 💬 5 comments · 👤 xx
 
-A link to blogs.kde.org titled "Introducing Kwi, a new KDE terminal emulator".
+A link to blog.nns.ee titled "Jailbreaking my car's navigation system just so I can change the time".
 
-[Discuss on Lobsters](https://lobste.rs/s/lt44rt) · [Source](https://blogs.kde.org/2026/11/01/introducing-kwi/)
+[Discuss on Lobsters](https://lobste.rs/s/qvdatp) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
 
-10. Avoid Public Functions Calling Other Public Functions
+10. Work on GEFS (the Good Enough File System) for OpenBSD progresses
 
-🦞 Lobsters · ⬆️ 100 points · 💬 22 comments · 👤 telemachus
+🦞 Lobsters · ⬆️ 94 points · 💬 11 comments · 👤 jbauer
 
-A link to matklad.github.io titled "Avoid Public Functions Calling Other Public Functions".
+A link to undeadly.org titled "Work on GEFS (the Good Enough File System) for OpenBSD progresses".
 
-[Discuss on Lobsters](https://lobste.rs/s/k508we) · [Source](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
+[Discuss on Lobsters](https://lobste.rs/s/zjjvbo) · [Source](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
 
-*daily-tech-digest · MileFisher · 2026-11-02T08:59:01.948Z*
+*daily-tech-digest · MileFisher · 2026-11-03T09:07:35.393Z*

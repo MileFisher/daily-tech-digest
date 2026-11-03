@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-03",
+  "items": [
+    {
+      "id": "item?id=50341174",
+      "title": {
+        "en": "Astra can read and write weights to improve Qwen",
+        "my": "လက်ခံဖြတ်ပိုင်းများကို မှန်ကန်စွာ ရေးခြင်းဖတ်ခြင်း "
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 2542,
+      "comments": 784,
+      "author": "dbreunig",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50341174"
+    },
+    {
+      "id": "item?id=50337608",
+      "title": {
+        "en": "WTF Ubuntu?",
+        "my": "^Ubuntu ကိုသွင်းပါ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1499,
+      "comments": 626,
+      "author": "chalmovsky",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "discussUrl": "https://news.ycombinator.com/item?id=50337608"
+    },
+    {
+      "id": "item?id=50336518",
+      "title": {
+        "en": "If you love a website, back it up",
+        "my": "Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 533,
+      "comments": 116,
+      "author": "ingve",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50336518"
+    },
+    {
+      "id": "item?id=50341462",
+      "title": {
+        "en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+        "my": "Ubuntu သည်ရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်း Linux 0day RCE အတွက် patch ကိုမထုတ်ပေးသေးပါ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 483,
+      "comments": 137,
+      "author": "majorchord",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "discussUrl": "https://news.ycombinator.com/item?id=50341462"
+    },
+    {
+      "id": "item?id=50339397",
+      "title": {
+        "en": "US boy names that became girl names and vice versa",
+        "my": "US boy names that became girl names and vice versa"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 393,
+      "comments": 370,
+      "author": "xoobdev",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "discussUrl": "https://news.ycombinator.com/item?id=50339397"
+    },
+    {
+      "id": "item?id=50344919",
+      "title": {
+        "en": "The SEC Should Block Anthropic's IPO to Protect the Public",
+        "my": "ဤအမိန့်သည် ကယ်လီဖိုးနီးယား၏ လူထုကျန်းမာရေးကို ကာကွယ်ရန် ထုတ်ပြန်ခြင်း ဖြစ်သည်။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 335,
+      "comments": 248,
+      "author": "cdrnsf",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50344919"
+    },
+    {
+      "id": "item?id=50339221",
+      "title": {
+        "en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+        "my": "HN ကိုပြပါ: voxels ဖြင့် ဝါဆော - မြို့လယ်ခေါင်၏ အပြန်အလှန်တုံ့ပြန်နိုင်သော 3D မြေပုံ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 266,
+      "comments": 42,
+      "author": "stared",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50339221"
+    },
+    {
+      "id": "s2qeww",
+      "title": {
+        "en": "An outsider's perspective on Scion and Mononoke",
+        "my": "Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏အမြင်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 145,
+      "comments": 20,
+      "author": "typesanitizer",
+      "url": "https://typesanitizer.com/blog/scion.html",
+      "discussUrl": "https://lobste.rs/s/s2qeww"
+    },
+    {
+      "id": "qvdatp",
+      "title": {
+        "en": "Jailbreaking my car's navigation system just so I can change the time",
+        "my": "အချိန်ပြောင်းလို့ရအောင် ကားရဲ့ navigation system ကို jailbreak လုပ်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 102,
+      "comments": 5,
+      "author": "xx",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "discussUrl": "https://lobste.rs/s/qvdatp"
+    },
+    {
+      "id": "zjjvbo",
+      "title": {
+        "en": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+        "my": "OpenBSD အတွက် GEFS (Good Enough File System) တွင် လုပ်ဆောင်နေသော လုပ်ငန်းစဉ်များ တိုးတက်နေပါသည်။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 94,
+      "comments": 11,
+      "author": "jbauer",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+      "discussUrl": "https://lobste.rs/s/zjjvbo"
+    }
+  ]
+}
