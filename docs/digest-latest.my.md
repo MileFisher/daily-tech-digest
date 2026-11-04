@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-03
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-04
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:07 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:44 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. လက်ခံဖြတ်ပိုင်းများကို မှန်ကန်စွာ ရေးခြင်းဖတ်ခြင်း 
+1. Postman သည် AI plugins များကိုတိတ်ဆိတ်စွာအလိုအလျောက်တပ်ဆင်ပြီး API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းသည်
 
-🔶 Hacker News · ⬆️ 2542 points · 💬 784 comments · 👤 dbreunig
+🔶 Hacker News · ⬆️ 1240 points · 💬 408 comments · 👤 sidgarimella
 
-A link to rikiyat.github.io titled "Astra can read and write weights to improve Qwen", one of the highest-scoring stories on the front page, with an active discussion thread.
+Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Postman တိတ်ဆိတ်စွာ AI plugins များနှင့် API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းမှုများ", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50341174) · [Source](https://rikiyat.github.io/blog/weight-space-programming/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50354960) · [Source](https://github.com/postmanlabs/postman-app-support/issues/14370)
 
-2. ^Ubuntu ကိုသွင်းပါ
+2. 'Astra can read and write weights to improve Qwen' ပို့စ်သည် မှားယွင်းနေသည်
 
-🔶 Hacker News · ⬆️ 1499 points · 💬 626 comments · 👤 chalmovsky
+🔶 Hacker News · ⬆️ 969 points · 💬 201 comments · 👤 syllogism
 
-"WTF Ubuntu?" ခေါင်းစဉ်ဖြင့် chalmovsky.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
+"The 'Astra can read and write weights to improve Qwen' post is misleading" လို့ ခေါင်းစဉ်နဲ့ honnibal.dev ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ရေးဆွဲထားပါတယ် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50337608) · [Source](https://chalmovsky.com/posts/wtf-ubuntu)
+[Discuss on HN](https://news.ycombinator.com/item?id=50351111) · [Source](https://honnibal.dev/blog/astra-read-write-misleading)
 
-3. Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။
+3. ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။
 
-🔶 Hacker News · ⬆️ 533 points · 💬 116 comments · 👤 ingve
+🔶 Hacker News · ⬆️ 782 points · 💬 312 comments · 👤 xx_ns
 
-A link to blog.mistys-internet.website titled "If you love a website, back it up", one of the highest-scoring stories on the front page, drawing significant discussion.
+"Jailbreaking my car's navigation system just so I can change the time" လို့ ခေါင်းစဉ်နဲ့ blog.nns.ee ကို ပေးထားတဲ့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်က အမှတ်အများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်တဲ့ active discussion thread တစ်ခုပါ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50336518) · [Source](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50339288) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
 
-4. Ubuntu သည်ရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်း Linux 0day RCE အတွက် patch ကိုမထုတ်ပေးသေးပါ
+4. ငါ့လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည် မော်ဒယ်အလေးချိန်များကိုလည်း အဓိပ္ပာယ်ဖွင့်ဆိုနိုင်သည် ။
 
-🔶 Hacker News · ⬆️ 483 points · 💬 137 comments · 👤 majorchord
+🔶 Hacker News · ⬆️ 603 points · 💬 178 comments · 👤 theanonymousone
 
-Freenode.net သို့ "Ubuntu သည် Linux 0day RCE အတွက် patch ကိုရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်းမထုတ်ပေးသေးပါ" ဟုအမည်ပေးထားသော link တစ်ခုသည်ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+Simonwillison.net သို့ "ကျွန်ုပ် ၏ လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည်မော်ဒယ်အလေးချိန်ကိုအဓိပ္ပါယ်ဖွင့်ဆိုနိုင်သည်" ဟုအမည်ပေးထားသော link တစ်ခုသည်မျက်နှာပြင်ပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50341462) · [Source](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432)
+[Discuss on HN](https://news.ycombinator.com/item?id=50355251) · [Source](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
 
-5. US boy names that became girl names and vice versa
+5. Stringman, တစ်ဦး $ 800 ပွင့်လင်းအရင်းအမြစ်အခန်းစကေး gripper စက်ရုပ်
 
-🔶 Hacker News · ⬆️ 393 points · 💬 370 comments · 👤 xoobdev
+🔶 Hacker News · ⬆️ 566 points · 💬 193 comments · 👤 nharada
 
-A link to namedaisy.com titled "US boy names that became girl names and vice versa", a popular story on the front page, with an active discussion thread.
+"Stringman, an $ 800 open-source room scale gripper robot" ခေါင်းစဉ်ဖြင့် neufangled.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50339397) · [Source](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+[Discuss on HN](https://news.ycombinator.com/item?id=50354358) · [Source](https://neufangled.com/)
 
-6. ဤအမိန့်သည် ကယ်လီဖိုးနီးယား၏ လူထုကျန်းမာရေးကို ကာကွယ်ရန် ထုတ်ပြန်ခြင်း ဖြစ်သည်။
+6. AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm
 
-🔶 Hacker News · ⬆️ 335 points · 💬 248 comments · 👤 cdrnsf
+🔶 Hacker News · ⬆️ 462 points · 💬 192 comments · 👤 bookofjoe
 
-&quot;လူထုကို ကာကွယ်ဖို့ Anthropic ရဲ့ IPO ကို SEC က ပိတ်ဆို့သင့်တယ်&quot; လို့ ခေါင်းစဉ်တပ်ထားတဲ့ techpolicy.press ကို လင့်ခ်တစ်ခု ပေးထားပြီး အဓိက ဆွေးနွေးမှုတွေ ရှိနေပါတယ်။
+Arstechnica.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50344919) · [Source](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50336918) · [Source](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
 
-7. HN ကိုပြပါ: voxels ဖြင့် ဝါဆော - မြို့လယ်ခေါင်၏ အပြန်အလှန်တုံ့ပြန်နိုင်သော 3D မြေပုံ
+7. Safari က 27.3 အတွက်လိုက်လျောညီထွေမှောင်မိုက် Mode ကိုမိတ်ဆက်
 
-🔶 Hacker News · ⬆️ 266 points · 💬 42 comments · 👤 stared
+🔶 Hacker News · ⬆️ 416 points · 💬 222 comments · 👤 paddingtone
 
-&quot;Show HN: Warsaw in voxels – An interactive 3D map of the city centre&quot; ဟု ခေါင်းစဉ်တပ်ထားသော p.migdal.pl သို့ လင့်ခ်တစ်ခု၊ ပထမစာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ်။
+Webkit.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "Safari သည် Adaptive Dark Mode ကို ၂၇. ၃ တွင်မိတ်ဆက်သည်" ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50339221) · [Source](https://p.migdal.pl/warsaw-vibe-voxel/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50358562) · [Source](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
 
-8. Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏အမြင်
+8. ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။
 
-🦞 Lobsters · ⬆️ 145 points · 💬 20 comments · 👤 typesanitizer
+🦞 Lobsters · ⬆️ 157 points · 💬 10 comments · 👤 xx
 
-&quot;Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏ ရှုထောင့်&quot; ဟု ခေါင်းစဉ်တပ်ထားသော typesanitizer.com သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/s2qeww) · [Source](https://typesanitizer.com/blog/scion.html)
-
-9. အချိန်ပြောင်းလို့ရအောင် ကားရဲ့ navigation system ကို jailbreak လုပ်ခြင်း
-
-🦞 Lobsters · ⬆️ 102 points · 💬 5 comments · 👤 xx
-
-&quot;အချိန်ကို ပြောင်းလဲနိုင်ဖို့ ကားရဲ့ လမ်းညွှန်စနစ်ကို Jailbreaking လုပ်ခြင်း&quot; လို့ ခေါင်းစဉ်တပ်ထားတဲ့ blog.nns.ee ကို လင့်ခ်တစ်ခု ပေးထားပါတယ်။
+Blog.nns.ee ခေါင်းစဉ်နဲ့ link တစ်ခု "Jailbreaking my car's navigation system just so I can change the time."
 
 [Discuss on Lobsters](https://lobste.rs/s/qvdatp) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
 
-10. OpenBSD အတွက် GEFS (Good Enough File System) တွင် လုပ်ဆောင်နေသော လုပ်ငန်းစဉ်များ တိုးတက်နေပါသည်။
+9. ဆယ်စုနှစ်တစ်ခု Bugs သတ်ခြင်း
 
-🦞 Lobsters · ⬆️ 94 points · 💬 11 comments · 👤 jbauer
+🦞 Lobsters · ⬆️ 108 points · 💬 17 comments · 👤 acg
 
-"OpenBSD တိုးတက်မှုများအတွက် GEFS (အဆိုပါကောင်းလုံလောက်သောဖိုင်စနစ်) အပေါ်အလုပ်" ခေါင်းစဉ် undeadly.org မှ link တစ်ခု ။
+Alangrow.com မှ link တစ်ခုခေါင်းစဉ် "လူသတ်သမား Bugs ၏ ဆယ်စုနှစ်တစ်ခု" ။
 
-[Discuss on Lobsters](https://lobste.rs/s/zjjvbo) · [Source](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
+[Discuss on Lobsters](https://lobste.rs/s/wgoato) · [Source](https://alangrow.com/blog/a-decade-of-kill-bugs)
 
-*daily-tech-digest · MileFisher · 2026-11-03T09:07:35.393Z*
+10. ဤနောက်ခံအသံသည် သင် ၏ တည်နေရာအတိအကျကို ယိုစိမ့်စေပါသည်
+
+🦞 Lobsters · ⬆️ 100 points · 💬 7 comments · 👤 fanf
+
+Youtu.be သို့ "ဤနောက်ခံအသံသည်သင် ၏ တည်နေရာအတိအကျကိုယိုစိမ့်စေသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+
+[Discuss on Lobsters](https://lobste.rs/s/s1btqo) · [Source](https://youtu.be/UytYrhYLOKI)
+
+*daily-tech-digest · MileFisher · 2026-11-04T08:44:09.028Z*

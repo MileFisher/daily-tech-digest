@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
-      "id": "item?id=50341174",
+      "id": "item?id=50354960",
       "title": {
-        "en": "Astra can read and write weights to improve Qwen",
-        "my": "လက်ခံဖြတ်ပိုင်းများကို မှန်ကန်စွာ ရေးခြင်းဖတ်ခြင်း "
+        "en": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "my": "Postman သည် AI plugins များကိုတိတ်ဆိတ်စွာအလိုအလျောက်တပ်ဆင်ပြီး API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 2542,
-      "comments": 784,
-      "author": "dbreunig",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50341174"
+      "score": 1240,
+      "comments": 408,
+      "author": "sidgarimella",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "discussUrl": "https://news.ycombinator.com/item?id=50354960"
     },
     {
-      "id": "item?id=50337608",
+      "id": "item?id=50351111",
       "title": {
-        "en": "WTF Ubuntu?",
-        "my": "^Ubuntu ကိုသွင်းပါ"
+        "en": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "my": "'Astra can read and write weights to improve Qwen' ပို့စ်သည် မှားယွင်းနေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1499,
-      "comments": 626,
-      "author": "chalmovsky",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "discussUrl": "https://news.ycombinator.com/item?id=50337608"
+      "score": 969,
+      "comments": 201,
+      "author": "syllogism",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "discussUrl": "https://news.ycombinator.com/item?id=50351111"
     },
     {
-      "id": "item?id=50336518",
+      "id": "item?id=50339288",
       "title": {
-        "en": "If you love a website, back it up",
-        "my": "Website တစ္ခုကို ခ်စ္တယ္ဆိုရင္ေတာ့ ေအာက္ကလင့္မွာ ေဒါင္းယူပါ ။"
+        "en": "Jailbreaking my car's navigation system just so I can change the time",
+        "my": "ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 533,
-      "comments": 116,
-      "author": "ingve",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50336518"
+      "score": 782,
+      "comments": 312,
+      "author": "xx_ns",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50339288"
     },
     {
-      "id": "item?id=50341462",
+      "id": "item?id=50355251",
       "title": {
-        "en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-        "my": "Ubuntu သည်ရက်သတ္တပတ် ၃ ပတ်နီးပါးအတွင်း Linux 0day RCE အတွက် patch ကိုမထုတ်ပေးသေးပါ"
+        "en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "my": "ငါ့လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည် မော်ဒယ်အလေးချိန်များကိုလည်း အဓိပ္ပာယ်ဖွင့်ဆိုနိုင်သည် ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 483,
-      "comments": 137,
-      "author": "majorchord",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "discussUrl": "https://news.ycombinator.com/item?id=50341462"
+      "score": 603,
+      "comments": 178,
+      "author": "theanonymousone",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50355251"
     },
     {
-      "id": "item?id=50339397",
+      "id": "item?id=50354358",
       "title": {
-        "en": "US boy names that became girl names and vice versa",
-        "my": "US boy names that became girl names and vice versa"
+        "en": "Stringman, an $800 open-source room scale gripper robot",
+        "my": "Stringman, တစ်ဦး $ 800 ပွင့်လင်းအရင်းအမြစ်အခန်းစကေး gripper စက်ရုပ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 393,
-      "comments": 370,
-      "author": "xoobdev",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "discussUrl": "https://news.ycombinator.com/item?id=50339397"
+      "score": 566,
+      "comments": 193,
+      "author": "nharada",
+      "url": "https://neufangled.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50354358"
     },
     {
-      "id": "item?id=50344919",
+      "id": "item?id=50336918",
       "title": {
-        "en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-        "my": "ဤအမိန့်သည် ကယ်လီဖိုးနီးယား၏ လူထုကျန်းမာရေးကို ကာကွယ်ရန် ထုတ်ပြန်ခြင်း ဖြစ်သည်။"
+        "en": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "my": "AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 335,
-      "comments": 248,
-      "author": "cdrnsf",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50344919"
+      "score": 462,
+      "comments": 192,
+      "author": "bookofjoe",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50336918"
     },
     {
-      "id": "item?id=50339221",
+      "id": "item?id=50358562",
       "title": {
-        "en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-        "my": "HN ကိုပြပါ: voxels ဖြင့် ဝါဆော - မြို့လယ်ခေါင်၏ အပြန်အလှန်တုံ့ပြန်နိုင်သော 3D မြေပုံ"
+        "en": "Safari introduces Adaptive Dark Mode in 27.3",
+        "my": "Safari က 27.3 အတွက်လိုက်လျောညီထွေမှောင်မိုက် Mode ကိုမိတ်ဆက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 266,
-      "comments": 42,
-      "author": "stared",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50339221"
-    },
-    {
-      "id": "s2qeww",
-      "title": {
-        "en": "An outsider's perspective on Scion and Mononoke",
-        "my": "Scion နှင့် Mononoke အပေါ် ပြင်ပလူတစ်ဦး၏အမြင်"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 145,
-      "comments": 20,
-      "author": "typesanitizer",
-      "url": "https://typesanitizer.com/blog/scion.html",
-      "discussUrl": "https://lobste.rs/s/s2qeww"
+      "score": 416,
+      "comments": 222,
+      "author": "paddingtone",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50358562"
     },
     {
       "id": "qvdatp",
       "title": {
         "en": "Jailbreaking my car's navigation system just so I can change the time",
-        "my": "အချိန်ပြောင်းလို့ရအောင် ကားရဲ့ navigation system ကို jailbreak လုပ်ခြင်း"
+        "my": "ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 102,
-      "comments": 5,
+      "score": 157,
+      "comments": 10,
       "author": "xx",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "discussUrl": "https://lobste.rs/s/qvdatp"
     },
     {
-      "id": "zjjvbo",
+      "id": "wgoato",
       "title": {
-        "en": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
-        "my": "OpenBSD အတွက် GEFS (Good Enough File System) တွင် လုပ်ဆောင်နေသော လုပ်ငန်းစဉ်များ တိုးတက်နေပါသည်။"
+        "en": "A Decade of Kill Bugs",
+        "my": "ဆယ်စုနှစ်တစ်ခု Bugs သတ်ခြင်း"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 94,
-      "comments": 11,
-      "author": "jbauer",
-      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
-      "discussUrl": "https://lobste.rs/s/zjjvbo"
+      "score": 108,
+      "comments": 17,
+      "author": "acg",
+      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
+      "discussUrl": "https://lobste.rs/s/wgoato"
+    },
+    {
+      "id": "s1btqo",
+      "title": {
+        "en": "This background sound leaks your exact location",
+        "my": "ဤနောက်ခံအသံသည် သင် ၏ တည်နေရာအတိအကျကို ယိုစိမ့်စေပါသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 100,
+      "comments": 7,
+      "author": "fanf",
+      "url": "https://youtu.be/UytYrhYLOKI",
+      "discussUrl": "https://lobste.rs/s/s1btqo"
     }
   ]
 }

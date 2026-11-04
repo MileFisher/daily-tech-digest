@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-04",
+  "items": [
+    {
+      "id": "item?id=50354960",
+      "title": {
+        "en": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "my": "Postman သည် AI plugins များကိုတိတ်ဆိတ်စွာအလိုအလျောက်တပ်ဆင်ပြီး API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1240,
+      "comments": 408,
+      "author": "sidgarimella",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "discussUrl": "https://news.ycombinator.com/item?id=50354960"
+    },
+    {
+      "id": "item?id=50351111",
+      "title": {
+        "en": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "my": "'Astra can read and write weights to improve Qwen' ပို့စ်သည် မှားယွင်းနေသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 969,
+      "comments": 201,
+      "author": "syllogism",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "discussUrl": "https://news.ycombinator.com/item?id=50351111"
+    },
+    {
+      "id": "item?id=50339288",
+      "title": {
+        "en": "Jailbreaking my car's navigation system just so I can change the time",
+        "my": "ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 782,
+      "comments": 312,
+      "author": "xx_ns",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50339288"
+    },
+    {
+      "id": "item?id=50355251",
+      "title": {
+        "en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "my": "ငါ့လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည် မော်ဒယ်အလေးချိန်များကိုလည်း အဓိပ္ပာယ်ဖွင့်ဆိုနိုင်သည် ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 603,
+      "comments": 178,
+      "author": "theanonymousone",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50355251"
+    },
+    {
+      "id": "item?id=50354358",
+      "title": {
+        "en": "Stringman, an $800 open-source room scale gripper robot",
+        "my": "Stringman, တစ်ဦး $ 800 ပွင့်လင်းအရင်းအမြစ်အခန်းစကေး gripper စက်ရုပ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 566,
+      "comments": 193,
+      "author": "nharada",
+      "url": "https://neufangled.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50354358"
+    },
+    {
+      "id": "item?id=50336918",
+      "title": {
+        "en": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "my": "AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 462,
+      "comments": 192,
+      "author": "bookofjoe",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50336918"
+    },
+    {
+      "id": "item?id=50358562",
+      "title": {
+        "en": "Safari introduces Adaptive Dark Mode in 27.3",
+        "my": "Safari က 27.3 အတွက်လိုက်လျောညီထွေမှောင်မိုက် Mode ကိုမိတ်ဆက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 416,
+      "comments": 222,
+      "author": "paddingtone",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50358562"
+    },
+    {
+      "id": "qvdatp",
+      "title": {
+        "en": "Jailbreaking my car's navigation system just so I can change the time",
+        "my": "ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 157,
+      "comments": 10,
+      "author": "xx",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "discussUrl": "https://lobste.rs/s/qvdatp"
+    },
+    {
+      "id": "wgoato",
+      "title": {
+        "en": "A Decade of Kill Bugs",
+        "my": "ဆယ်စုနှစ်တစ်ခု Bugs သတ်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 108,
+      "comments": 17,
+      "author": "acg",
+      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
+      "discussUrl": "https://lobste.rs/s/wgoato"
+    },
+    {
+      "id": "s1btqo",
+      "title": {
+        "en": "This background sound leaks your exact location",
+        "my": "ဤနောက်ခံအသံသည် သင် ၏ တည်နေရာအတိအကျကို ယိုစိမ့်စေပါသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 100,
+      "comments": 7,
+      "author": "fanf",
+      "url": "https://youtu.be/UytYrhYLOKI",
+      "discussUrl": "https://lobste.rs/s/s1btqo"
+    }
+  ]
+}
