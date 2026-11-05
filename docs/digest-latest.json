@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "items": [
     {
-      "id": "item?id=50354960",
+      "id": "item?id=50364336",
       "title": {
-        "en": "Postman silently auto-installs AI plugins and attempts to share all API data",
-        "my": "Postman သည် AI plugins များကိုတိတ်ဆိတ်စွာအလိုအလျောက်တပ်ဆင်ပြီး API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းသည်"
+        "en": "AI is forcing us to pay off 40 years of technical debt",
+        "my": "ႏွစ္ (၄၀) ျပည့္ အခမ္းအနား က်င္းပရန္ စီစဥ္ေန"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1240,
-      "comments": 408,
-      "author": "sidgarimella",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "discussUrl": "https://news.ycombinator.com/item?id=50354960"
+      "score": 1175,
+      "comments": 684,
+      "author": "pseudolus",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "discussUrl": "https://news.ycombinator.com/item?id=50364336"
     },
     {
-      "id": "item?id=50351111",
+      "id": "item?id=50371246",
       "title": {
-        "en": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-        "my": "'Astra can read and write weights to improve Qwen' ပို့စ်သည် မှားယွင်းနေသည်"
+        "en": "Residential proxies detected on White House network",
+        "my": "Home သ တင်း များ ဒေ သ တွင်း အိမ်ဖြူတော်တွင် ရှာဖွေတွေ့ရှိ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 969,
-      "comments": 201,
-      "author": "syllogism",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "discussUrl": "https://news.ycombinator.com/item?id=50351111"
+      "score": 1002,
+      "comments": 311,
+      "author": "Rasbora",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "discussUrl": "https://news.ycombinator.com/item?id=50371246"
     },
     {
-      "id": "item?id=50339288",
+      "id": "item?id=50366999",
       "title": {
-        "en": "Jailbreaking my car's navigation system just so I can change the time",
-        "my": "ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။"
+        "en": "Kimi K3.1 Pro model weights are out",
+        "my": "Kimi K3.1 Pro မော်ဒယ်အလေးချိန်များထွက်ရှိ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 782,
-      "comments": 312,
-      "author": "xx_ns",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50339288"
+      "score": 514,
+      "comments": 143,
+      "author": "abrarthought",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "discussUrl": "https://news.ycombinator.com/item?id=50366999"
     },
     {
-      "id": "item?id=50355251",
+      "id": "item?id=50372929",
       "title": {
-        "en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-        "my": "ငါ့လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည် မော်ဒယ်အလေးချိန်များကိုလည်း အဓိပ္ပာယ်ဖွင့်ဆိုနိုင်သည် ။"
+        "en": "A thousand fewer paths to root",
+        "my": "အမြစ်တွယ်ဖို့လမ်းတစ်ထောင်လျော့နည်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 603,
-      "comments": 178,
-      "author": "theanonymousone",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50355251"
+      "score": 313,
+      "comments": 223,
+      "author": "dangelosaurus",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50372929"
     },
     {
-      "id": "item?id=50354358",
+      "id": "item?id=50369106",
       "title": {
-        "en": "Stringman, an $800 open-source room scale gripper robot",
-        "my": "Stringman, တစ်ဦး $ 800 ပွင့်လင်းအရင်းအမြစ်အခန်းစကေး gripper စက်ရုပ်"
+        "en": "A new Go API for JSON",
+        "my": "JSON အတွက် Go API အသစ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 566,
-      "comments": 193,
-      "author": "nharada",
-      "url": "https://neufangled.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50354358"
+      "score": 304,
+      "comments": 140,
+      "author": "olexsmir",
+      "url": "https://go.dev/blog/jsonv2",
+      "discussUrl": "https://news.ycombinator.com/item?id=50369106"
     },
     {
-      "id": "item?id=50336918",
+      "id": "item?id=50366522",
       "title": {
-        "en": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-        "my": "AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm"
+        "en": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+        "my": "Guerrilla စက်ဘီးလမ်းကြောင်း: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 462,
-      "comments": 192,
-      "author": "bookofjoe",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50336918"
+      "score": 300,
+      "comments": 227,
+      "author": "zenincognito",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50366522"
     },
     {
-      "id": "item?id=50358562",
+      "id": "item?id=50369925",
       "title": {
-        "en": "Safari introduces Adaptive Dark Mode in 27.3",
-        "my": "Safari က 27.3 အတွက်လိုက်လျောညီထွေမှောင်မိုက် Mode ကိုမိတ်ဆက်"
+        "en": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "my": "Ripple-65B Preview: အေးဂျင့် coding အပေါ်အမေရိကန်ပွင့်လင်းအလေးချိန် Sota"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 416,
-      "comments": 222,
-      "author": "paddingtone",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50358562"
+      "score": 287,
+      "comments": 103,
+      "author": "Philpax",
+      "url": "https://www.ricursive.com/ripple",
+      "discussUrl": "https://news.ycombinator.com/item?id=50369925"
     },
     {
-      "id": "qvdatp",
+      "id": "fgucra",
       "title": {
-        "en": "Jailbreaking my car's navigation system just so I can change the time",
-        "my": "ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။"
+        "en": "Observations from Running stealmybitcoin.com",
+        "my": "ကနေလေ့လာတွေ့ရှိချက်များ running stealmybitcoin.com"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 157,
-      "comments": 10,
-      "author": "xx",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "discussUrl": "https://lobste.rs/s/qvdatp"
+      "score": 117,
+      "comments": 2,
+      "author": "wezm",
+      "url": "https://pavursec.com/blog/stealmybitcoin/",
+      "discussUrl": "https://lobste.rs/s/fgucra"
     },
     {
-      "id": "wgoato",
+      "id": "chypzr",
       "title": {
-        "en": "A Decade of Kill Bugs",
-        "my": "ဆယ်စုနှစ်တစ်ခု Bugs သတ်ခြင်း"
+        "en": "Death comes for XSLT",
+        "my": "XSLT အတွက် သေခြင်းရောက်လာသည်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 108,
-      "comments": 17,
-      "author": "acg",
-      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
-      "discussUrl": "https://lobste.rs/s/wgoato"
+      "score": 106,
+      "comments": 93,
+      "author": "nytpu",
+      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "discussUrl": "https://lobste.rs/s/chypzr"
     },
     {
-      "id": "s1btqo",
+      "id": "cozhtg",
       "title": {
-        "en": "This background sound leaks your exact location",
-        "my": "ဤနောက်ခံအသံသည် သင် ၏ တည်နေရာအတိအကျကို ယိုစိမ့်စေပါသည်"
+        "en": "So my ISP was hijacking my DNS",
+        "my": "ဒီတော ့ ကျွန ် မရဲ ့ ISP က ကျွန ် မရဲ ့ DNS ကို လုပ ် ခဲ ့ တယ ်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 100,
-      "comments": 7,
-      "author": "fanf",
-      "url": "https://youtu.be/UytYrhYLOKI",
-      "discussUrl": "https://lobste.rs/s/s1btqo"
+      "score": 85,
+      "comments": 12,
+      "author": "dracarys_18",
+      "url": "https://karthihegde.dev/posts/dns_tampering",
+      "discussUrl": "https://lobste.rs/s/cozhtg"
     }
   ]
 }

@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "id": "item?id=50364336",
+      "title": {
+        "en": "AI is forcing us to pay off 40 years of technical debt",
+        "my": "ႏွစ္ (၄၀) ျပည့္ အခမ္းအနား က်င္းပရန္ စီစဥ္ေန"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1175,
+      "comments": 684,
+      "author": "pseudolus",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "discussUrl": "https://news.ycombinator.com/item?id=50364336"
+    },
+    {
+      "id": "item?id=50371246",
+      "title": {
+        "en": "Residential proxies detected on White House network",
+        "my": "Home သ တင်း များ ဒေ သ တွင်း အိမ်ဖြူတော်တွင် ရှာဖွေတွေ့ရှိ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1002,
+      "comments": 311,
+      "author": "Rasbora",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "discussUrl": "https://news.ycombinator.com/item?id=50371246"
+    },
+    {
+      "id": "item?id=50366999",
+      "title": {
+        "en": "Kimi K3.1 Pro model weights are out",
+        "my": "Kimi K3.1 Pro မော်ဒယ်အလေးချိန်များထွက်ရှိ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 514,
+      "comments": 143,
+      "author": "abrarthought",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "discussUrl": "https://news.ycombinator.com/item?id=50366999"
+    },
+    {
+      "id": "item?id=50372929",
+      "title": {
+        "en": "A thousand fewer paths to root",
+        "my": "အမြစ်တွယ်ဖို့လမ်းတစ်ထောင်လျော့နည်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 313,
+      "comments": 223,
+      "author": "dangelosaurus",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50372929"
+    },
+    {
+      "id": "item?id=50369106",
+      "title": {
+        "en": "A new Go API for JSON",
+        "my": "JSON အတွက် Go API အသစ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 304,
+      "comments": 140,
+      "author": "olexsmir",
+      "url": "https://go.dev/blog/jsonv2",
+      "discussUrl": "https://news.ycombinator.com/item?id=50369106"
+    },
+    {
+      "id": "item?id=50366522",
+      "title": {
+        "en": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+        "my": "Guerrilla စက်ဘီးလမ်းကြောင်း: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 300,
+      "comments": 227,
+      "author": "zenincognito",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50366522"
+    },
+    {
+      "id": "item?id=50369925",
+      "title": {
+        "en": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "my": "Ripple-65B Preview: အေးဂျင့် coding အပေါ်အမေရိကန်ပွင့်လင်းအလေးချိန် Sota"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 287,
+      "comments": 103,
+      "author": "Philpax",
+      "url": "https://www.ricursive.com/ripple",
+      "discussUrl": "https://news.ycombinator.com/item?id=50369925"
+    },
+    {
+      "id": "fgucra",
+      "title": {
+        "en": "Observations from Running stealmybitcoin.com",
+        "my": "ကနေလေ့လာတွေ့ရှိချက်များ running stealmybitcoin.com"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 117,
+      "comments": 2,
+      "author": "wezm",
+      "url": "https://pavursec.com/blog/stealmybitcoin/",
+      "discussUrl": "https://lobste.rs/s/fgucra"
+    },
+    {
+      "id": "chypzr",
+      "title": {
+        "en": "Death comes for XSLT",
+        "my": "XSLT အတွက် သေခြင်းရောက်လာသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 106,
+      "comments": 93,
+      "author": "nytpu",
+      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "discussUrl": "https://lobste.rs/s/chypzr"
+    },
+    {
+      "id": "cozhtg",
+      "title": {
+        "en": "So my ISP was hijacking my DNS",
+        "my": "ဒီတော ့ ကျွန ် မရဲ ့ ISP က ကျွန ် မရဲ ့ DNS ကို လုပ ် ခဲ ့ တယ ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 85,
+      "comments": 12,
+      "author": "dracarys_18",
+      "url": "https://karthihegde.dev/posts/dns_tampering",
+      "discussUrl": "https://lobste.rs/s/cozhtg"
+    }
+  ]
+}

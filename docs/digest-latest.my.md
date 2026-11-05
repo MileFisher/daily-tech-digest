@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-04
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-05
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:44 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:06 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Postman သည် AI plugins များကိုတိတ်ဆိတ်စွာအလိုအလျောက်တပ်ဆင်ပြီး API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းသည်
+1. ႏွစ္ (၄၀) ျပည့္ အခမ္းအနား က်င္းပရန္ စီစဥ္ေန
 
-🔶 Hacker News · ⬆️ 1240 points · 💬 408 comments · 👤 sidgarimella
+🔶 Hacker News · ⬆️ 1175 points · 💬 684 comments · 👤 pseudolus
 
-Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Postman တိတ်ဆိတ်စွာ AI plugins များနှင့် API ဒေတာအားလုံးကိုမျှဝေရန်ကြိုးပမ်းမှုများ", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+&quot;AI က ကျွန်ုပ်တို့ကို နှစ် ၄၀ ကြာ နည်းပညာဆိုင်ရာ အကြွေးကို ပေးဆပ်ဖို့ ဖိအားပေးနေတယ်&quot; လို့ ခေါင်းစဉ်တပ်ထားတဲ့ spectrum.ieee.org ကို လင့်ခ်တစ်ခု ပေးထားပြီး အဲဒီလင့်ခ်ဟာ တက်ကြွတဲ့ ဆွေးနွေးမှု thread တစ်ခုနဲ့အတူ ပထမစာမျက်နှာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခု ဖြစ်ပါတယ်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50354960) · [Source](https://github.com/postmanlabs/postman-app-support/issues/14370)
+[Discuss on HN](https://news.ycombinator.com/item?id=50364336) · [Source](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
-2. 'Astra can read and write weights to improve Qwen' ပို့စ်သည် မှားယွင်းနေသည်
+2. Home သ တင်း များ ဒေ သ တွင်း အိမ်ဖြူတော်တွင် ရှာဖွေတွေ့ရှိ
 
-🔶 Hacker News · ⬆️ 969 points · 💬 201 comments · 👤 syllogism
+🔶 Hacker News · ⬆️ 1002 points · 💬 311 comments · 👤 Rasbora
 
-"The 'Astra can read and write weights to improve Qwen' post is misleading" လို့ ခေါင်းစဉ်နဲ့ honnibal.dev ရဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ရေးဆွဲထားပါတယ် ။
+< < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < > < < < < < < < < < < <
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50351111) · [Source](https://honnibal.dev/blog/astra-read-write-misleading)
+[Discuss on HN](https://news.ycombinator.com/item?id=50371246) · [Source](https://layer3intel.com/blog/residential-proxies-white-house-network)
 
-3. ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။
+3. Kimi K3.1 Pro မော်ဒယ်အလေးချိန်များထွက်ရှိ
 
-🔶 Hacker News · ⬆️ 782 points · 💬 312 comments · 👤 xx_ns
+🔶 Hacker News · ⬆️ 514 points · 💬 143 comments · 👤 abrarthought
 
-"Jailbreaking my car's navigation system just so I can change the time" လို့ ခေါင်းစဉ်နဲ့ blog.nns.ee ကို ပေးထားတဲ့ link တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်က အမှတ်အများဆုံး ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်တဲ့ active discussion thread တစ်ခုပါ ။
+"Kimi K3.1 Pro model weights are out" ခေါင်းစဉ်ဖြင့် huggingface.co သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50339288) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50366999) · [Source](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
 
-4. ငါ့လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည် မော်ဒယ်အလေးချိန်များကိုလည်း အဓိပ္ပာယ်ဖွင့်ဆိုနိုင်သည် ။
+4. အမြစ်တွယ်ဖို့လမ်းတစ်ထောင်လျော့နည်း
 
-🔶 Hacker News · ⬆️ 603 points · 💬 178 comments · 👤 theanonymousone
+🔶 Hacker News · ⬆️ 313 points · 💬 223 comments · 👤 dangelosaurus
 
-Simonwillison.net သို့ "ကျွန်ုပ် ၏ လက်ပ်တော့ပေါ်ရှိ Qwen 3.8 27B သည်မော်ဒယ်အလေးချိန်ကိုအဓိပ္ပါယ်ဖွင့်ဆိုနိုင်သည်" ဟုအမည်ပေးထားသော link တစ်ခုသည်မျက်နှာပြင်ပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲသည် ။
+"အမြစ်တွယ်ရန် လမ်းကြောင်းတစ်ထောင်လျော့နည်း" ခေါင်းစဉ်ဖြင့် openai.com သို့ ချိတ်ဆက်ထားသော လင့်ခ် ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50355251) · [Source](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50372929) · [Source](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 
-5. Stringman, တစ်ဦး $ 800 ပွင့်လင်းအရင်းအမြစ်အခန်းစကေး gripper စက်ရုပ်
+5. JSON အတွက် Go API အသစ်
 
-🔶 Hacker News · ⬆️ 566 points · 💬 193 comments · 👤 nharada
+🔶 Hacker News · ⬆️ 304 points · 💬 140 comments · 👤 olexsmir
 
-"Stringman, an $ 800 open-source room scale gripper robot" ခေါင်းစဉ်ဖြင့် neufangled.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
+Go.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "JSON အတွက် Go API အသစ်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50354358) · [Source](https://neufangled.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50369106) · [Source](https://go.dev/blog/jsonv2)
 
-6. AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm
+6. Guerrilla စက်ဘီးလမ်းကြောင်း: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)
 
-🔶 Hacker News · ⬆️ 462 points · 💬 192 comments · 👤 bookofjoe
+🔶 Hacker News · ⬆️ 300 points · 💬 227 comments · 👤 zenincognito
 
-Arstechnica.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "AI ကိုမော်ကွန်းဝယ်လိုအားလောင်စာအဖြစ်တိပ်ထုတ်လုပ်မှု 5x မြှင့်တင်ရန် Fujifilm", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+99percentinvisible.org ကို "Guerrilla ဆိုင်ကယ်လမ်းကြောင်းများ: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)" ခေါင်းစဉ်ဖြင့် link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50336918) · [Source](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50366522) · [Source](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
 
-7. Safari က 27.3 အတွက်လိုက်လျောညီထွေမှောင်မိုက် Mode ကိုမိတ်ဆက်
+7. Ripple-65B Preview: အေးဂျင့် coding အပေါ်အမေရိကန်ပွင့်လင်းအလေးချိန် Sota
 
-🔶 Hacker News · ⬆️ 416 points · 💬 222 comments · 👤 paddingtone
+🔶 Hacker News · ⬆️ 287 points · 💬 103 comments · 👤 Philpax
 
-Webkit.org ခေါင်းစဉ်ဖြင့် link တစ်ခု "Safari သည် Adaptive Dark Mode ကို ၂၇. ၃ တွင်မိတ်ဆက်သည်" ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"Ripple-65B Preview: Agentic Coding အပေါ်အမေရိကန်ပွင့်လင်း-အလေးချိန် SOTA" ခေါင်းစဉ်ဖြင့် ricursive.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50358562) · [Source](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50369925) · [Source](https://www.ricursive.com/ripple)
 
-8. ငါ့ရဲ့ ကားရဲ့ လမ်းကြောင်းပြစနစ်ကို အကျဉ်းချလိုက်ရုံနဲ့ ငါ အချိန်ကို ပြောင်းလဲနိုင်တယ် ။
+8. ကနေလေ့လာတွေ့ရှိချက်များ running stealmybitcoin.com
 
-🦞 Lobsters · ⬆️ 157 points · 💬 10 comments · 👤 xx
+🦞 Lobsters · ⬆️ 117 points · 💬 2 comments · 👤 wezm
 
-Blog.nns.ee ခေါင်းစဉ်နဲ့ link တစ်ခု "Jailbreaking my car's navigation system just so I can change the time."
+Pavursec.com မှတစ်ဦးက link ကိုခေါင်းစဉ် "ပြေး stealmybitcoin.com ထံမှလေ့လာတွေ့ရှိချက်များ" ။
 
-[Discuss on Lobsters](https://lobste.rs/s/qvdatp) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
+[Discuss on Lobsters](https://lobste.rs/s/fgucra) · [Source](https://pavursec.com/blog/stealmybitcoin/)
 
-9. ဆယ်စုနှစ်တစ်ခု Bugs သတ်ခြင်း
+9. XSLT အတွက် သေခြင်းရောက်လာသည်
 
-🦞 Lobsters · ⬆️ 108 points · 💬 17 comments · 👤 acg
+🦞 Lobsters · ⬆️ 106 points · 💬 93 comments · 👤 nytpu
 
-Alangrow.com မှ link တစ်ခုခေါင်းစဉ် "လူသတ်သမား Bugs ၏ ဆယ်စုနှစ်တစ်ခု" ။
+Dbushell.com မှ "သေခြင်းသည် XSLT အတွက်လာသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/wgoato) · [Source](https://alangrow.com/blog/a-decade-of-kill-bugs)
+[Discuss on Lobsters](https://lobste.rs/s/chypzr) · [Source](https://dbushell.com/2026/11/03/xslt-rip/)
 
-10. ဤနောက်ခံအသံသည် သင် ၏ တည်နေရာအတိအကျကို ယိုစိမ့်စေပါသည်
+10. ဒီတော ့ ကျွန ် မရဲ ့ ISP က ကျွန ် မရဲ ့ DNS ကို လုပ ် ခဲ ့ တယ ်
 
-🦞 Lobsters · ⬆️ 100 points · 💬 7 comments · 👤 fanf
+🦞 Lobsters · ⬆️ 85 points · 💬 12 comments · 👤 dracarys_18
 
-Youtu.be သို့ "ဤနောက်ခံအသံသည်သင် ၏ တည်နေရာအတိအကျကိုယိုစိမ့်စေသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Karthihegde.dev သို့ "ဒါကြောင့်ငါ့ ISP ကငါ့ DNS ကိုပြန်ပေးဆွဲနေသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/s1btqo) · [Source](https://youtu.be/UytYrhYLOKI)
+[Discuss on Lobsters](https://lobste.rs/s/cozhtg) · [Source](https://karthihegde.dev/posts/dns_tampering)
 
-*daily-tech-digest · MileFisher · 2026-11-04T08:44:09.028Z*
+*daily-tech-digest · MileFisher · 2026-11-05T09:06:25.660Z*

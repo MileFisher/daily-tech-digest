@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-04
+# 🗞️ Daily Tech Digest — 2026-11-05
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:44 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:06 ICT
 
 ---
 
-1. Postman silently auto-installs AI plugins and attempts to share all API data
+1. AI is forcing us to pay off 40 years of technical debt
 
-🔶 Hacker News · ⬆️ 1240 points · 💬 408 comments · 👤 sidgarimella
+🔶 Hacker News · ⬆️ 1175 points · 💬 684 comments · 👤 pseudolus
 
-A link to github.com titled "Postman silently auto-installs AI plugins and attempts to share all API data", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to spectrum.ieee.org titled "AI is forcing us to pay off 40 years of technical debt", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50354960) · [Source](https://github.com/postmanlabs/postman-app-support/issues/14370)
+[Discuss on HN](https://news.ycombinator.com/item?id=50364336) · [Source](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
-2. The 'Astra can read and write weights to improve Qwen' post is misleading
+2. Residential proxies detected on White House network
 
-🔶 Hacker News · ⬆️ 969 points · 💬 201 comments · 👤 syllogism
+🔶 Hacker News · ⬆️ 1002 points · 💬 311 comments · 👤 Rasbora
 
-A link to honnibal.dev titled "The 'Astra can read and write weights to improve Qwen' post is misleading", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to layer3intel.com titled "Residential proxies detected on White House network", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50351111) · [Source](https://honnibal.dev/blog/astra-read-write-misleading)
+[Discuss on HN](https://news.ycombinator.com/item?id=50371246) · [Source](https://layer3intel.com/blog/residential-proxies-white-house-network)
 
-3. Jailbreaking my car's navigation system just so I can change the time
+3. Kimi K3.1 Pro model weights are out
 
-🔶 Hacker News · ⬆️ 782 points · 💬 312 comments · 👤 xx_ns
+🔶 Hacker News · ⬆️ 514 points · 💬 143 comments · 👤 abrarthought
 
-A link to blog.nns.ee titled "Jailbreaking my car's navigation system just so I can change the time", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to huggingface.co titled "Kimi K3.1 Pro model weights are out", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50339288) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50366999) · [Source](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
 
-4. Qwen 3.8 27B on my laptop can interpret model weights, too
+4. A thousand fewer paths to root
 
-🔶 Hacker News · ⬆️ 603 points · 💬 178 comments · 👤 theanonymousone
+🔶 Hacker News · ⬆️ 313 points · 💬 223 comments · 👤 dangelosaurus
 
-A link to simonwillison.net titled "Qwen 3.8 27B on my laptop can interpret model weights, too", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to openai.com titled "A thousand fewer paths to root", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50355251) · [Source](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50372929) · [Source](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 
-5. Stringman, an $800 open-source room scale gripper robot
+5. A new Go API for JSON
 
-🔶 Hacker News · ⬆️ 566 points · 💬 193 comments · 👤 nharada
+🔶 Hacker News · ⬆️ 304 points · 💬 140 comments · 👤 olexsmir
 
-A link to neufangled.com titled "Stringman, an $800 open-source room scale gripper robot", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to go.dev titled "A new Go API for JSON", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50354358) · [Source](https://neufangled.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50369106) · [Source](https://go.dev/blog/jsonv2)
 
-6. Fujifilm to boost tape production 5x as AI fuels archiving demand
+6. Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)
 
-🔶 Hacker News · ⬆️ 462 points · 💬 192 comments · 👤 bookofjoe
+🔶 Hacker News · ⬆️ 300 points · 💬 227 comments · 👤 zenincognito
 
-A link to arstechnica.com titled "Fujifilm to boost tape production 5x as AI fuels archiving demand", a popular story on the front page, drawing significant discussion.
+A link to 99percentinvisible.org titled "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50336918) · [Source](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50366522) · [Source](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
 
-7. Safari introduces Adaptive Dark Mode in 27.3
+7. Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
 
-🔶 Hacker News · ⬆️ 416 points · 💬 222 comments · 👤 paddingtone
+🔶 Hacker News · ⬆️ 287 points · 💬 103 comments · 👤 Philpax
 
-A link to webkit.org titled "Safari introduces Adaptive Dark Mode in 27.3", a popular story on the front page, drawing significant discussion.
+A link to ricursive.com titled "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50358562) · [Source](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50369925) · [Source](https://www.ricursive.com/ripple)
 
-8. Jailbreaking my car's navigation system just so I can change the time
+8. Observations from Running stealmybitcoin.com
 
-🦞 Lobsters · ⬆️ 157 points · 💬 10 comments · 👤 xx
+🦞 Lobsters · ⬆️ 117 points · 💬 2 comments · 👤 wezm
 
-A link to blog.nns.ee titled "Jailbreaking my car's navigation system just so I can change the time".
+A link to pavursec.com titled "Observations from Running stealmybitcoin.com".
 
-[Discuss on Lobsters](https://lobste.rs/s/qvdatp) · [Source](https://blog.nns.ee/2026/11/02/renault-hack/)
+[Discuss on Lobsters](https://lobste.rs/s/fgucra) · [Source](https://pavursec.com/blog/stealmybitcoin/)
 
-9. A Decade of Kill Bugs
+9. Death comes for XSLT
 
-🦞 Lobsters · ⬆️ 108 points · 💬 17 comments · 👤 acg
+🦞 Lobsters · ⬆️ 106 points · 💬 93 comments · 👤 nytpu
 
-A link to alangrow.com titled "A Decade of Kill Bugs".
+A link to dbushell.com titled "Death comes for XSLT".
 
-[Discuss on Lobsters](https://lobste.rs/s/wgoato) · [Source](https://alangrow.com/blog/a-decade-of-kill-bugs)
+[Discuss on Lobsters](https://lobste.rs/s/chypzr) · [Source](https://dbushell.com/2026/11/03/xslt-rip/)
 
-10. This background sound leaks your exact location
+10. So my ISP was hijacking my DNS
 
-🦞 Lobsters · ⬆️ 100 points · 💬 7 comments · 👤 fanf
+🦞 Lobsters · ⬆️ 85 points · 💬 12 comments · 👤 dracarys_18
 
-A link to youtu.be titled "This background sound leaks your exact location".
+A link to karthihegde.dev titled "So my ISP was hijacking my DNS".
 
-[Discuss on Lobsters](https://lobste.rs/s/s1btqo) · [Source](https://youtu.be/UytYrhYLOKI)
+[Discuss on Lobsters](https://lobste.rs/s/cozhtg) · [Source](https://karthihegde.dev/posts/dns_tampering)
 
-*daily-tech-digest · MileFisher · 2026-11-04T08:44:09.028Z*
+*daily-tech-digest · MileFisher · 2026-11-05T09:06:25.660Z*
