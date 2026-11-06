@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-05
+# 🗞️ Daily Tech Digest — 2026-11-06
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:06 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:59 ICT
 
 ---
 
-1. AI is forcing us to pay off 40 years of technical debt
+1. sshole
 
-🔶 Hacker News · ⬆️ 1175 points · 💬 684 comments · 👤 pseudolus
+🔶 Hacker News · ⬆️ 2662 points · 💬 634 comments · 👤 josemrb
 
-A link to spectrum.ieee.org titled "AI is forcing us to pay off 40 years of technical debt", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to sshhole.com titled "sshole", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50364336) · [Source](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+[Discuss on HN](https://news.ycombinator.com/item?id=50378228) · [Source](https://sshhole.com)
 
-2. Residential proxies detected on White House network
+2. Claude Code sends your email address to websites
 
-🔶 Hacker News · ⬆️ 1002 points · 💬 311 comments · 👤 Rasbora
+🔶 Hacker News · ⬆️ 1071 points · 💬 334 comments · 👤 motoroco
 
-A link to layer3intel.com titled "Residential proxies detected on White House network", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to github.com titled "Claude Code sends your email address to websites", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50371246) · [Source](https://layer3intel.com/blog/residential-proxies-white-house-network)
+[Discuss on HN](https://news.ycombinator.com/item?id=50385272) · [Source](https://github.com/anthropics/claude-code/issues/107757)
 
-3. Kimi K3.1 Pro model weights are out
+3. Goodbye from Salon
 
-🔶 Hacker News · ⬆️ 514 points · 💬 143 comments · 👤 abrarthought
+🔶 Hacker News · ⬆️ 570 points · 💬 217 comments · 👤 mkeeter
 
-A link to huggingface.co titled "Kimi K3.1 Pro model weights are out", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to salon.com titled "Goodbye from Salon", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50366999) · [Source](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
+[Discuss on HN](https://news.ycombinator.com/item?id=50383739) · [Source](https://www.salon.com/2026/11/05/goodbye-from-salon/)
 
-4. A thousand fewer paths to root
+4. MS Paint Remote Code Execution Vulnerability
 
-🔶 Hacker News · ⬆️ 313 points · 💬 223 comments · 👤 dangelosaurus
+🔶 Hacker News · ⬆️ 525 points · 💬 189 comments · 👤 kuberwastaken
 
-A link to openai.com titled "A thousand fewer paths to root", a popular story on the front page, drawing significant discussion.
+A link to cve.org titled "MS Paint Remote Code Execution Vulnerability", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50372929) · [Source](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50384233) · [Source](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 
-5. A new Go API for JSON
+5. Motorola Signature 27 with GrapheneOS support
 
-🔶 Hacker News · ⬆️ 304 points · 💬 140 comments · 👤 olexsmir
+🔶 Hacker News · ⬆️ 476 points · 💬 342 comments · 👤 monneyboi
 
-A link to go.dev titled "A new Go API for JSON", a popular story on the front page, drawing significant discussion.
+A link to motorolanews.com titled "Motorola Signature 27 with GrapheneOS support", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50369106) · [Source](https://go.dev/blog/jsonv2)
+[Discuss on HN](https://news.ycombinator.com/item?id=50380810) · [Source](https://motorolanews.com/motorola-signature-27-2/)
 
-6. Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)
+6. I wish tech companies knew more about me
 
-🔶 Hacker News · ⬆️ 300 points · 💬 227 comments · 👤 zenincognito
+🔶 Hacker News · ⬆️ 405 points · 💬 344 comments · 👤 freetonik
 
-A link to 99percentinvisible.org titled "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)", a popular story on the front page, drawing significant discussion.
+A link to rakhim.exotext.com titled "I wish tech companies knew more about me", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50366522) · [Source](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50378942) · [Source](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
 
-7. Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
+7. Download your favourite YouTube videos
 
-🔶 Hacker News · ⬆️ 287 points · 💬 103 comments · 👤 Philpax
+🔶 Hacker News · ⬆️ 339 points · 💬 157 comments · 👤 surprisetalk
 
-A link to ricursive.com titled "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding", a popular story on the front page, drawing significant discussion.
+A link to criminallyvulgar.dev titled "Download your favourite YouTube videos", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50369925) · [Source](https://www.ricursive.com/ripple)
+[Discuss on HN](https://news.ycombinator.com/item?id=50378571) · [Source](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
 
-8. Observations from Running stealmybitcoin.com
+8. sshhole
 
-🦞 Lobsters · ⬆️ 117 points · 💬 2 comments · 👤 wezm
+🦞 Lobsters · ⬆️ 148 points · 💬 37 comments · 👤 serce
 
-A link to pavursec.com titled "Observations from Running stealmybitcoin.com".
+A link to sshhole.com titled "sshhole".
 
-[Discuss on Lobsters](https://lobste.rs/s/fgucra) · [Source](https://pavursec.com/blog/stealmybitcoin/)
+[Discuss on Lobsters](https://lobste.rs/s/oq5pem) · [Source](https://sshhole.com/)
 
-9. Death comes for XSLT
+9. Declarative Dragging
 
-🦞 Lobsters · ⬆️ 106 points · 💬 93 comments · 👤 nytpu
+🦞 Lobsters · ⬆️ 122 points · 💬 4 comments · 👤 edwintorok
 
-A link to dbushell.com titled "Death comes for XSLT".
+A link to declarative-dragging.github.io titled "Declarative Dragging".
 
-[Discuss on Lobsters](https://lobste.rs/s/chypzr) · [Source](https://dbushell.com/2026/11/03/xslt-rip/)
+[Discuss on Lobsters](https://lobste.rs/s/jplxxr) · [Source](https://declarative-dragging.github.io/)
 
 10. So my ISP was hijacking my DNS
 
-🦞 Lobsters · ⬆️ 85 points · 💬 12 comments · 👤 dracarys_18
+🦞 Lobsters · ⬆️ 107 points · 💬 18 comments · 👤 dracarys_18
 
 A link to karthihegde.dev titled "So my ISP was hijacking my DNS".
 
 [Discuss on Lobsters](https://lobste.rs/s/cozhtg) · [Source](https://karthihegde.dev/posts/dns_tampering)
 
-*daily-tech-digest · MileFisher · 2026-11-05T09:06:25.660Z*
+*daily-tech-digest · MileFisher · 2026-11-06T08:59:37.591Z*

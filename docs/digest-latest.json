@@ -1,131 +1,131 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
-      "id": "item?id=50364336",
+      "id": "item?id=50378228",
       "title": {
-        "en": "AI is forcing us to pay off 40 years of technical debt",
-        "my": "ႏွစ္ (၄၀) ျပည့္ အခမ္းအနား က်င္းပရန္ စီစဥ္ေန"
+        "en": "sshole",
+        "my": "sshole"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1175,
-      "comments": 684,
-      "author": "pseudolus",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "discussUrl": "https://news.ycombinator.com/item?id=50364336"
+      "score": 2662,
+      "comments": 634,
+      "author": "josemrb",
+      "url": "https://sshhole.com",
+      "discussUrl": "https://news.ycombinator.com/item?id=50378228"
     },
     {
-      "id": "item?id=50371246",
+      "id": "item?id=50385272",
       "title": {
-        "en": "Residential proxies detected on White House network",
-        "my": "Home သ တင်း များ ဒေ သ တွင်း အိမ်ဖြူတော်တွင် ရှာဖွေတွေ့ရှိ"
+        "en": "Claude Code sends your email address to websites",
+        "my": "Claude Code သည်သင် ၏ အီးမေးလ်လိပ်စာကိုဝက်ဘ်ဆိုက်များသို့ပို့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1002,
-      "comments": 311,
-      "author": "Rasbora",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "discussUrl": "https://news.ycombinator.com/item?id=50371246"
+      "score": 1071,
+      "comments": 334,
+      "author": "motoroco",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "discussUrl": "https://news.ycombinator.com/item?id=50385272"
     },
     {
-      "id": "item?id=50366999",
+      "id": "item?id=50383739",
       "title": {
-        "en": "Kimi K3.1 Pro model weights are out",
-        "my": "Kimi K3.1 Pro မော်ဒယ်အလေးချိန်များထွက်ရှိ"
+        "en": "Goodbye from Salon",
+        "my": "Salon မှနှုတ်ဆက်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 514,
-      "comments": 143,
-      "author": "abrarthought",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "discussUrl": "https://news.ycombinator.com/item?id=50366999"
+      "score": 570,
+      "comments": 217,
+      "author": "mkeeter",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50383739"
     },
     {
-      "id": "item?id=50372929",
+      "id": "item?id=50384233",
       "title": {
-        "en": "A thousand fewer paths to root",
-        "my": "အမြစ်တွယ်ဖို့လမ်းတစ်ထောင်လျော့နည်း"
+        "en": "MS Paint Remote Code Execution Vulnerability",
+        "my": "MS Paint အဝေးမှ Code ကို Execution အားနည်းချက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 313,
-      "comments": 223,
-      "author": "dangelosaurus",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50372929"
+      "score": 525,
+      "comments": 189,
+      "author": "kuberwastaken",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "discussUrl": "https://news.ycombinator.com/item?id=50384233"
     },
     {
-      "id": "item?id=50369106",
+      "id": "item?id=50380810",
       "title": {
-        "en": "A new Go API for JSON",
-        "my": "JSON အတွက် Go API အသစ်"
+        "en": "Motorola Signature 27 with GrapheneOS support",
+        "my": "GrapheneOS ပံ့ပိုးမှုနှင့်အတူ Motorola ကလက်မှတ် 27"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 304,
-      "comments": 140,
-      "author": "olexsmir",
-      "url": "https://go.dev/blog/jsonv2",
-      "discussUrl": "https://news.ycombinator.com/item?id=50369106"
+      "score": 476,
+      "comments": 342,
+      "author": "monneyboi",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50380810"
     },
     {
-      "id": "item?id=50366522",
+      "id": "item?id=50378942",
       "title": {
-        "en": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-        "my": "Guerrilla စက်ဘီးလမ်းကြောင်း: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)"
+        "en": "I wish tech companies knew more about me",
+        "my": "ငါနည်းပညာကုမ္ပဏီများငါ့အကြောင်းကိုပိုမိုသိလို"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 300,
-      "comments": 227,
-      "author": "zenincognito",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50366522"
+      "score": 405,
+      "comments": 344,
+      "author": "freetonik",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "discussUrl": "https://news.ycombinator.com/item?id=50378942"
     },
     {
-      "id": "item?id=50369925",
+      "id": "item?id=50378571",
       "title": {
-        "en": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-        "my": "Ripple-65B Preview: အေးဂျင့် coding အပေါ်အမေရိကန်ပွင့်လင်းအလေးချိန် Sota"
+        "en": "Download your favourite YouTube videos",
+        "my": "သင်အကြိုက်ဆုံး YouTube ဗီဒီယိုများကို Download လုပ်ပါ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 287,
-      "comments": 103,
-      "author": "Philpax",
-      "url": "https://www.ricursive.com/ripple",
-      "discussUrl": "https://news.ycombinator.com/item?id=50369925"
+      "score": 339,
+      "comments": 157,
+      "author": "surprisetalk",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50378571"
     },
     {
-      "id": "fgucra",
+      "id": "oq5pem",
       "title": {
-        "en": "Observations from Running stealmybitcoin.com",
-        "my": "ကနေလေ့လာတွေ့ရှိချက်များ running stealmybitcoin.com"
+        "en": "sshhole",
+        "my": "sshhole"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 117,
-      "comments": 2,
-      "author": "wezm",
-      "url": "https://pavursec.com/blog/stealmybitcoin/",
-      "discussUrl": "https://lobste.rs/s/fgucra"
+      "score": 148,
+      "comments": 37,
+      "author": "serce",
+      "url": "https://sshhole.com/",
+      "discussUrl": "https://lobste.rs/s/oq5pem"
     },
     {
-      "id": "chypzr",
+      "id": "jplxxr",
       "title": {
-        "en": "Death comes for XSLT",
-        "my": "XSLT အတွက် သေခြင်းရောက်လာသည်"
+        "en": "Declarative Dragging",
+        "my": "ကြေငြာချက်ဆွဲခြင်း"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 106,
-      "comments": 93,
-      "author": "nytpu",
-      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
-      "discussUrl": "https://lobste.rs/s/chypzr"
+      "score": 122,
+      "comments": 4,
+      "author": "edwintorok",
+      "url": "https://declarative-dragging.github.io/",
+      "discussUrl": "https://lobste.rs/s/jplxxr"
     },
     {
       "id": "cozhtg",
@@ -135,8 +135,8 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 85,
-      "comments": 12,
+      "score": 107,
+      "comments": 18,
       "author": "dracarys_18",
       "url": "https://karthihegde.dev/posts/dns_tampering",
       "discussUrl": "https://lobste.rs/s/cozhtg"

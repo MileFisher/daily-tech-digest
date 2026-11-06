@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-05
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-06
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:06 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:59 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. ႏွစ္ (၄၀) ျပည့္ အခမ္းအနား က်င္းပရန္ စီစဥ္ေန
+1. sshole
 
-🔶 Hacker News · ⬆️ 1175 points · 💬 684 comments · 👤 pseudolus
+🔶 Hacker News · ⬆️ 2662 points · 💬 634 comments · 👤 josemrb
 
-&quot;AI က ကျွန်ုပ်တို့ကို နှစ် ၄၀ ကြာ နည်းပညာဆိုင်ရာ အကြွေးကို ပေးဆပ်ဖို့ ဖိအားပေးနေတယ်&quot; လို့ ခေါင်းစဉ်တပ်ထားတဲ့ spectrum.ieee.org ကို လင့်ခ်တစ်ခု ပေးထားပြီး အဲဒီလင့်ခ်ဟာ တက်ကြွတဲ့ ဆွေးနွေးမှု thread တစ်ခုနဲ့အတူ ပထမစာမျက်နှာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခု ဖြစ်ပါတယ်။
+Sshhole.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "sshole", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50364336) · [Source](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+[Discuss on HN](https://news.ycombinator.com/item?id=50378228) · [Source](https://sshhole.com)
 
-2. Home သ တင်း များ ဒေ သ တွင်း အိမ်ဖြူတော်တွင် ရှာဖွေတွေ့ရှိ
+2. Claude Code သည်သင် ၏ အီးမေးလ်လိပ်စာကိုဝက်ဘ်ဆိုက်များသို့ပို့သည်
 
-🔶 Hacker News · ⬆️ 1002 points · 💬 311 comments · 👤 Rasbora
+🔶 Hacker News · ⬆️ 1071 points · 💬 334 comments · 👤 motoroco
 
-< < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < > < < < < < < < < < < <
+"Claude Code သည်သင် ၏ အီးမေးလ်လိပ်စာကို ၀ က်ဘ်ဆိုက်များသို့ပို့သည်" ခေါင်းစဉ်ဖြင့် github.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွစွာဆွေးနွေးချက်ချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50371246) · [Source](https://layer3intel.com/blog/residential-proxies-white-house-network)
+[Discuss on HN](https://news.ycombinator.com/item?id=50385272) · [Source](https://github.com/anthropics/claude-code/issues/107757)
 
-3. Kimi K3.1 Pro မော်ဒယ်အလေးချိန်များထွက်ရှိ
+3. Salon မှနှုတ်ဆက်သည်
 
-🔶 Hacker News · ⬆️ 514 points · 💬 143 comments · 👤 abrarthought
+🔶 Hacker News · ⬆️ 570 points · 💬 217 comments · 👤 mkeeter
 
-"Kimi K3.1 Pro model weights are out" ခေါင်းစဉ်ဖြင့် huggingface.co သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးသွင်းအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲသည် ။
+"Salon ကနေ နှုတ်ဆက်ပါတယ်" လို့ ခေါင်းစဉ်တပ်ထားတဲ့ salon.com ရဲ့ link တစ်ခုဟာ ရှေ့မျက်နှာစာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ဆွဲဆောင်ထားပါတယ် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50366999) · [Source](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
+[Discuss on HN](https://news.ycombinator.com/item?id=50383739) · [Source](https://www.salon.com/2026/11/05/goodbye-from-salon/)
 
-4. အမြစ်တွယ်ဖို့လမ်းတစ်ထောင်လျော့နည်း
+4. MS Paint အဝေးမှ Code ကို Execution အားနည်းချက်
 
-🔶 Hacker News · ⬆️ 313 points · 💬 223 comments · 👤 dangelosaurus
+🔶 Hacker News · ⬆️ 525 points · 💬 189 comments · 👤 kuberwastaken
 
-"အမြစ်တွယ်ရန် လမ်းကြောင်းတစ်ထောင်လျော့နည်း" ခေါင်းစဉ်ဖြင့် openai.com သို့ ချိတ်ဆက်ထားသော လင့်ခ် ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
+"MS Paint Remote Code Execution Vulnerability" ခေါင်းစဉ်ဖြင့် cve.org သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးမှုကို ရေးဆွဲခဲ့သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50372929) · [Source](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50384233) · [Source](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 
-5. JSON အတွက် Go API အသစ်
+5. GrapheneOS ပံ့ပိုးမှုနှင့်အတူ Motorola ကလက်မှတ် 27
 
-🔶 Hacker News · ⬆️ 304 points · 💬 140 comments · 👤 olexsmir
+🔶 Hacker News · ⬆️ 476 points · 💬 342 comments · 👤 monneyboi
 
-Go.dev ခေါင်းစဉ်ဖြင့် link တစ်ခု "JSON အတွက် Go API အသစ်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Motorolanews.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "GrapheneOS ထောက်ခံမှုနှင့်အတူ Motorola လက်မှတ် 27," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50369106) · [Source](https://go.dev/blog/jsonv2)
+[Discuss on HN](https://news.ycombinator.com/item?id=50380810) · [Source](https://motorolanews.com/motorola-signature-27-2/)
 
-6. Guerrilla စက်ဘီးလမ်းကြောင်း: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)
+6. ငါနည်းပညာကုမ္ပဏီများငါ့အကြောင်းကိုပိုမိုသိလို
 
-🔶 Hacker News · ⬆️ 300 points · 💬 227 comments · 👤 zenincognito
+🔶 Hacker News · ⬆️ 405 points · 💬 344 comments · 👤 freetonik
 
-99percentinvisible.org ကို "Guerrilla ဆိုင်ကယ်လမ်းကြောင်းများ: ဆန်ဖရန်စစ္စကိုတရားမဝင်အခြေခံအဆောက်အအုံအမြဲတမ်းစေသည် (2016)" ခေါင်းစဉ်ဖြင့် link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Rakhim.exotext.com ခေါင်းစဉ်နဲ့ link တစ်ခု "ငါသည်နည်းပညာကုမ္ပဏီများငါ့အကြောင်းကိုပိုမိုသိလို," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50366522) · [Source](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50378942) · [Source](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
 
-7. Ripple-65B Preview: အေးဂျင့် coding အပေါ်အမေရိကန်ပွင့်လင်းအလေးချိန် Sota
+7. သင်အကြိုက်ဆုံး YouTube ဗီဒီယိုများကို Download လုပ်ပါ
 
-🔶 Hacker News · ⬆️ 287 points · 💬 103 comments · 👤 Philpax
+🔶 Hacker News · ⬆️ 339 points · 💬 157 comments · 👤 surprisetalk
 
-"Ripple-65B Preview: Agentic Coding အပေါ်အမေရိကန်ပွင့်လင်း-အလေးချိန် SOTA" ခေါင်းစဉ်ဖြင့် ricursive.com မှ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"သင်အကြိုက်ဆုံး YouTube ဗီဒီယိုများကို Download လုပ်ပါ" ခေါင်းစဉ်ဖြင့် criminallyvulgar.dev သို့ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50369925) · [Source](https://www.ricursive.com/ripple)
+[Discuss on HN](https://news.ycombinator.com/item?id=50378571) · [Source](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
 
-8. ကနေလေ့လာတွေ့ရှိချက်များ running stealmybitcoin.com
+8. sshhole
 
-🦞 Lobsters · ⬆️ 117 points · 💬 2 comments · 👤 wezm
+🦞 Lobsters · ⬆️ 148 points · 💬 37 comments · 👤 serce
 
-Pavursec.com မှတစ်ဦးက link ကိုခေါင်းစဉ် "ပြေး stealmybitcoin.com ထံမှလေ့လာတွေ့ရှိချက်များ" ။
+"sshhole" ခေါင်းစဉ်ဖြင့် sshhole.com သို့လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/fgucra) · [Source](https://pavursec.com/blog/stealmybitcoin/)
+[Discuss on Lobsters](https://lobste.rs/s/oq5pem) · [Source](https://sshhole.com/)
 
-9. XSLT အတွက် သေခြင်းရောက်လာသည်
+9. ကြေငြာချက်ဆွဲခြင်း
 
-🦞 Lobsters · ⬆️ 106 points · 💬 93 comments · 👤 nytpu
+🦞 Lobsters · ⬆️ 122 points · 💬 4 comments · 👤 edwintorok
 
-Dbushell.com မှ "သေခြင်းသည် XSLT အတွက်လာသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Declarative-dragging.github.io ကို "Declarative Dragging" ဟု အမည်ပေးထားသော လင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/chypzr) · [Source](https://dbushell.com/2026/11/03/xslt-rip/)
+[Discuss on Lobsters](https://lobste.rs/s/jplxxr) · [Source](https://declarative-dragging.github.io/)
 
 10. ဒီတော ့ ကျွန ် မရဲ ့ ISP က ကျွန ် မရဲ ့ DNS ကို လုပ ် ခဲ ့ တယ ်
 
-🦞 Lobsters · ⬆️ 85 points · 💬 12 comments · 👤 dracarys_18
+🦞 Lobsters · ⬆️ 107 points · 💬 18 comments · 👤 dracarys_18
 
 Karthihegde.dev သို့ "ဒါကြောင့်ငါ့ ISP ကငါ့ DNS ကိုပြန်ပေးဆွဲနေသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
 [Discuss on Lobsters](https://lobste.rs/s/cozhtg) · [Source](https://karthihegde.dev/posts/dns_tampering)
 
-*daily-tech-digest · MileFisher · 2026-11-05T09:06:25.660Z*
+*daily-tech-digest · MileFisher · 2026-11-06T08:59:37.591Z*
