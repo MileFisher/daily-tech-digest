@@ -1,103 +1,103 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "items": [
     {
-      "id": "item?id=50378228",
+      "id": "item?id=50391456",
       "title": {
-        "en": "sshole",
-        "my": "sshole"
+        "en": "Tesla to wind down Cybertruck production",
+        "my": "Tesla သည် CyberTruck ထုတ်လုပ်မှုကိုလျှော့ချရန်စီစဉ်နေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 2662,
-      "comments": 634,
-      "author": "josemrb",
-      "url": "https://sshhole.com",
-      "discussUrl": "https://news.ycombinator.com/item?id=50378228"
+      "score": 984,
+      "comments": 1842,
+      "author": "PLenz",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "discussUrl": "https://news.ycombinator.com/item?id=50391456"
     },
     {
-      "id": "item?id=50385272",
+      "id": "item?id=50399933",
       "title": {
-        "en": "Claude Code sends your email address to websites",
-        "my": "Claude Code သည်သင် ၏ အီးမေးလ်လိပ်စာကိုဝက်ဘ်ဆိုက်များသို့ပို့သည်"
+        "en": "Libghostty 1.0",
+        "my": "Libghostty 1.0"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1071,
-      "comments": 334,
-      "author": "motoroco",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "discussUrl": "https://news.ycombinator.com/item?id=50385272"
+      "score": 548,
+      "comments": 94,
+      "author": "mfiguiere",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "discussUrl": "https://news.ycombinator.com/item?id=50399933"
     },
     {
-      "id": "item?id=50383739",
+      "id": "item?id=50397429",
       "title": {
-        "en": "Goodbye from Salon",
-        "my": "Salon မှနှုတ်ဆက်သည်"
+        "en": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+        "my": "Opus ကိုအကူအညီတောင်းနိုင်သော Jev သည် Opus ကို 4x လျှော့စျေးဖြင့်တိကျမှန်ကန်မှုကိုပေးသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 570,
-      "comments": 217,
-      "author": "mkeeter",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50383739"
+      "score": 449,
+      "comments": 102,
+      "author": "theanomaly",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "discussUrl": "https://news.ycombinator.com/item?id=50397429"
     },
     {
-      "id": "item?id=50384233",
+      "id": "item?id=50388001",
       "title": {
-        "en": "MS Paint Remote Code Execution Vulnerability",
-        "my": "MS Paint အဝေးမှ Code ကို Execution အားနည်းချက်"
+        "en": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+        "my": "၂၀၂၈ ခုနှစ်တွင် လေကြောင်းပို့ဆောင်ရေး ထိန်းချုပ်မှုမှ Floppy Disk များကို ဖယ်ရှားမည်ဟု အမေရိကန် FAA ပြောကြား"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 525,
-      "comments": 189,
-      "author": "kuberwastaken",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "discussUrl": "https://news.ycombinator.com/item?id=50384233"
+      "score": 328,
+      "comments": 267,
+      "author": "ChrisArchitect",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50388001"
     },
     {
-      "id": "item?id=50380810",
+      "id": "item?id=50392118",
       "title": {
-        "en": "Motorola Signature 27 with GrapheneOS support",
-        "my": "GrapheneOS ပံ့ပိုးမှုနှင့်အတူ Motorola ကလက်မှတ် 27"
+        "en": "Gemini Omni 1.2 Flash",
+        "my": "Gemini Omni 1.2 Flash ကို"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 476,
-      "comments": 342,
-      "author": "monneyboi",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50380810"
+      "score": 325,
+      "comments": 227,
+      "author": "thisisauserid",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50392118"
     },
     {
-      "id": "item?id=50378942",
+      "id": "item?id=50388122",
       "title": {
-        "en": "I wish tech companies knew more about me",
-        "my": "ငါနည်းပညာကုမ္ပဏီများငါ့အကြောင်းကိုပိုမိုသိလို"
+        "en": "From Linux to Wikipedia: How Volunteers Build the Internet",
+        "my": "Linux မှဝီကီပီးဒီးယားမှ: စေတနာ့ဝန်ထမ်းများအင်တာနက်ကိုတည်ဆောက်ပုံ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 405,
-      "comments": 344,
-      "author": "freetonik",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "discussUrl": "https://news.ycombinator.com/item?id=50378942"
+      "score": 322,
+      "comments": 124,
+      "author": "jonbaer",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50388122"
     },
     {
-      "id": "item?id=50378571",
+      "id": "item?id=50397994",
       "title": {
-        "en": "Download your favourite YouTube videos",
-        "my": "သင်အကြိုက်ဆုံး YouTube ဗီဒီယိုများကို Download လုပ်ပါ"
+        "en": "AI is dramatically accelerating AI research",
+        "my": "AI သည် AI သုတေသနကိုသိသိသာသာအရှိန်မြှင့်နေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 339,
-      "comments": 157,
-      "author": "surprisetalk",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50378571"
+      "score": 284,
+      "comments": 222,
+      "author": "yurivish",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "discussUrl": "https://news.ycombinator.com/item?id=50397994"
     },
     {
       "id": "oq5pem",
@@ -107,39 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 148,
-      "comments": 37,
+      "score": 172,
+      "comments": 41,
       "author": "serce",
       "url": "https://sshhole.com/",
       "discussUrl": "https://lobste.rs/s/oq5pem"
     },
     {
-      "id": "jplxxr",
+      "id": "yoywed",
       "title": {
-        "en": "Declarative Dragging",
-        "my": "ကြေငြာချက်ဆွဲခြင်း"
+        "en": "Software Line Specialist",
+        "my": "Software ကိုလိုင်းအထူးကု"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 122,
-      "comments": 4,
-      "author": "edwintorok",
-      "url": "https://declarative-dragging.github.io/",
-      "discussUrl": "https://lobste.rs/s/jplxxr"
+      "score": 112,
+      "comments": 10,
+      "author": "lovro-bikic",
+      "url": "https://lovro-bikic.github.io/software-line-specialist/",
+      "discussUrl": "https://lobste.rs/s/yoywed"
     },
     {
-      "id": "cozhtg",
+      "id": "0ouxwf",
       "title": {
-        "en": "So my ISP was hijacking my DNS",
-        "my": "ဒီတော ့ ကျွန ် မရဲ ့ ISP က ကျွန ် မရဲ ့ DNS ကို လုပ ် ခဲ ့ တယ ်"
+        "en": "Libghostty 1.0",
+        "my": "Libghostty 1.0"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 107,
-      "comments": 18,
-      "author": "dracarys_18",
-      "url": "https://karthihegde.dev/posts/dns_tampering",
-      "discussUrl": "https://lobste.rs/s/cozhtg"
+      "score": 63,
+      "comments": 3,
+      "author": "dgv",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "discussUrl": "https://lobste.rs/s/0ouxwf"
     }
   ]
 }

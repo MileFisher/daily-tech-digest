@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-06
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-07
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:59 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:28 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. sshole
+1. Tesla သည် CyberTruck ထုတ်လုပ်မှုကိုလျှော့ချရန်စီစဉ်နေသည်
 
-🔶 Hacker News · ⬆️ 2662 points · 💬 634 comments · 👤 josemrb
+🔶 Hacker News · ⬆️ 984 points · 💬 1842 comments · 👤 PLenz
 
-Sshhole.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "sshole", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+Nbcnews.com မှ link တစ်ခု "Cybertruck ထုတ်လုပ်မှုကိုလျှော့ချရန် Tesla" ခေါင်းစဉ်ဖြင့်, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50378228) · [Source](https://sshhole.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=50391456) · [Source](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
-2. Claude Code သည်သင် ၏ အီးမေးလ်လိပ်စာကိုဝက်ဘ်ဆိုက်များသို့ပို့သည်
+2. Libghostty 1.0
 
-🔶 Hacker News · ⬆️ 1071 points · 💬 334 comments · 👤 motoroco
+🔶 Hacker News · ⬆️ 548 points · 💬 94 comments · 👤 mfiguiere
 
-"Claude Code သည်သင် ၏ အီးမေးလ်လိပ်စာကို ၀ က်ဘ်ဆိုက်များသို့ပို့သည်" ခေါင်းစဉ်ဖြင့် github.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခု ၊ တက်ကြွစွာဆွေးနွေးချက်ချည်နှောင်ထားသည် ။
+Mitchellh.com ကို "Libghostty 1.0" ဟုအမည်ပေးထားသော link တစ်ခုသည်မျက်နှာပြင်ပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50385272) · [Source](https://github.com/anthropics/claude-code/issues/107757)
+[Discuss on HN](https://news.ycombinator.com/item?id=50399933) · [Source](https://mitchellh.com/writing/libghostty-1-0)
 
-3. Salon မှနှုတ်ဆက်သည်
+3. Opus ကိုအကူအညီတောင်းနိုင်သော Jev သည် Opus ကို 4x လျှော့စျေးဖြင့်တိကျမှန်ကန်မှုကိုပေးသည်
 
-🔶 Hacker News · ⬆️ 570 points · 💬 217 comments · 👤 mkeeter
+🔶 Hacker News · ⬆️ 449 points · 💬 102 comments · 👤 theanomaly
 
-"Salon ကနေ နှုတ်ဆက်ပါတယ်" လို့ ခေါင်းစဉ်တပ်ထားတဲ့ salon.com ရဲ့ link တစ်ခုဟာ ရှေ့မျက်နှာစာမှာ အမှတ်အများဆုံးရတဲ့ ဇာတ်လမ်းတွေထဲက တစ်ခုဖြစ်ပြီး သိသာထင်ရှားတဲ့ ဆွေးနွေးမှုတွေကို ဆွဲဆောင်ထားပါတယ် ။
+Hightouch.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Opus ကိုအကူအညီတောင်းနိုင်သော Jev သည် Opus ကို 4x အနိမ့်ကုန်ကျစရိတ်ဖြင့်တိကျမှန်ကန်မှုပေးသည်" ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50383739) · [Source](https://www.salon.com/2026/11/05/goodbye-from-salon/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50397429) · [Source](https://hightouch.com/blog/llm-judges-identity-resolution)
 
-4. MS Paint အဝေးမှ Code ကို Execution အားနည်းချက်
+4. ၂၀၂၈ ခုနှစ်တွင် လေကြောင်းပို့ဆောင်ရေး ထိန်းချုပ်မှုမှ Floppy Disk များကို ဖယ်ရှားမည်ဟု အမေရိကန် FAA ပြောကြား
 
-🔶 Hacker News · ⬆️ 525 points · 💬 189 comments · 👤 kuberwastaken
+🔶 Hacker News · ⬆️ 328 points · 💬 267 comments · 👤 ChrisArchitect
 
-"MS Paint Remote Code Execution Vulnerability" ခေါင်းစဉ်ဖြင့် cve.org သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးမှုကို ရေးဆွဲခဲ့သည် ။
+"အမေရိကန် FAA သည် ၂၀၂၈ ခုနှစ်တွင် လေကြောင်းအသွားအလာထိန်းချုပ်မှုမှ floppy disk များကိုဖယ်ရှားပစ်မည်ဟုပြောကြား" ခေါင်းစဉ်ဖြင့် reuters.com သို့ပေးပို့သော link တစ်ခုသည်မျက်နှာစာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50384233) · [Source](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+[Discuss on HN](https://news.ycombinator.com/item?id=50388001) · [Source](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
 
-5. GrapheneOS ပံ့ပိုးမှုနှင့်အတူ Motorola ကလက်မှတ် 27
+5. Gemini Omni 1.2 Flash ကို
 
-🔶 Hacker News · ⬆️ 476 points · 💬 342 comments · 👤 monneyboi
+🔶 Hacker News · ⬆️ 325 points · 💬 227 comments · 👤 thisisauserid
 
-Motorolanews.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "GrapheneOS ထောက်ခံမှုနှင့်အတူ Motorola လက်မှတ် 27," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+"Gemini Omni 1.2 Flash" ဟု အမည်ပေးထားသော ဘလော့ဂ်ဂူဂဲလ် ၏ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50380810) · [Source](https://motorolanews.com/motorola-signature-27-2/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50392118) · [Source](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
 
-6. ငါနည်းပညာကုမ္ပဏီများငါ့အကြောင်းကိုပိုမိုသိလို
+6. Linux မှဝီကီပီးဒီးယားမှ: စေတနာ့ဝန်ထမ်းများအင်တာနက်ကိုတည်ဆောက်ပုံ
 
-🔶 Hacker News · ⬆️ 405 points · 💬 344 comments · 👤 freetonik
+🔶 Hacker News · ⬆️ 322 points · 💬 124 comments · 👤 jonbaer
 
-Rakhim.exotext.com ခေါင်းစဉ်နဲ့ link တစ်ခု "ငါသည်နည်းပညာကုမ္ပဏီများငါ့အကြောင်းကိုပိုမိုသိလို," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ ။
+"Linux မှ ဝီကီပီးဒီးယား: Volunteers Build the Internet" ခေါင်းစဉ်ဖြင့် thereader.mitpress.mit.edu သို့ ချိတ်ဆက်ထားသော စာမျက်နှာများ ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသော ဆွေးနွေးချက် ရေးဆွဲခြင်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50378942) · [Source](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
+[Discuss on HN](https://news.ycombinator.com/item?id=50388122) · [Source](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
 
-7. သင်အကြိုက်ဆုံး YouTube ဗီဒီယိုများကို Download လုပ်ပါ
+7. AI သည် AI သုတေသနကိုသိသိသာသာအရှိန်မြှင့်နေသည်
 
-🔶 Hacker News · ⬆️ 339 points · 💬 157 comments · 👤 surprisetalk
+🔶 Hacker News · ⬆️ 284 points · 💬 222 comments · 👤 yurivish
 
-"သင်အကြိုက်ဆုံး YouTube ဗီဒီယိုများကို Download လုပ်ပါ" ခေါင်းစဉ်ဖြင့် criminallyvulgar.dev သို့ link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"AI သည် AI သုတေသနကိုသိသိသာသာအရှိန်မြှင့်နေသည်" ဟုခေါင်းစဉ်တပ်ထားသော plan-obsolescence.org သို့ link တစ်ခုသည်မျက်နှာစာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50378571) · [Source](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50397994) · [Source](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 8. sshhole
 
-🦞 Lobsters · ⬆️ 148 points · 💬 37 comments · 👤 serce
+🦞 Lobsters · ⬆️ 172 points · 💬 41 comments · 👤 serce
 
 "sshhole" ခေါင်းစဉ်ဖြင့် sshhole.com သို့လင့်ခ်တစ်ခု ။
 
 [Discuss on Lobsters](https://lobste.rs/s/oq5pem) · [Source](https://sshhole.com/)
 
-9. ကြေငြာချက်ဆွဲခြင်း
+9. Software ကိုလိုင်းအထူးကု
 
-🦞 Lobsters · ⬆️ 122 points · 💬 4 comments · 👤 edwintorok
+🦞 Lobsters · ⬆️ 112 points · 💬 10 comments · 👤 lovro-bikic
 
-Declarative-dragging.github.io ကို "Declarative Dragging" ဟု အမည်ပေးထားသော လင့်ခ်တစ်ခု ။
+Lovro-bikic.github.io သို့ "ဆော့ဖ်ဝဲလိုင်းအထူးကု" ဟုအမည်ပေးထားသော link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/jplxxr) · [Source](https://declarative-dragging.github.io/)
+[Discuss on Lobsters](https://lobste.rs/s/yoywed) · [Source](https://lovro-bikic.github.io/software-line-specialist/)
 
-10. ဒီတော ့ ကျွန ် မရဲ ့ ISP က ကျွန ် မရဲ ့ DNS ကို လုပ ် ခဲ ့ တယ ်
+10. Libghostty 1.0
 
-🦞 Lobsters · ⬆️ 107 points · 💬 18 comments · 👤 dracarys_18
+🦞 Lobsters · ⬆️ 63 points · 💬 3 comments · 👤 dgv
 
-Karthihegde.dev သို့ "ဒါကြောင့်ငါ့ ISP ကငါ့ DNS ကိုပြန်ပေးဆွဲနေသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Mitchellh.com မှ "Libghostty 1.0" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/cozhtg) · [Source](https://karthihegde.dev/posts/dns_tampering)
+[Discuss on Lobsters](https://lobste.rs/s/0ouxwf) · [Source](https://mitchellh.com/writing/libghostty-1-0)
 
-*daily-tech-digest · MileFisher · 2026-11-06T08:59:37.591Z*
+*daily-tech-digest · MileFisher · 2026-11-07T08:28:19.212Z*

@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-06
+# 🗞️ Daily Tech Digest — 2026-11-07
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:59 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:28 ICT
 
 ---
 
-1. sshole
+1. Tesla to wind down Cybertruck production
 
-🔶 Hacker News · ⬆️ 2662 points · 💬 634 comments · 👤 josemrb
+🔶 Hacker News · ⬆️ 984 points · 💬 1842 comments · 👤 PLenz
 
-A link to sshhole.com titled "sshole", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to nbcnews.com titled "Tesla to wind down Cybertruck production", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50378228) · [Source](https://sshhole.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=50391456) · [Source](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
-2. Claude Code sends your email address to websites
+2. Libghostty 1.0
 
-🔶 Hacker News · ⬆️ 1071 points · 💬 334 comments · 👤 motoroco
+🔶 Hacker News · ⬆️ 548 points · 💬 94 comments · 👤 mfiguiere
 
-A link to github.com titled "Claude Code sends your email address to websites", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to mitchellh.com titled "Libghostty 1.0", one of the highest-scoring stories on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50385272) · [Source](https://github.com/anthropics/claude-code/issues/107757)
+[Discuss on HN](https://news.ycombinator.com/item?id=50399933) · [Source](https://mitchellh.com/writing/libghostty-1-0)
 
-3. Goodbye from Salon
+3. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
 
-🔶 Hacker News · ⬆️ 570 points · 💬 217 comments · 👤 mkeeter
+🔶 Hacker News · ⬆️ 449 points · 💬 102 comments · 👤 theanomaly
 
-A link to salon.com titled "Goodbye from Salon", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to hightouch.com titled "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50383739) · [Source](https://www.salon.com/2026/11/05/goodbye-from-salon/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50397429) · [Source](https://hightouch.com/blog/llm-judges-identity-resolution)
 
-4. MS Paint Remote Code Execution Vulnerability
+4. US FAA says it will phase out floppy disks from air traffic control by 2028
 
-🔶 Hacker News · ⬆️ 525 points · 💬 189 comments · 👤 kuberwastaken
+🔶 Hacker News · ⬆️ 328 points · 💬 267 comments · 👤 ChrisArchitect
 
-A link to cve.org titled "MS Paint Remote Code Execution Vulnerability", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to reuters.com titled "US FAA says it will phase out floppy disks from air traffic control by 2028", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50384233) · [Source](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+[Discuss on HN](https://news.ycombinator.com/item?id=50388001) · [Source](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
 
-5. Motorola Signature 27 with GrapheneOS support
+5. Gemini Omni 1.2 Flash
 
-🔶 Hacker News · ⬆️ 476 points · 💬 342 comments · 👤 monneyboi
+🔶 Hacker News · ⬆️ 325 points · 💬 227 comments · 👤 thisisauserid
 
-A link to motorolanews.com titled "Motorola Signature 27 with GrapheneOS support", a popular story on the front page, with an active discussion thread.
+A link to blog.google titled "Gemini Omni 1.2 Flash", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50380810) · [Source](https://motorolanews.com/motorola-signature-27-2/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50392118) · [Source](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
 
-6. I wish tech companies knew more about me
+6. From Linux to Wikipedia: How Volunteers Build the Internet
 
-🔶 Hacker News · ⬆️ 405 points · 💬 344 comments · 👤 freetonik
+🔶 Hacker News · ⬆️ 322 points · 💬 124 comments · 👤 jonbaer
 
-A link to rakhim.exotext.com titled "I wish tech companies knew more about me", a popular story on the front page, with an active discussion thread.
+A link to thereader.mitpress.mit.edu titled "From Linux to Wikipedia: How Volunteers Build the Internet", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50378942) · [Source](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
+[Discuss on HN](https://news.ycombinator.com/item?id=50388122) · [Source](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
 
-7. Download your favourite YouTube videos
+7. AI is dramatically accelerating AI research
 
-🔶 Hacker News · ⬆️ 339 points · 💬 157 comments · 👤 surprisetalk
+🔶 Hacker News · ⬆️ 284 points · 💬 222 comments · 👤 yurivish
 
-A link to criminallyvulgar.dev titled "Download your favourite YouTube videos", a popular story on the front page, drawing significant discussion.
+A link to planned-obsolescence.org titled "AI is dramatically accelerating AI research", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50378571) · [Source](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50397994) · [Source](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 8. sshhole
 
-🦞 Lobsters · ⬆️ 148 points · 💬 37 comments · 👤 serce
+🦞 Lobsters · ⬆️ 172 points · 💬 41 comments · 👤 serce
 
 A link to sshhole.com titled "sshhole".
 
 [Discuss on Lobsters](https://lobste.rs/s/oq5pem) · [Source](https://sshhole.com/)
 
-9. Declarative Dragging
+9. Software Line Specialist
 
-🦞 Lobsters · ⬆️ 122 points · 💬 4 comments · 👤 edwintorok
+🦞 Lobsters · ⬆️ 112 points · 💬 10 comments · 👤 lovro-bikic
 
-A link to declarative-dragging.github.io titled "Declarative Dragging".
+A link to lovro-bikic.github.io titled "Software Line Specialist".
 
-[Discuss on Lobsters](https://lobste.rs/s/jplxxr) · [Source](https://declarative-dragging.github.io/)
+[Discuss on Lobsters](https://lobste.rs/s/yoywed) · [Source](https://lovro-bikic.github.io/software-line-specialist/)
 
-10. So my ISP was hijacking my DNS
+10. Libghostty 1.0
 
-🦞 Lobsters · ⬆️ 107 points · 💬 18 comments · 👤 dracarys_18
+🦞 Lobsters · ⬆️ 63 points · 💬 3 comments · 👤 dgv
 
-A link to karthihegde.dev titled "So my ISP was hijacking my DNS".
+A link to mitchellh.com titled "Libghostty 1.0".
 
-[Discuss on Lobsters](https://lobste.rs/s/cozhtg) · [Source](https://karthihegde.dev/posts/dns_tampering)
+[Discuss on Lobsters](https://lobste.rs/s/0ouxwf) · [Source](https://mitchellh.com/writing/libghostty-1-0)
 
-*daily-tech-digest · MileFisher · 2026-11-06T08:59:37.591Z*
+*daily-tech-digest · MileFisher · 2026-11-07T08:28:19.212Z*
