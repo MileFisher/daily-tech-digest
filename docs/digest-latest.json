@@ -1,131 +1,103 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
-      "id": "item?id=50391456",
+      "id": "item?id=50403052",
       "title": {
-        "en": "Tesla to wind down Cybertruck production",
-        "my": "Tesla သည် CyberTruck ထုတ်လုပ်မှုကိုလျှော့ချရန်စီစဉ်နေသည်"
+        "en": "Need for Speed Underground 2 online in the browser",
+        "my": "မြန်နှုန်းမြေအောက်လိုအပ်ချက် 2 ဘရောက်ဇာတွင်အွန်လိုင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 984,
-      "comments": 1842,
-      "author": "PLenz",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "discussUrl": "https://news.ycombinator.com/item?id=50391456"
+      "score": 957,
+      "comments": 247,
+      "author": "fluxusars",
+      "url": "https://nfsu2.xyz/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50403052"
     },
     {
-      "id": "item?id=50399933",
+      "id": "item?id=50403097",
       "title": {
-        "en": "Libghostty 1.0",
-        "my": "Libghostty 1.0"
+        "en": "Every Mac comes with an (undocumented) family member classifier",
+        "my": "တိုင္းရင္းသားလက္နက္ကိုင္အဖြဲ႔မ်ား (KNU) ႏွင့္ အစိုးရတပ္မ်ား တိုက္ပြဲျပင္းထန္ (႐ုပ္သံ)"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 548,
-      "comments": 94,
-      "author": "mfiguiere",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "discussUrl": "https://news.ycombinator.com/item?id=50399933"
+      "score": 704,
+      "comments": 373,
+      "author": "infwhispers",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "discussUrl": "https://news.ycombinator.com/item?id=50403097"
     },
     {
-      "id": "item?id=50397429",
+      "id": "item?id=50406670",
       "title": {
-        "en": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-        "my": "Opus ကိုအကူအညီတောင်းနိုင်သော Jev သည် Opus ကို 4x လျှော့စျေးဖြင့်တိကျမှန်ကန်မှုကိုပေးသည်"
+        "en": "What I run on my $10 USD OpenStick homelab",
+        "my": "ငါ ၏ အ $ 10 အမေရိကန်ဒေါ်လာ OpenStick homelab အပေါ် run သောအရာကို"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 449,
-      "comments": 102,
-      "author": "theanomaly",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "discussUrl": "https://news.ycombinator.com/item?id=50397429"
+      "score": 543,
+      "comments": 104,
+      "author": "LaurensBER",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50406670"
     },
     {
-      "id": "item?id=50388001",
+      "id": "item?id=50406111",
       "title": {
-        "en": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-        "my": "၂၀၂၈ ခုနှစ်တွင် လေကြောင်းပို့ဆောင်ရေး ထိန်းချုပ်မှုမှ Floppy Disk များကို ဖယ်ရှားမည်ဟု အမေရိကန် FAA ပြောကြား"
+        "en": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+        "my": "Apple ရဲ့မီးခိုးရောင်စာရင်း: စကားလုံးများနှင့်စကားစုများကိုသင့်ရဲ့ iPhone ကိုသင်စာလုံးပေါင်းကူညီမည်မဟုတ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 328,
-      "comments": 267,
-      "author": "ChrisArchitect",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50388001"
+      "score": 454,
+      "comments": 284,
+      "author": "user_7832",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "discussUrl": "https://news.ycombinator.com/item?id=50406111"
     },
     {
-      "id": "item?id=50392118",
+      "id": "item?id=50406563",
       "title": {
-        "en": "Gemini Omni 1.2 Flash",
-        "my": "Gemini Omni 1.2 Flash ကို"
+        "en": "The end of Microsoft Research's AI Frontiers group",
+        "my": "Home သ တင်း များ နိုင်ငံ တ ကာ မိုက်ခရိုဆော့ဖ် ၏ သုတေသန လုပ်ငန်းများ ရပ်ဆိုင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 325,
-      "comments": 227,
-      "author": "thisisauserid",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50392118"
+      "score": 450,
+      "comments": 270,
+      "author": "srean",
+      "url": "https://hunch.net/?p=13764006",
+      "discussUrl": "https://news.ycombinator.com/item?id=50406563"
     },
     {
-      "id": "item?id=50388122",
+      "id": "item?id=50401867",
       "title": {
-        "en": "From Linux to Wikipedia: How Volunteers Build the Internet",
-        "my": "Linux မှဝီကီပီးဒီးယားမှ: စေတနာ့ဝန်ထမ်းများအင်တာနက်ကိုတည်ဆောက်ပုံ"
+        "en": "Asahi Linux Progress Linux 7.3",
+        "my": "Asahi Linux ကိုတိုးတက်မှု Linux ကို 7.3"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 322,
-      "comments": 124,
-      "author": "jonbaer",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50388122"
+      "score": 368,
+      "comments": 320,
+      "author": "ackyshake",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50401867"
     },
     {
-      "id": "item?id=50397994",
+      "id": "item?id=50407882",
       "title": {
-        "en": "AI is dramatically accelerating AI research",
-        "my": "AI သည် AI သုတေသနကိုသိသိသာသာအရှိန်မြှင့်နေသည်"
+        "en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "my": "\"Don 't Ask Again\" ဆိုတဲ့ စကားဝှက်ကို အများပြည်သူသုံး GitHub ဖိုင်ပေါင်း ၁၁၂၂ ဖိုင်နဲ့ ဖော်ထုတ်လိုက်တဲ့ Claude Code"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 284,
-      "comments": 222,
-      "author": "yurivish",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "discussUrl": "https://news.ycombinator.com/item?id=50397994"
-    },
-    {
-      "id": "oq5pem",
-      "title": {
-        "en": "sshhole",
-        "my": "sshhole"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 172,
-      "comments": 41,
-      "author": "serce",
-      "url": "https://sshhole.com/",
-      "discussUrl": "https://lobste.rs/s/oq5pem"
-    },
-    {
-      "id": "yoywed",
-      "title": {
-        "en": "Software Line Specialist",
-        "my": "Software ကိုလိုင်းအထူးကု"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 112,
-      "comments": 10,
-      "author": "lovro-bikic",
-      "url": "https://lovro-bikic.github.io/software-line-specialist/",
-      "discussUrl": "https://lobste.rs/s/yoywed"
+      "score": 366,
+      "comments": 251,
+      "author": "shmulc",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "discussUrl": "https://news.ycombinator.com/item?id=50407882"
     },
     {
       "id": "0ouxwf",
@@ -135,11 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 63,
-      "comments": 3,
+      "score": 161,
+      "comments": 7,
       "author": "dgv",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
       "discussUrl": "https://lobste.rs/s/0ouxwf"
+    },
+    {
+      "id": "hvxjbb",
+      "title": {
+        "en": "Making musl and proprietary NVIDIA drivers work together",
+        "my": "MUSL နှင့်ပိုင်ဆိုင်သော NVIDIA ယာဉ်မောင်းများကိုအတူတကွအလုပ်လုပ်စေခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 63,
+      "comments": 8,
+      "author": "q66",
+      "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+      "discussUrl": "https://lobste.rs/s/hvxjbb"
+    },
+    {
+      "id": "osqswf",
+      "title": {
+        "en": "The Port That Does Not Exist",
+        "my": "မရွိေတာ့တဲ့ ဘဂၤလားေဒ့ရွ္"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 58,
+      "comments": 6,
+      "author": "drmorr",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "discussUrl": "https://lobste.rs/s/osqswf"
     }
   ]
 }
