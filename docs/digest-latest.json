@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "items": [
     {
-      "id": "item?id=50403052",
+      "id": "item?id=50415628",
       "title": {
-        "en": "Need for Speed Underground 2 online in the browser",
-        "my": "မြန်နှုန်းမြေအောက်လိုအပ်ချက် 2 ဘရောက်ဇာတွင်အွန်လိုင်း"
+        "en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "my": "Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲယူသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 957,
-      "comments": 247,
-      "author": "fluxusars",
-      "url": "https://nfsu2.xyz/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50403052"
+      "score": 762,
+      "comments": 408,
+      "author": "TheWiggles",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "discussUrl": "https://news.ycombinator.com/item?id=50415628"
     },
     {
-      "id": "item?id=50403097",
+      "id": "item?id=50410107",
       "title": {
-        "en": "Every Mac comes with an (undocumented) family member classifier",
-        "my": "တိုင္းရင္းသားလက္နက္ကိုင္အဖြဲ႔မ်ား (KNU) ႏွင့္ အစိုးရတပ္မ်ား တိုက္ပြဲျပင္းထန္ (႐ုပ္သံ)"
+        "en": "Goodbye Claude, hello Pi",
+        "my": "မင်္ဂလာပါ Claude မင်္ဂလာပါ Pi"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 704,
-      "comments": 373,
-      "author": "infwhispers",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "discussUrl": "https://news.ycombinator.com/item?id=50403097"
+      "score": 756,
+      "comments": 467,
+      "author": "karagenit",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50410107"
     },
     {
-      "id": "item?id=50406670",
+      "id": "item?id=50418016",
       "title": {
-        "en": "What I run on my $10 USD OpenStick homelab",
-        "my": "ငါ ၏ အ $ 10 အမေရိကန်ဒေါ်လာ OpenStick homelab အပေါ် run သောအရာကို"
+        "en": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "my": "Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang က ၀ န်ထမ်းများအားအရေးပေါ်အကြောင်းကြားစာ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 543,
-      "comments": 104,
-      "author": "LaurensBER",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50406670"
+      "score": 647,
+      "comments": 681,
+      "author": "karimf",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "discussUrl": "https://news.ycombinator.com/item?id=50418016"
     },
     {
-      "id": "item?id=50406111",
+      "id": "item?id=50368481",
       "title": {
-        "en": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-        "my": "Apple ရဲ့မီးခိုးရောင်စာရင်း: စကားလုံးများနှင့်စကားစုများကိုသင့်ရဲ့ iPhone ကိုသင်စာလုံးပေါင်းကူညီမည်မဟုတ်"
+        "en": "Declarative Dragging",
+        "my": "ကြေငြာချက်ဆွဲခြင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 454,
-      "comments": 284,
-      "author": "user_7832",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "discussUrl": "https://news.ycombinator.com/item?id=50406111"
+      "score": 533,
+      "comments": 65,
+      "author": "smusamashah",
+      "url": "https://declarative-dragging.github.io/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50368481"
     },
     {
-      "id": "item?id=50406563",
+      "id": "item?id=50418176",
       "title": {
-        "en": "The end of Microsoft Research's AI Frontiers group",
-        "my": "Home သ တင်း များ နိုင်ငံ တ ကာ မိုက်ခရိုဆော့ဖ် ၏ သုတေသန လုပ်ငန်းများ ရပ်ဆိုင်း"
+        "en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "my": "KetchUp – ပွင့်လင်းအရင်းအမြစ် SketchUp အခြားရွေးချယ်စရာ Rust နှင့် WebGPU နှင့်အတူတည်ဆောက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 450,
-      "comments": 270,
-      "author": "srean",
-      "url": "https://hunch.net/?p=13764006",
-      "discussUrl": "https://news.ycombinator.com/item?id=50406563"
+      "score": 470,
+      "comments": 131,
+      "author": "dcoulmbe",
+      "url": "https://ketchup3d.github.io/app/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50418176"
     },
     {
-      "id": "item?id=50401867",
+      "id": "item?id=50411961",
       "title": {
-        "en": "Asahi Linux Progress Linux 7.3",
-        "my": "Asahi Linux ကိုတိုးတက်မှု Linux ကို 7.3"
+        "en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "my": "Llama-modchip: 64GB RAM ကိုအပေါ် 284B DeepSeek, အဘယ်သူမျှမ GPU ကို"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 368,
-      "comments": 320,
-      "author": "ackyshake",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50401867"
+      "score": 417,
+      "comments": 187,
+      "author": "joshcsimmons",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "discussUrl": "https://news.ycombinator.com/item?id=50411961"
     },
     {
-      "id": "item?id=50407882",
+      "id": "item?id=50416158",
       "title": {
-        "en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "my": "\"Don 't Ask Again\" ဆိုတဲ့ စကားဝှက်ကို အများပြည်သူသုံး GitHub ဖိုင်ပေါင်း ၁၁၂၂ ဖိုင်နဲ့ ဖော်ထုတ်လိုက်တဲ့ Claude Code"
+        "en": "Outlook.com is rejecting email from domains without DMARC",
+        "my": "Outlook.com သည် DMARC မပါ ၀ င်သောဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 366,
-      "comments": 251,
-      "author": "shmulc",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "discussUrl": "https://news.ycombinator.com/item?id=50407882"
+      "score": 397,
+      "comments": 281,
+      "author": "xmddmx",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "discussUrl": "https://news.ycombinator.com/item?id=50416158"
     },
     {
-      "id": "0ouxwf",
+      "id": "j63dme",
       "title": {
-        "en": "Libghostty 1.0",
-        "my": "Libghostty 1.0"
+        "en": "Meridian — an experimental web browser built on Servo and GPUI",
+        "my": "Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်အင်တာနက်ဘရောက်ဇာ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 161,
-      "comments": 7,
-      "author": "dgv",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "discussUrl": "https://lobste.rs/s/0ouxwf"
+      "score": 62,
+      "comments": 11,
+      "author": "icy",
+      "url": "https://op.tngl.io/meridian/",
+      "discussUrl": "https://lobste.rs/s/j63dme"
     },
     {
-      "id": "hvxjbb",
+      "id": "owsnms",
       "title": {
-        "en": "Making musl and proprietary NVIDIA drivers work together",
-        "my": "MUSL နှင့်ပိုင်ဆိုင်သော NVIDIA ယာဉ်မောင်းများကိုအတူတကွအလုပ်လုပ်စေခြင်း"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 63,
-      "comments": 8,
-      "author": "q66",
-      "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
-      "discussUrl": "https://lobste.rs/s/hvxjbb"
-    },
-    {
-      "id": "osqswf",
-      "title": {
-        "en": "The Port That Does Not Exist",
-        "my": "မရွိေတာ့တဲ့ ဘဂၤလားေဒ့ရွ္"
+        "en": "*sshole, or when are we finally going to get rid of C?",
+        "my": "C + + ကို ဘယ်အချိန်မှာ ဖြုတ်ကြမလဲ?"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
       "score": 58,
-      "comments": 6,
-      "author": "drmorr",
-      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "discussUrl": "https://lobste.rs/s/osqswf"
+      "comments": 82,
+      "author": "novedevo",
+      "url": "https://sunshowers.io/posts/sshole/",
+      "discussUrl": "https://lobste.rs/s/owsnms"
+    },
+    {
+      "id": "62loik",
+      "title": {
+        "en": "systemd loves Rust",
+        "my": "systemd ငြိမ်ဝပ်ပိပြားမှုကိုချစ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 42,
+      "comments": 19,
+      "author": "lorenzleutgeb",
+      "url": "https://amutable.com/blog/systemd-loves-rust",
+      "discussUrl": "https://lobste.rs/s/62loik"
     }
   ]
 }

@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "item?id=50415628",
+      "title": {
+        "en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "my": "Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲယူသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 762,
+      "comments": 408,
+      "author": "TheWiggles",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "discussUrl": "https://news.ycombinator.com/item?id=50415628"
+    },
+    {
+      "id": "item?id=50410107",
+      "title": {
+        "en": "Goodbye Claude, hello Pi",
+        "my": "မင်္ဂလာပါ Claude မင်္ဂလာပါ Pi"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 756,
+      "comments": 467,
+      "author": "karagenit",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50410107"
+    },
+    {
+      "id": "item?id=50418016",
+      "title": {
+        "en": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "my": "Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang က ၀ န်ထမ်းများအားအရေးပေါ်အကြောင်းကြားစာ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 647,
+      "comments": 681,
+      "author": "karimf",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "discussUrl": "https://news.ycombinator.com/item?id=50418016"
+    },
+    {
+      "id": "item?id=50368481",
+      "title": {
+        "en": "Declarative Dragging",
+        "my": "ကြေငြာချက်ဆွဲခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 533,
+      "comments": 65,
+      "author": "smusamashah",
+      "url": "https://declarative-dragging.github.io/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50368481"
+    },
+    {
+      "id": "item?id=50418176",
+      "title": {
+        "en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "my": "KetchUp – ပွင့်လင်းအရင်းအမြစ် SketchUp အခြားရွေးချယ်စရာ Rust နှင့် WebGPU နှင့်အတူတည်ဆောက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 470,
+      "comments": 131,
+      "author": "dcoulmbe",
+      "url": "https://ketchup3d.github.io/app/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50418176"
+    },
+    {
+      "id": "item?id=50411961",
+      "title": {
+        "en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "my": "Llama-modchip: 64GB RAM ကိုအပေါ် 284B DeepSeek, အဘယ်သူမျှမ GPU ကို"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 417,
+      "comments": 187,
+      "author": "joshcsimmons",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "discussUrl": "https://news.ycombinator.com/item?id=50411961"
+    },
+    {
+      "id": "item?id=50416158",
+      "title": {
+        "en": "Outlook.com is rejecting email from domains without DMARC",
+        "my": "Outlook.com သည် DMARC မပါ ၀ င်သောဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 397,
+      "comments": 281,
+      "author": "xmddmx",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "discussUrl": "https://news.ycombinator.com/item?id=50416158"
+    },
+    {
+      "id": "j63dme",
+      "title": {
+        "en": "Meridian — an experimental web browser built on Servo and GPUI",
+        "my": "Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်အင်တာနက်ဘရောက်ဇာ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 62,
+      "comments": 11,
+      "author": "icy",
+      "url": "https://op.tngl.io/meridian/",
+      "discussUrl": "https://lobste.rs/s/j63dme"
+    },
+    {
+      "id": "owsnms",
+      "title": {
+        "en": "*sshole, or when are we finally going to get rid of C?",
+        "my": "C + + ကို ဘယ်အချိန်မှာ ဖြုတ်ကြမလဲ?"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 58,
+      "comments": 82,
+      "author": "novedevo",
+      "url": "https://sunshowers.io/posts/sshole/",
+      "discussUrl": "https://lobste.rs/s/owsnms"
+    },
+    {
+      "id": "62loik",
+      "title": {
+        "en": "systemd loves Rust",
+        "my": "systemd ငြိမ်ဝပ်ပိပြားမှုကိုချစ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 42,
+      "comments": 19,
+      "author": "lorenzleutgeb",
+      "url": "https://amutable.com/blog/systemd-loves-rust",
+      "discussUrl": "https://lobste.rs/s/62loik"
+    }
+  ]
+}

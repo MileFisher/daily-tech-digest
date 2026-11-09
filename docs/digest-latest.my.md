@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-08
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-09
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:41 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:19 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. မြန်နှုန်းမြေအောက်လိုအပ်ချက် 2 ဘရောက်ဇာတွင်အွန်လိုင်း
+1. Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲယူသည်
 
-🔶 Hacker News · ⬆️ 957 points · 💬 247 comments · 👤 fluxusars
+🔶 Hacker News · ⬆️ 762 points · 💬 408 comments · 👤 TheWiggles
 
-Nfsu2.xyz ခေါင်းစဉ်ဖြင့် link တစ်ခု "ဘရောက်ဇာတွင်အမြန်နှုန်းမြေအောက်လိုအပ်ချက် 2 အွန်လိုင်း", ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+"Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲထုတ်နေသည်" ခေါင်းစဉ်ဖြင့် thestateofai.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်အမြင့်ဆုံးရမှတ်များထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50403052) · [Source](https://nfsu2.xyz/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50415628) · [Source](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 
-2. တိုင္းရင္းသားလက္နက္ကိုင္အဖြဲ႔မ်ား (KNU) ႏွင့္ အစိုးရတပ္မ်ား တိုက္ပြဲျပင္းထန္ (႐ုပ္သံ)
+2. မင်္ဂလာပါ Claude မင်္ဂလာပါ Pi
 
-🔶 Hacker News · ⬆️ 704 points · 💬 373 comments · 👤 infwhispers
+🔶 Hacker News · ⬆️ 756 points · 💬 467 comments · 👤 karagenit
 
-8rank.ai သို့ "Mac တိုင်းသည် (စာရွက်စာတမ်းမရှိသော) မိသားစုဝင် classifier နှင့်အတူလာသည်" ဟုခေါင်းစဉ်တပ်ထားသော link တစ်ခုသည်ရှေ့စာမျက်နှာပေါ်တွင်ရမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+"နှုတ်ဆက် Claude, ဟဲလို Pi" ခေါင်းစဉ်ဖြင့် caleb.software ကို link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ဇာတ်လမ်းများထဲကတစ်ခု, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50403097) · [Source](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+[Discuss on HN](https://news.ycombinator.com/item?id=50410107) · [Source](https://caleb.software/posts/claude-to-pi.html)
 
-3. ငါ ၏ အ $ 10 အမေရိကန်ဒေါ်လာ OpenStick homelab အပေါ် run သောအရာကို
+3. Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang က ၀ န်ထမ်းများအားအရေးပေါ်အကြောင်းကြားစာ
 
-🔶 Hacker News · ⬆️ 543 points · 💬 104 comments · 👤 LaurensBER
+🔶 Hacker News · ⬆️ 647 points · 💬 681 comments · 👤 karimf
 
-Blog.bosscher.ch ခေါင်းစဉ်ဖြင့် link တစ်ခု "ကျွန်ုပ် ၏ $ 10 USD OpenStick homelab တွင်ကျွန်ုပ် run သောအရာ" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+Nvidianews.nvidia.com သို့ link တစ်ခု "Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang ၏ အမှုကိစ္စနှင့် ပတ်သက် ၍ ၀ န်ထမ်းများထံပေးပို့သောစာ" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50406670) · [Source](https://blog.bosscher.ch/posts/openstick/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50418016) · [Source](https://nvidianews.nvidia.com/news/a-message-to-our-company)
 
-4. Apple ရဲ့မီးခိုးရောင်စာရင်း: စကားလုံးများနှင့်စကားစုများကိုသင့်ရဲ့ iPhone ကိုသင်စာလုံးပေါင်းကူညီမည်မဟုတ်
+4. ကြေငြာချက်ဆွဲခြင်း
 
-🔶 Hacker News · ⬆️ 454 points · 💬 284 comments · 👤 user_7832
+🔶 Hacker News · ⬆️ 533 points · 💬 65 comments · 👤 smusamashah
 
-Theguardian.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Apple ရဲ့မီးခိုးရောင်စာရင်း: သင့် iPhone ကိုစာလုံးပေါင်းကူညီပေးမည်မဟုတ်", ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Declarative-dragging.github.io ခေါင်းစဉ်ဖြင့် "Declarative Dragging" သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50406111) · [Source](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+[Discuss on HN](https://news.ycombinator.com/item?id=50368481) · [Source](https://declarative-dragging.github.io/)
 
-5. Home သ တင်း များ နိုင်ငံ တ ကာ မိုက်ခရိုဆော့ဖ် ၏ သုတေသန လုပ်ငန်းများ ရပ်ဆိုင်း
+5. KetchUp – ပွင့်လင်းအရင်းအမြစ် SketchUp အခြားရွေးချယ်စရာ Rust နှင့် WebGPU နှင့်အတူတည်ဆောက်
 
-🔶 Hacker News · ⬆️ 450 points · 💬 270 comments · 👤 srean
+🔶 Hacker News · ⬆️ 470 points · 💬 131 comments · 👤 dcoulmbe
 
-"မိုက်ခရိုဆော့ သုတေသန ၏ ဉာဏ်ရည်တု Frontiers အုပ်စု ၏ အဆုံးသတ်" ခေါင်းစဉ်ဖြင့် hunch.net သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"KetchUp – Open-source SketchUp alternative built with Rust and WebGPU" ခေါင်းစဉ်ဖြင့် ketchup3d.github.io သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50406563) · [Source](https://hunch.net/?p=13764006)
+[Discuss on HN](https://news.ycombinator.com/item?id=50418176) · [Source](https://ketchup3d.github.io/app/)
 
-6. Asahi Linux ကိုတိုးတက်မှု Linux ကို 7.3
+6. Llama-modchip: 64GB RAM ကိုအပေါ် 284B DeepSeek, အဘယ်သူမျှမ GPU ကို
 
-🔶 Hacker News · ⬆️ 368 points · 💬 320 comments · 👤 ackyshake
+🔶 Hacker News · ⬆️ 417 points · 💬 187 comments · 👤 joshcsimmons
 
-"Asahi Linux Progress Linux 7.3" ခေါင်းစဉ်ဖြင့် asahilinux.org သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှု ။
+"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU" ခေါင်းစဉ်ဖြင့် github.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုများရေးဆွဲသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50401867) · [Source](https://asahilinux.org/2026/11/progress-report-7-3/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50411961) · [Source](https://github.com/synchopate/llama-modchip)
 
-7. "Don 't Ask Again" ဆိုတဲ့ စကားဝှက်ကို အများပြည်သူသုံး GitHub ဖိုင်ပေါင်း ၁၁၂၂ ဖိုင်နဲ့ ဖော်ထုတ်လိုက်တဲ့ Claude Code
+7. Outlook.com သည် DMARC မပါ ၀ င်သောဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်သည်
 
-🔶 Hacker News · ⬆️ 366 points · 💬 251 comments · 👤 shmulc
+🔶 Hacker News · ⬆️ 397 points · 💬 281 comments · 👤 xmddmx
 
-"Claude Code ရဲ့ "Don 't Ask Again"ဆိုတဲ့ ခေါင်းစဉ်နဲ့ apiiro.com ရဲ့ လင့်ခ်တစ်ခုဟာ အများပြည်သူသုံး GitHub ဖိုင်ပေါင်း ၁၁၂၂ ဖိုင်မှာ စကားဝှက်တွေကို ဖော်ပြပေးပါတယ် ။
+"Outlook.com သည် DMARC မပါဘဲဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်နေသည်" ခေါင်းစဉ်ဖြင့် mailroute.net သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50407882) · [Source](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+[Discuss on HN](https://news.ycombinator.com/item?id=50416158) · [Source](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 
-8. Libghostty 1.0
+8. Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်အင်တာနက်ဘရောက်ဇာ
 
-🦞 Lobsters · ⬆️ 161 points · 💬 7 comments · 👤 dgv
+🦞 Lobsters · ⬆️ 62 points · 💬 11 comments · 👤 icy
 
-Mitchellh.com မှ "Libghostty 1.0" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Op.tngl.io ကို "Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်မှုဆိုင်ရာ web browser" ဟုအမည်ပေးထားသော link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/0ouxwf) · [Source](https://mitchellh.com/writing/libghostty-1-0)
+[Discuss on Lobsters](https://lobste.rs/s/j63dme) · [Source](https://op.tngl.io/meridian/)
 
-9. MUSL နှင့်ပိုင်ဆိုင်သော NVIDIA ယာဉ်မောင်းများကိုအတူတကွအလုပ်လုပ်စေခြင်း
+9. C + + ကို ဘယ်အချိန်မှာ ဖြုတ်ကြမလဲ?
 
-🦞 Lobsters · ⬆️ 63 points · 💬 8 comments · 👤 q66
+🦞 Lobsters · ⬆️ 58 points · 💬 82 comments · 👤 novedevo
 
-CHIMERA-linux.org ကို "MUSL နှင့်ပိုင်ဆိုင်သော NVIDIA ယာဉ်မောင်းများကိုအတူတကွအလုပ်လုပ်စေခြင်း" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+ဆောင်းပါး ၏ လမ်းကြောင်းအပြည့်အစုံ - Androidsis ပါ "NOTICIAS" ဘယ်အချိန်မှာငါတို့ကိုဖယ်ရှားမလဲ
 
-[Discuss on Lobsters](https://lobste.rs/s/hvxjbb) · [Source](https://chimera-linux.org/news/2026/11/musl-nvidia.html)
+[Discuss on Lobsters](https://lobste.rs/s/owsnms) · [Source](https://sunshowers.io/posts/sshole/)
 
-10. မရွိေတာ့တဲ့ ဘဂၤလားေဒ့ရွ္
+10. systemd ငြိမ်ဝပ်ပိပြားမှုကိုချစ်
 
-🦞 Lobsters · ⬆️ 58 points · 💬 6 comments · 👤 drmorr
+🦞 Lobsters · ⬆️ 42 points · 💬 19 comments · 👤 lorenzleutgeb
 
-ပင်မစာမျက်နှာ "အားလုံး Apps ကပ" ဆိပ်ကမ်းမရှိသောဆိပ်ကမ်း
+Amutable.com မှ "systemd ကိုချစ်သောသံချေး" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/osqswf) · [Source](https://acid.vegas/blog/the-port-that-does-not-exist/)
+[Discuss on Lobsters](https://lobste.rs/s/62loik) · [Source](https://amutable.com/blog/systemd-loves-rust)
 
-*daily-tech-digest · MileFisher · 2026-11-08T08:41:24.452Z*
+*daily-tech-digest · MileFisher · 2026-11-09T09:19:49.905Z*
