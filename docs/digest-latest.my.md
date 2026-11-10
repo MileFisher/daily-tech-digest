@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-09
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-10
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:19 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:24 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲယူသည်
+1. Foldable ပျံသန်းမှု: အကောင်းဆုံးစက္ကူလေယာဉ်
 
-🔶 Hacker News · ⬆️ 762 points · 💬 408 comments · 👤 TheWiggles
+🔶 Hacker News · ⬆️ 1010 points · 💬 149 comments · 👤 vismit2000
 
-"Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲထုတ်နေသည်" ခေါင်းစဉ်ဖြင့် thestateofai.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်အမြင့်ဆုံးရမှတ်များထဲမှတစ်ခု ၊ တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူ ။
+Foldableflight.com မှ link တစ်ခု "ခေါက်နိုင်သောပျံသန်းမှု: အကောင်းဆုံးစက္ကူလေယာဉ်များ" ခေါင်းစဉ်ဖြင့်, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50415628) · [Source](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+[Discuss on HN](https://news.ycombinator.com/item?id=50424581) · [Source](https://www.foldableflight.com)
 
-2. မင်္ဂလာပါ Claude မင်္ဂလာပါ Pi
+2. USPS ယခုတရားဝင် ZIP Code ကိုနယ်နိမိတ် Polygons ပေး
 
-🔶 Hacker News · ⬆️ 756 points · 💬 467 comments · 👤 karagenit
+🔶 Hacker News · ⬆️ 615 points · 💬 309 comments · 👤 munro
 
-"နှုတ်ဆက် Claude, ဟဲလို Pi" ခေါင်းစဉ်ဖြင့် caleb.software ကို link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အများဆုံးရမှတ်ဇာတ်လမ်းများထဲကတစ်ခု, တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ.
+Postalpro.usps.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "USPS ယခုတက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ပုံပြင်များထဲကတစ်ခုဖြစ်သောတရားဝင် ZIP Code ကိုနယ်နိမိတ် polygons ကမ်းလှမ်းသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50410107) · [Source](https://caleb.software/posts/claude-to-pi.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50431058) · [Source](https://postalpro.usps.com/zcb)
 
-3. Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang က ၀ န်ထမ်းများအားအရေးပေါ်အကြောင်းကြားစာ
+3. Google Gemini သည်ပုဂ္ဂိုလ်ရေး Drive ဖိုင်များနှင့်အီးမေးလ်များကိုလူ့ annotators သို့လမ်းကြောင်းပေးသည်
 
-🔶 Hacker News · ⬆️ 647 points · 💬 681 comments · 👤 karimf
+🔶 Hacker News · ⬆️ 589 points · 💬 128 comments · 👤 gf74918
 
-Nvidianews.nvidia.com သို့ link တစ်ခု "Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang ၏ အမှုကိစ္စနှင့် ပတ်သက် ၍ ၀ န်ထမ်းများထံပေးပို့သောစာ" ၊ ရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးတက်ကြွစွာဆွေးနွေးမှုချည်နှောင်ထားသည် ။
+Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Google Gemini သည်ကိုယ်ပိုင် Drive ဖိုင်များနှင့်အီးမေးလ်များကိုလူ့ annotators သို့လမ်းကြောင်းပေးသည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50418016) · [Source](https://nvidianews.nvidia.com/news/a-message-to-our-company)
+[Discuss on HN](https://news.ycombinator.com/item?id=50429426) · [Source](https://github.com/thisisme6598/gemini_files/)
 
-4. ကြေငြာချက်ဆွဲခြင်း
+4. Claude Fable ကို 5.2 နှင့်ဒဏ္ဍာရီ 5.2
 
-🔶 Hacker News · ⬆️ 533 points · 💬 65 comments · 👤 smusamashah
+🔶 Hacker News · ⬆️ 561 points · 💬 783 comments · 👤 lairv
 
-Declarative-dragging.github.io ခေါင်းစဉ်ဖြင့် "Declarative Dragging" သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်သည် ။
+Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Claude Fable 5.2 နှင့် Mythos 5.2," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50368481) · [Source](https://declarative-dragging.github.io/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50429068) · [Source](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 
-5. KetchUp – ပွင့်လင်းအရင်းအမြစ် SketchUp အခြားရွေးချယ်စရာ Rust နှင့် WebGPU နှင့်အတူတည်ဆောက်
+5. ကနေဒါနိုင်ငံ ၏ Real-Time Rail (RTR) ငွေပေးချေမှုစနစ်ကိုစတင်မိတ်ဆက်ကြောင်းကြေငြာခဲ့သည်
 
-🔶 Hacker News · ⬆️ 470 points · 💬 131 comments · 👤 dcoulmbe
+🔶 Hacker News · ⬆️ 529 points · 💬 285 comments · 👤 ocd
 
-"KetchUp – Open-source SketchUp alternative built with Rust and WebGPU" ခေါင်းစဉ်ဖြင့် ketchup3d.github.io သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
+"ငွေပေးချေမှုကနေဒါသည်ကနေဒါ ၏ Real-Time Rail (RTR) ငွေပေးချေမှုစနစ်ကိုစတင်မိတ်ဆက်ကြောင်းကြေငြာ" ခေါင်းစဉ်ဖြင့်ငွေပေးချေမှုအတွက် link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခု, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50418176) · [Source](https://ketchup3d.github.io/app/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50427362) · [Source](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 
-6. Llama-modchip: 64GB RAM ကိုအပေါ် 284B DeepSeek, အဘယ်သူမျှမ GPU ကို
+6. MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: KIA တပ္မဟာ (၁) နယ္ေျမတြင္ တိုက္ပြဲမ်ား ဆက္လက္ျဖစ္ပြားေန
 
-🔶 Hacker News · ⬆️ 417 points · 💬 187 comments · 👤 joshcsimmons
+🔶 Hacker News · ⬆️ 396 points · 💬 37 comments · 👤 porridgeraisin
 
-"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU" ခေါင်းစဉ်ဖြင့် github.com သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာတွင်လူကြိုက်များသောပုံပြင်တစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုများရေးဆွဲသည် ။
+"E-means: Outperforming k-means in one-10 the epochs" ခေါင်းစဉ်ဖြင့် e-means.github.io သို့ ချိတ်ဆက်ထားသော လင့်ခ် ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50411961) · [Source](https://github.com/synchopate/llama-modchip)
+[Discuss on HN](https://news.ycombinator.com/item?id=50429734) · [Source](https://e-means.github.io/)
 
-7. Outlook.com သည် DMARC မပါ ၀ င်သောဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်သည်
+7. ၂ဝ၁၅-၂ဝ၁၉ ဘ႑ာေရးႏွစ္တြင္ က်ပ္သိန္း ၁ဝဝဝ တန္ဖိုးရွိ မူးယစ္ေဆးဝါးမ်ား သိမ္းဆည္းရမိ
 
-🔶 Hacker News · ⬆️ 397 points · 💬 281 comments · 👤 xmddmx
+🔶 Hacker News · ⬆️ 388 points · 💬 268 comments · 👤 lexandstuff
 
-"Outlook.com သည် DMARC မပါဘဲဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်နေသည်" ခေါင်းစဉ်ဖြင့် mailroute.net သို့လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောပုံပြင် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
+"Fable 5.2 one-shotted my nephew's dream game" ခေါင်းစဉ်ဖြင့် notebylex.com သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50416158) · [Source](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+[Discuss on HN](https://news.ycombinator.com/item?id=50433659) · [Source](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 
-8. Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်အင်တာနက်ဘရောက်ဇာ
+8. Terminal2Shell: ဝေဖန်အပြစ်အနာအဆာတိုင်းအဓိက OS ကိုအပေါ်ချက်ချင်း shell ကို access ကိုခွင့်ပြု
 
-🦞 Lobsters · ⬆️ 62 points · 💬 11 comments · 👤 icy
+🦞 Lobsters · ⬆️ 102 points · 💬 27 comments · 👤 whjms
 
-Op.tngl.io ကို "Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်မှုဆိုင်ရာ web browser" ဟုအမည်ပေးထားသော link တစ်ခု ။
+"Terminal2Shell: Critical flaw သည်အဓိက OS တိုင်းတွင်ချက်ချင်း shell access ကိုခွင့်ပြုသည်" ခေါင်းစဉ်ဖြင့် terminal2shell.com သို့ link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/j63dme) · [Source](https://op.tngl.io/meridian/)
+[Discuss on Lobsters](https://lobste.rs/s/vghqe8) · [Source](https://terminal2shell.com/)
 
-9. C + + ကို ဘယ်အချိန်မှာ ဖြုတ်ကြမလဲ?
+9. ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်
 
-🦞 Lobsters · ⬆️ 58 points · 💬 82 comments · 👤 novedevo
+🦞 Lobsters · ⬆️ 93 points · 💬 10 comments · 👤 rrampage
 
-ဆောင်းပါး ၏ လမ်းကြောင်းအပြည့်အစုံ - Androidsis ပါ "NOTICIAS" ဘယ်အချိန်မှာငါတို့ကိုဖယ်ရှားမလဲ
+"ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်များ" ခေါင်းစဉ်ဖြင့် maurycyz.com မှ link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/owsnms) · [Source](https://sunshowers.io/posts/sshole/)
+[Discuss on Lobsters](https://lobste.rs/s/txkq8s) · [Source](https://maurycyz.com/projects/badcert/)
 
-10. systemd ငြိမ်ဝပ်ပိပြားမှုကိုချစ်
+10. အဆောက်အဦး Distro အထုပ်များကိုမည်မျှစွမ်းအင်အသုံးပြုသည်
 
-🦞 Lobsters · ⬆️ 42 points · 💬 19 comments · 👤 lorenzleutgeb
+🦞 Lobsters · ⬆️ 93 points · 💬 16 comments · 👤 wezm
 
-Amutable.com မှ "systemd ကိုချစ်သောသံချေး" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Wezm.net မှ "Distro အထုပ်များတည်ဆောက်ခြင်းသည်မည်မျှစွမ်းအင်ကိုအသုံးပြုသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/62loik) · [Source](https://amutable.com/blog/systemd-loves-rust)
+[Discuss on Lobsters](https://lobste.rs/s/ezjewj) · [Source](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 
-*daily-tech-digest · MileFisher · 2026-11-09T09:19:49.905Z*
+*daily-tech-digest · MileFisher · 2026-11-10T09:24:24.878Z*

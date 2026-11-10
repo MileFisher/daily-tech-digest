@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
-      "id": "item?id=50415628",
+      "id": "item?id=50424581",
       "title": {
-        "en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "my": "Goldman Sachs သည် Claude Code ကို ၎ င်း ၏ ဘဏ်များနှင့်ကုန်သည်များထံမှဆွဲယူသည်"
+        "en": "Foldable Flight: The Best Paper Airplanes",
+        "my": "Foldable ပျံသန်းမှု: အကောင်းဆုံးစက္ကူလေယာဉ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 762,
-      "comments": 408,
-      "author": "TheWiggles",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "discussUrl": "https://news.ycombinator.com/item?id=50415628"
+      "score": 1010,
+      "comments": 149,
+      "author": "vismit2000",
+      "url": "https://www.foldableflight.com",
+      "discussUrl": "https://news.ycombinator.com/item?id=50424581"
     },
     {
-      "id": "item?id=50410107",
+      "id": "item?id=50431058",
       "title": {
-        "en": "Goodbye Claude, hello Pi",
-        "my": "မင်္ဂလာပါ Claude မင်္ဂလာပါ Pi"
+        "en": "USPS now offers official ZIP Code boundary polygons",
+        "my": "USPS ယခုတရားဝင် ZIP Code ကိုနယ်နိမိတ် Polygons ပေး"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 756,
-      "comments": 467,
-      "author": "karagenit",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50410107"
+      "score": 615,
+      "comments": 309,
+      "author": "munro",
+      "url": "https://postalpro.usps.com/zcb",
+      "discussUrl": "https://news.ycombinator.com/item?id=50431058"
     },
     {
-      "id": "item?id=50418016",
+      "id": "item?id=50429426",
       "title": {
-        "en": "Nvidia CEO Jensen Huang's letter to staff about affair",
-        "my": "Nvidia အမှုဆောင်အရာရှိချုပ် Jensen Huang က ၀ န်ထမ်းများအားအရေးပေါ်အကြောင်းကြားစာ"
+        "en": "Google Gemini routes personal Drive files and emails to human annotators",
+        "my": "Google Gemini သည်ပုဂ္ဂိုလ်ရေး Drive ဖိုင်များနှင့်အီးမေးလ်များကိုလူ့ annotators သို့လမ်းကြောင်းပေးသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 647,
-      "comments": 681,
-      "author": "karimf",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "discussUrl": "https://news.ycombinator.com/item?id=50418016"
+      "score": 589,
+      "comments": 128,
+      "author": "gf74918",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50429426"
     },
     {
-      "id": "item?id=50368481",
+      "id": "item?id=50429068",
       "title": {
-        "en": "Declarative Dragging",
-        "my": "ကြေငြာချက်ဆွဲခြင်း"
+        "en": "Claude Fable 5.2 and Mythos 5.2",
+        "my": "Claude Fable ကို 5.2 နှင့်ဒဏ္ဍာရီ 5.2"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 533,
-      "comments": 65,
-      "author": "smusamashah",
-      "url": "https://declarative-dragging.github.io/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50368481"
+      "score": 561,
+      "comments": 783,
+      "author": "lairv",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "discussUrl": "https://news.ycombinator.com/item?id=50429068"
     },
     {
-      "id": "item?id=50418176",
+      "id": "item?id=50427362",
       "title": {
-        "en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-        "my": "KetchUp – ပွင့်လင်းအရင်းအမြစ် SketchUp အခြားရွေးချယ်စရာ Rust နှင့် WebGPU နှင့်အတူတည်ဆောက်"
+        "en": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+        "my": "ကနေဒါနိုင်ငံ ၏ Real-Time Rail (RTR) ငွေပေးချေမှုစနစ်ကိုစတင်မိတ်ဆက်ကြောင်းကြေငြာခဲ့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 470,
-      "comments": 131,
-      "author": "dcoulmbe",
-      "url": "https://ketchup3d.github.io/app/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50418176"
+      "score": 529,
+      "comments": 285,
+      "author": "ocd",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "discussUrl": "https://news.ycombinator.com/item?id=50427362"
     },
     {
-      "id": "item?id=50411961",
+      "id": "item?id=50429734",
       "title": {
-        "en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "my": "Llama-modchip: 64GB RAM ကိုအပေါ် 284B DeepSeek, အဘယ်သူမျှမ GPU ကို"
+        "en": "E-means: Outperforming k-means in one-tenth the epochs",
+        "my": "MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: KIA တပ္မဟာ (၁) နယ္ေျမတြင္ တိုက္ပြဲမ်ား ဆက္လက္ျဖစ္ပြားေန"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 417,
-      "comments": 187,
-      "author": "joshcsimmons",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "discussUrl": "https://news.ycombinator.com/item?id=50411961"
+      "score": 396,
+      "comments": 37,
+      "author": "porridgeraisin",
+      "url": "https://e-means.github.io/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50429734"
     },
     {
-      "id": "item?id=50416158",
+      "id": "item?id=50433659",
       "title": {
-        "en": "Outlook.com is rejecting email from domains without DMARC",
-        "my": "Outlook.com သည် DMARC မပါ ၀ င်သောဒိုမိန်းများမှအီးမေးလ်ကိုငြင်းပယ်သည်"
+        "en": "Fable 5.2 one-shotted my nephew's dream game",
+        "my": "၂ဝ၁၅-၂ဝ၁၉ ဘ႑ာေရးႏွစ္တြင္ က်ပ္သိန္း ၁ဝဝဝ တန္ဖိုးရွိ မူးယစ္ေဆးဝါးမ်ား သိမ္းဆည္းရမိ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 397,
-      "comments": 281,
-      "author": "xmddmx",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "discussUrl": "https://news.ycombinator.com/item?id=50416158"
+      "score": 388,
+      "comments": 268,
+      "author": "lexandstuff",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "discussUrl": "https://news.ycombinator.com/item?id=50433659"
     },
     {
-      "id": "j63dme",
+      "id": "vghqe8",
       "title": {
-        "en": "Meridian — an experimental web browser built on Servo and GPUI",
-        "my": "Meridian — Servo နှင့် GPUI ပေါ်တွင်တည်ဆောက်ထားသောစမ်းသပ်အင်တာနက်ဘရောက်ဇာ"
+        "en": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+        "my": "Terminal2Shell: ဝေဖန်အပြစ်အနာအဆာတိုင်းအဓိက OS ကိုအပေါ်ချက်ချင်း shell ကို access ကိုခွင့်ပြု"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 62,
-      "comments": 11,
-      "author": "icy",
-      "url": "https://op.tngl.io/meridian/",
-      "discussUrl": "https://lobste.rs/s/j63dme"
+      "score": 102,
+      "comments": 27,
+      "author": "whjms",
+      "url": "https://terminal2shell.com/",
+      "discussUrl": "https://lobste.rs/s/vghqe8"
     },
     {
-      "id": "owsnms",
+      "id": "txkq8s",
       "title": {
-        "en": "*sshole, or when are we finally going to get rid of C?",
-        "my": "C + + ကို ဘယ်အချိန်မှာ ဖြုတ်ကြမလဲ?"
+        "en": "Horrible public key tricks",
+        "my": "ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 58,
-      "comments": 82,
-      "author": "novedevo",
-      "url": "https://sunshowers.io/posts/sshole/",
-      "discussUrl": "https://lobste.rs/s/owsnms"
+      "score": 93,
+      "comments": 10,
+      "author": "rrampage",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "discussUrl": "https://lobste.rs/s/txkq8s"
     },
     {
-      "id": "62loik",
+      "id": "ezjewj",
       "title": {
-        "en": "systemd loves Rust",
-        "my": "systemd ငြိမ်ဝပ်ပိပြားမှုကိုချစ်"
+        "en": "How Much Energy Does Building Distro Packages Use",
+        "my": "အဆောက်အဦး Distro အထုပ်များကိုမည်မျှစွမ်းအင်အသုံးပြုသည်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 42,
-      "comments": 19,
-      "author": "lorenzleutgeb",
-      "url": "https://amutable.com/blog/systemd-loves-rust",
-      "discussUrl": "https://lobste.rs/s/62loik"
+      "score": 93,
+      "comments": 16,
+      "author": "wezm",
+      "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
+      "discussUrl": "https://lobste.rs/s/ezjewj"
     }
   ]
 }
