@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-10
+# 🗞️ Daily Tech Digest — 2026-11-11
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:24 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:57 ICT
 
 ---
 
-1. Foldable Flight: The Best Paper Airplanes
+1. Smart home devices should work without the internet
 
-🔶 Hacker News · ⬆️ 1010 points · 💬 149 comments · 👤 vismit2000
+🔶 Hacker News · ⬆️ 906 points · 💬 322 comments · 👤 skittleson
 
-A link to foldableflight.com titled "Foldable Flight: The Best Paper Airplanes", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to docodethatmatters.com titled "Smart home devices should work without the internet", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50424581) · [Source](https://www.foldableflight.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=50441707) · [Source](https://docodethatmatters.com/home-automation-overnight-success/)
 
-2. USPS now offers official ZIP Code boundary polygons
+2. .name Grandfathered
 
-🔶 Hacker News · ⬆️ 615 points · 💬 309 comments · 👤 munro
+🔶 Hacker News · ⬆️ 812 points · 💬 178 comments · 👤 p4bl0
 
-A link to postalpro.usps.com titled "USPS now offers official ZIP Code boundary polygons", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to neil.fraser.name titled ".name Grandfathered", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50431058) · [Source](https://postalpro.usps.com/zcb)
+[Discuss on HN](https://news.ycombinator.com/item?id=50442736) · [Source](https://neil.fraser.name/news/2026/11/10/)
 
-3. Google Gemini routes personal Drive files and emails to human annotators
+3. AlphaProof Code
 
-🔶 Hacker News · ⬆️ 589 points · 💬 128 comments · 👤 gf74918
+🔶 Hacker News · ⬆️ 624 points · 💬 182 comments · 👤 ilreb
 
-A link to github.com titled "Google Gemini routes personal Drive files and emails to human annotators", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to deepmind.google titled "AlphaProof Code", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50429426) · [Source](https://github.com/thisisme6598/gemini_files/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50439193) · [Source](https://deepmind.google/blog/introducing-alphaproof-code/)
 
-4. Claude Fable 5.2 and Mythos 5.2
+4. AI usage generates a fragile codebase
 
-🔶 Hacker News · ⬆️ 561 points · 💬 783 comments · 👤 lairv
+🔶 Hacker News · ⬆️ 527 points · 💬 507 comments · 👤 plun9
 
-A link to anthropic.com titled "Claude Fable 5.2 and Mythos 5.2", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to evanxmerz.com titled "AI usage generates a fragile codebase", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50429068) · [Source](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+[Discuss on HN](https://news.ycombinator.com/item?id=50438318) · [Source](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 
-5. Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
+5. Scion is back and is going to sell a kei truck in America
 
-🔶 Hacker News · ⬆️ 529 points · 💬 285 comments · 👤 ocd
+🔶 Hacker News · ⬆️ 460 points · 💬 309 comments · 👤 NaOH
 
-A link to payments.ca titled "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to theautopian.com titled "Scion is back and is going to sell a kei truck in America", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50427362) · [Source](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+[Discuss on HN](https://news.ycombinator.com/item?id=50445401) · [Source](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 
-6. E-means: Outperforming k-means in one-tenth the epochs
+6. Starlink Mini 2
 
-🔶 Hacker News · ⬆️ 396 points · 💬 37 comments · 👤 porridgeraisin
+🔶 Hacker News · ⬆️ 397 points · 💬 400 comments · 👤 robertjfclarke
 
-A link to e-means.github.io titled "E-means: Outperforming k-means in one-tenth the epochs", a popular story on the front page.
+A link to starlink.com titled "Starlink Mini 2", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50429734) · [Source](https://e-means.github.io/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50444129) · [Source](https://starlink.com/mini-2)
 
-7. Fable 5.2 one-shotted my nephew's dream game
+7. Tracking Anthropic-discovered vulnerabilities
 
-🔶 Hacker News · ⬆️ 388 points · 💬 268 comments · 👤 lexandstuff
+🔶 Hacker News · ⬆️ 393 points · 💬 186 comments · 👤 panic
 
-A link to notesbylex.com titled "Fable 5.2 one-shotted my nephew's dream game", a popular story on the front page, drawing significant discussion.
+A link to vulncheck.com titled "Tracking Anthropic-discovered vulnerabilities", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50433659) · [Source](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+[Discuss on HN](https://news.ycombinator.com/item?id=50447074) · [Source](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 
-8. Terminal2Shell: Critical flaw grants instant shell access on every major OS
+8. .name grandfathered
 
-🦞 Lobsters · ⬆️ 102 points · 💬 27 comments · 👤 whjms
+🦞 Lobsters · ⬆️ 144 points · 💬 13 comments · 👤 classichasclass
 
-A link to terminal2shell.com titled "Terminal2Shell: Critical flaw grants instant shell access on every major OS".
+A link to neil.fraser.name titled ".name grandfathered".
 
-[Discuss on Lobsters](https://lobste.rs/s/vghqe8) · [Source](https://terminal2shell.com/)
+[Discuss on Lobsters](https://lobste.rs/s/vkkbwo) · [Source](https://neil.fraser.name/news/2026/11/10/)
 
 9. Horrible public key tricks
 
-🦞 Lobsters · ⬆️ 93 points · 💬 10 comments · 👤 rrampage
+🦞 Lobsters · ⬆️ 116 points · 💬 12 comments · 👤 rrampage
 
 A link to maurycyz.com titled "Horrible public key tricks".
 
 [Discuss on Lobsters](https://lobste.rs/s/txkq8s) · [Source](https://maurycyz.com/projects/badcert/)
 
-10. How Much Energy Does Building Distro Packages Use
+10. Microsoft are rejecting your mail
 
-🦞 Lobsters · ⬆️ 93 points · 💬 16 comments · 👤 wezm
+🦞 Lobsters · ⬆️ 80 points · 💬 21 comments · 👤 robalex
 
-A link to wezm.net titled "How Much Energy Does Building Distro Packages Use".
+A link to mythic-beasts.com titled "Microsoft are rejecting your mail".
 
-[Discuss on Lobsters](https://lobste.rs/s/ezjewj) · [Source](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
+[Discuss on Lobsters](https://lobste.rs/s/ynik5s) · [Source](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 
-*daily-tech-digest · MileFisher · 2026-11-10T09:24:24.878Z*
+*daily-tech-digest · MileFisher · 2026-11-11T08:57:44.160Z*

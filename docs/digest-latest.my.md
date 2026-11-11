@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-10
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-11
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:24 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:57 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Foldable ပျံသန်းမှု: အကောင်းဆုံးစက္ကူလေယာဉ်
+1. Home အစီအစဉ်များ နည်းပညာ အစီအစဥ် အင္တာနက္မလိုဘဲ အလုပ္လုပ္ႏိုင္တဲ့ စမတ္ဖုန္းမ်ား
 
-🔶 Hacker News · ⬆️ 1010 points · 💬 149 comments · 👤 vismit2000
+🔶 Hacker News · ⬆️ 906 points · 💬 322 comments · 👤 skittleson
 
-Foldableflight.com မှ link တစ်ခု "ခေါက်နိုင်သောပျံသန်းမှု: အကောင်းဆုံးစက္ကူလေယာဉ်များ" ခေါင်းစဉ်ဖြင့်, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Docodethatmatters.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "စမတ်အိမ်သုံးကိရိယာများသည်အင်တာနက်မပါဘဲအလုပ်လုပ်သင့်သည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50424581) · [Source](https://www.foldableflight.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=50441707) · [Source](https://docodethatmatters.com/home-automation-overnight-success/)
 
-2. USPS ယခုတရားဝင် ZIP Code ကိုနယ်နိမိတ် Polygons ပေး
+2. ဘိုးဘွားရိပ်သာ
 
-🔶 Hacker News · ⬆️ 615 points · 💬 309 comments · 👤 munro
+🔶 Hacker News · ⬆️ 812 points · 💬 178 comments · 👤 p4bl0
 
-Postalpro.usps.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "USPS ယခုတက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူ, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးရမှတ်ပုံပြင်များထဲကတစ်ခုဖြစ်သောတရားဝင် ZIP Code ကိုနယ်နိမိတ် polygons ကမ်းလှမ်းသည် ။
+Neil.fraser.name ခေါင်းစဉ်ဖြင့် link တစ်ခု ".name Grandfathered," ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50431058) · [Source](https://postalpro.usps.com/zcb)
+[Discuss on HN](https://news.ycombinator.com/item?id=50442736) · [Source](https://neil.fraser.name/news/2026/11/10/)
 
-3. Google Gemini သည်ပုဂ္ဂိုလ်ရေး Drive ဖိုင်များနှင့်အီးမေးလ်များကိုလူ့ annotators သို့လမ်းကြောင်းပေးသည်
+3. AlphaProof ကုဒ်
 
-🔶 Hacker News · ⬆️ 589 points · 💬 128 comments · 👤 gf74918
+🔶 Hacker News · ⬆️ 624 points · 💬 182 comments · 👤 ilreb
 
-Github.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Google Gemini သည်ကိုယ်ပိုင် Drive ဖိုင်များနှင့်အီးမေးလ်များကိုလူ့ annotators သို့လမ်းကြောင်းပေးသည်" ၊ ရှေ့စာမျက်နှာပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်ပြီးသိသာထင်ရှားသောဆွေးနွေးမှုကိုဆွဲဆောင်သည် ။
+"AlphaProof Code" ဟု အမည်ပေးထားသော deepmind.google သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50429426) · [Source](https://github.com/thisisme6598/gemini_files/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50439193) · [Source](https://deepmind.google/blog/introducing-alphaproof-code/)
 
-4. Claude Fable ကို 5.2 နှင့်ဒဏ္ဍာရီ 5.2
+4. AI အသုံးပြုမှုသည်အားနည်းသောကုဒ်အခြေစိုက်စခန်းကိုဖန်တီးသည်
 
-🔶 Hacker News · ⬆️ 561 points · 💬 783 comments · 👤 lairv
+🔶 Hacker News · ⬆️ 527 points · 💬 507 comments · 👤 plun9
 
-Anthropic.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Claude Fable 5.2 နှင့် Mythos 5.2," တက်ကြွစွာဆွေးနွေးချက်ချည်နှင့်အတူရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများ ၏ တဦးတည်း ။
+Evanxmerz.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "AI အသုံးပြုမှုသည်ကျိုးပဲ့လွယ်သော codebase ကိုထုတ်လုပ်သည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုဖြင့်မျက်နှာပြင်ပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50429068) · [Source](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+[Discuss on HN](https://news.ycombinator.com/item?id=50438318) · [Source](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 
-5. ကနေဒါနိုင်ငံ ၏ Real-Time Rail (RTR) ငွေပေးချေမှုစနစ်ကိုစတင်မိတ်ဆက်ကြောင်းကြေငြာခဲ့သည်
+5. စင္ကာပူမွာ ကားတစ္စီး ေရာင္းခ်ေတာ့မည္_dawnmanhon
 
-🔶 Hacker News · ⬆️ 529 points · 💬 285 comments · 👤 ocd
+🔶 Hacker News · ⬆️ 460 points · 💬 309 comments · 👤 NaOH
 
-"ငွေပေးချေမှုကနေဒါသည်ကနေဒါ ၏ Real-Time Rail (RTR) ငွေပေးချေမှုစနစ်ကိုစတင်မိတ်ဆက်ကြောင်းကြေငြာ" ခေါင်းစဉ်ဖြင့်ငွေပေးချေမှုအတွက် link တစ်ခု, ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းများထဲမှတစ်ခု, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+Theautopian.com မှာ "Scion ပြန်လာပြီ အမေရိကားမှာ kei truck ရောင်းတော့မယ်" လို့ ခေါင်းစဉ်တပ်ထားတဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ လူကြိုက်များတဲ့ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး တက်တက်ကြွကြွ ဆွေးနွေးချက်ချည်နှောင်ထားပါတယ် ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50427362) · [Source](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+[Discuss on HN](https://news.ycombinator.com/item?id=50445401) · [Source](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 
-6. MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: KIA တပ္မဟာ (၁) နယ္ေျမတြင္ တိုက္ပြဲမ်ား ဆက္လက္ျဖစ္ပြားေန
+6. Starlink Mini ကို 2
 
-🔶 Hacker News · ⬆️ 396 points · 💬 37 comments · 👤 porridgeraisin
+🔶 Hacker News · ⬆️ 397 points · 💬 400 comments · 👤 robertjfclarke
 
-"E-means: Outperforming k-means in one-10 the epochs" ခေါင်းစဉ်ဖြင့် e-means.github.io သို့ ချိတ်ဆက်ထားသော လင့်ခ် ၊ ရှေ့စာမျက်နှာတွင် လူကြိုက်များသော ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်သည် ။
+"Starlink Mini 2" ခေါင်းစဉ်ဖြင့် Starlink.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50429734) · [Source](https://e-means.github.io/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50444129) · [Source](https://starlink.com/mini-2)
 
-7. ၂ဝ၁၅-၂ဝ၁၉ ဘ႑ာေရးႏွစ္တြင္ က်ပ္သိန္း ၁ဝဝဝ တန္ဖိုးရွိ မူးယစ္ေဆးဝါးမ်ား သိမ္းဆည္းရမိ
+7. Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံခြင်း
 
-🔶 Hacker News · ⬆️ 388 points · 💬 268 comments · 👤 lexandstuff
+🔶 Hacker News · ⬆️ 393 points · 💬 186 comments · 👤 panic
 
-"Fable 5.2 one-shotted my nephew's dream game" ခေါင်းစဉ်ဖြင့် notebylex.com သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များသောဇာတ်လမ်းတစ်ပုဒ် ၊ သိသာထင်ရှားသောဆွေးနွေးမှုရေးဆွဲခြင်း ။
+Vulncheck.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံ," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50433659) · [Source](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+[Discuss on HN](https://news.ycombinator.com/item?id=50447074) · [Source](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 
-8. Terminal2Shell: ဝေဖန်အပြစ်အနာအဆာတိုင်းအဓိက OS ကိုအပေါ်ချက်ချင်း shell ကို access ကိုခွင့်ပြု
+8. အဘိုးအဘွားအမည်
 
-🦞 Lobsters · ⬆️ 102 points · 💬 27 comments · 👤 whjms
+🦞 Lobsters · ⬆️ 144 points · 💬 13 comments · 👤 classichasclass
 
-"Terminal2Shell: Critical flaw သည်အဓိက OS တိုင်းတွင်ချက်ချင်း shell access ကိုခွင့်ပြုသည်" ခေါင်းစဉ်ဖြင့် terminal2shell.com သို့ link တစ်ခု ။
+တစ်ဦးက link ကို neil.fraser.name ခေါင်းစဉ် ".name ဘိုးဘွား" ။
 
-[Discuss on Lobsters](https://lobste.rs/s/vghqe8) · [Source](https://terminal2shell.com/)
+[Discuss on Lobsters](https://lobste.rs/s/vkkbwo) · [Source](https://neil.fraser.name/news/2026/11/10/)
 
 9. ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်
 
-🦞 Lobsters · ⬆️ 93 points · 💬 10 comments · 👤 rrampage
+🦞 Lobsters · ⬆️ 116 points · 💬 12 comments · 👤 rrampage
 
 "ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်များ" ခေါင်းစဉ်ဖြင့် maurycyz.com မှ link တစ်ခု ။
 
 [Discuss on Lobsters](https://lobste.rs/s/txkq8s) · [Source](https://maurycyz.com/projects/badcert/)
 
-10. အဆောက်အဦး Distro အထုပ်များကိုမည်မျှစွမ်းအင်အသုံးပြုသည်
+10. မိုက်ခရိုဆော့ဖ်က သင့်မေးလ်ကို ပယ်ချနေ
 
-🦞 Lobsters · ⬆️ 93 points · 💬 16 comments · 👤 wezm
+🦞 Lobsters · ⬆️ 80 points · 💬 21 comments · 👤 robalex
 
-Wezm.net မှ "Distro အထုပ်များတည်ဆောက်ခြင်းသည်မည်မျှစွမ်းအင်ကိုအသုံးပြုသည်" ခေါင်းစဉ်ဖြင့် link တစ်ခု ။
+Mythic-beasts.com ခေါင်းစဉ်ဖြင့် "Microsoft သည်သင် ၏ စာကိုငြင်းပယ်နေသည်" ဟူသောလင့်ခ်တစ်ခု ။
 
-[Discuss on Lobsters](https://lobste.rs/s/ezjewj) · [Source](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
+[Discuss on Lobsters](https://lobste.rs/s/ynik5s) · [Source](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 
-*daily-tech-digest · MileFisher · 2026-11-10T09:24:24.878Z*
+*daily-tech-digest · MileFisher · 2026-11-11T08:57:44.160Z*

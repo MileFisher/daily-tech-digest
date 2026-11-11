@@ -1,117 +1,117 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "items": [
     {
-      "id": "item?id=50424581",
+      "id": "item?id=50441707",
       "title": {
-        "en": "Foldable Flight: The Best Paper Airplanes",
-        "my": "Foldable ပျံသန်းမှု: အကောင်းဆုံးစက္ကူလေယာဉ်"
+        "en": "Smart home devices should work without the internet",
+        "my": "Home အစီအစဉ်များ နည်းပညာ အစီအစဥ် အင္တာနက္မလိုဘဲ အလုပ္လုပ္ႏိုင္တဲ့ စမတ္ဖုန္းမ်ား"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1010,
-      "comments": 149,
-      "author": "vismit2000",
-      "url": "https://www.foldableflight.com",
-      "discussUrl": "https://news.ycombinator.com/item?id=50424581"
+      "score": 906,
+      "comments": 322,
+      "author": "skittleson",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50441707"
     },
     {
-      "id": "item?id=50431058",
+      "id": "item?id=50442736",
       "title": {
-        "en": "USPS now offers official ZIP Code boundary polygons",
-        "my": "USPS ယခုတရားဝင် ZIP Code ကိုနယ်နိမိတ် Polygons ပေး"
+        "en": ".name Grandfathered",
+        "my": "ဘိုးဘွားရိပ်သာ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 615,
+      "score": 812,
+      "comments": 178,
+      "author": "p4bl0",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50442736"
+    },
+    {
+      "id": "item?id=50439193",
+      "title": {
+        "en": "AlphaProof Code",
+        "my": "AlphaProof ကုဒ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 624,
+      "comments": 182,
+      "author": "ilreb",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50439193"
+    },
+    {
+      "id": "item?id=50438318",
+      "title": {
+        "en": "AI usage generates a fragile codebase",
+        "my": "AI အသုံးပြုမှုသည်အားနည်းသောကုဒ်အခြေစိုက်စခန်းကိုဖန်တီးသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 527,
+      "comments": 507,
+      "author": "plun9",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50438318"
+    },
+    {
+      "id": "item?id=50445401",
+      "title": {
+        "en": "Scion is back and is going to sell a kei truck in America",
+        "my": "စင္ကာပူမွာ ကားတစ္စီး ေရာင္းခ်ေတာ့မည္_dawnmanhon"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 460,
       "comments": 309,
-      "author": "munro",
-      "url": "https://postalpro.usps.com/zcb",
-      "discussUrl": "https://news.ycombinator.com/item?id=50431058"
+      "author": "NaOH",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50445401"
     },
     {
-      "id": "item?id=50429426",
+      "id": "item?id=50444129",
       "title": {
-        "en": "Google Gemini routes personal Drive files and emails to human annotators",
-        "my": "Google Gemini သည်ပုဂ္ဂိုလ်ရေး Drive ဖိုင်များနှင့်အီးမေးလ်များကိုလူ့ annotators သို့လမ်းကြောင်းပေးသည်"
+        "en": "Starlink Mini 2",
+        "my": "Starlink Mini ကို 2"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 589,
-      "comments": 128,
-      "author": "gf74918",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50429426"
+      "score": 397,
+      "comments": 400,
+      "author": "robertjfclarke",
+      "url": "https://starlink.com/mini-2",
+      "discussUrl": "https://news.ycombinator.com/item?id=50444129"
     },
     {
-      "id": "item?id=50429068",
+      "id": "item?id=50447074",
       "title": {
-        "en": "Claude Fable 5.2 and Mythos 5.2",
-        "my": "Claude Fable ကို 5.2 နှင့်ဒဏ္ဍာရီ 5.2"
+        "en": "Tracking Anthropic-discovered vulnerabilities",
+        "my": "Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံခြင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 561,
-      "comments": 783,
-      "author": "lairv",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "discussUrl": "https://news.ycombinator.com/item?id=50429068"
+      "score": 393,
+      "comments": 186,
+      "author": "panic",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "discussUrl": "https://news.ycombinator.com/item?id=50447074"
     },
     {
-      "id": "item?id=50427362",
+      "id": "vkkbwo",
       "title": {
-        "en": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-        "my": "ကနေဒါနိုင်ငံ ၏ Real-Time Rail (RTR) ငွေပေးချေမှုစနစ်ကိုစတင်မိတ်ဆက်ကြောင်းကြေငြာခဲ့သည်"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 529,
-      "comments": 285,
-      "author": "ocd",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "discussUrl": "https://news.ycombinator.com/item?id=50427362"
-    },
-    {
-      "id": "item?id=50429734",
-      "title": {
-        "en": "E-means: Outperforming k-means in one-tenth the epochs",
-        "my": "MYUTSAWMYIT: ကခ်င္ျပည္နယ္သတင္း: KIA တပ္မဟာ (၁) နယ္ေျမတြင္ တိုက္ပြဲမ်ား ဆက္လက္ျဖစ္ပြားေန"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 396,
-      "comments": 37,
-      "author": "porridgeraisin",
-      "url": "https://e-means.github.io/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50429734"
-    },
-    {
-      "id": "item?id=50433659",
-      "title": {
-        "en": "Fable 5.2 one-shotted my nephew's dream game",
-        "my": "၂ဝ၁၅-၂ဝ၁၉ ဘ႑ာေရးႏွစ္တြင္ က်ပ္သိန္း ၁ဝဝဝ တန္ဖိုးရွိ မူးယစ္ေဆးဝါးမ်ား သိမ္းဆည္းရမိ"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 388,
-      "comments": 268,
-      "author": "lexandstuff",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "discussUrl": "https://news.ycombinator.com/item?id=50433659"
-    },
-    {
-      "id": "vghqe8",
-      "title": {
-        "en": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
-        "my": "Terminal2Shell: ဝေဖန်အပြစ်အနာအဆာတိုင်းအဓိက OS ကိုအပေါ်ချက်ချင်း shell ကို access ကိုခွင့်ပြု"
+        "en": ".name grandfathered",
+        "my": "အဘိုးအဘွားအမည်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 102,
-      "comments": 27,
-      "author": "whjms",
-      "url": "https://terminal2shell.com/",
-      "discussUrl": "https://lobste.rs/s/vghqe8"
+      "score": 144,
+      "comments": 13,
+      "author": "classichasclass",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "discussUrl": "https://lobste.rs/s/vkkbwo"
     },
     {
       "id": "txkq8s",
@@ -121,25 +121,25 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 93,
-      "comments": 10,
+      "score": 116,
+      "comments": 12,
       "author": "rrampage",
       "url": "https://maurycyz.com/projects/badcert/",
       "discussUrl": "https://lobste.rs/s/txkq8s"
     },
     {
-      "id": "ezjewj",
+      "id": "ynik5s",
       "title": {
-        "en": "How Much Energy Does Building Distro Packages Use",
-        "my": "အဆောက်အဦး Distro အထုပ်များကိုမည်မျှစွမ်းအင်အသုံးပြုသည်"
+        "en": "Microsoft are rejecting your mail",
+        "my": "မိုက်ခရိုဆော့ဖ်က သင့်မေးလ်ကို ပယ်ချနေ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 93,
-      "comments": 16,
-      "author": "wezm",
-      "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
-      "discussUrl": "https://lobste.rs/s/ezjewj"
+      "score": 80,
+      "comments": 21,
+      "author": "robalex",
+      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+      "discussUrl": "https://lobste.rs/s/ynik5s"
     }
   ]
 }

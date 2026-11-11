@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-11",
+  "items": [
+    {
+      "id": "item?id=50441707",
+      "title": {
+        "en": "Smart home devices should work without the internet",
+        "my": "Home အစီအစဉ်များ နည်းပညာ အစီအစဥ် အင္တာနက္မလိုဘဲ အလုပ္လုပ္ႏိုင္တဲ့ စမတ္ဖုန္းမ်ား"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 906,
+      "comments": 322,
+      "author": "skittleson",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50441707"
+    },
+    {
+      "id": "item?id=50442736",
+      "title": {
+        "en": ".name Grandfathered",
+        "my": "ဘိုးဘွားရိပ်သာ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 812,
+      "comments": 178,
+      "author": "p4bl0",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50442736"
+    },
+    {
+      "id": "item?id=50439193",
+      "title": {
+        "en": "AlphaProof Code",
+        "my": "AlphaProof ကုဒ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 624,
+      "comments": 182,
+      "author": "ilreb",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50439193"
+    },
+    {
+      "id": "item?id=50438318",
+      "title": {
+        "en": "AI usage generates a fragile codebase",
+        "my": "AI အသုံးပြုမှုသည်အားနည်းသောကုဒ်အခြေစိုက်စခန်းကိုဖန်တီးသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 527,
+      "comments": 507,
+      "author": "plun9",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50438318"
+    },
+    {
+      "id": "item?id=50445401",
+      "title": {
+        "en": "Scion is back and is going to sell a kei truck in America",
+        "my": "စင္ကာပူမွာ ကားတစ္စီး ေရာင္းခ်ေတာ့မည္_dawnmanhon"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 460,
+      "comments": 309,
+      "author": "NaOH",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50445401"
+    },
+    {
+      "id": "item?id=50444129",
+      "title": {
+        "en": "Starlink Mini 2",
+        "my": "Starlink Mini ကို 2"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 397,
+      "comments": 400,
+      "author": "robertjfclarke",
+      "url": "https://starlink.com/mini-2",
+      "discussUrl": "https://news.ycombinator.com/item?id=50444129"
+    },
+    {
+      "id": "item?id=50447074",
+      "title": {
+        "en": "Tracking Anthropic-discovered vulnerabilities",
+        "my": "Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 393,
+      "comments": 186,
+      "author": "panic",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "discussUrl": "https://news.ycombinator.com/item?id=50447074"
+    },
+    {
+      "id": "vkkbwo",
+      "title": {
+        "en": ".name grandfathered",
+        "my": "အဘိုးအဘွားအမည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 144,
+      "comments": 13,
+      "author": "classichasclass",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "discussUrl": "https://lobste.rs/s/vkkbwo"
+    },
+    {
+      "id": "txkq8s",
+      "title": {
+        "en": "Horrible public key tricks",
+        "my": "ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 116,
+      "comments": 12,
+      "author": "rrampage",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "discussUrl": "https://lobste.rs/s/txkq8s"
+    },
+    {
+      "id": "ynik5s",
+      "title": {
+        "en": "Microsoft are rejecting your mail",
+        "my": "မိုက်ခရိုဆော့ဖ်က သင့်မေးလ်ကို ပယ်ချနေ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 80,
+      "comments": 21,
+      "author": "robalex",
+      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+      "discussUrl": "https://lobste.rs/s/ynik5s"
+    }
+  ]
+}
