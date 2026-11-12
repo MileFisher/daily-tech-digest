@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-11
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-12
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:57 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:24 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. Home အစီအစဉ်များ နည်းပညာ အစီအစဥ် အင္တာနက္မလိုဘဲ အလုပ္လုပ္ႏိုင္တဲ့ စမတ္ဖုန္းမ်ား
+1. တိမ်း ပီတာစ် ကွယ်လွန်သွားပြီ
 
-🔶 Hacker News · ⬆️ 906 points · 💬 322 comments · 👤 skittleson
+🔶 Hacker News · ⬆️ 1168 points · 💬 131 comments · 👤 ayhanfuat
 
-Docodethatmatters.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "စမတ်အိမ်သုံးကိရိယာများသည်အင်တာနက်မပါဘဲအလုပ်လုပ်သင့်သည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုနှင့်အတူရှေ့စာမျက်နှာပေါ်ရှိဂိုးအများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
+"Tim Peters ကွယ်လွန်သွားပြီ" ဟူသော ခေါင်းစဉ်ပါ discuss.python.org သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပင်မစာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံးရရှိသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50441707) · [Source](https://docodethatmatters.com/home-automation-overnight-success/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50450488) · [Source](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 
-2. ဘိုးဘွားရိပ်သာ
+2. Nvidia သည် Jensen Huang ကို ဖယ်ရှားရန် ပြင်ဆင်နေသည်
 
-🔶 Hacker News · ⬆️ 812 points · 💬 178 comments · 👤 p4bl0
+🔶 Hacker News · ⬆️ 990 points · 💬 1336 comments · 👤 jbredeche
 
-Neil.fraser.name ခေါင်းစဉ်ဖြင့် link တစ်ခု ".name Grandfathered," ရှေ့စာမျက်နှာပေါ်တွင်အမြင့်ဆုံးဂိုးသွင်းဇာတ်လမ်းတစ်ပုဒ်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံးရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "Nvidia သည် Jensen Huang ကို ဖယ်ရှားရန် ပြင်ဆင်နေသည်" ဟူသော ခေါင်းစဉ်ပါ wsj.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50442736) · [Source](https://neil.fraser.name/news/2026/11/10/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50459703) · [Source](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
 
-3. AlphaProof ကုဒ်
+3. ကျွန်ုပ်၏ AI အေးဂျင့်များသည် မြေပုံမဆွဲရသေးသော မာယာနေရာတစ်ခုကို တွေ့ရှိခဲ့ပါသလား။
 
-🔶 Hacker News · ⬆️ 624 points · 💬 182 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 987 points · 💬 358 comments · 👤 eyvindn
 
-"AlphaProof Code" ဟု အမည်ပေးထားသော deepmind.google သို့ လင့်ခ်တစ်ခု ၊ ရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ဇာတ်လမ်းများထဲမှ တစ်ခုဖြစ်ပြီး ၊ သိသာထင်ရှားသော ဆွေးနွေးချက်များကို ရေးဆွဲထားသည် ။
+"ကျွန်ုပ်၏ AI အေးဂျင့်များသည် မြေပုံမဖော်ထားသော မာယာနေရာတစ်ခုကို တွေ့ရှိခဲ့ပါသလား။" ဟူသော ခေါင်းစဉ်ဖြင့် pietromiotti.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုလည်း ပါဝင်ပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50439193) · [Source](https://deepmind.google/blog/introducing-alphaproof-code/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50452455) · [Source](https://pietromiotti.com/latest/maya-site)
 
-4. AI အသုံးပြုမှုသည်အားနည်းသောကုဒ်အခြေစိုက်စခန်းကိုဖန်တီးသည်
+4. AWS အတုပွားစက်
 
-🔶 Hacker News · ⬆️ 527 points · 💬 507 comments · 👤 plun9
+🔶 Hacker News · ⬆️ 838 points · 💬 233 comments · 👤 super_linear
 
-Evanxmerz.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "AI အသုံးပြုမှုသည်ကျိုးပဲ့လွယ်သော codebase ကိုထုတ်လုပ်သည်" တက်ကြွသောဆွေးနွေးချက်ချည်နှောင်မှုဖြင့်မျက်နှာပြင်ပေါ်ရှိအမှတ်အများဆုံးဇာတ်လမ်းများထဲမှတစ်ခုဖြစ်သည် ။
+အရေးပါသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည့် ပထမစာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သော "AWS emulator" ခေါင်းစဉ်ပါ github.com သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50438318) · [Source](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50456631) · [Source](https://github.com/aws/aws-emulator)
 
-5. စင္ကာပူမွာ ကားတစ္စီး ေရာင္းခ်ေတာ့မည္_dawnmanhon
+5. United Airlines သည် ခရီးသွားများကိုယ်စား လေယာဉ်လက်မှတ်များ ကြိုတင်ဝယ်ယူရန် AI အေးဂျင့်များကို တားမြစ်ထားသည်
 
-🔶 Hacker News · ⬆️ 460 points · 💬 309 comments · 👤 NaOH
+🔶 Hacker News · ⬆️ 547 points · 💬 538 comments · 👤 herpderperator
 
-Theautopian.com မှာ "Scion ပြန်လာပြီ အမေရိကားမှာ kei truck ရောင်းတော့မယ်" လို့ ခေါင်းစဉ်တပ်ထားတဲ့ link တစ်ခုဟာ ရှေ့စာမျက်နှာမှာ လူကြိုက်များတဲ့ဇာတ်လမ်းတစ်ပုဒ်ဖြစ်ပြီး တက်တက်ကြွကြွ ဆွေးနွေးချက်ချည်နှောင်ထားပါတယ် ။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "United Airlines သည် ခရီးသွားများ ကိုယ်စား လေယာဉ်လက်မှတ်များ ကြိုတင်ဝယ်ယူပေးခြင်းမှ AI အေးဂျင့်များကို တားမြစ်လိုက်သည်" ခေါင်းစဉ်ပါ cbsnews.com သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50445401) · [Source](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50458900) · [Source](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 
-6. Starlink Mini ကို 2
+6. မီးခိုးအန္တရာယ်သတိပေးချက်မှားယွင်းမှုကြောင့် Jane Street ၏ နယူးယောက်မြို့ရှိ ဒေတာစင်တာတစ်ခုတည်းကို ရေလုနီးပါးမြုပ်သွားခဲ့ရသည်
 
-🔶 Hacker News · ⬆️ 397 points · 💬 400 comments · 👤 robertjfclarke
+🔶 Hacker News · ⬆️ 487 points · 💬 236 comments · 👤 mbac32768
 
-"Starlink Mini 2" ခေါင်းစဉ်ဖြင့် Starlink.
+"A false smoke alarm almost drowned Jane Street's only NYC datacenter" ဟူသော ခေါင်းစဉ်ပါ michael.bacarella.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ပင်မစာမျက်နှာပေါ်ရှိ လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50444129) · [Source](https://starlink.com/mini-2)
+[Discuss on HN](https://news.ycombinator.com/item?id=50455394) · [Source](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 
-7. Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံခြင်း
+7. Gemini ဆုံးဖြတ်ချက်များ API
 
-🔶 Hacker News · ⬆️ 393 points · 💬 186 comments · 👤 panic
+🔶 Hacker News · ⬆️ 424 points · 💬 127 comments · 👤 iamdelirium
 
-Vulncheck.com ခေါင်းစဉ်ဖြင့် link တစ်ခု "Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံ," ရှေ့စာမျက်နှာပေါ်တွင်လူကြိုက်များပုံပြင်, သိသာထင်ရှားသောဆွေးနွေးမှုဆွဲ ။
+ရှေ့စာမျက်နှာရှိ လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေသည့် "Gemini Decisions API" ဟု ခေါင်းစဉ်တပ်ထားသော blog.google သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50447074) · [Source](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+[Discuss on HN](https://news.ycombinator.com/item?id=50456791) · [Source](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 
-8. အဘိုးအဘွားအမည်
+8. .name အထူးအခွင့်အရေးရထားသည်
 
-🦞 Lobsters · ⬆️ 144 points · 💬 13 comments · 👤 classichasclass
+🦞 Lobsters · ⬆️ 188 points · 💬 27 comments · 👤 classichasclass
 
-တစ်ဦးက link ကို neil.fraser.name ခေါင်းစဉ် ".name ဘိုးဘွား" ။
+".name grandfathered" ခေါင်းစဉ်ပါ neil.fraser.name သို့ လင့်ခ်တစ်ခု။
 
 [Discuss on Lobsters](https://lobste.rs/s/vkkbwo) · [Source](https://neil.fraser.name/news/2026/11/10/)
 
-9. ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်
+9. ကျွန်ုပ် မတော်တဆ သန်းကြွယ်သူဌေးဖြစ်သွားပုံ
 
-🦞 Lobsters · ⬆️ 116 points · 💬 12 comments · 👤 rrampage
+🦞 Lobsters · ⬆️ 102 points · 💬 9 comments · 👤 hugoarnal
 
-"ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်များ" ခေါင်းစဉ်ဖြင့် maurycyz.com မှ link တစ်ခု ။
+"ကျွန်ုပ် မတော်တဆ မီလျံနာတစ်ဦး ဖြစ်လာပုံ" ခေါင်းစဉ်ပါ lyra.horse သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/txkq8s) · [Source](https://maurycyz.com/projects/badcert/)
+[Discuss on Lobsters](https://lobste.rs/s/lnau2d) · [Source](https://lyra.horse/blog/2026/11/disinformation-machine/)
 
-10. မိုက်ခရိုဆော့ဖ်က သင့်မေးလ်ကို ပယ်ချနေ
+10. tưởng niệm: Tim Peters 1952–2026
 
-🦞 Lobsters · ⬆️ 80 points · 💬 21 comments · 👤 robalex
+🦞 Lobsters · ⬆️ 86 points · 💬 1 comments · 👤 dbremner
 
-Mythic-beasts.com ခေါင်းစဉ်ဖြင့် "Microsoft သည်သင် ၏ စာကိုငြင်းပယ်နေသည်" ဟူသောလင့်ခ်တစ်ခု ။
+"အောက်မေ့ဖွယ်- တင်မ် ပီတာစ် ၁၉၅၂–၂၀၂၆" ခေါင်းစဉ်ဖြင့် discuss.python.org သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/ynik5s) · [Source](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
+[Discuss on Lobsters](https://lobste.rs/s/romf5e) · [Source](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 
-*daily-tech-digest · MileFisher · 2026-11-11T08:57:44.160Z*
+*daily-tech-digest · MileFisher · 2026-11-12T09:24:43.203Z*

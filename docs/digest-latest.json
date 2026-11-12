@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "id": "item?id=50441707",
+      "id": "item?id=50450488",
       "title": {
-        "en": "Smart home devices should work without the internet",
-        "my": "Home အစီအစဉ်များ နည်းပညာ အစီအစဥ် အင္တာနက္မလိုဘဲ အလုပ္လုပ္ႏိုင္တဲ့ စမတ္ဖုန္းမ်ား"
+        "en": "Tim Peters has died",
+        "my": "တိမ်း ပီတာစ် ကွယ်လွန်သွားပြီ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 906,
-      "comments": 322,
-      "author": "skittleson",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50441707"
+      "score": 1168,
+      "comments": 131,
+      "author": "ayhanfuat",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "discussUrl": "https://news.ycombinator.com/item?id=50450488"
     },
     {
-      "id": "item?id=50442736",
+      "id": "item?id=50459703",
       "title": {
-        "en": ".name Grandfathered",
-        "my": "ဘိုးဘွားရိပ်သာ"
+        "en": "Nvidia is preparing to oust Jensen Huang",
+        "my": "Nvidia သည် Jensen Huang ကို ဖယ်ရှားရန် ပြင်ဆင်နေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 812,
-      "comments": 178,
-      "author": "p4bl0",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50442736"
+      "score": 990,
+      "comments": 1336,
+      "author": "jbredeche",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "discussUrl": "https://news.ycombinator.com/item?id=50459703"
     },
     {
-      "id": "item?id=50439193",
+      "id": "item?id=50452455",
       "title": {
-        "en": "AlphaProof Code",
-        "my": "AlphaProof ကုဒ်"
+        "en": "My AI agents found an unmapped Maya site?",
+        "my": "ကျွန်ုပ်၏ AI အေးဂျင့်များသည် မြေပုံမဆွဲရသေးသော မာယာနေရာတစ်ခုကို တွေ့ရှိခဲ့ပါသလား။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 624,
-      "comments": 182,
-      "author": "ilreb",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50439193"
+      "score": 987,
+      "comments": 358,
+      "author": "eyvindn",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "discussUrl": "https://news.ycombinator.com/item?id=50452455"
     },
     {
-      "id": "item?id=50438318",
+      "id": "item?id=50456631",
       "title": {
-        "en": "AI usage generates a fragile codebase",
-        "my": "AI အသုံးပြုမှုသည်အားနည်းသောကုဒ်အခြေစိုက်စခန်းကိုဖန်တီးသည်"
+        "en": "AWS emulator",
+        "my": "AWS အတုပွားစက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 527,
-      "comments": 507,
-      "author": "plun9",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50438318"
+      "score": 838,
+      "comments": 233,
+      "author": "super_linear",
+      "url": "https://github.com/aws/aws-emulator",
+      "discussUrl": "https://news.ycombinator.com/item?id=50456631"
     },
     {
-      "id": "item?id=50445401",
+      "id": "item?id=50458900",
       "title": {
-        "en": "Scion is back and is going to sell a kei truck in America",
-        "my": "စင္ကာပူမွာ ကားတစ္စီး ေရာင္းခ်ေတာ့မည္_dawnmanhon"
+        "en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "my": "United Airlines သည် ခရီးသွားများကိုယ်စား လေယာဉ်လက်မှတ်များ ကြိုတင်ဝယ်ယူရန် AI အေးဂျင့်များကို တားမြစ်ထားသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 460,
-      "comments": 309,
-      "author": "NaOH",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50445401"
+      "score": 547,
+      "comments": 538,
+      "author": "herpderperator",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50458900"
     },
     {
-      "id": "item?id=50444129",
+      "id": "item?id=50455394",
       "title": {
-        "en": "Starlink Mini 2",
-        "my": "Starlink Mini ကို 2"
+        "en": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "my": "မီးခိုးအန္တရာယ်သတိပေးချက်မှားယွင်းမှုကြောင့် Jane Street ၏ နယူးယောက်မြို့ရှိ ဒေတာစင်တာတစ်ခုတည်းကို ရေလုနီးပါးမြုပ်သွားခဲ့ရသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 397,
-      "comments": 400,
-      "author": "robertjfclarke",
-      "url": "https://starlink.com/mini-2",
-      "discussUrl": "https://news.ycombinator.com/item?id=50444129"
+      "score": 487,
+      "comments": 236,
+      "author": "mbac32768",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50455394"
     },
     {
-      "id": "item?id=50447074",
+      "id": "item?id=50456791",
       "title": {
-        "en": "Tracking Anthropic-discovered vulnerabilities",
-        "my": "Anthropic-ရှာဖွေတွေ့ရှိအားနည်းချက်များကိုခြေရာခံခြင်း"
+        "en": "Gemini Decisions API",
+        "my": "Gemini ဆုံးဖြတ်ချက်များ API"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 393,
-      "comments": 186,
-      "author": "panic",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "discussUrl": "https://news.ycombinator.com/item?id=50447074"
+      "score": 424,
+      "comments": 127,
+      "author": "iamdelirium",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50456791"
     },
     {
       "id": "vkkbwo",
       "title": {
         "en": ".name grandfathered",
-        "my": "အဘိုးအဘွားအမည်"
+        "my": ".name အထူးအခွင့်အရေးရထားသည်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 144,
-      "comments": 13,
+      "score": 188,
+      "comments": 27,
       "author": "classichasclass",
       "url": "https://neil.fraser.name/news/2026/11/10/",
       "discussUrl": "https://lobste.rs/s/vkkbwo"
     },
     {
-      "id": "txkq8s",
+      "id": "lnau2d",
       "title": {
-        "en": "Horrible public key tricks",
-        "my": "ကြောက်မက်ဘွယ်သောအများပြည်သူ key ကိုလှည့်ကွက်"
+        "en": "How I accidentally became a millionaire",
+        "my": "ကျွန်ုပ် မတော်တဆ သန်းကြွယ်သူဌေးဖြစ်သွားပုံ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 116,
-      "comments": 12,
-      "author": "rrampage",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "discussUrl": "https://lobste.rs/s/txkq8s"
+      "score": 102,
+      "comments": 9,
+      "author": "hugoarnal",
+      "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+      "discussUrl": "https://lobste.rs/s/lnau2d"
     },
     {
-      "id": "ynik5s",
+      "id": "romf5e",
       "title": {
-        "en": "Microsoft are rejecting your mail",
-        "my": "မိုက်ခရိုဆော့ဖ်က သင့်မေးလ်ကို ပယ်ချနေ"
+        "en": "In Memoriam: Tim Peters 1952–2026",
+        "my": "tưởng niệm: Tim Peters 1952–2026"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 80,
-      "comments": 21,
-      "author": "robalex",
-      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
-      "discussUrl": "https://lobste.rs/s/ynik5s"
+      "score": 86,
+      "comments": 1,
+      "author": "dbremner",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "discussUrl": "https://lobste.rs/s/romf5e"
     }
   ]
 }
