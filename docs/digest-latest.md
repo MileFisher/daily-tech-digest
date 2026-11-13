@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-12
+# 🗞️ Daily Tech Digest — 2026-11-13
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:24 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:12 ICT
 
 ---
 
-1. Tim Peters has died
+1. Jensen Huang resigns
 
-🔶 Hacker News · ⬆️ 1168 points · 💬 131 comments · 👤 ayhanfuat
+🔶 Hacker News · ⬆️ 3493 points · 💬 3099 comments · 👤 lldb
 
-A link to discuss.python.org titled "Tim Peters has died", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to apnews.com titled "Jensen Huang resigns", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50450488) · [Source](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+[Discuss on HN](https://news.ycombinator.com/item?id=50467087) · [Source](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 
-2. Nvidia is preparing to oust Jensen Huang
+2. Anthropic IPO
 
-🔶 Hacker News · ⬆️ 990 points · 💬 1336 comments · 👤 jbredeche
+🔶 Hacker News · ⬆️ 920 points · 💬 861 comments · 👤 josephljohnston
 
-A link to wsj.com titled "Nvidia is preparing to oust Jensen Huang", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to ipo.anthropic.com titled "Anthropic IPO", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50459703) · [Source](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+[Discuss on HN](https://news.ycombinator.com/item?id=50465829) · [Source](https://ipo.anthropic.com/us/)
 
-3. My AI agents found an unmapped Maya site?
+3. Service degradation on Microsoft 365
 
-🔶 Hacker News · ⬆️ 987 points · 💬 358 comments · 👤 eyvindn
+🔶 Hacker News · ⬆️ 859 points · 💬 758 comments · 👤 dkpk
 
-A link to pietromiotti.com titled "My AI agents found an unmapped Maya site?", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to status.cloud.microsoft titled "Service degradation on Microsoft 365", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50452455) · [Source](https://pietromiotti.com/latest/maya-site)
+[Discuss on HN](https://news.ycombinator.com/item?id=50471731) · [Source](https://status.cloud.microsoft/)
 
-4. AWS emulator
+4. Rust 1.100
 
-🔶 Hacker News · ⬆️ 838 points · 💬 233 comments · 👤 super_linear
+🔶 Hacker News · ⬆️ 661 points · 💬 251 comments · 👤 mbStavola
 
-A link to github.com titled "AWS emulator", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to blog.rust-lang.org titled "Rust 1.100", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50456631) · [Source](https://github.com/aws/aws-emulator)
+[Discuss on HN](https://news.ycombinator.com/item?id=50472038) · [Source](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
-5. United Airlines bans AI agents from booking flights on behalf of travelers
+5. Nvidia employees petition to bring back Jensen Huang
 
-🔶 Hacker News · ⬆️ 547 points · 💬 538 comments · 👤 herpderperator
+🔶 Hacker News · ⬆️ 556 points · 💬 391 comments · 👤 lavendermon
 
-A link to cbsnews.com titled "United Airlines bans AI agents from booking flights on behalf of travelers", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to wired.com titled "Nvidia employees petition to bring back Jensen Huang", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50458900) · [Source](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50477231) · [Source](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
 
-6. A false smoke alarm almost drowned Jane Street's only NYC datacenter
+6. Gemini 4 Hydrogen
 
-🔶 Hacker News · ⬆️ 487 points · 💬 236 comments · 👤 mbac32768
+🔶 Hacker News · ⬆️ 525 points · 💬 330 comments · 👤 dvaplima
 
-A link to michael.bacarella.com titled "A false smoke alarm almost drowned Jane Street's only NYC datacenter", a popular story on the front page, drawing significant discussion.
+A link to blog.google titled "Gemini 4 Hydrogen", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50455394) · [Source](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50471431) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 
-7. Gemini Decisions API
+7. Show HN: My $300 embroidery machine needed a subscription, so I built my own app
 
-🔶 Hacker News · ⬆️ 424 points · 💬 127 comments · 👤 iamdelirium
+🔶 Hacker News · ⬆️ 504 points · 💬 179 comments · 👤 simpsoka
 
-A link to blog.google titled "Gemini Decisions API", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "Show HN: My $300 embroidery machine needed a subscription, so I built my own app", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50456791) · [Source](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50470488) · [Source](https://github.com/simpsoka/zigzag)
 
-8. .name grandfathered
+8. How I accidentally became a millionaire
 
-🦞 Lobsters · ⬆️ 188 points · 💬 27 comments · 👤 classichasclass
+🦞 Lobsters · ⬆️ 244 points · 💬 28 comments · 👤 hugoarnal
 
-A link to neil.fraser.name titled ".name grandfathered".
-
-[Discuss on Lobsters](https://lobste.rs/s/vkkbwo) · [Source](https://neil.fraser.name/news/2026/11/10/)
-
-9. How I accidentally became a millionaire
-
-🦞 Lobsters · ⬆️ 102 points · 💬 9 comments · 👤 hugoarnal
-
-A link to lyra.horse titled "How I accidentally became a millionaire".
+A link to lyra.horse titled "How I accidentally became a millionaire", a popular story on the front page.
 
 [Discuss on Lobsters](https://lobste.rs/s/lnau2d) · [Source](https://lyra.horse/blog/2026/11/disinformation-machine/)
 
-10. In Memoriam: Tim Peters 1952–2026
+9. Announcing Rust 1.100.0
 
-🦞 Lobsters · ⬆️ 86 points · 💬 1 comments · 👤 dbremner
+🦞 Lobsters · ⬆️ 111 points · 💬 8 comments · 👤 theelx
 
-A link to discuss.python.org titled "In Memoriam: Tim Peters 1952–2026".
+A link to blog.rust-lang.org titled "Announcing Rust 1.100.0".
 
-[Discuss on Lobsters](https://lobste.rs/s/romf5e) · [Source](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+[Discuss on Lobsters](https://lobste.rs/s/81hnjw) · [Source](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
-*daily-tech-digest · MileFisher · 2026-11-12T09:24:43.203Z*
+10. How a false smoke alarm almost drowned Jane Street's only NYC datacenter
+
+🦞 Lobsters · ⬆️ 86 points · 💬 17 comments · 👤 scanner_brightly
+
+A link to michael.bacarella.com titled "How a false smoke alarm almost drowned Jane Street's only NYC datacenter".
+
+[Discuss on Lobsters](https://lobste.rs/s/ii1gzp) · [Source](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+
+*daily-tech-digest · MileFisher · 2026-11-13T09:12:36.054Z*

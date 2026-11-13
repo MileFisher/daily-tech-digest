@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-12
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-13
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:24 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:12 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. တိမ်း ပီတာစ် ကွယ်လွန်သွားပြီ
+1. Jensen Huang resigns
 
-🔶 Hacker News · ⬆️ 1168 points · 💬 131 comments · 👤 ayhanfuat
+🔶 Hacker News · ⬆️ 3493 points · 💬 3099 comments · 👤 lldb
 
-"Tim Peters ကွယ်လွန်သွားပြီ" ဟူသော ခေါင်းစဉ်ပါ discuss.python.org သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပင်မစာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံးရရှိသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+A link to apnews.com titled "Jensen Huang resigns", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50450488) · [Source](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+[Discuss on HN](https://news.ycombinator.com/item?id=50467087) · [Source](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 
-2. Nvidia သည် Jensen Huang ကို ဖယ်ရှားရန် ပြင်ဆင်နေသည်
+2. Anthropic IPO
 
-🔶 Hacker News · ⬆️ 990 points · 💬 1336 comments · 👤 jbredeche
+🔶 Hacker News · ⬆️ 920 points · 💬 861 comments · 👤 josephljohnston
 
-ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံးရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "Nvidia သည် Jensen Huang ကို ဖယ်ရှားရန် ပြင်ဆင်နေသည်" ဟူသော ခေါင်းစဉ်ပါ wsj.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု။
+A link to ipo.anthropic.com titled "Anthropic IPO", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50459703) · [Source](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+[Discuss on HN](https://news.ycombinator.com/item?id=50465829) · [Source](https://ipo.anthropic.com/us/)
 
-3. ကျွန်ုပ်၏ AI အေးဂျင့်များသည် မြေပုံမဆွဲရသေးသော မာယာနေရာတစ်ခုကို တွေ့ရှိခဲ့ပါသလား။
+3. Microsoft 365 ရှိ ဝန်ဆောင်မှု ကျဆင်းမှု
 
-🔶 Hacker News · ⬆️ 987 points · 💬 358 comments · 👤 eyvindn
+🔶 Hacker News · ⬆️ 859 points · 💬 758 comments · 👤 dkpk
 
-"ကျွန်ုပ်၏ AI အေးဂျင့်များသည် မြေပုံမဖော်ထားသော မာယာနေရာတစ်ခုကို တွေ့ရှိခဲ့ပါသလား။" ဟူသော ခေါင်းစဉ်ဖြင့် pietromiotti.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုလည်း ပါဝင်ပါသည်။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် တက်ကြွသော ဆွေးနွေးမှုခလုတ်ပါရှိသည့် "Microsoft 365 ရှိ ဝန်ဆောင်မှု ကျဆင်းမှု" ခေါင်းစဉ်ပါရှိသော status.cloud.microsoft သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50452455) · [Source](https://pietromiotti.com/latest/maya-site)
+[Discuss on HN](https://news.ycombinator.com/item?id=50471731) · [Source](https://status.cloud.microsoft/)
 
-4. AWS အတုပွားစက်
+4. Rust 1.100
 
-🔶 Hacker News · ⬆️ 838 points · 💬 233 comments · 👤 super_linear
+🔶 Hacker News · ⬆️ 661 points · 💬 251 comments · 👤 mbStavola
 
-အရေးပါသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည့် ပထမစာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သော "AWS emulator" ခေါင်းစဉ်ပါ github.com သို့ လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည့် "Rust 1.100" ခေါင်းစဉ်ပါ blog.rust-lang.org သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50456631) · [Source](https://github.com/aws/aws-emulator)
+[Discuss on HN](https://news.ycombinator.com/item?id=50472038) · [Source](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
-5. United Airlines သည် ခရီးသွားများကိုယ်စား လေယာဉ်လက်မှတ်များ ကြိုတင်ဝယ်ယူရန် AI အေးဂျင့်များကို တားမြစ်ထားသည်
+5. Nvidia ဝန်ထမ်းများက Jensen Huang ကို ပြန်ခေါ်ယူရန် တောင်းဆိုချက်တင်ပြ
 
-🔶 Hacker News · ⬆️ 547 points · 💬 538 comments · 👤 herpderperator
+🔶 Hacker News · ⬆️ 556 points · 💬 391 comments · 👤 lavendermon
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "United Airlines သည် ခရီးသွားများ ကိုယ်စား လေယာဉ်လက်မှတ်များ ကြိုတင်ဝယ်ယူပေးခြင်းမှ AI အေးဂျင့်များကို တားမြစ်လိုက်သည်" ခေါင်းစဉ်ပါ cbsnews.com သို့ လင့်ခ်တစ်ခု။
+A link to wired.com titled "Nvidia employees petition to bring back Jensen Huang", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50458900) · [Source](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50477231) · [Source](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
 
-6. မီးခိုးအန္တရာယ်သတိပေးချက်မှားယွင်းမှုကြောင့် Jane Street ၏ နယူးယောက်မြို့ရှိ ဒေတာစင်တာတစ်ခုတည်းကို ရေလုနီးပါးမြုပ်သွားခဲ့ရသည်
+6. Gemini 4 ဟိုက်ဒရိုဂျင်
 
-🔶 Hacker News · ⬆️ 487 points · 💬 236 comments · 👤 mbac32768
+🔶 Hacker News · ⬆️ 525 points · 💬 330 comments · 👤 dvaplima
 
-"A false smoke alarm almost drowned Jane Street's only NYC datacenter" ဟူသော ခေါင်းစဉ်ပါ michael.bacarella.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ပင်မစာမျက်နှာပေါ်ရှိ လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းပါဝင်သည့် "Gemini 4 Hydrogen" ခေါင်းစဉ်ပါ blog.google သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50455394) · [Source](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50471431) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 
-7. Gemini ဆုံးဖြတ်ချက်များ API
+7. HN ကိုပြပါ- ကျွန်ုပ်၏ ဒေါ်လာ ၃၀၀ တန် ရက်ကန်းစက်သည် စာရင်းသွင်းမှုတစ်ခု လိုအပ်သောကြောင့် ကျွန်ုပ်ကိုယ်တိုင် အက်ပ်တစ်ခု တည်ဆောက်ခဲ့သည်
 
-🔶 Hacker News · ⬆️ 424 points · 💬 127 comments · 👤 iamdelirium
+🔶 Hacker News · ⬆️ 504 points · 💬 179 comments · 👤 simpsoka
 
-ရှေ့စာမျက်နှာရှိ လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေသည့် "Gemini Decisions API" ဟု ခေါင်းစဉ်တပ်ထားသော blog.google သို့ လင့်ခ်တစ်ခု။
+A link to github.com titled "Show HN: My $300 embroidery machine needed a subscription, so I built my own app", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50456791) · [Source](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50470488) · [Source](https://github.com/simpsoka/zigzag)
 
-8. .name အထူးအခွင့်အရေးရထားသည်
+8. ကျွန်ုပ် မတော်တဆ သန်းကြွယ်သူဌေးဖြစ်သွားပုံ
 
-🦞 Lobsters · ⬆️ 188 points · 💬 27 comments · 👤 classichasclass
+🦞 Lobsters · ⬆️ 244 points · 💬 28 comments · 👤 hugoarnal
 
-".name grandfathered" ခေါင်းစဉ်ပါ neil.fraser.name သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/vkkbwo) · [Source](https://neil.fraser.name/news/2026/11/10/)
-
-9. ကျွန်ုပ် မတော်တဆ သန်းကြွယ်သူဌေးဖြစ်သွားပုံ
-
-🦞 Lobsters · ⬆️ 102 points · 💬 9 comments · 👤 hugoarnal
-
-"ကျွန်ုပ် မတော်တဆ မီလျံနာတစ်ဦး ဖြစ်လာပုံ" ခေါင်းစဉ်ပါ lyra.horse သို့ လင့်ခ်တစ်ခု။
+"ကျွန်ုပ် မတော်တဆ မီလျံနာတစ်ဦး ဖြစ်လာပုံ" ခေါင်းစဉ်ပါ lyra.horse သို့ လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော ဇာတ်လမ်းတစ်ခု။
 
 [Discuss on Lobsters](https://lobste.rs/s/lnau2d) · [Source](https://lyra.horse/blog/2026/11/disinformation-machine/)
 
-10. tưởng niệm: Tim Peters 1952–2026
+9. Announcing Rust 1.100.0
 
-🦞 Lobsters · ⬆️ 86 points · 💬 1 comments · 👤 dbremner
+🦞 Lobsters · ⬆️ 111 points · 💬 8 comments · 👤 theelx
 
-"အောက်မေ့ဖွယ်- တင်မ် ပီတာစ် ၁၉၅၂–၂၀၂၆" ခေါင်းစဉ်ဖြင့် discuss.python.org သို့ လင့်ခ်တစ်ခု။
+A link to blog.rust-lang.org titled "Announcing Rust 1.100.0".
 
-[Discuss on Lobsters](https://lobste.rs/s/romf5e) · [Source](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+[Discuss on Lobsters](https://lobste.rs/s/81hnjw) · [Source](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
-*daily-tech-digest · MileFisher · 2026-11-12T09:24:43.203Z*
+10. How a false smoke alarm almost drowned Jane Street's only NYC datacenter
+
+🦞 Lobsters · ⬆️ 86 points · 💬 17 comments · 👤 scanner_brightly
+
+A link to michael.bacarella.com titled "How a false smoke alarm almost drowned Jane Street's only NYC datacenter".
+
+[Discuss on Lobsters](https://lobste.rs/s/ii1gzp) · [Source](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+
+*daily-tech-digest · MileFisher · 2026-11-13T09:12:36.054Z*

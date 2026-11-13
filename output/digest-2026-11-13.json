@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "id": "item?id=50467087",
+      "title": {
+        "en": "Jensen Huang resigns",
+        "my": "Jensen Huang resigns"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 3493,
+      "comments": 3099,
+      "author": "lldb",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "discussUrl": "https://news.ycombinator.com/item?id=50467087"
+    },
+    {
+      "id": "item?id=50465829",
+      "title": {
+        "en": "Anthropic IPO",
+        "my": "Anthropic IPO"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 920,
+      "comments": 861,
+      "author": "josephljohnston",
+      "url": "https://ipo.anthropic.com/us/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50465829"
+    },
+    {
+      "id": "item?id=50471731",
+      "title": {
+        "en": "Service degradation on Microsoft 365",
+        "my": "Microsoft 365 ရှိ ဝန်ဆောင်မှု ကျဆင်းမှု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 859,
+      "comments": 758,
+      "author": "dkpk",
+      "url": "https://status.cloud.microsoft/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50471731"
+    },
+    {
+      "id": "item?id=50472038",
+      "title": {
+        "en": "Rust 1.100",
+        "my": "Rust 1.100"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 661,
+      "comments": 251,
+      "author": "mbStavola",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50472038"
+    },
+    {
+      "id": "item?id=50477231",
+      "title": {
+        "en": "Nvidia employees petition to bring back Jensen Huang",
+        "my": "Nvidia ဝန်ထမ်းများက Jensen Huang ကို ပြန်ခေါ်ယူရန် တောင်းဆိုချက်တင်ပြ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 556,
+      "comments": 391,
+      "author": "lavendermon",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50477231"
+    },
+    {
+      "id": "item?id=50471431",
+      "title": {
+        "en": "Gemini 4 Hydrogen",
+        "my": "Gemini 4 ဟိုက်ဒရိုဂျင်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 525,
+      "comments": 330,
+      "author": "dvaplima",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50471431"
+    },
+    {
+      "id": "item?id=50470488",
+      "title": {
+        "en": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "my": "HN ကိုပြပါ- ကျွန်ုပ်၏ ဒေါ်လာ ၃၀၀ တန် ရက်ကန်းစက်သည် စာရင်းသွင်းမှုတစ်ခု လိုအပ်သောကြောင့် ကျွန်ုပ်ကိုယ်တိုင် အက်ပ်တစ်ခု တည်ဆောက်ခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 504,
+      "comments": 179,
+      "author": "simpsoka",
+      "url": "https://github.com/simpsoka/zigzag",
+      "discussUrl": "https://news.ycombinator.com/item?id=50470488"
+    },
+    {
+      "id": "lnau2d",
+      "title": {
+        "en": "How I accidentally became a millionaire",
+        "my": "ကျွန်ုပ် မတော်တဆ သန်းကြွယ်သူဌေးဖြစ်သွားပုံ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 244,
+      "comments": 28,
+      "author": "hugoarnal",
+      "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+      "discussUrl": "https://lobste.rs/s/lnau2d"
+    },
+    {
+      "id": "81hnjw",
+      "title": {
+        "en": "Announcing Rust 1.100.0",
+        "my": "Announcing Rust 1.100.0"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 111,
+      "comments": 8,
+      "author": "theelx",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "discussUrl": "https://lobste.rs/s/81hnjw"
+    },
+    {
+      "id": "ii1gzp",
+      "title": {
+        "en": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "my": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 86,
+      "comments": 17,
+      "author": "scanner_brightly",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "discussUrl": "https://lobste.rs/s/ii1gzp"
+    }
+  ]
+}
