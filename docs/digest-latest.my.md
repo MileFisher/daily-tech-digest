@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-14
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-15
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:42 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 15:54 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. FAA က နိုင်ငံလုံးဆိုင်ရာ မြေပြင်တွင် ရပ်နားထားခြင်းကို ထုတ်ပြန်သည် – 4.5 နာရီအကြာတွင် ဖြေလျှော့ပေးခဲ့သည်
+1. SpaceX သည် Starship ကို ဖမ်းယူပြီး လေယာဉ်ပျံသန်းမှု ၁၅ ကို အဆုံးသတ်သည်
 
-🔶 Hacker News · ⬆️ 1519 points · 💬 1160 comments · 👤 zulln
+🔶 Hacker News · ⬆️ 1163 points · 💬 759 comments · 👤 ls612
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုပြုနေသည့် ဆွေးနွေးချက်အစဉ်တစ်ခုပါဝင်သည့် "FAA က နိုင်ငံလုံးဆိုင်ရာ လေယာဉ်မောင်းနှင်ခွင့် ရပ်ဆိုင်းမှု ထုတ်ပြန် – 4.5 နာရီအကြာတွင် ပြန်လည်ရုပ်သိမ်း" ခေါင်းစဉ်ပါ nbcnews.com သို့ လင့်ခ်တစ်ခု။
+"SpaceX သည် လေယာဉ်ပျံသန်းမှု ၁၅ ကို အဆုံးသတ်ရန် Starship ကို ဖမ်းယူခဲ့သည်" ဟူသော ခေါင်းစဉ်ပါ spacex.com သို့ လင့်ခ်တစ်ခု၊ ၎င်းသည် အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှု စာကြောင်းတစ်ခု ပါဝင်သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50489641) · [Source](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+[Discuss on HN](https://news.ycombinator.com/item?id=50500963) · [Source](https://www.spacex.com/launches/starship-flight-15)
 
-2. ကျွန်ုပ်၏ Coway လေသန့်စင်စက်ကို ကလောက်ဒ်မှ ဖယ်ထုတ်ရန် ပြန်လည်စူးစမ်းလေ့လာခြင်း
+2. ချစ်စရာကောင်းသော အက်ပ်များသည် ပါစ်ပို့အသေးစိတ်အချက်အလက်များနှင့် ပုဂ္ဂလိကမက်ဆေ့ချ်ပေါင်း ၂၀၀,၀၀၀ ကျော်ကို ထုတ်ဖော်ပြသနေသည်
 
-🔶 Hacker News · ⬆️ 742 points · 💬 212 comments · 👤 scottjg
+🔶 Hacker News · ⬆️ 796 points · 💬 310 comments · 👤 armcat
 
-"ကျွန်ုပ်၏ Coway လေသန့်စင်စက်ကို ကလောက်ဒ်မှ ဖယ်ထုတ်ရန် ပြန်လည်စူးစမ်းလေ့လာခြင်း" ဟူသော ခေါင်းစဉ်ဖြင့် scottjg.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+"ချစ်စရာကောင်းသော အက်ပ်များက ပါဆပတ်အသေးစိတ်အချက်အလက်များနှင့် ပုဂ္ဂလိက မက်ဆေ့ချ် ၂၀၀,၀၀၀ ကျော်ကို ထုတ်ဖော်ပြသနေသည်" ဟူသော ခေါင်းစဉ်ပါ crissyfield.de သို့ လင့်ခ်တစ်ခု၊ ၎င်းသည် ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံးရရှိထားသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးနေသည့် ဆွေးနွေးချက်ကြိုးတစ်ခုလည်း ရှိပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50474959) · [Source](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50499017) · [Source](https://www.crissyfield.de/research/lovable-en/)
 
-3. Nvidia သည် AI စတင်လုပ်ကိုင်သူများအား ၎င်း၏ GPU များဝယ်ယူရန် ရန်ပုံငွေထောက်ပံ့ခြင်းဖြင့် ကုန်ပစ္စည်းရှားပါးမှုကို ရည်ရွယ်ချက်ရှိရှိ ဖန်တီးခဲ့သည်ဟု စွပ်စွဲထားသည်။
+3. ကျွန်ုပ်တွင် အဟောင်းဖုန်းတစ်လုံးရှိနေပါလျက်နှင့် အဘယ်ကြောင့် စျေးကြီးသော Pi တစ်လုံး ဝယ်ယူရပါသနည်း။
 
-🔶 Hacker News · ⬆️ 485 points · 💬 277 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 552 points · 💬 302 comments · 👤 casi
 
-"Nvidia သည် AI စတင်လုပ်ကိုင်သူများအား ၎င်း၏ GPU များဝယ်ယူရန် ရန်ပုံငွေထောက်ပံ့ခြင်းဖြင့် ရည်ရွယ်ချက်ရှိရှိ ကုန်ပစ္စည်းရှားပါးမှု ဖန်တီးခဲ့သည်" ဟူသော ခေါင်းစဉ်ပါ techpowerup.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+"ငါ့မှာ အဟောင်းဖုန်းတစ်လုံးရှိနေတာနဲ့ Pi တစ်လုံးကို ဘာလို့စျေးကြီးကြီးဝယ်ရမှာလဲ" ခေါင်းစဉ်ပါ so.long.thanks.fish သို့ လင့်ခ်တစ်ခု။ ၎င်းသည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံးရထားသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးနေသည့် ဆွေးနွေးချက်ကြိုးတစ်ခုလည်း ပါဝင်သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50493251) · [Source](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+[Discuss on HN](https://news.ycombinator.com/item?id=50440709) · [Source](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 
-4. ကယ်လီဖိုးနီးယားပြည်နယ်မှ တက္ကဆက်ပြည်နယ်သို့ ပို့ဆောင်နေစဉ် Nvidia ဟာ့ဒ်ဝဲလ်တန်ဖိုး ဒေါ်လာ ၁၁.၄ သန်း ပျောက်ဆုံးသွားခဲ့သည်
+4. KDE- မှတ်တမ်းရုပ်ရှင် [ဗီဒီယို]
 
-🔶 Hacker News · ⬆️ 345 points · 💬 189 comments · 👤 crescit_eundo
+🔶 Hacker News · ⬆️ 456 points · 💬 100 comments · 👤 mrkn1
 
-"$11.4M in Nvidia hardware vanishes during shipment from CA to TX" ခေါင်းစဉ်ပါ freightwaves.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် အိမ်ရှေ့စာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+"KDE- မှတ်တမ်းရုပ်ရှင် [ဗီဒီယို]" ဟူသော ခေါင်းစဉ်ဖြင့် tube.kockatoo.org သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50487864) · [Source](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
+[Discuss on HN](https://news.ycombinator.com/item?id=50496976) · [Source](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 
-5. ဂျိုနသန် ဘလို – အကယ်၍ AI က ကုဒ်ရေးခြင်းကို ဖြေရှင်းပေးခဲ့ပါက ကျွန်ုပ်၏ ဆော့ဖ်ဝဲသည် အဘယ်ကြောင့် ယခင်အတိုင်းပင် ရှိနေသေးသနည်း။ [ဗီဒီယို]
+5. ဆော့ဖ်ဝဲလ်အလုပ်ရာထူးများ၏ မိသားစုပင်ပုံစံ
 
-🔶 Hacker News · ⬆️ 271 points · 💬 307 comments · 👤 helloplanets
+🔶 Hacker News · ⬆️ 297 points · 💬 147 comments · 👤 umerf
 
-ရှေ့စာမျက်နှာရှိ လူသိများသော သတင်းဖြစ်သည့် "Jonathan Blow – အကယ်၍ AI က ကုဒ်ရေးခြင်းကို ဖြေရှင်းပေးခဲ့ပါက ကျွန်ုပ်၏ ဆော့ဖ်ဝဲသည် အဘယ်ကြောင့် ယခင်အတိုင်းပင် ရှိနေသေးသနည်း။ [ဗီဒီယို]" ဟူသော ခေါင်းစဉ်ပါ youtube.com သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခု၊ ၎င်းတွင် တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းများ ရှိပါသည်။
+"ဆော့ဖ်ဝဲလ်အလုပ်ရာထူးများ၏ မိသားစုပင်" ခေါင်းစဉ်ပါ zwischenzugs.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်သည် သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50484658) · [Source](https://www.youtube.com/watch?v=IRK8h67ol7Q)
+[Discuss on HN](https://news.ycombinator.com/item?id=50499038) · [Source](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 
-6. KORS မှ ကြိမ်နှုန်းအားလုံးတွင် တိုက်ရိုက်လေကြောင်းအသံလွှင့်မှု။ ဗစ်တိုးရီးယား၊ ကနေဒါတွင်လည်း မြေပြင်ရပ်တန့်ထားသည်
+6. Project Zero သည် အားနည်းချက်များကို အစီရင်ခံပြီးနောက် ရက်ပေါင်း ၉၀ ကြာမှ ထုတ်ဖော်ပါမည်
 
-🔶 Hacker News · ⬆️ 259 points · 💬 60 comments · 👤 mmaunder
+🔶 Hacker News · ⬆️ 241 points · 💬 109 comments · 👤 hacb
 
-orcasairband.com သို့ "KORS မှ ကြိမ်နှုန်းအားလုံးတွင် တိုက်ရိုက်လေကြောင်းအသံလွှင့်မှု။ ဗစ်တိုးရီးယား၊ ကယ်လီဖိုးနီးယားတွင်လည်း မြေပြင်ရပ်တန့်ထားသည်" ဟူသော ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်။
+"Project Zero သည် အားနည်းချက်များကို အစီရင်ခံတင်ပြပြီးနောက် ၉၀ ရက်အကြာတွင် ထုတ်ဖော်ပါမည်" ဟူသော ခေါင်းစဉ်ပါ projectzero.google သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50490593) · [Source](https://orcasairband.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50496051) · [Source](https://projectzero.google/2026/11/disclosure-policy.html)
 
-7. စမ်းသပ်မှု ၆၀၀ ပြုလုပ်ပြီးနောက်၊ JEPA ကမ္ဘာ့ပုံစံများအကြောင်း ကျွန်ုပ်ရှာဖွေတွေ့ရှိခဲ့သည်မှာ ဤသို့ဖြစ်သည်။
+7. ပိုမိုရှင်းလင်းပြတ်သားသော လုံခြုံရေးအချက်ပြမှုများပါရှိသည့် PyPI ၏ ပြန်လည်ဒီဇိုင်းပြုလုပ်ထားသော ပရောဂျက်စာမျက်နှာများ ယခုအခါ အွန်လိုင်းတွင် တင်ထားပြီးဖြစ်သည်
 
-🔶 Hacker News · ⬆️ 253 points · 💬 41 comments · 👤 halcdev
+🔶 Hacker News · ⬆️ 239 points · 💬 100 comments · 👤 rbanffy
 
-"စမ်းသပ်မှု 600 ကြိမ်ပြီးနောက် JEPA ကမ္ဘာ့ပုံစံများနှင့် ပတ်သက်၍ ကျွန်ုပ်ရှာဖွေတွေ့ရှိခဲ့သည်မှာ ဤသို့ဖြစ်သည်" ဟူသော ခေါင်းစဉ်ပါ haddyalchaer.com သို့ လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်။
+"ပိုမိုရှင်းလင်းသော လုံခြုံရေးအချက်ပြမှုများပါရှိသည့် ပြန်လည်ဒီဇိုင်းပြုပြင်ထားသော PyPI ၏ ပရောဂျက်စာမျက်နှာများ ယခုအခါ အသက်ဝင်နေပြီ" ဟု ခေါင်းစဉ်တပ်ထားသည့် blog.pypi.org သို့ လင့်ခ်တစ်ခု၊ ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်၊ သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50487185) · [Source](https://haddyalchaer.com/jepa)
+[Discuss on HN](https://news.ycombinator.com/item?id=50497892) · [Source](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 
-8. Rust 1.100.0 ကိုကြေညာခြင်း
+8. ဂီတဖွင့်စက်ကို မည်သို့မတည်ဆောက်ရမည်နည်း
 
-🦞 Lobsters · ⬆️ 153 points · 💬 13 comments · 👤 theelx
+🦞 Lobsters · ⬆️ 114 points · 💬 25 comments · 👤 alichraghi
 
-"Rust 1.100.0 ကိုကြေညာခြင်း" ခေါင်းစဉ်ပါသော blog.rust-lang.org သို့လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/81hnjw) · [Source](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-
-9. ဂီတဖွင့်စက်ကို မည်သို့မတည်ဆောက်ရမည်နည်း
-
-🦞 Lobsters · ⬆️ 89 points · 💬 24 comments · 👤 alichraghi
-
-"ဂီတဖွင့်စက်ကို မည်သို့မတည်ဆောက်ရမည်နည်း" ဟူသော ခေါင်းစဉ်ပါ alichraghi.github.io သို့ လင့်ခ်တစ်ခု။
+"ဂီတဖွင့်စက်ကို မည်သို့မတည်ဆောက်ရမည်နည်း" ခေါင်းစဉ်ပါ alichraghi.github.io သို့ လင့်ခ်တစ်ခု။
 
 [Discuss on Lobsters](https://lobste.rs/s/lh9pwf) · [Source](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 
-10. "Let Over Lambda" အပြည့်အစုံကို ယခုအခါ အွန်လိုင်းတွင် အခမဲ့ရရှိနိုင်ပြီဖြစ်သည်။
+9. အနည်းဆုံး တတိယရွေးချယ်မှုတစ်ခု လိုအပ်ချက်
 
-🦞 Lobsters · ⬆️ 74 points · 💬 23 comments · 👤 nemin
+🦞 Lobsters · ⬆️ 85 points · 💬 45 comments · 👤 dethos
 
-"Let Over Lambda" ၏ အပြည့်အစုံကို ယခုအခါ အွန်လိုင်းတွင် အခမဲ့ ရရှိနိုင်ပြီ" ဟူသော ခေါင်းစဉ်ပါ letoverlambda.com သို့ လင့်ခ်တစ်ခု။
+"အနည်းဆုံး ရွေးချယ်စရာ တတိယတစ်ခု လိုအပ်မှု" ခေါင်းစဉ်ပါ blog.ovalerio.net သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/ooshl8) · [Source](https://letoverlambda.com/)
+[Discuss on Lobsters](https://lobste.rs/s/9oq6fr) · [Source](https://blog.ovalerio.net/archives/3359)
 
-*daily-tech-digest · MileFisher · 2026-11-14T08:42:39.179Z*
+10. Go ရှိ ဖြစ်နိုင်ခြေဆိုင်ရာ ဒေတာဖွဲ့စည်းပုံများ
+
+🦞 Lobsters · ⬆️ 62 points · 💬 12 comments · 👤 cgrinds
+
+"Go ရှိ ဖြစ်နိုင်ခြေဆိုင်ရာ ဒေတာဖွဲ့စည်းပုံများ" ခေါင်းစဉ်ပါ antonz.org သို့ လင့်ခ်တစ်ခု။
+
+[Discuss on Lobsters](https://lobste.rs/s/xca2qj) · [Source](https://antonz.org/probabilistic-data-structures/)
+
+*daily-tech-digest · MileFisher · 2026-11-15T08:54:49.033Z*

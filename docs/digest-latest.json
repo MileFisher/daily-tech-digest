@@ -1,117 +1,103 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
-      "id": "item?id=50489641",
+      "id": "item?id=50500963",
       "title": {
-        "en": "FAA issues national ground stop – lifted 4.5 hours later",
-        "my": "FAA က နိုင်ငံလုံးဆိုင်ရာ မြေပြင်တွင် ရပ်နားထားခြင်းကို ထုတ်ပြန်သည် – 4.5 နာရီအကြာတွင် ဖြေလျှော့ပေးခဲ့သည်"
+        "en": "SpaceX catches the Starship to end Flight 15",
+        "my": "SpaceX သည် Starship ကို ဖမ်းယူပြီး လေယာဉ်ပျံသန်းမှု ၁၅ ကို အဆုံးသတ်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1519,
-      "comments": 1160,
-      "author": "zulln",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "discussUrl": "https://news.ycombinator.com/item?id=50489641"
+      "score": 1163,
+      "comments": 759,
+      "author": "ls612",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "discussUrl": "https://news.ycombinator.com/item?id=50500963"
     },
     {
-      "id": "item?id=50474959",
+      "id": "item?id=50499017",
       "title": {
-        "en": "Reverse engineering my Coway air purifier to ditch the cloud",
-        "my": "ကျွန်ုပ်၏ Coway လေသန့်စင်စက်ကို ကလောက်ဒ်မှ ဖယ်ထုတ်ရန် ပြန်လည်စူးစမ်းလေ့လာခြင်း"
+        "en": "Lovable apps expose passport details and more than 200K private messages",
+        "my": "ချစ်စရာကောင်းသော အက်ပ်များသည် ပါစ်ပို့အသေးစိတ်အချက်အလက်များနှင့် ပုဂ္ဂလိကမက်ဆေ့ချ်ပေါင်း ၂၀၀,၀၀၀ ကျော်ကို ထုတ်ဖော်ပြသနေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 742,
-      "comments": 212,
-      "author": "scottjg",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50474959"
+      "score": 796,
+      "comments": 310,
+      "author": "armcat",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50499017"
     },
     {
-      "id": "item?id=50493251",
+      "id": "item?id=50440709",
       "title": {
-        "en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "my": "Nvidia သည် AI စတင်လုပ်ကိုင်သူများအား ၎င်း၏ GPU များဝယ်ယူရန် ရန်ပုံငွေထောက်ပံ့ခြင်းဖြင့် ကုန်ပစ္စည်းရှားပါးမှုကို ရည်ရွယ်ချက်ရှိရှိ ဖန်တီးခဲ့သည်ဟု စွပ်စွဲထားသည်။"
+        "en": "Why get an expensive Pi when I have an old phone?",
+        "my": "ကျွန်ုပ်တွင် အဟောင်းဖုန်းတစ်လုံးရှိနေပါလျက်နှင့် အဘယ်ကြောင့် စျေးကြီးသော Pi တစ်လုံး ဝယ်ယူရပါသနည်း။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 485,
-      "comments": 277,
-      "author": "speckx",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "discussUrl": "https://news.ycombinator.com/item?id=50493251"
+      "score": 552,
+      "comments": 302,
+      "author": "casi",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50440709"
     },
     {
-      "id": "item?id=50487864",
+      "id": "item?id=50496976",
       "title": {
-        "en": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-        "my": "ကယ်လီဖိုးနီးယားပြည်နယ်မှ တက္ကဆက်ပြည်နယ်သို့ ပို့ဆောင်နေစဉ် Nvidia ဟာ့ဒ်ဝဲလ်တန်ဖိုး ဒေါ်လာ ၁၁.၄ သန်း ပျောက်ဆုံးသွားခဲ့သည်"
+        "en": "KDE: The documentary [video]",
+        "my": "KDE- မှတ်တမ်းရုပ်ရှင် [ဗီဒီယို]"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 345,
-      "comments": 189,
-      "author": "crescit_eundo",
-      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "discussUrl": "https://news.ycombinator.com/item?id=50487864"
+      "score": 456,
+      "comments": 100,
+      "author": "mrkn1",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "discussUrl": "https://news.ycombinator.com/item?id=50496976"
     },
     {
-      "id": "item?id=50484658",
+      "id": "item?id=50499038",
       "title": {
-        "en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-        "my": "ဂျိုနသန် ဘလို – အကယ်၍ AI က ကုဒ်ရေးခြင်းကို ဖြေရှင်းပေးခဲ့ပါက ကျွန်ုပ်၏ ဆော့ဖ်ဝဲသည် အဘယ်ကြောင့် ယခင်အတိုင်းပင် ရှိနေသေးသနည်း။ [ဗီဒီယို]"
+        "en": "A family tree of software job titles",
+        "my": "ဆော့ဖ်ဝဲလ်အလုပ်ရာထူးများ၏ မိသားစုပင်ပုံစံ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 271,
-      "comments": 307,
-      "author": "helloplanets",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "discussUrl": "https://news.ycombinator.com/item?id=50484658"
+      "score": 297,
+      "comments": 147,
+      "author": "umerf",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50499038"
     },
     {
-      "id": "item?id=50490593",
+      "id": "item?id=50496051",
       "title": {
-        "en": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-        "my": "KORS မှ ကြိမ်နှုန်းအားလုံးတွင် တိုက်ရိုက်လေကြောင်းအသံလွှင့်မှု။ ဗစ်တိုးရီးယား၊ ကနေဒါတွင်လည်း မြေပြင်ရပ်တန့်ထားသည်"
+        "en": "Project Zero will disclose vulnerabilities 90 days after reporting",
+        "my": "Project Zero သည် အားနည်းချက်များကို အစီရင်ခံပြီးနောက် ရက်ပေါင်း ၉၀ ကြာမှ ထုတ်ဖော်ပါမည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 259,
-      "comments": 60,
-      "author": "mmaunder",
-      "url": "https://orcasairband.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50490593"
+      "score": 241,
+      "comments": 109,
+      "author": "hacb",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50496051"
     },
     {
-      "id": "item?id=50487185",
+      "id": "item?id=50497892",
       "title": {
-        "en": "After 600 experiments, here's what I discovered about JEPA world models",
-        "my": "စမ်းသပ်မှု ၆၀၀ ပြုလုပ်ပြီးနောက်၊ JEPA ကမ္ဘာ့ပုံစံများအကြောင်း ကျွန်ုပ်ရှာဖွေတွေ့ရှိခဲ့သည်မှာ ဤသို့ဖြစ်သည်။"
+        "en": "PyPI's redesigned project pages with clearer security signals are now live",
+        "my": "ပိုမိုရှင်းလင်းပြတ်သားသော လုံခြုံရေးအချက်ပြမှုများပါရှိသည့် PyPI ၏ ပြန်လည်ဒီဇိုင်းပြုလုပ်ထားသော ပရောဂျက်စာမျက်နှာများ ယခုအခါ အွန်လိုင်းတွင် တင်ထားပြီးဖြစ်သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 253,
-      "comments": 41,
-      "author": "halcdev",
-      "url": "https://haddyalchaer.com/jepa",
-      "discussUrl": "https://news.ycombinator.com/item?id=50487185"
-    },
-    {
-      "id": "81hnjw",
-      "title": {
-        "en": "Announcing Rust 1.100.0",
-        "my": "Rust 1.100.0 ကိုကြေညာခြင်း"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 153,
-      "comments": 13,
-      "author": "theelx",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "discussUrl": "https://lobste.rs/s/81hnjw"
+      "score": 239,
+      "comments": 100,
+      "author": "rbanffy",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50497892"
     },
     {
       "id": "lh9pwf",
@@ -121,25 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 89,
-      "comments": 24,
+      "score": 114,
+      "comments": 25,
       "author": "alichraghi",
       "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
       "discussUrl": "https://lobste.rs/s/lh9pwf"
     },
     {
-      "id": "ooshl8",
+      "id": "9oq6fr",
       "title": {
-        "en": "The entirety of \"Let Over Lambda\" is now freely available online",
-        "my": "\"Let Over Lambda\" အပြည့်အစုံကို ယခုအခါ အွန်လိုင်းတွင် အခမဲ့ရရှိနိုင်ပြီဖြစ်သည်။"
+        "en": "The need for at least a third option",
+        "my": "အနည်းဆုံး တတိယရွေးချယ်မှုတစ်ခု လိုအပ်ချက်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 74,
-      "comments": 23,
-      "author": "nemin",
-      "url": "https://letoverlambda.com/",
-      "discussUrl": "https://lobste.rs/s/ooshl8"
+      "score": 85,
+      "comments": 45,
+      "author": "dethos",
+      "url": "https://blog.ovalerio.net/archives/3359",
+      "discussUrl": "https://lobste.rs/s/9oq6fr"
+    },
+    {
+      "id": "xca2qj",
+      "title": {
+        "en": "Probabilistic data structures in Go",
+        "my": "Go ရှိ ဖြစ်နိုင်ခြေဆိုင်ရာ ဒေတာဖွဲ့စည်းပုံများ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 62,
+      "comments": 12,
+      "author": "cgrinds",
+      "url": "https://antonz.org/probabilistic-data-structures/",
+      "discussUrl": "https://lobste.rs/s/xca2qj"
     }
   ]
 }

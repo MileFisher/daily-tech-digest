@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-14
+# 🗞️ Daily Tech Digest — 2026-11-15
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:42 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 15:54 ICT
 
 ---
 
-1. FAA issues national ground stop – lifted 4.5 hours later
+1. SpaceX catches the Starship to end Flight 15
 
-🔶 Hacker News · ⬆️ 1519 points · 💬 1160 comments · 👤 zulln
+🔶 Hacker News · ⬆️ 1163 points · 💬 759 comments · 👤 ls612
 
-A link to nbcnews.com titled "FAA issues national ground stop – lifted 4.5 hours later", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to spacex.com titled "SpaceX catches the Starship to end Flight 15", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50489641) · [Source](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+[Discuss on HN](https://news.ycombinator.com/item?id=50500963) · [Source](https://www.spacex.com/launches/starship-flight-15)
 
-2. Reverse engineering my Coway air purifier to ditch the cloud
+2. Lovable apps expose passport details and more than 200K private messages
 
-🔶 Hacker News · ⬆️ 742 points · 💬 212 comments · 👤 scottjg
+🔶 Hacker News · ⬆️ 796 points · 💬 310 comments · 👤 armcat
 
-A link to scottjg.com titled "Reverse engineering my Coway air purifier to ditch the cloud", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to crissyfield.de titled "Lovable apps expose passport details and more than 200K private messages", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50474959) · [Source](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50499017) · [Source](https://www.crissyfield.de/research/lovable-en/)
 
-3. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
+3. Why get an expensive Pi when I have an old phone?
 
-🔶 Hacker News · ⬆️ 485 points · 💬 277 comments · 👤 speckx
+🔶 Hacker News · ⬆️ 552 points · 💬 302 comments · 👤 casi
 
-A link to techpowerup.com titled "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs", a popular story on the front page, drawing significant discussion.
+A link to so.long.thanks.fish titled "Why get an expensive Pi when I have an old phone?", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50493251) · [Source](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+[Discuss on HN](https://news.ycombinator.com/item?id=50440709) · [Source](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 
-4. $11.4M in Nvidia hardware vanishes during shipment from CA to TX
+4. KDE: The documentary [video]
 
-🔶 Hacker News · ⬆️ 345 points · 💬 189 comments · 👤 crescit_eundo
+🔶 Hacker News · ⬆️ 456 points · 💬 100 comments · 👤 mrkn1
 
-A link to freightwaves.com titled "$11.4M in Nvidia hardware vanishes during shipment from CA to TX", a popular story on the front page, drawing significant discussion.
+A link to tube.kockatoo.org titled "KDE: The documentary [video]", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50487864) · [Source](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
+[Discuss on HN](https://news.ycombinator.com/item?id=50496976) · [Source](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 
-5. Jonathan Blow – If AI solved coding, why is my software still the same? [video]
+5. A family tree of software job titles
 
-🔶 Hacker News · ⬆️ 271 points · 💬 307 comments · 👤 helloplanets
+🔶 Hacker News · ⬆️ 297 points · 💬 147 comments · 👤 umerf
 
-A link to youtube.com titled "Jonathan Blow – If AI solved coding, why is my software still the same? [video]", a popular story on the front page, with an active discussion thread.
+A link to zwischenzugs.com titled "A family tree of software job titles", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50484658) · [Source](https://www.youtube.com/watch?v=IRK8h67ol7Q)
+[Discuss on HN](https://news.ycombinator.com/item?id=50499038) · [Source](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 
-6. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
+6. Project Zero will disclose vulnerabilities 90 days after reporting
 
-🔶 Hacker News · ⬆️ 259 points · 💬 60 comments · 👤 mmaunder
+🔶 Hacker News · ⬆️ 241 points · 💬 109 comments · 👤 hacb
 
-A link to orcasairband.com titled "Live airband on all frequencies from KORS. Victoria, CA also ground stopped", a popular story on the front page.
+A link to projectzero.google titled "Project Zero will disclose vulnerabilities 90 days after reporting", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50490593) · [Source](https://orcasairband.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50496051) · [Source](https://projectzero.google/2026/11/disclosure-policy.html)
 
-7. After 600 experiments, here's what I discovered about JEPA world models
+7. PyPI's redesigned project pages with clearer security signals are now live
 
-🔶 Hacker News · ⬆️ 253 points · 💬 41 comments · 👤 halcdev
+🔶 Hacker News · ⬆️ 239 points · 💬 100 comments · 👤 rbanffy
 
-A link to haddyalchaer.com titled "After 600 experiments, here's what I discovered about JEPA world models", a popular story on the front page.
+A link to blog.pypi.org titled "PyPI's redesigned project pages with clearer security signals are now live", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50487185) · [Source](https://haddyalchaer.com/jepa)
+[Discuss on HN](https://news.ycombinator.com/item?id=50497892) · [Source](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 
-8. Announcing Rust 1.100.0
+8. How Not to Build a Music Player
 
-🦞 Lobsters · ⬆️ 153 points · 💬 13 comments · 👤 theelx
-
-A link to blog.rust-lang.org titled "Announcing Rust 1.100.0".
-
-[Discuss on Lobsters](https://lobste.rs/s/81hnjw) · [Source](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-
-9. How Not to Build a Music Player
-
-🦞 Lobsters · ⬆️ 89 points · 💬 24 comments · 👤 alichraghi
+🦞 Lobsters · ⬆️ 114 points · 💬 25 comments · 👤 alichraghi
 
 A link to alichraghi.github.io titled "How Not to Build a Music Player".
 
 [Discuss on Lobsters](https://lobste.rs/s/lh9pwf) · [Source](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 
-10. The entirety of "Let Over Lambda" is now freely available online
+9. The need for at least a third option
 
-🦞 Lobsters · ⬆️ 74 points · 💬 23 comments · 👤 nemin
+🦞 Lobsters · ⬆️ 85 points · 💬 45 comments · 👤 dethos
 
-A link to letoverlambda.com titled "The entirety of "Let Over Lambda" is now freely available online".
+A link to blog.ovalerio.net titled "The need for at least a third option".
 
-[Discuss on Lobsters](https://lobste.rs/s/ooshl8) · [Source](https://letoverlambda.com/)
+[Discuss on Lobsters](https://lobste.rs/s/9oq6fr) · [Source](https://blog.ovalerio.net/archives/3359)
 
-*daily-tech-digest · MileFisher · 2026-11-14T08:42:39.179Z*
+10. Probabilistic data structures in Go
+
+🦞 Lobsters · ⬆️ 62 points · 💬 12 comments · 👤 cgrinds
+
+A link to antonz.org titled "Probabilistic data structures in Go".
+
+[Discuss on Lobsters](https://lobste.rs/s/xca2qj) · [Source](https://antonz.org/probabilistic-data-structures/)
+
+*daily-tech-digest · MileFisher · 2026-11-15T08:54:49.033Z*
