@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-15
+# 🗞️ Daily Tech Digest — 2026-11-16
 
-> Top 10 stories from Hacker News & Lobsters · Generated 15:54 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:07 ICT
 
 ---
 
 1. SpaceX catches the Starship to end Flight 15
 
-🔶 Hacker News · ⬆️ 1163 points · 💬 759 comments · 👤 ls612
+🔶 Hacker News · ⬆️ 1683 points · 💬 1264 comments · 👤 ls612
 
 A link to spacex.com titled "SpaceX catches the Starship to end Flight 15", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50500963) · [Source](https://www.spacex.com/launches/starship-flight-15)
 
-2. Lovable apps expose passport details and more than 200K private messages
+2. Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests
 
-🔶 Hacker News · ⬆️ 796 points · 💬 310 comments · 👤 armcat
+🔶 Hacker News · ⬆️ 524 points · 💬 228 comments · 👤 DeepLogin
 
-A link to crissyfield.de titled "Lovable apps expose passport details and more than 200K private messages", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to www1.wdr.de titled "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50499017) · [Source](https://www.crissyfield.de/research/lovable-en/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50509411) · [Source](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)
 
-3. Why get an expensive Pi when I have an old phone?
+3. Qwen4-Max
 
-🔶 Hacker News · ⬆️ 552 points · 💬 302 comments · 👤 casi
+🔶 Hacker News · ⬆️ 469 points · 💬 184 comments · 👤 ilreb
 
-A link to so.long.thanks.fish titled "Why get an expensive Pi when I have an old phone?", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to qwen.ai titled "Qwen4-Max", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50440709) · [Source](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50513215) · [Source](https://qwen.ai/blog?id=qwen4-max)
 
-4. KDE: The documentary [video]
+4. Universal XSS in uBlock Origin from website-driven element picker
 
-🔶 Hacker News · ⬆️ 456 points · 💬 100 comments · 👤 mrkn1
+🔶 Hacker News · ⬆️ 330 points · 💬 90 comments · 👤 zaik
 
-A link to tube.kockatoo.org titled "KDE: The documentary [video]", a popular story on the front page, drawing significant discussion.
+A link to iter.ca titled "Universal XSS in uBlock Origin from website-driven element picker", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50496976) · [Source](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
+[Discuss on HN](https://news.ycombinator.com/item?id=50513160) · [Source](https://iter.ca/post/ubo-uxss/)
 
-5. A family tree of software job titles
+5. Protomaps: Self-hosting map tiles has gotten cheap and easy
 
-🔶 Hacker News · ⬆️ 297 points · 💬 147 comments · 👤 umerf
+🔶 Hacker News · ⬆️ 319 points · 💬 54 comments · 👤 bcye
 
-A link to zwischenzugs.com titled "A family tree of software job titles", a popular story on the front page, drawing significant discussion.
+A link to bruceroettgers.eu titled "Protomaps: Self-hosting map tiles has gotten cheap and easy", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50499038) · [Source](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50509837) · [Source](https://bruceroettgers.eu/blog/protomaps/)
 
-6. Project Zero will disclose vulnerabilities 90 days after reporting
+6. Old Bitly links are being hijacked
 
-🔶 Hacker News · ⬆️ 241 points · 💬 109 comments · 👤 hacb
+🔶 Hacker News · ⬆️ 273 points · 💬 142 comments · 👤 hspeiser
 
-A link to projectzero.google titled "Project Zero will disclose vulnerabilities 90 days after reporting", a popular story on the front page, drawing significant discussion.
+A link to ransomnews.com titled "Old Bitly links are being hijacked", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50496051) · [Source](https://projectzero.google/2026/11/disclosure-policy.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50511395) · [Source](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
 
-7. PyPI's redesigned project pages with clearer security signals are now live
+7. Handwriting, as a Font
 
-🔶 Hacker News · ⬆️ 239 points · 💬 100 comments · 👤 rbanffy
+🔶 Hacker News · ⬆️ 273 points · 💬 49 comments · 👤 coinfused
 
-A link to blog.pypi.org titled "PyPI's redesigned project pages with clearer security signals are now live", a popular story on the front page, drawing significant discussion.
+A link to ductus.sorenblank.com titled "Handwriting, as a Font", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50497892) · [Source](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50509972) · [Source](https://ductus.sorenblank.com)
 
-8. How Not to Build a Music Player
+8. 25 of my favourite modern NES games
 
-🦞 Lobsters · ⬆️ 114 points · 💬 25 comments · 👤 alichraghi
+🦞 Lobsters · ⬆️ 69 points · 💬 11 comments · 👤 JordiGH
 
-A link to alichraghi.github.io titled "How Not to Build a Music Player".
+A link to jordi.inversethought.com titled "25 of my favourite modern NES games".
 
-[Discuss on Lobsters](https://lobste.rs/s/lh9pwf) · [Source](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
+[Discuss on Lobsters](https://lobste.rs/s/w9j7xs) · [Source](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 
-9. The need for at least a third option
+9. A datetime library for Rust
 
-🦞 Lobsters · ⬆️ 85 points · 💬 45 comments · 👤 dethos
+🦞 Lobsters · ⬆️ 65 points · 💬 17 comments · 👤 refi64
 
-A link to blog.ovalerio.net titled "The need for at least a third option".
+A link to burntsushi.net titled "A datetime library for Rust".
 
-[Discuss on Lobsters](https://lobste.rs/s/9oq6fr) · [Source](https://blog.ovalerio.net/archives/3359)
+[Discuss on Lobsters](https://lobste.rs/s/dxxvek) · [Source](https://burntsushi.net/jiff/)
 
-10. Probabilistic data structures in Go
+10. All AI-generated code should be Open Source
 
-🦞 Lobsters · ⬆️ 62 points · 💬 12 comments · 👤 cgrinds
+🦞 Lobsters · ⬆️ 59 points · 💬 17 comments · 👤 Yogthos
 
-A link to antonz.org titled "Probabilistic data structures in Go".
+A link to jakub.jankiewicz.org titled "All AI-generated code should be Open Source".
 
-[Discuss on Lobsters](https://lobste.rs/s/xca2qj) · [Source](https://antonz.org/probabilistic-data-structures/)
+[Discuss on Lobsters](https://lobste.rs/s/ek4fkg) · [Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 
-*daily-tech-digest · MileFisher · 2026-11-15T08:54:49.033Z*
+*daily-tech-digest · MileFisher · 2026-11-16T09:07:04.735Z*
