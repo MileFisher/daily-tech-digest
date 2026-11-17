@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-16
+# 🗞️ Daily Tech Digest — 2026-11-17
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:07 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 17:19 ICT
 
 ---
 
-1. SpaceX catches the Starship to end Flight 15
+1. Carnegie Mellon is putting computer science courses on YouTube for free
 
-🔶 Hacker News · ⬆️ 1683 points · 💬 1264 comments · 👤 ls612
+🔶 Hacker News · ⬆️ 1528 points · 💬 209 comments · 👤 pcompeau
 
-A link to spacex.com titled "SpaceX catches the Starship to end Flight 15", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to cs.cmu.edu titled "Carnegie Mellon is putting computer science courses on YouTube for free", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50500963) · [Source](https://www.spacex.com/launches/starship-flight-15)
+[Discuss on HN](https://news.ycombinator.com/item?id=50522980) · [Source](https://www.cs.cmu.edu/learn/)
 
-2. Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests
+2. Technical issue at JPMorgan Chase triggers online banking delays for US banks
 
-🔶 Hacker News · ⬆️ 524 points · 💬 228 comments · 👤 DeepLogin
+🔶 Hacker News · ⬆️ 776 points · 💬 647 comments · 👤 samk3nny
 
-A link to www1.wdr.de titled "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to apnews.com titled "Technical issue at JPMorgan Chase triggers online banking delays for US banks", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50509411) · [Source](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50521045) · [Source](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 
-3. Qwen4-Max
+3. Windows 11 is collecting data on which coding agents and developer tools you use
 
-🔶 Hacker News · ⬆️ 469 points · 💬 184 comments · 👤 ilreb
+🔶 Hacker News · ⬆️ 610 points · 💬 453 comments · 👤 cwaffles
 
-A link to qwen.ai titled "Qwen4-Max", a popular story on the front page, drawing significant discussion.
+A link to xusheng.dev titled "Windows 11 is collecting data on which coding agents and developer tools you use", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50513215) · [Source](https://qwen.ai/blog?id=qwen4-max)
+[Discuss on HN](https://news.ycombinator.com/item?id=50524736) · [Source](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 
-4. Universal XSS in uBlock Origin from website-driven element picker
+4. BugMeNot has closed
 
-🔶 Hacker News · ⬆️ 330 points · 💬 90 comments · 👤 zaik
+🔶 Hacker News · ⬆️ 548 points · 💬 243 comments · 👤 lode
 
-A link to iter.ca titled "Universal XSS in uBlock Origin from website-driven element picker", a popular story on the front page.
+A link to bugmenot.com titled "BugMeNot has closed", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50513160) · [Source](https://iter.ca/post/ubo-uxss/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50523601) · [Source](https://www.bugmenot.com/)
 
-5. Protomaps: Self-hosting map tiles has gotten cheap and easy
+5. Frame – 31.5" color ePaper display
 
-🔶 Hacker News · ⬆️ 319 points · 💬 54 comments · 👤 bcye
+🔶 Hacker News · ⬆️ 419 points · 💬 292 comments · 👤 geerlingguy
 
-A link to bruceroettgers.eu titled "Protomaps: Self-hosting map tiles has gotten cheap and easy", a popular story on the front page.
+A link to trmnl.com titled "Frame – 31.5" color ePaper display", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50509837) · [Source](https://bruceroettgers.eu/blog/protomaps/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50519354) · [Source](https://trmnl.com/blog/introducing-frame)
 
-6. Old Bitly links are being hijacked
+6. Jiff 1.0: A datetime library for Rust
 
-🔶 Hacker News · ⬆️ 273 points · 💬 142 comments · 👤 hspeiser
+🔶 Hacker News · ⬆️ 383 points · 💬 87 comments · 👤 burntsushi
 
-A link to ransomnews.com titled "Old Bitly links are being hijacked", a popular story on the front page, drawing significant discussion.
+A link to burntsushi.net titled "Jiff 1.0: A datetime library for Rust", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50511395) · [Source](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50519744) · [Source](https://burntsushi.net/jiff/)
 
-7. Handwriting, as a Font
+7. Optimizely compromised, served malware on Zoom, GitLab
 
-🔶 Hacker News · ⬆️ 273 points · 💬 49 comments · 👤 coinfused
+🔶 Hacker News · ⬆️ 349 points · 💬 151 comments · 👤 kristjansson
 
-A link to ductus.sorenblank.com titled "Handwriting, as a Font", a popular story on the front page.
+A link to blog.report-uri.com titled "Optimizely compromised, served malware on Zoom, GitLab", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50509972) · [Source](https://ductus.sorenblank.com)
+[Discuss on HN](https://news.ycombinator.com/item?id=50524767) · [Source](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 
-8. 25 of my favourite modern NES games
+8. A datetime library for Rust
 
-🦞 Lobsters · ⬆️ 69 points · 💬 11 comments · 👤 JordiGH
-
-A link to jordi.inversethought.com titled "25 of my favourite modern NES games".
-
-[Discuss on Lobsters](https://lobste.rs/s/w9j7xs) · [Source](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
-
-9. A datetime library for Rust
-
-🦞 Lobsters · ⬆️ 65 points · 💬 17 comments · 👤 refi64
+🦞 Lobsters · ⬆️ 143 points · 💬 35 comments · 👤 refi64
 
 A link to burntsushi.net titled "A datetime library for Rust".
 
 [Discuss on Lobsters](https://lobste.rs/s/dxxvek) · [Source](https://burntsushi.net/jiff/)
 
-10. All AI-generated code should be Open Source
+9. Paint in the memory of other programs
 
-🦞 Lobsters · ⬆️ 59 points · 💬 17 comments · 👤 Yogthos
+🦞 Lobsters · ⬆️ 73 points · 💬 6 comments · 👤 gavinmorrow
 
-A link to jakub.jankiewicz.org titled "All AI-generated code should be Open Source".
+A link to citrons.xyz titled "Paint in the memory of other programs".
 
-[Discuss on Lobsters](https://lobste.rs/s/ek4fkg) · [Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+[Discuss on Lobsters](https://lobste.rs/s/thiekk) · [Source](https://citrons.xyz/journal/2026-04-13)
 
-*daily-tech-digest · MileFisher · 2026-11-16T09:07:04.735Z*
+10. you won't win at copyright
+
+🦞 Lobsters · ⬆️ 73 points · 💬 12 comments · 👤 sjamaan
+
+A link to ingrids.space titled "you won't win at copyright".
+
+[Discuss on Lobsters](https://lobste.rs/s/emdfap) · [Source](https://ingrids.space/posts/you-wont-win-at-copyright/)
+
+*daily-tech-digest · MileFisher · 2026-11-17T10:19:24.402Z*

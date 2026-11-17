@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "id": "item?id=50522980",
+      "title": {
+        "en": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "my": "ကာနီဂီ မယ်လွန်သည် ကွန်ပျူတာသိပ္ပံဘာသာရပ်များကို YouTube တွင် အခမဲ့တင်ထားပါသည်။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1528,
+      "comments": 209,
+      "author": "pcompeau",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50522980"
+    },
+    {
+      "id": "item?id=50521045",
+      "title": {
+        "en": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+        "my": "JPMorgan Chase တွင် ဖြစ်ပေါ်သည့် နည်းပညာဆိုင်ရာ ပြဿနာကြောင့် အမေရိကန်ဘဏ်များ၏ အွန်လိုင်းဘဏ်လုပ်ငန်း ဝန်ဆောင်မှုများ နှောင့်နှေးမှု ဖြစ်ပေါ်စေသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 776,
+      "comments": 647,
+      "author": "samk3nny",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "discussUrl": "https://news.ycombinator.com/item?id=50521045"
+    },
+    {
+      "id": "item?id=50524736",
+      "title": {
+        "en": "Windows 11 is collecting data on which coding agents and developer tools you use",
+        "my": "Windows 11 သည် သင်အသုံးပြုသည့် ကုဒ်ရေးသားမှုအေးဂျင့်များနှင့် ဒက်ဗလပာကိရိယာများအကြောင်း ဒေတာများကို စုဆောင်းနေပါသည်။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 610,
+      "comments": 453,
+      "author": "cwaffles",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50524736"
+    },
+    {
+      "id": "item?id=50523601",
+      "title": {
+        "en": "BugMeNot has closed",
+        "my": "BugMeNot ပိတ်ထားပါသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 548,
+      "comments": 243,
+      "author": "lode",
+      "url": "https://www.bugmenot.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50523601"
+    },
+    {
+      "id": "item?id=50519354",
+      "title": {
+        "en": "Frame – 31.5\" color ePaper display",
+        "my": "ဘောင် – 31.5\" အရောင်ရှိ ePaper မျက်နှာပြင်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 419,
+      "comments": 292,
+      "author": "geerlingguy",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "discussUrl": "https://news.ycombinator.com/item?id=50519354"
+    },
+    {
+      "id": "item?id=50519744",
+      "title": {
+        "en": "Jiff 1.0: A datetime library for Rust",
+        "my": "Jiff 1.0- Rust အတွက် နေ့ရက်နှင့်အချိန်ဆိုင်ရာ လိုင်ဘရရီတစ်ခု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 383,
+      "comments": 87,
+      "author": "burntsushi",
+      "url": "https://burntsushi.net/jiff/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50519744"
+    },
+    {
+      "id": "item?id=50524767",
+      "title": {
+        "en": "Optimizely compromised, served malware on Zoom, GitLab",
+        "my": "Optimizely သည် အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲလ်ကို Zoom၊ GitLab တို့တွင် ပေးပို့ခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 349,
+      "comments": 151,
+      "author": "kristjansson",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50524767"
+    },
+    {
+      "id": "dxxvek",
+      "title": {
+        "en": "A datetime library for Rust",
+        "my": "Rust အတွက် ရက်စွဲနှင့်အချိန် စာကြည့်တိုက်တစ်ခု"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 143,
+      "comments": 35,
+      "author": "refi64",
+      "url": "https://burntsushi.net/jiff/",
+      "discussUrl": "https://lobste.rs/s/dxxvek"
+    },
+    {
+      "id": "thiekk",
+      "title": {
+        "en": "Paint in the memory of other programs",
+        "my": "အခြားပရိုဂရမ်များ၏ မှတ်ဉာဏ်ထဲတွင် ပန်းချီဆွဲပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 73,
+      "comments": 6,
+      "author": "gavinmorrow",
+      "url": "https://citrons.xyz/journal/2026-04-13",
+      "discussUrl": "https://lobste.rs/s/thiekk"
+    },
+    {
+      "id": "emdfap",
+      "title": {
+        "en": "you won't win at copyright",
+        "my": "မူပိုင်ခွင့်ကိစ္စတွင် သင်အနိုင်မရပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 73,
+      "comments": 12,
+      "author": "sjamaan",
+      "url": "https://ingrids.space/posts/you-wont-win-at-copyright/",
+      "discussUrl": "https://lobste.rs/s/emdfap"
+    }
+  ]
+}

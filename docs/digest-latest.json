@@ -1,117 +1,103 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "id": "item?id=50500963",
+      "id": "item?id=50522980",
       "title": {
-        "en": "SpaceX catches the Starship to end Flight 15",
-        "my": "SpaceX သည် Starship ကို ဖမ်းယူပြီး လေယာဉ်ပျံသန်းမှု ၁၅ ကို အဆုံးသတ်ခဲ့သည်"
+        "en": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "my": "ကာနီဂီ မယ်လွန်သည် ကွန်ပျူတာသိပ္ပံဘာသာရပ်များကို YouTube တွင် အခမဲ့တင်ထားပါသည်။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1683,
-      "comments": 1264,
-      "author": "ls612",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "discussUrl": "https://news.ycombinator.com/item?id=50500963"
+      "score": 1528,
+      "comments": 209,
+      "author": "pcompeau",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50522980"
     },
     {
-      "id": "item?id=50509411",
+      "id": "item?id=50521045",
       "title": {
-        "en": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-        "my": "Microsoft 365 ဝန်ဆောင်မှုပြတ်တောက်မှုကြောင့် ဟိုတယ်ဧည့်သည် ၁၅ ဦး ကလိုရင်းဓာတ်ငွေ့ အဆိပ်သင့်မှု ဖြစ်ပွား"
+        "en": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+        "my": "JPMorgan Chase တွင် ဖြစ်ပေါ်သည့် နည်းပညာဆိုင်ရာ ပြဿနာကြောင့် အမေရိကန်ဘဏ်များ၏ အွန်လိုင်းဘဏ်လုပ်ငန်း ဝန်ဆောင်မှုများ နှောင့်နှေးမှု ဖြစ်ပေါ်စေသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 524,
-      "comments": 228,
-      "author": "DeepLogin",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "discussUrl": "https://news.ycombinator.com/item?id=50509411"
+      "score": 776,
+      "comments": 647,
+      "author": "samk3nny",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "discussUrl": "https://news.ycombinator.com/item?id=50521045"
     },
     {
-      "id": "item?id=50513215",
+      "id": "item?id=50524736",
       "title": {
-        "en": "Qwen4-Max",
-        "my": "Qwen4-Max"
+        "en": "Windows 11 is collecting data on which coding agents and developer tools you use",
+        "my": "Windows 11 သည် သင်အသုံးပြုသည့် ကုဒ်ရေးသားမှုအေးဂျင့်များနှင့် ဒက်ဗလပာကိရိယာများအကြောင်း ဒေတာများကို စုဆောင်းနေပါသည်။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 469,
-      "comments": 184,
-      "author": "ilreb",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "discussUrl": "https://news.ycombinator.com/item?id=50513215"
+      "score": 610,
+      "comments": 453,
+      "author": "cwaffles",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50524736"
     },
     {
-      "id": "item?id=50513160",
+      "id": "item?id=50523601",
       "title": {
-        "en": "Universal XSS in uBlock Origin from website-driven element picker",
-        "my": "ဝဘ်ဆိုက်ဖြင့် တွန်းအားပေးသော အစိတ်အပိုင်းရွေးချယ်ကိရိယာမှ uBlock Origin ရှိ ပြန့်နှံ့သော XSS"
+        "en": "BugMeNot has closed",
+        "my": "BugMeNot ပိတ်ထားပါသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 330,
-      "comments": 90,
-      "author": "zaik",
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50513160"
+      "score": 548,
+      "comments": 243,
+      "author": "lode",
+      "url": "https://www.bugmenot.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50523601"
     },
     {
-      "id": "item?id=50509837",
+      "id": "item?id=50519354",
       "title": {
-        "en": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-        "my": "Protomaps- ကိုယ်တိုင်ဟော့စတင်သည့် မြေပုံအပိုင်းအစများမှာ စျေးသက်သာပြီး လွယ်ကူလာပါပြီ"
+        "en": "Frame – 31.5\" color ePaper display",
+        "my": "ဘောင် – 31.5\" အရောင်ရှိ ePaper မျက်နှာပြင်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 319,
-      "comments": 54,
-      "author": "bcye",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50509837"
+      "score": 419,
+      "comments": 292,
+      "author": "geerlingguy",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "discussUrl": "https://news.ycombinator.com/item?id=50519354"
     },
     {
-      "id": "item?id=50511395",
+      "id": "item?id=50519744",
       "title": {
-        "en": "Old Bitly links are being hijacked",
-        "my": "အဟောင်း Bitly လင့်ခ်များကို ခိုးယူနေကြသည်"
+        "en": "Jiff 1.0: A datetime library for Rust",
+        "my": "Jiff 1.0- Rust အတွက် နေ့ရက်နှင့်အချိန်ဆိုင်ရာ လိုင်ဘရရီတစ်ခု"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 273,
-      "comments": 142,
-      "author": "hspeiser",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50511395"
+      "score": 383,
+      "comments": 87,
+      "author": "burntsushi",
+      "url": "https://burntsushi.net/jiff/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50519744"
     },
     {
-      "id": "item?id=50509972",
+      "id": "item?id=50524767",
       "title": {
-        "en": "Handwriting, as a Font",
-        "my": "လက်ရေးကို ဖောင့်တစ်ခုအဖြစ်"
+        "en": "Optimizely compromised, served malware on Zoom, GitLab",
+        "my": "Optimizely သည် အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲလ်ကို Zoom၊ GitLab တို့တွင် ပေးပို့ခဲ့သည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 273,
-      "comments": 49,
-      "author": "coinfused",
-      "url": "https://ductus.sorenblank.com",
-      "discussUrl": "https://news.ycombinator.com/item?id=50509972"
-    },
-    {
-      "id": "w9j7xs",
-      "title": {
-        "en": "25 of my favourite modern NES games",
-        "my": "ကျွန်ုပ်အကြိုက်ဆုံး ခေတ်သစ် NES ဂိမ်း ၂၅ ခု"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 69,
-      "comments": 11,
-      "author": "JordiGH",
-      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "discussUrl": "https://lobste.rs/s/w9j7xs"
+      "score": 349,
+      "comments": 151,
+      "author": "kristjansson",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50524767"
     },
     {
       "id": "dxxvek",
@@ -121,25 +107,39 @@
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 65,
-      "comments": 17,
+      "score": 143,
+      "comments": 35,
       "author": "refi64",
       "url": "https://burntsushi.net/jiff/",
       "discussUrl": "https://lobste.rs/s/dxxvek"
     },
     {
-      "id": "ek4fkg",
+      "id": "thiekk",
       "title": {
-        "en": "All AI-generated code should be Open Source",
-        "my": "AI ဖြင့် ဖန်တီးထားသော ကုဒ်အားလုံးသည် အဖွင့်ရင်းမြစ်ဖြစ်သင့်သည်"
+        "en": "Paint in the memory of other programs",
+        "my": "အခြားပရိုဂရမ်များ၏ မှတ်ဉာဏ်ထဲတွင် ပန်းချီဆွဲပါ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 59,
-      "comments": 17,
-      "author": "Yogthos",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "discussUrl": "https://lobste.rs/s/ek4fkg"
+      "score": 73,
+      "comments": 6,
+      "author": "gavinmorrow",
+      "url": "https://citrons.xyz/journal/2026-04-13",
+      "discussUrl": "https://lobste.rs/s/thiekk"
+    },
+    {
+      "id": "emdfap",
+      "title": {
+        "en": "you won't win at copyright",
+        "my": "မူပိုင်ခွင့်ကိစ္စတွင် သင်အနိုင်မရပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 73,
+      "comments": 12,
+      "author": "sjamaan",
+      "url": "https://ingrids.space/posts/you-wont-win-at-copyright/",
+      "discussUrl": "https://lobste.rs/s/emdfap"
     }
   ]
 }
