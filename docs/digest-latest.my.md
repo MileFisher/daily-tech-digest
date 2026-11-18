@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-17
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-18
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:19 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:50 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. ကာနီဂီ မယ်လွန်သည် ကွန်ပျူတာသိပ္ပံဘာသာရပ်များကို YouTube တွင် အခမဲ့တင်ထားပါသည်။
+1. GPT‑6.2 Astra နှင့် Sol
 
-🔶 Hacker News · ⬆️ 1528 points · 💬 209 comments · 👤 pcompeau
+🔶 Hacker News · ⬆️ 1272 points · 💬 792 comments · 👤 jasondavies
 
-"ကာနီဂီ မယ်လွန်သည် ကွန်ပျူတာသိပ္ပံသင်တန်းများကို YouTube တွင် အခမဲ့တင်ထားသည်" ဟူသော ခေါင်းစဉ်ဖြင့် cs.cmu.edu သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံးရရှိသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်သည့် တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုပါရှိသည့် "GPT‑6.2 Astra နှင့် Sol" ခေါင်းစဉ်ပါ openai.com သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50522980) · [Source](https://www.cs.cmu.edu/learn/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50535230) · [Source](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 
-2. JPMorgan Chase တွင် ဖြစ်ပေါ်သည့် နည်းပညာဆိုင်ရာ ပြဿနာကြောင့် အမေရိကန်ဘဏ်များ၏ အွန်လိုင်းဘဏ်လုပ်ငန်း ဝန်ဆောင်မှုများ နှောင့်နှေးမှု ဖြစ်ပေါ်စေသည်
+2. Java4Shell- Base64 ကို စီမံဆောင်ရွက်ရာတွင် OpenJDK ရှိ RCE
 
-🔶 Hacker News · ⬆️ 776 points · 💬 647 comments · 👤 samk3nny
+🔶 Hacker News · ⬆️ 933 points · 💬 239 comments · 👤 werrett
 
-ပထမစာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "JPMorgan Chase တွင် ဖြစ်ပေါ်သည့် နည်းပညာဆိုင်ရာ ပြဿနာကြောင့် အမေရိကန်ဘဏ်များ၏ အွန်လိုင်းဘဏ်လုပ်ငန်း ဝန်ဆောင်မှုများ နှောင့်နှေးမှု ဖြစ်ပေါ်စေသည်" ဟူသော ခေါင်းစဉ်ပါ apnews.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုနှင့် တက်ကြွစွာ ဆွေးနွေးနေသည့် ဆွေးနွေးချက် စာကြောင်းတစ်ခု။
+"Java4Shell- Base64 ကို စီမံဆောင်ရွက်ရာတွင် OpenJDK ရှိ RCE" ဟု ခေါင်းစဉ်တပ်ထားသည့် calif.io သို့ ချိတ်ဆက်မှုတစ်ခုသည် ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50521045) · [Source](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+[Discuss on HN](https://news.ycombinator.com/item?id=50538240) · [Source](https://calif.io/java4shell/)
 
-3. Windows 11 သည် သင်အသုံးပြုသည့် ကုဒ်ရေးသားမှုအေးဂျင့်များနှင့် ဒက်ဗလပာကိရိယာများအကြောင်း ဒေတာများကို စုဆောင်းနေပါသည်။
+3. Quad9 ၏ ပြင်သစ်နိုင်ငံမှ ရုပ်သိမ်းမှု- ကျောက်မီးသွေးတွင်းရှိ ငှက်ကလေးတစ်ကောင်
 
-🔶 Hacker News · ⬆️ 610 points · 💬 453 comments · 👤 cwaffles
+🔶 Hacker News · ⬆️ 594 points · 💬 191 comments · 👤 subset
 
-"Windows 11 သည် သင်အသုံးပြုသည့် ကုဒ်ရေးသားရေး အေဂျင့်များနှင့် ဒက်ဗလပာကိရိယာများဆိုင်ရာ ဒေတာများကို စုဆောင်းနေသည်" ဟူသော ခေါင်းစဉ်ပါ xusheng.dev သို့ လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးနေသည့် ဆွေးနွေးချက်ကြိုးတစ်ခုလည်း ပါဝင်ပါသည်။
+"Quad9 ၏ ပြင်သစ်မှ ရုပ်သိမ်းမှု- ကျောက်မီးသွေးတွင်းရှိ ငှက်ကလေး" ဟူသော ခေါင်းစဉ်ဖြင့် blog.cloudflare.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အဆိုပါ သတင်းစာ၏ အရှေ့စာမျက်နှာရှိ အမြင့်ဆုံး အမှတ်ရရှိထားသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50524736) · [Source](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50538994) · [Source](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 
-4. BugMeNot ပိတ်ထားပါသည်
+4. အလွန်လျှို့ဝှက်ထားသော အမေရိကန် အမျိုးသားလုံခြုံရေး ဆက်သွယ်ရေးကွန်ရက် ပြတ်တောက်သွားသည်
 
-🔶 Hacker News · ⬆️ 548 points · 💬 243 comments · 👤 lode
+🔶 Hacker News · ⬆️ 576 points · 💬 664 comments · 👤 monkeydust
 
-"BugMeNot ပိတ်သွားပြီ" ဟူသော ခေါင်းစဉ်ပါ bugmenot.com သို့ ချိတ်ဆက်သည့်လင့်ခ်သည် အရှေ့စာမျက်နှာပေါ်ရှိ အဆင့်အမြင့်ဆုံး သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "အလွန်လျှို့ဝှက်ထားသော အမေရိကန် အမျိုးသားလုံခြုံရေး ဆက်သွယ်ရေးကွန်ရက် ပြတ်တောက်သွားသည်" ခေါင်းစဉ်ပါ cnn.com သို့ လင့်ခ်တစ်ခုနှင့် တက်ကြွသော ဆွေးနွေးမှု စာကြောင်းတစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50523601) · [Source](https://www.bugmenot.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50532849) · [Source](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 
-5. ဘောင် – 31.5" အရောင်ရှိ ePaper မျက်နှာပြင်
+5. Nvidia သည် စင်္ကာပူရောင်းအားများကို ထုတ်ဖော်ပြသခြင်းကို ရပ်တန့်လိုက်ပြီး ဝင်ငွေမှာ ဒေါ်လာ ၁၀၄ ဘီလီယံသို့ ရောက်ရှိသွားခဲ့သည်
 
-🔶 Hacker News · ⬆️ 419 points · 💬 292 comments · 👤 geerlingguy
+🔶 Hacker News · ⬆️ 541 points · 💬 243 comments · 👤 louiereederson
 
-"Frame – 31.5" အရောင်ရှိ ePaper မျက်နှာပြင်" ဟူသော ခေါင်းစဉ်ပါ trmnl.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါခေါင်းစဉ်သည် အဆိုပါဝက်ဘ်ဆိုက်၏ အရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး ဆွေးနွေးမှုများစွာ ဖြစ်ပေါ်စေပါသည်။
+"Nvidia သည် ဝင်ငွေ $104 ဘီလီယံသို့ ရောက်ရှိသွားသောကြောင့် စင်္ကာပူရောင်းအားများကို ထုတ်ဖော်ခြင်းကို ရပ်ဆိုင်းလိုက်သည်" ဟူသော ခေါင်းစဉ်ပါ ft.com သို့ လင့်ခ်တစ်ခုသည် အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50519354) · [Source](https://trmnl.com/blog/introducing-frame)
+[Discuss on HN](https://news.ycombinator.com/item?id=50534631) · [Source](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 
-6. Jiff 1.0- Rust အတွက် နေ့ရက်နှင့်အချိန်ဆိုင်ရာ လိုင်ဘရရီတစ်ခု
+6. YC စတင်တည်ထောင်သည့်ကုမ္ပဏီတစ်ခုတွင် အင်တာဗျူးခံခဲ့ရပြီး ၎င်းတို့က ကျွန်ုပ်၏ LinkedIn ကို ခွင့်ပြုချက်မရှိဘဲ အသုံးပြုခဲ့ကြောင်း သိရှိခဲ့ရသည်
 
-🔶 Hacker News · ⬆️ 383 points · 💬 87 comments · 👤 burntsushi
+🔶 Hacker News · ⬆️ 392 points · 💬 99 comments · 👤 throwawaysleep
 
-ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းဖြစ်သည့် "Jiff 1.0- Rust အတွက် ရက်စွဲနှင့်အချိန် စာကြည့်တိုက်" ခေါင်းစဉ်ပါ burntsushi.net သို့ လင့်ခ်တစ်ခု။
+"YC စတင်လုပ်ငန်းတစ်ခုတွင် အင်တာဗျူးခံခဲ့ရပြီး သူတို့က ကျွန်ုပ်၏ LinkedIn ကို ခွင့်ပြုချက်မရှိဘဲ အသုံးပြုခဲ့ကြောင်း သိရှိခဲ့ရသည်" ဟူသော ခေါင်းစဉ်ပါ reddit.com သို့ လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာပေါ်ရှိ လူသိများသော ဇာတ်လမ်းတစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50519744) · [Source](https://burntsushi.net/jiff/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50542135) · [Source](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
 
-7. Optimizely သည် အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲလ်ကို Zoom၊ GitLab တို့တွင် ပေးပို့ခဲ့သည်
+7. Google ၏ AI အဖြေများသည် ရှာဖွေမှုလမ်းကြောင်းကို 40% လျှော့ချပေးသည်
 
-🔶 Hacker News · ⬆️ 349 points · 💬 151 comments · 👤 kristjansson
+🔶 Hacker News · ⬆️ 381 points · 💬 291 comments · 👤 slashdev
 
-"Optimizely အန္တရာယ်ရှိနေပြီ၊ Zoom၊ GitLab တို့တွင် မာလ်ဝဲလ်များ ပေးပို့ထားသည်" ဟူသော ခေါင်းစဉ်ပါ blog.report-uri.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး ဆွေးနွေးမှုများစွာကို ဆွဲဆောင်ထားသည်။
+"Google ၏ AI အဖြေများသည် ရှာဖွေမှုလမ်းကြောင်းကို 40% လျှော့ချပေးသည်" ဟု ခေါင်းစဉ်တပ်ထားသော revscope.co သို့ ချိတ်ဆက်မှုတစ်ခုသည် ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50524767) · [Source](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50540178) · [Source](https://revscope.co/blog/search-seo-geo-2026/)
 
-8. Rust အတွက် ရက်စွဲနှင့်အချိန် စာကြည့်တိုက်တစ်ခု
+8. Rust တွင် ပြန်လည်ရေးသားထားသော လက်ရှိ curl
 
-🦞 Lobsters · ⬆️ 143 points · 💬 35 comments · 👤 refi64
+🦞 Lobsters · ⬆️ 91 points · 💬 54 comments · 👤 dasm
 
-"Rust အတွက် ရက်စွဲနှင့်အချိန်ဆိုင်ရာ လိုင်ဘရရီတစ်ခု" ခေါင်းစဉ်ပါ burntsushi.net သို့ လင့်ခ်တစ်ခု။
+"Actual curl rewrites in rust" ဟူသော ခေါင်းစဉ်ပါ daniel.haxx.se သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/dxxvek) · [Source](https://burntsushi.net/jiff/)
+[Discuss on Lobsters](https://lobste.rs/s/1dj9w1) · [Source](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 
-9. အခြားပရိုဂရမ်များ၏ မှတ်ဉာဏ်ထဲတွင် ပန်းချီဆွဲပါ
+9. Redict ကို အသုံးမပြုတော့ပါ
 
-🦞 Lobsters · ⬆️ 73 points · 💬 6 comments · 👤 gavinmorrow
+🦞 Lobsters · ⬆️ 71 points · 💬 9 comments · 👤 val
 
-"အခြားပရိုဂရမ်များ၏ မှတ်ဉာဏ်ထဲရှိ ပန်းချီကား" ဟူသော ခေါင်းစဉ်ပါ citrons.xyz သို့ လင့်ခ်တစ်ခု။
+"Redict ကို အသုံးမပြုတော့ပါ" ဟူသော ခေါင်းစဉ်ပါ redict.io သို့ ချိတ်ဆက်မှု။
 
-[Discuss on Lobsters](https://lobste.rs/s/thiekk) · [Source](https://citrons.xyz/journal/2026-04-13)
+[Discuss on Lobsters](https://lobste.rs/s/z4rhlt) · [Source](https://redict.io/posts/2026-11-17-redict-deprecated/)
 
-10. မူပိုင်ခွင့်ကိစ္စတွင် သင်အနိုင်မရပါ
+10. w2rt6byl5nf1opmc-a[.]com ဆိုသည်မှာ အဘယ်နည်း။
 
-🦞 Lobsters · ⬆️ 73 points · 💬 12 comments · 👤 sjamaan
+🦞 Lobsters · ⬆️ 71 points · 💬 13 comments · 👤 robalex
 
-"မူပိုင်ခွင့်တွင် သင်မနိုင်ပါ" ဟူသော ခေါင်းစဉ်ပါရှိသည့် ingrids.space သို့ လင့်ခ်တစ်ခု။
+"w2rt6byl5nf1opmc-a[.]com ဆိုတာဘာလဲ။" ဟူသော ခေါင်းစဉ်ပါ jack.cab သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/emdfap) · [Source](https://ingrids.space/posts/you-wont-win-at-copyright/)
+[Discuss on Lobsters](https://lobste.rs/s/dgvb5g) · [Source](https://jack.cab/blog/siterate.html)
 
-*daily-tech-digest · MileFisher · 2026-11-17T10:19:24.402Z*
+*daily-tech-digest · MileFisher · 2026-11-18T09:50:40.812Z*

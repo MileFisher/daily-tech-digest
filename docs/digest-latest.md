@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-17
+# 🗞️ Daily Tech Digest — 2026-11-18
 
-> Top 10 stories from Hacker News & Lobsters · Generated 17:19 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:50 ICT
 
 ---
 
-1. Carnegie Mellon is putting computer science courses on YouTube for free
+1. GPT‑6.2 Astra and Sol
 
-🔶 Hacker News · ⬆️ 1528 points · 💬 209 comments · 👤 pcompeau
+🔶 Hacker News · ⬆️ 1272 points · 💬 792 comments · 👤 jasondavies
 
-A link to cs.cmu.edu titled "Carnegie Mellon is putting computer science courses on YouTube for free", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to openai.com titled "GPT‑6.2 Astra and Sol", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50522980) · [Source](https://www.cs.cmu.edu/learn/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50535230) · [Source](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 
-2. Technical issue at JPMorgan Chase triggers online banking delays for US banks
+2. Java4Shell: RCE in OpenJDK when processing Base64
 
-🔶 Hacker News · ⬆️ 776 points · 💬 647 comments · 👤 samk3nny
+🔶 Hacker News · ⬆️ 933 points · 💬 239 comments · 👤 werrett
 
-A link to apnews.com titled "Technical issue at JPMorgan Chase triggers online banking delays for US banks", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to calif.io titled "Java4Shell: RCE in OpenJDK when processing Base64", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50521045) · [Source](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+[Discuss on HN](https://news.ycombinator.com/item?id=50538240) · [Source](https://calif.io/java4shell/)
 
-3. Windows 11 is collecting data on which coding agents and developer tools you use
+3. Quad9's withdrawal from France: A canary in the coal mine
 
-🔶 Hacker News · ⬆️ 610 points · 💬 453 comments · 👤 cwaffles
+🔶 Hacker News · ⬆️ 594 points · 💬 191 comments · 👤 subset
 
-A link to xusheng.dev titled "Windows 11 is collecting data on which coding agents and developer tools you use", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to blog.cloudflare.com titled "Quad9's withdrawal from France: A canary in the coal mine", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50524736) · [Source](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50538994) · [Source](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 
-4. BugMeNot has closed
+4. Highly classified US national security communications network goes down
 
-🔶 Hacker News · ⬆️ 548 points · 💬 243 comments · 👤 lode
+🔶 Hacker News · ⬆️ 576 points · 💬 664 comments · 👤 monkeydust
 
-A link to bugmenot.com titled "BugMeNot has closed", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to cnn.com titled "Highly classified US national security communications network goes down", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50523601) · [Source](https://www.bugmenot.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50532849) · [Source](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 
-5. Frame – 31.5" color ePaper display
+5. Nvidia stopped disclosing Singapore sales as revenues hit $104B
 
-🔶 Hacker News · ⬆️ 419 points · 💬 292 comments · 👤 geerlingguy
+🔶 Hacker News · ⬆️ 541 points · 💬 243 comments · 👤 louiereederson
 
-A link to trmnl.com titled "Frame – 31.5" color ePaper display", a popular story on the front page, drawing significant discussion.
+A link to ft.com titled "Nvidia stopped disclosing Singapore sales as revenues hit $104B", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50519354) · [Source](https://trmnl.com/blog/introducing-frame)
+[Discuss on HN](https://news.ycombinator.com/item?id=50534631) · [Source](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 
-6. Jiff 1.0: A datetime library for Rust
+6. Interviewed at a YC startup, found out they used my LinkedIn without permission
 
-🔶 Hacker News · ⬆️ 383 points · 💬 87 comments · 👤 burntsushi
+🔶 Hacker News · ⬆️ 392 points · 💬 99 comments · 👤 throwawaysleep
 
-A link to burntsushi.net titled "Jiff 1.0: A datetime library for Rust", a popular story on the front page.
+A link to reddit.com titled "Interviewed at a YC startup, found out they used my LinkedIn without permission", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50519744) · [Source](https://burntsushi.net/jiff/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50542135) · [Source](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
 
-7. Optimizely compromised, served malware on Zoom, GitLab
+7. Google's AI answers reducing search traffic by 40%
 
-🔶 Hacker News · ⬆️ 349 points · 💬 151 comments · 👤 kristjansson
+🔶 Hacker News · ⬆️ 381 points · 💬 291 comments · 👤 slashdev
 
-A link to blog.report-uri.com titled "Optimizely compromised, served malware on Zoom, GitLab", a popular story on the front page, drawing significant discussion.
+A link to revscope.co titled "Google's AI answers reducing search traffic by 40%", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50524767) · [Source](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50540178) · [Source](https://revscope.co/blog/search-seo-geo-2026/)
 
-8. A datetime library for Rust
+8. Actual curl rewrites in rust
 
-🦞 Lobsters · ⬆️ 143 points · 💬 35 comments · 👤 refi64
+🦞 Lobsters · ⬆️ 91 points · 💬 54 comments · 👤 dasm
 
-A link to burntsushi.net titled "A datetime library for Rust".
+A link to daniel.haxx.se titled "Actual curl rewrites in rust".
 
-[Discuss on Lobsters](https://lobste.rs/s/dxxvek) · [Source](https://burntsushi.net/jiff/)
+[Discuss on Lobsters](https://lobste.rs/s/1dj9w1) · [Source](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 
-9. Paint in the memory of other programs
+9. Redict is deprecated
 
-🦞 Lobsters · ⬆️ 73 points · 💬 6 comments · 👤 gavinmorrow
+🦞 Lobsters · ⬆️ 71 points · 💬 9 comments · 👤 val
 
-A link to citrons.xyz titled "Paint in the memory of other programs".
+A link to redict.io titled "Redict is deprecated".
 
-[Discuss on Lobsters](https://lobste.rs/s/thiekk) · [Source](https://citrons.xyz/journal/2026-04-13)
+[Discuss on Lobsters](https://lobste.rs/s/z4rhlt) · [Source](https://redict.io/posts/2026-11-17-redict-deprecated/)
 
-10. you won't win at copyright
+10. What is w2rt6byl5nf1opmc-a[.]com?
 
-🦞 Lobsters · ⬆️ 73 points · 💬 12 comments · 👤 sjamaan
+🦞 Lobsters · ⬆️ 71 points · 💬 13 comments · 👤 robalex
 
-A link to ingrids.space titled "you won't win at copyright".
+A link to jack.cab titled "What is w2rt6byl5nf1opmc-a[.]com?".
 
-[Discuss on Lobsters](https://lobste.rs/s/emdfap) · [Source](https://ingrids.space/posts/you-wont-win-at-copyright/)
+[Discuss on Lobsters](https://lobste.rs/s/dgvb5g) · [Source](https://jack.cab/blog/siterate.html)
 
-*daily-tech-digest · MileFisher · 2026-11-17T10:19:24.402Z*
+*daily-tech-digest · MileFisher · 2026-11-18T09:50:40.812Z*
