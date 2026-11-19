@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-18
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-19
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:50 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:58 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. GPT‑6.2 Astra နှင့် Sol
+1. Nginx ရှိ အတည်မပြုထားသော အဝေးထိန်းကုဒ် လုပ်ဆောင်ချက်
 
-🔶 Hacker News · ⬆️ 1272 points · 💬 792 comments · 👤 jasondavies
+🔶 Hacker News · ⬆️ 1375 points · 💬 594 comments · 👤 speedping
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်သည့် တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုပါရှိသည့် "GPT‑6.2 Astra နှင့် Sol" ခေါင်းစဉ်ပါ openai.com သို့ လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "Nginx ရှိ အတည်ပြုချက်မရှိသော အဝေးထိန်းကုဒ် အကောင်အထည်ဖော်မှု" ခေါင်းစဉ်ဖြင့် wiz.io သို့ လင့်ခ်တစ်ခုနှင့် တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းတစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50535230) · [Source](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50547374) · [Source](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 
-2. Java4Shell- Base64 ကို စီမံဆောင်ရွက်ရာတွင် OpenJDK ရှိ RCE
+2. Gemini 4 Neon
 
-🔶 Hacker News · ⬆️ 933 points · 💬 239 comments · 👤 werrett
+🔶 Hacker News · ⬆️ 822 points · 💬 665 comments · 👤 yigitdemirag
 
-"Java4Shell- Base64 ကို စီမံဆောင်ရွက်ရာတွင် OpenJDK ရှိ RCE" ဟု ခေါင်းစဉ်တပ်ထားသည့် calif.io သို့ ချိတ်ဆက်မှုတစ်ခုသည် ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "Gemini 4 Neon" ခေါင်းစဉ်ပါ blog.google သို့ လင့်ခ်တစ်ခု၊ ၎င်းတွင် တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းများ ပါဝင်သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50538240) · [Source](https://calif.io/java4shell/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50552424) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-3. Quad9 ၏ ပြင်သစ်နိုင်ငံမှ ရုပ်သိမ်းမှု- ကျောက်မီးသွေးတွင်းရှိ ငှက်ကလေးတစ်ကောင်
+3. ဒွိုက်ရှ်ဘဏ်အတွင်း
 
-🔶 Hacker News · ⬆️ 594 points · 💬 191 comments · 👤 subset
+🔶 Hacker News · ⬆️ 690 points · 💬 235 comments · 👤 gyre007
 
-"Quad9 ၏ ပြင်သစ်မှ ရုပ်သိမ်းမှု- ကျောက်မီးသွေးတွင်းရှိ ငှက်ကလေး" ဟူသော ခေါင်းစဉ်ဖြင့် blog.cloudflare.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အဆိုပါ သတင်းစာ၏ အရှေ့စာမျက်နှာရှိ အမြင့်ဆုံး အမှတ်ရရှိထားသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည့် "Inside Deutsche Bank" ခေါင်းစဉ်ပါ inside-db.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50538994) · [Source](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50547620) · [Source](https://www.inside-db.com/)
 
-4. အလွန်လျှို့ဝှက်ထားသော အမေရိကန် အမျိုးသားလုံခြုံရေး ဆက်သွယ်ရေးကွန်ရက် ပြတ်တောက်သွားသည်
+4. ကျွန်ုပ်တို့သည် ဂရုစိုက်တတ်သော ထက်မြက်သူများ လိုအပ်ပါသည်။
 
-🔶 Hacker News · ⬆️ 576 points · 💬 664 comments · 👤 monkeydust
+🔶 Hacker News · ⬆️ 581 points · 💬 293 comments · 👤 ExMachina73
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "အလွန်လျှို့ဝှက်ထားသော အမေရိကန် အမျိုးသားလုံခြုံရေး ဆက်သွယ်ရေးကွန်ရက် ပြတ်တောက်သွားသည်" ခေါင်းစဉ်ပါ cnn.com သို့ လင့်ခ်တစ်ခုနှင့် တက်ကြွသော ဆွေးနွေးမှု စာကြောင်းတစ်ခု။
+"ကျွန်ုပ်တို့သည် ဂရုစိုက်တတ်သော ဉာဏ်ရည်ရှိသူများ လိုအပ်သည်" ဟူသော ခေါင်းစဉ်ဖြင့် violetpixel.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသည့် သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50532849) · [Source](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
+[Discuss on HN](https://news.ycombinator.com/item?id=50554045) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 
-5. Nvidia သည် စင်္ကာပူရောင်းအားများကို ထုတ်ဖော်ပြသခြင်းကို ရပ်တန့်လိုက်ပြီး ဝင်ငွေမှာ ဒေါ်လာ ၁၀၄ ဘီလီယံသို့ ရောက်ရှိသွားခဲ့သည်
+5. စျေးနှုန်း-စွမ်းဆောင်ရည်ကို တိုးချဲ့နိုင်သည့် မော်ဒယ်အသစ် ခုနစ်မျိုး
 
-🔶 Hacker News · ⬆️ 541 points · 💬 243 comments · 👤 louiereederson
+🔶 Hacker News · ⬆️ 540 points · 💬 353 comments · 👤 gmays
 
-"Nvidia သည် ဝင်ငွေ $104 ဘီလီယံသို့ ရောက်ရှိသွားသောကြောင့် စင်္ကာပူရောင်းအားများကို ထုတ်ဖော်ခြင်းကို ရပ်ဆိုင်းလိုက်သည်" ဟူသော ခေါင်းစဉ်ပါ ft.com သို့ လင့်ခ်တစ်ခုသည် အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+"ကျယ်ပြန့်နိုင်သော စျေးနှုန်း-စွမ်းဆောင်ရည်ရှိသော မော်ဒယ်အသစ် ခုနစ်ခု" ခေါင်းစဉ်ပါ microsoft.ai သို့ လင့်ခ်တစ်ခု၊ အဆိုပါလင့်ခ်သည် အဆိုပါရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခု ပါဝင်ပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50534631) · [Source](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50548021) · [Source](https://microsoft.ai/news/microsoft-ignite-2026/)
 
-6. YC စတင်တည်ထောင်သည့်ကုမ္ပဏီတစ်ခုတွင် အင်တာဗျူးခံခဲ့ရပြီး ၎င်းတို့က ကျွန်ုပ်၏ LinkedIn ကို ခွင့်ပြုချက်မရှိဘဲ အသုံးပြုခဲ့ကြောင်း သိရှိခဲ့ရသည်
+6. AI အေးဂျင့်များသည် စာရင်းစစ်စမ်းသပ်မှုတွင် KPMG စာရင်းကိုင်များထက် ပိုမိုကောင်းမွန်သော မေးခွန်းများ မေးမြန်းကြသည်
 
-🔶 Hacker News · ⬆️ 392 points · 💬 99 comments · 👤 throwawaysleep
+🔶 Hacker News · ⬆️ 458 points · 💬 211 comments · 👤 Betelbuddy
 
-"YC စတင်လုပ်ငန်းတစ်ခုတွင် အင်တာဗျူးခံခဲ့ရပြီး သူတို့က ကျွန်ုပ်၏ LinkedIn ကို ခွင့်ပြုချက်မရှိဘဲ အသုံးပြုခဲ့ကြောင်း သိရှိခဲ့ရသည်" ဟူသော ခေါင်းစဉ်ပါ reddit.com သို့ လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာပေါ်ရှိ လူသိများသော ဇာတ်လမ်းတစ်ခု။
+"AI အေးဂျင့်များသည် စာရင်းစစ်စမ်းသပ်မှုတွင် KPMG စာရင်းကိုင်များထက် ပိုမိုကောင်းမွန်သော မေးခွန်းများ မေးမြန်းကြသည်" ဟူသော ခေါင်းစဉ်ပါ europeanbusinessmagazine.com သို့ လင့်ခ်တစ်ခု၊ သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည့် ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50542135) · [Source](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50547777) · [Source](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 
-7. Google ၏ AI အဖြေများသည် ရှာဖွေမှုလမ်းကြောင်းကို 40% လျှော့ချပေးသည်
+7. ကိမ်းဘရစ်အဘိဓာန်က ‘လူသား’ ကို ၂၀၂၆ ခုနှစ်၏ စကားလုံးအဖြစ် သတ်မှတ်လိုက်ပြီဖြစ်သည်။
 
-🔶 Hacker News · ⬆️ 381 points · 💬 291 comments · 👤 slashdev
+🔶 Hacker News · ⬆️ 280 points · 💬 209 comments · 👤 DeepLogin
 
-"Google ၏ AI အဖြေများသည် ရှာဖွေမှုလမ်းကြောင်းကို 40% လျှော့ချပေးသည်" ဟု ခေါင်းစဉ်တပ်ထားသော revscope.co သို့ ချိတ်ဆက်မှုတစ်ခုသည် ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+"ကိန်းဘရစ်ချ်အဘိဓာန်က ‘လူသား’ ကို ၂၀၂၆ ခုနှစ်၏ စကားလုံးအဖြစ် သတ်မှတ်လိုက်သည်" ဟူသော ခေါင်းစဉ်ပါ cam.ac.uk သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50540178) · [Source](https://revscope.co/blog/search-seo-geo-2026/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50546914) · [Source](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 
-8. Rust တွင် ပြန်လည်ရေးသားထားသော လက်ရှိ curl
+8. Codeberg ၏ ဒိုမိန်းသည် ၎င်းတို့၏ အကောင့်မှ ရုတ်တရက် ပျောက်ကွယ်သွားပြီး ဝဘ်ဆိုက်ကို ချိတ်ဆက်၍ မရတော့ပါ
 
-🦞 Lobsters · ⬆️ 91 points · 💬 54 comments · 👤 dasm
+🦞 Lobsters · ⬆️ 202 points · 💬 66 comments · 👤 mort
 
-"Actual curl rewrites in rust" ဟူသော ခေါင်းစဉ်ပါ daniel.haxx.se သို့ လင့်ခ်တစ်ခု။
+"Codeberg ၏ ဒိုမိန်းသည် ၎င်းတို့၏ အကောင့်မှ ရုတ်တရက် ပျောက်ကွယ်သွားခဲ့ပြီး ဝဘ်ဆိုက်ကို မဝင်ရောက်နိုင်တော့ပါ" ဟူသော ခေါင်းစဉ်ပါ social.anoxinon.de သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာရှိ လူသိများသော သတင်းတစ်ပုဒ်။
+
+[Discuss on Lobsters](https://lobste.rs/s/spmgsd) · [Source](https://social.anoxinon.de/@Codeberg/117636454915265360)
+
+9. Rust တွင် ပြန်ရေးထားသော လက်ရှိ curl
+
+🦞 Lobsters · ⬆️ 115 points · 💬 61 comments · 👤 dasm
+
+"Actual curl rewrites in rust" ခေါင်းစဉ်ပါ daniel.haxx.se သို့ လင့်ခ်တစ်ခု။
 
 [Discuss on Lobsters](https://lobste.rs/s/1dj9w1) · [Source](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 
-9. Redict ကို အသုံးမပြုတော့ပါ
+10. nginx2root
 
-🦞 Lobsters · ⬆️ 71 points · 💬 9 comments · 👤 val
+🦞 Lobsters · ⬆️ 75 points · 💬 13 comments · 👤 MountainRose
 
-"Redict ကို အသုံးမပြုတော့ပါ" ဟူသော ခေါင်းစဉ်ပါ redict.io သို့ ချိတ်ဆက်မှု။
+"nginx2root" ဟု ခေါင်းစဉ်တပ်ထားသော xint.io သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/z4rhlt) · [Source](https://redict.io/posts/2026-11-17-redict-deprecated/)
+[Discuss on Lobsters](https://lobste.rs/s/wj2svg) · [Source](https://xint.io/blog/nginx2root-remote-code-execution)
 
-10. w2rt6byl5nf1opmc-a[.]com ဆိုသည်မှာ အဘယ်နည်း။
-
-🦞 Lobsters · ⬆️ 71 points · 💬 13 comments · 👤 robalex
-
-"w2rt6byl5nf1opmc-a[.]com ဆိုတာဘာလဲ။" ဟူသော ခေါင်းစဉ်ပါ jack.cab သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/dgvb5g) · [Source](https://jack.cab/blog/siterate.html)
-
-*daily-tech-digest · MileFisher · 2026-11-18T09:50:40.812Z*
+*daily-tech-digest · MileFisher · 2026-11-19T09:58:05.818Z*

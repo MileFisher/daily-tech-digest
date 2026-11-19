@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
-      "id": "item?id=50535230",
+      "id": "item?id=50547374",
       "title": {
-        "en": "GPT‑6.2 Astra and Sol",
-        "my": "GPT‑6.2 Astra နှင့် Sol"
+        "en": "Unauthenticated remote code execution in Nginx",
+        "my": "Nginx ရှိ အတည်မပြုထားသော အဝေးထိန်းကုဒ် လုပ်ဆောင်ချက်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1272,
-      "comments": 792,
-      "author": "jasondavies",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50535230"
+      "score": 1375,
+      "comments": 594,
+      "author": "speedping",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "discussUrl": "https://news.ycombinator.com/item?id=50547374"
     },
     {
-      "id": "item?id=50538240",
+      "id": "item?id=50552424",
       "title": {
-        "en": "Java4Shell: RCE in OpenJDK when processing Base64",
-        "my": "Java4Shell- Base64 ကို စီမံဆောင်ရွက်ရာတွင် OpenJDK ရှိ RCE"
+        "en": "Gemini 4 Neon",
+        "my": "Gemini 4 Neon"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 933,
-      "comments": 239,
-      "author": "werrett",
-      "url": "https://calif.io/java4shell/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50538240"
+      "score": 822,
+      "comments": 665,
+      "author": "yigitdemirag",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50552424"
     },
     {
-      "id": "item?id=50538994",
+      "id": "item?id=50547620",
       "title": {
-        "en": "Quad9's withdrawal from France: A canary in the coal mine",
-        "my": "Quad9 ၏ ပြင်သစ်နိုင်ငံမှ ရုပ်သိမ်းမှု- ကျောက်မီးသွေးတွင်းရှိ ငှက်ကလေးတစ်ကောင်"
+        "en": "Inside Deutsche Bank",
+        "my": "ဒွိုက်ရှ်ဘဏ်အတွင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 594,
-      "comments": 191,
-      "author": "subset",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50538994"
+      "score": 690,
+      "comments": 235,
+      "author": "gyre007",
+      "url": "https://www.inside-db.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50547620"
     },
     {
-      "id": "item?id=50532849",
+      "id": "item?id=50554045",
       "title": {
-        "en": "Highly classified US national security communications network goes down",
-        "my": "အလွန်လျှို့ဝှက်ထားသော အမေရိကန် အမျိုးသားလုံခြုံရေး ဆက်သွယ်ရေးကွန်ရက် ပြတ်တောက်သွားသည်"
+        "en": "We need smart people who give a shit",
+        "my": "ကျွန်ုပ်တို့သည် ဂရုစိုက်တတ်သော ထက်မြက်သူများ လိုအပ်ပါသည်။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 576,
-      "comments": 664,
-      "author": "monkeydust",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "discussUrl": "https://news.ycombinator.com/item?id=50532849"
+      "score": 581,
+      "comments": 293,
+      "author": "ExMachina73",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50554045"
     },
     {
-      "id": "item?id=50534631",
+      "id": "item?id=50548021",
       "title": {
-        "en": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-        "my": "Nvidia သည် စင်္ကာပူရောင်းအားများကို ထုတ်ဖော်ပြသခြင်းကို ရပ်တန့်လိုက်ပြီး ဝင်ငွေမှာ ဒေါ်လာ ၁၀၄ ဘီလီယံသို့ ရောက်ရှိသွားခဲ့သည်"
+        "en": "Seven new models at scalable price-performance",
+        "my": "စျေးနှုန်း-စွမ်းဆောင်ရည်ကို တိုးချဲ့နိုင်သည့် မော်ဒယ်အသစ် ခုနစ်မျိုး"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 541,
-      "comments": 243,
-      "author": "louiereederson",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "discussUrl": "https://news.ycombinator.com/item?id=50534631"
+      "score": 540,
+      "comments": 353,
+      "author": "gmays",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50548021"
     },
     {
-      "id": "item?id=50542135",
+      "id": "item?id=50547777",
       "title": {
-        "en": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-        "my": "YC စတင်တည်ထောင်သည့်ကုမ္ပဏီတစ်ခုတွင် အင်တာဗျူးခံခဲ့ရပြီး ၎င်းတို့က ကျွန်ုပ်၏ LinkedIn ကို ခွင့်ပြုချက်မရှိဘဲ အသုံးပြုခဲ့ကြောင်း သိရှိခဲ့ရသည်"
+        "en": "AI agents ask better questions than KPMG accountants in audit trial",
+        "my": "AI အေးဂျင့်များသည် စာရင်းစစ်စမ်းသပ်မှုတွင် KPMG စာရင်းကိုင်များထက် ပိုမိုကောင်းမွန်သော မေးခွန်းများ မေးမြန်းကြသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 392,
-      "comments": 99,
-      "author": "throwawaysleep",
-      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50542135"
+      "score": 458,
+      "comments": 211,
+      "author": "Betelbuddy",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50547777"
     },
     {
-      "id": "item?id=50540178",
+      "id": "item?id=50546914",
       "title": {
-        "en": "Google's AI answers reducing search traffic by 40%",
-        "my": "Google ၏ AI အဖြေများသည် ရှာဖွေမှုလမ်းကြောင်းကို 40% လျှော့ချပေးသည်"
+        "en": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+        "my": "ကိမ်းဘရစ်အဘိဓာန်က ‘လူသား’ ကို ၂၀၂၆ ခုနှစ်၏ စကားလုံးအဖြစ် သတ်မှတ်လိုက်ပြီဖြစ်သည်။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 381,
-      "comments": 291,
-      "author": "slashdev",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50540178"
+      "score": 280,
+      "comments": 209,
+      "author": "DeepLogin",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "discussUrl": "https://news.ycombinator.com/item?id=50546914"
+    },
+    {
+      "id": "spmgsd",
+      "title": {
+        "en": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+        "my": "Codeberg ၏ ဒိုမိန်းသည် ၎င်းတို့၏ အကောင့်မှ ရုတ်တရက် ပျောက်ကွယ်သွားပြီး ဝဘ်ဆိုက်ကို ချိတ်ဆက်၍ မရတော့ပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 202,
+      "comments": 66,
+      "author": "mort",
+      "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
+      "discussUrl": "https://lobste.rs/s/spmgsd"
     },
     {
       "id": "1dj9w1",
       "title": {
         "en": "Actual curl rewrites in rust",
-        "my": "Rust တွင် ပြန်လည်ရေးသားထားသော လက်ရှိ curl"
+        "my": "Rust တွင် ပြန်ရေးထားသော လက်ရှိ curl"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 91,
-      "comments": 54,
+      "score": 115,
+      "comments": 61,
       "author": "dasm",
       "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
       "discussUrl": "https://lobste.rs/s/1dj9w1"
     },
     {
-      "id": "z4rhlt",
+      "id": "wj2svg",
       "title": {
-        "en": "Redict is deprecated",
-        "my": "Redict ကို အသုံးမပြုတော့ပါ"
+        "en": "nginx2root",
+        "my": "nginx2root"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 71,
-      "comments": 9,
-      "author": "val",
-      "url": "https://redict.io/posts/2026-11-17-redict-deprecated/",
-      "discussUrl": "https://lobste.rs/s/z4rhlt"
-    },
-    {
-      "id": "dgvb5g",
-      "title": {
-        "en": "What is w2rt6byl5nf1opmc-a[.]com?",
-        "my": "w2rt6byl5nf1opmc-a[.]com ဆိုသည်မှာ အဘယ်နည်း။"
-      },
-      "sourceIcon": "lobsters",
-      "source": "Lobsters",
-      "score": 71,
+      "score": 75,
       "comments": 13,
-      "author": "robalex",
-      "url": "https://jack.cab/blog/siterate.html",
-      "discussUrl": "https://lobste.rs/s/dgvb5g"
+      "author": "MountainRose",
+      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
+      "discussUrl": "https://lobste.rs/s/wj2svg"
     }
   ]
 }

@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-18
+# 🗞️ Daily Tech Digest — 2026-11-19
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:50 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:58 ICT
 
 ---
 
-1. GPT‑6.2 Astra and Sol
+1. Unauthenticated remote code execution in Nginx
 
-🔶 Hacker News · ⬆️ 1272 points · 💬 792 comments · 👤 jasondavies
+🔶 Hacker News · ⬆️ 1375 points · 💬 594 comments · 👤 speedping
 
-A link to openai.com titled "GPT‑6.2 Astra and Sol", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to wiz.io titled "Unauthenticated remote code execution in Nginx", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50535230) · [Source](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50547374) · [Source](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 
-2. Java4Shell: RCE in OpenJDK when processing Base64
+2. Gemini 4 Neon
 
-🔶 Hacker News · ⬆️ 933 points · 💬 239 comments · 👤 werrett
+🔶 Hacker News · ⬆️ 822 points · 💬 665 comments · 👤 yigitdemirag
 
-A link to calif.io titled "Java4Shell: RCE in OpenJDK when processing Base64", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to blog.google titled "Gemini 4 Neon", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50538240) · [Source](https://calif.io/java4shell/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50552424) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-3. Quad9's withdrawal from France: A canary in the coal mine
+3. Inside Deutsche Bank
 
-🔶 Hacker News · ⬆️ 594 points · 💬 191 comments · 👤 subset
+🔶 Hacker News · ⬆️ 690 points · 💬 235 comments · 👤 gyre007
 
-A link to blog.cloudflare.com titled "Quad9's withdrawal from France: A canary in the coal mine", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to inside-db.com titled "Inside Deutsche Bank", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50538994) · [Source](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50547620) · [Source](https://www.inside-db.com/)
 
-4. Highly classified US national security communications network goes down
+4. We need smart people who give a shit
 
-🔶 Hacker News · ⬆️ 576 points · 💬 664 comments · 👤 monkeydust
+🔶 Hacker News · ⬆️ 581 points · 💬 293 comments · 👤 ExMachina73
 
-A link to cnn.com titled "Highly classified US national security communications network goes down", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to violetpixel.com titled "We need smart people who give a shit", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50532849) · [Source](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
+[Discuss on HN](https://news.ycombinator.com/item?id=50554045) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 
-5. Nvidia stopped disclosing Singapore sales as revenues hit $104B
+5. Seven new models at scalable price-performance
 
-🔶 Hacker News · ⬆️ 541 points · 💬 243 comments · 👤 louiereederson
+🔶 Hacker News · ⬆️ 540 points · 💬 353 comments · 👤 gmays
 
-A link to ft.com titled "Nvidia stopped disclosing Singapore sales as revenues hit $104B", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to microsoft.ai titled "Seven new models at scalable price-performance", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50534631) · [Source](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50548021) · [Source](https://microsoft.ai/news/microsoft-ignite-2026/)
 
-6. Interviewed at a YC startup, found out they used my LinkedIn without permission
+6. AI agents ask better questions than KPMG accountants in audit trial
 
-🔶 Hacker News · ⬆️ 392 points · 💬 99 comments · 👤 throwawaysleep
+🔶 Hacker News · ⬆️ 458 points · 💬 211 comments · 👤 Betelbuddy
 
-A link to reddit.com titled "Interviewed at a YC startup, found out they used my LinkedIn without permission", a popular story on the front page.
+A link to europeanbusinessmagazine.com titled "AI agents ask better questions than KPMG accountants in audit trial", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50542135) · [Source](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50547777) · [Source](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 
-7. Google's AI answers reducing search traffic by 40%
+7. The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026
 
-🔶 Hacker News · ⬆️ 381 points · 💬 291 comments · 👤 slashdev
+🔶 Hacker News · ⬆️ 280 points · 💬 209 comments · 👤 DeepLogin
 
-A link to revscope.co titled "Google's AI answers reducing search traffic by 40%", a popular story on the front page, drawing significant discussion.
+A link to cam.ac.uk titled "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50540178) · [Source](https://revscope.co/blog/search-seo-geo-2026/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50546914) · [Source](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 
-8. Actual curl rewrites in rust
+8. Codeberg's domain suddenly disappeared from their account, site is unreachable
 
-🦞 Lobsters · ⬆️ 91 points · 💬 54 comments · 👤 dasm
+🦞 Lobsters · ⬆️ 202 points · 💬 66 comments · 👤 mort
+
+A link to social.anoxinon.de titled "Codeberg's domain suddenly disappeared from their account, site is unreachable", a popular story on the front page.
+
+[Discuss on Lobsters](https://lobste.rs/s/spmgsd) · [Source](https://social.anoxinon.de/@Codeberg/117636454915265360)
+
+9. Actual curl rewrites in rust
+
+🦞 Lobsters · ⬆️ 115 points · 💬 61 comments · 👤 dasm
 
 A link to daniel.haxx.se titled "Actual curl rewrites in rust".
 
 [Discuss on Lobsters](https://lobste.rs/s/1dj9w1) · [Source](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 
-9. Redict is deprecated
+10. nginx2root
 
-🦞 Lobsters · ⬆️ 71 points · 💬 9 comments · 👤 val
+🦞 Lobsters · ⬆️ 75 points · 💬 13 comments · 👤 MountainRose
 
-A link to redict.io titled "Redict is deprecated".
+A link to xint.io titled "nginx2root".
 
-[Discuss on Lobsters](https://lobste.rs/s/z4rhlt) · [Source](https://redict.io/posts/2026-11-17-redict-deprecated/)
+[Discuss on Lobsters](https://lobste.rs/s/wj2svg) · [Source](https://xint.io/blog/nginx2root-remote-code-execution)
 
-10. What is w2rt6byl5nf1opmc-a[.]com?
-
-🦞 Lobsters · ⬆️ 71 points · 💬 13 comments · 👤 robalex
-
-A link to jack.cab titled "What is w2rt6byl5nf1opmc-a[.]com?".
-
-[Discuss on Lobsters](https://lobste.rs/s/dgvb5g) · [Source](https://jack.cab/blog/siterate.html)
-
-*daily-tech-digest · MileFisher · 2026-11-18T09:50:40.812Z*
+*daily-tech-digest · MileFisher · 2026-11-19T09:58:05.818Z*
