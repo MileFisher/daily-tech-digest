@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "id": "item?id=50562754",
+      "title": {
+        "en": "Anthropic’s Nasdaq debut",
+        "my": "Anthropic ၏ Nasdaq ပွဲဦးထွက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1079,
+      "comments": 2132,
+      "author": "wslh",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50562754"
+    },
+    {
+      "id": "item?id=50519231",
+      "title": {
+        "en": "Garage Door Spam",
+        "my": "ကားဂိုဒေါင်တံခါး စာအမှိုက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 859,
+      "comments": 357,
+      "author": "harrisonpage",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50519231"
+    },
+    {
+      "id": "item?id=50563066",
+      "title": {
+        "en": "Pancreatic cancer halted by virus injection in three patients",
+        "my": "ဗိုင်းရပ်စ်ထိုးသွင်းမှုကြောင့် လူနာသုံးဦး၏ အသည်းကင်ဆာ ရပ်တန့်သွားခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 773,
+      "comments": 133,
+      "author": "cybermango",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50563066"
+    },
+    {
+      "id": "item?id=50562113",
+      "title": {
+        "en": "UK government forced to admit it issued Apple a secret encryption order",
+        "my": "ယူကေအစိုးရသည် Apple အားလျှို့ဝှက်ကုဒ်ဝှက်ခြင်းအမိန့်တစ်ရပ်ထုတ်ပေးခဲ့ရကြောင်း ဝန်ခံလိုက်ရ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 647,
+      "comments": 293,
+      "author": "Terretta",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50562113"
+    },
+    {
+      "id": "item?id=50563148",
+      "title": {
+        "en": "Claude solves two open problems in the physics of black holes",
+        "my": "Claude သည် ဘ്ലാ့ခ်ဟိုးရူပဗေဒတွင် ဖြေရှင်းမထားသော ပြဿနာနှစ်ခုကို ဖြေရှင်းပေးသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 496,
+      "comments": 230,
+      "author": "cybermango",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "discussUrl": "https://news.ycombinator.com/item?id=50563148"
+    },
+    {
+      "id": "item?id=50558906",
+      "title": {
+        "en": "Someone reported java4shell bug in September 2026",
+        "my": "တစ်စုံတစ်ဦးက ၂၀၂၆ ခုနှစ် စက်တင်ဘာလတွင် java4shell ချို့ယွင်းချက်ကို တိုင်ကြားခဲ့သည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 426,
+      "comments": 116,
+      "author": "notmine1337",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "discussUrl": "https://news.ycombinator.com/item?id=50558906"
+    },
+    {
+      "id": "item?id=50559719",
+      "title": {
+        "en": "Making 8-page foldable zines from a single A4 sheet in the browser",
+        "my": "ဘရောက်ဇာအတွင်းရှိ A4 စာရွက်တစ်ရွက်တည်းမှ စာမျက်နှာ 8-မျက်နှာပါ ပτυချနိုင်သော မဂ္ဂဇင်းငယ်များ ပြုလုပ်ခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 303,
+      "comments": 61,
+      "author": "krthr",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50559719"
+    },
+    {
+      "id": "spmgsd",
+      "title": {
+        "en": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+        "my": "Codeberg ၏ ဒိုမိန်းသည် ၎င်းတို့၏ အကောင့်မှ ရုတ်တရက် ပျောက်ကွယ်သွားပြီး ဝဘ်ဆိုက်ကို ချိတ်ဆက်၍ မရတော့ပါ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 224,
+      "comments": 74,
+      "author": "mort",
+      "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
+      "discussUrl": "https://lobste.rs/s/spmgsd"
+    },
+    {
+      "id": "rzuasm",
+      "title": {
+        "en": "We Need Smart People Who Give a Shit",
+        "my": "ကျွန်ုပ်တို့သည် ဂရုစိုက်တတ်သော ဉာဏ်ရည်ရှိသူများ လိုအပ်ပါသည်။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 170,
+      "comments": 58,
+      "author": "Jackevansevo",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "discussUrl": "https://lobste.rs/s/rzuasm"
+    },
+    {
+      "id": "wj2svg",
+      "title": {
+        "en": "nginx2root",
+        "my": "nginx2root"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 85,
+      "comments": 16,
+      "author": "MountainRose",
+      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
+      "discussUrl": "https://lobste.rs/s/wj2svg"
+    }
+  ]
+}

@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-19
+# 🗞️ Daily Tech Digest — 2026-11-20
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:58 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:46 ICT
 
 ---
 
-1. Unauthenticated remote code execution in Nginx
+1. Anthropic’s Nasdaq debut
 
-🔶 Hacker News · ⬆️ 1375 points · 💬 594 comments · 👤 speedping
+🔶 Hacker News · ⬆️ 1079 points · 💬 2132 comments · 👤 wslh
 
-A link to wiz.io titled "Unauthenticated remote code execution in Nginx", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to reuters.com titled "Anthropic’s Nasdaq debut", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50547374) · [Source](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+[Discuss on HN](https://news.ycombinator.com/item?id=50562754) · [Source](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 
-2. Gemini 4 Neon
+2. Garage Door Spam
 
-🔶 Hacker News · ⬆️ 822 points · 💬 665 comments · 👤 yigitdemirag
+🔶 Hacker News · ⬆️ 859 points · 💬 357 comments · 👤 harrisonpage
 
-A link to blog.google titled "Gemini 4 Neon", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to blog.harrison.page titled "Garage Door Spam", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50552424) · [Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50519231) · [Source](https://blog.harrison.page/garage-door-spam/)
 
-3. Inside Deutsche Bank
+3. Pancreatic cancer halted by virus injection in three patients
 
-🔶 Hacker News · ⬆️ 690 points · 💬 235 comments · 👤 gyre007
+🔶 Hacker News · ⬆️ 773 points · 💬 133 comments · 👤 cybermango
 
-A link to inside-db.com titled "Inside Deutsche Bank", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to newscientist.com titled "Pancreatic cancer halted by virus injection in three patients", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50547620) · [Source](https://www.inside-db.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50563066) · [Source](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 
-4. We need smart people who give a shit
+4. UK government forced to admit it issued Apple a secret encryption order
 
-🔶 Hacker News · ⬆️ 581 points · 💬 293 comments · 👤 ExMachina73
+🔶 Hacker News · ⬆️ 647 points · 💬 293 comments · 👤 Terretta
 
-A link to violetpixel.com titled "We need smart people who give a shit", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to macanorak.com titled "UK government forced to admit it issued Apple a secret encryption order", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50554045) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50562113) · [Source](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 
-5. Seven new models at scalable price-performance
+5. Claude solves two open problems in the physics of black holes
 
-🔶 Hacker News · ⬆️ 540 points · 💬 353 comments · 👤 gmays
+🔶 Hacker News · ⬆️ 496 points · 💬 230 comments · 👤 cybermango
 
-A link to microsoft.ai titled "Seven new models at scalable price-performance", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to anthropic.com titled "Claude solves two open problems in the physics of black holes", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50548021) · [Source](https://microsoft.ai/news/microsoft-ignite-2026/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50563148) · [Source](https://www.anthropic.com/research/claude-black-hole-physics)
 
-6. AI agents ask better questions than KPMG accountants in audit trial
+6. Someone reported java4shell bug in September 2026
 
-🔶 Hacker News · ⬆️ 458 points · 💬 211 comments · 👤 Betelbuddy
+🔶 Hacker News · ⬆️ 426 points · 💬 116 comments · 👤 notmine1337
 
-A link to europeanbusinessmagazine.com titled "AI agents ask better questions than KPMG accountants in audit trial", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "Someone reported java4shell bug in September 2026", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50547777) · [Source](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50558906) · [Source](https://github.com/openjdk/jdk/pull/32781)
 
-7. The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026
+7. Making 8-page foldable zines from a single A4 sheet in the browser
 
-🔶 Hacker News · ⬆️ 280 points · 💬 209 comments · 👤 DeepLogin
+🔶 Hacker News · ⬆️ 303 points · 💬 61 comments · 👤 krthr
 
-A link to cam.ac.uk titled "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026", a popular story on the front page, drawing significant discussion.
+A link to krthr.co titled "Making 8-page foldable zines from a single A4 sheet in the browser", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50546914) · [Source](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+[Discuss on HN](https://news.ycombinator.com/item?id=50559719) · [Source](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 
 8. Codeberg's domain suddenly disappeared from their account, site is unreachable
 
-🦞 Lobsters · ⬆️ 202 points · 💬 66 comments · 👤 mort
+🦞 Lobsters · ⬆️ 224 points · 💬 74 comments · 👤 mort
 
 A link to social.anoxinon.de titled "Codeberg's domain suddenly disappeared from their account, site is unreachable", a popular story on the front page.
 
 [Discuss on Lobsters](https://lobste.rs/s/spmgsd) · [Source](https://social.anoxinon.de/@Codeberg/117636454915265360)
 
-9. Actual curl rewrites in rust
+9. We Need Smart People Who Give a Shit
 
-🦞 Lobsters · ⬆️ 115 points · 💬 61 comments · 👤 dasm
+🦞 Lobsters · ⬆️ 170 points · 💬 58 comments · 👤 Jackevansevo
 
-A link to daniel.haxx.se titled "Actual curl rewrites in rust".
+A link to violetpixel.com titled "We Need Smart People Who Give a Shit".
 
-[Discuss on Lobsters](https://lobste.rs/s/1dj9w1) · [Source](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
+[Discuss on Lobsters](https://lobste.rs/s/rzuasm) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 
 10. nginx2root
 
-🦞 Lobsters · ⬆️ 75 points · 💬 13 comments · 👤 MountainRose
+🦞 Lobsters · ⬆️ 85 points · 💬 16 comments · 👤 MountainRose
 
 A link to xint.io titled "nginx2root".
 
 [Discuss on Lobsters](https://lobste.rs/s/wj2svg) · [Source](https://xint.io/blog/nginx2root-remote-code-execution)
 
-*daily-tech-digest · MileFisher · 2026-11-19T09:58:05.818Z*
+*daily-tech-digest · MileFisher · 2026-11-20T09:46:35.029Z*
