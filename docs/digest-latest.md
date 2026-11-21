@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-20
+# 🗞️ Daily Tech Digest — 2026-11-21
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:46 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:18 ICT
 
 ---
 
-1. Anthropic’s Nasdaq debut
+1. Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
 
-🔶 Hacker News · ⬆️ 1079 points · 💬 2132 comments · 👤 wslh
+🔶 Hacker News · ⬆️ 2603 points · 💬 1789 comments · 👤 iamronaldo
 
-A link to reuters.com titled "Anthropic’s Nasdaq debut", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to alpo.ge titled "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50562754) · [Source](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50574968) · [Source](https://alpo.ge/remark.pdf)
 
-2. Garage Door Spam
+2. Hurried Announcement: Alessandro Masullo GRH
 
-🔶 Hacker News · ⬆️ 859 points · 💬 357 comments · 👤 harrisonpage
+🔶 Hacker News · ⬆️ 2004 points · 💬 927 comments · 👤 jasondavies
 
-A link to blog.harrison.page titled "Garage Door Spam", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to math216.wordpress.com titled "Hurried Announcement: Alessandro Masullo GRH", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50519231) · [Source](https://blog.harrison.page/garage-door-spam/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50579568) · [Source](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 
-3. Pancreatic cancer halted by virus injection in three patients
+3. Inkling 2 Mini
 
-🔶 Hacker News · ⬆️ 773 points · 💬 133 comments · 👤 cybermango
+🔶 Hacker News · ⬆️ 957 points · 💬 177 comments · 👤 jasondavies
 
-A link to newscientist.com titled "Pancreatic cancer halted by virus injection in three patients", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to thinkingmachines.ai titled "Inkling 2 Mini", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50563066) · [Source](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50581260) · [Source](https://thinkingmachines.ai/news/inkling-2-mini/)
 
-4. UK government forced to admit it issued Apple a secret encryption order
+4. Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
 
-🔶 Hacker News · ⬆️ 647 points · 💬 293 comments · 👤 Terretta
+🔶 Hacker News · ⬆️ 437 points · 💬 178 comments · 👤 archon1410
 
-A link to macanorak.com titled "UK government forced to admit it issued Apple a secret encryption order", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to terrytao.wordpress.com titled "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50562113) · [Source](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50578358) · [Source](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 
-5. Claude solves two open problems in the physics of black holes
+5. We promoted developers into architects without informing them
 
-🔶 Hacker News · ⬆️ 496 points · 💬 230 comments · 👤 cybermango
+🔶 Hacker News · ⬆️ 419 points · 💬 233 comments · 👤 QueensGambit
 
-A link to anthropic.com titled "Claude solves two open problems in the physics of black holes", a popular story on the front page, drawing significant discussion.
+A link to manidoraisamy.com titled "We promoted developers into architects without informing them", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50563148) · [Source](https://www.anthropic.com/research/claude-black-hole-physics)
+[Discuss on HN](https://news.ycombinator.com/item?id=50579331) · [Source](https://manidoraisamy.com/developer-to-architect.html)
 
-6. Someone reported java4shell bug in September 2026
+6. Language Models Can Rewrite Their Own Weights
 
-🔶 Hacker News · ⬆️ 426 points · 💬 116 comments · 👤 notmine1337
+🔶 Hacker News · ⬆️ 402 points · 💬 118 comments · 👤 lwhsiao
 
-A link to github.com titled "Someone reported java4shell bug in September 2026", a popular story on the front page, drawing significant discussion.
+A link to arxiv.org titled "Language Models Can Rewrite Their Own Weights", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50558906) · [Source](https://github.com/openjdk/jdk/pull/32781)
+[Discuss on HN](https://news.ycombinator.com/item?id=50577265) · [Source](https://arxiv.org/abs/2611.21885)
 
-7. Making 8-page foldable zines from a single A4 sheet in the browser
+7. Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day
 
-🔶 Hacker News · ⬆️ 303 points · 💬 61 comments · 👤 krthr
+🔶 Hacker News · ⬆️ 293 points · 💬 565 comments · 👤 cdrnsf
 
-A link to krthr.co titled "Making 8-page foldable zines from a single A4 sheet in the browser", a popular story on the front page.
+A link to theguardian.com titled "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50559719) · [Source](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50574383) · [Source](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 
-8. Codeberg's domain suddenly disappeared from their account, site is unreachable
+8. We Need Smart People Who Give a Shit
 
-🦞 Lobsters · ⬆️ 224 points · 💬 74 comments · 👤 mort
+🦞 Lobsters · ⬆️ 204 points · 💬 76 comments · 👤 Jackevansevo
 
-A link to social.anoxinon.de titled "Codeberg's domain suddenly disappeared from their account, site is unreachable", a popular story on the front page.
-
-[Discuss on Lobsters](https://lobste.rs/s/spmgsd) · [Source](https://social.anoxinon.de/@Codeberg/117636454915265360)
-
-9. We Need Smart People Who Give a Shit
-
-🦞 Lobsters · ⬆️ 170 points · 💬 58 comments · 👤 Jackevansevo
-
-A link to violetpixel.com titled "We Need Smart People Who Give a Shit".
+A link to violetpixel.com titled "We Need Smart People Who Give a Shit", a popular story on the front page.
 
 [Discuss on Lobsters](https://lobste.rs/s/rzuasm) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 
-10. nginx2root
+9. PostgreSQL 19 Released
 
-🦞 Lobsters · ⬆️ 85 points · 💬 16 comments · 👤 MountainRose
+🦞 Lobsters · ⬆️ 88 points · 💬 3 comments · 👤 bio
 
-A link to xint.io titled "nginx2root".
+A link to postgresql.org titled "PostgreSQL 19 Released".
 
-[Discuss on Lobsters](https://lobste.rs/s/wj2svg) · [Source](https://xint.io/blog/nginx2root-remote-code-execution)
+[Discuss on Lobsters](https://lobste.rs/s/pqyuhk) · [Source](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
 
-*daily-tech-digest · MileFisher · 2026-11-20T09:46:35.029Z*
+10. Levent Alpoge Claims Proof of Riemann Hypothesis
+
+🦞 Lobsters · ⬆️ 80 points · 💬 45 comments · 👤 mitsuhiko
+
+A link to alpo.ge titled "Levent Alpoge Claims Proof of Riemann Hypothesis".
+
+[Discuss on Lobsters](https://lobste.rs/s/cmifpg) · [Source](https://alpo.ge/remark.pdf)
+
+*daily-tech-digest · MileFisher · 2026-11-21T09:18:49.378Z*
