@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-21
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-22
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:18 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:28 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. လီဗန် အယ်ပိုးဂေးသည် ယေဘုယျရီမန်းအယူအဆကို သက်သေပြချက်ရှိသည်ဟု ဆိုသည်။ [pdf]
+1. အရေးတကြီးကြေညာချက်- Alessandro Masullo GRH
 
-🔶 Hacker News · ⬆️ 2603 points · 💬 1789 comments · 👤 iamronaldo
+🔶 Hacker News · ⬆️ 2413 points · 💬 1173 comments · 👤 jasondavies
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "လီဗန် အယ်လ်ပိုးဂေးသည် ယေဘုယျရီမန်းအယူအဆ [pdf] ကို သက်သေပြချက်ရှိကြောင်း ပြောကြားသည်" ဟူသော ခေါင်းစဉ်ပါ alpo.ge သို့ ချိတ်ဆက်မှုတစ်ခုနှင့် တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းတစ်ခု။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50574968) · [Source](https://alpo.ge/remark.pdf)
-
-2. အရေးတကြီးကြေညာချက်- Alessandro Masullo GRH
-
-🔶 Hacker News · ⬆️ 2004 points · 💬 927 comments · 👤 jasondavies
-
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက်ကြိုးတစ်ခု ပါဝင်သည့် "အရေးတကြီးကြေညာချက်- Alessandro Masullo GRH" ဟူသော ခေါင်းစဉ်ပါ math216.wordpress.com သို့ လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက်ကြိုးတစ်ခု ပါဝင်သည့် "အလျင်အမြန်ကြေညာချက်- Alessandro Masullo GRH" ခေါင်းစဉ်ပါ math216.wordpress.com သို့ လင့်ခ်တစ်ခု။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50579568) · [Source](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 
-3. Inkling 2 Mini
+2. ရီမန်းအယူအဆကို Lean ဖြင့် အတည်ပြုခြင်း
 
-🔶 Hacker News · ⬆️ 957 points · 💬 177 comments · 👤 jasondavies
+🔶 Hacker News · ⬆️ 1019 points · 💬 834 comments · 👤 g-b-r
 
-အထူးသဖြင့် ဆွေးနွေးမှုများစွာရရှိထားသည့် ပင်မစာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "Inkling 2 Mini" ဟု ခေါင်းစဉ်တပ်ထားသော thinkingmachines.ai သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခု ပါဝင်သည့် "ရီမန်းအယူအဆကို Lean ဖြင့် အတည်ပြုခြင်း" ခေါင်းစဉ်ပါ leanprover-community.github.io သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50581260) · [Source](https://thinkingmachines.ai/news/inkling-2-mini/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50589618) · [Source](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
-4. ပြင်ပအားသက်ရောက်မှုမရှိသော Navier-Stokes တစ်ခုတည်းသော အခြေအနေနှင့် ယေဘုယျ Riemann သီအိုရီ
+3. ဆီးချိုအကျိတ်ကင်ဆာကုသမှုအတွက် ဆေးပြားကို 'ဆယ်စုနှစ်များအတွင်း အကြီးမားဆုံး တိုးတက်မှု' အဖြစ် ချီးကျူးကြသည်
 
-🔶 Hacker News · ⬆️ 437 points · 💬 178 comments · 👤 archon1410
+🔶 Hacker News · ⬆️ 964 points · 💬 213 comments · 👤 rafaelc
 
-"Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis" ဟူသော ခေါင်းစဉ်ဖြင့် terrytao.wordpress.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+"ဆယ်စုနှစ်များအတွင်း အကြီးမားဆုံး တိုးတက်မှုအဖြစ် ချီးကျူးခံရသည့် အသည်းကင်ဆာကုသရန် ဆေးပြား" ခေါင်းစဉ်ဖြင့် theguardian.com သို့ လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပထမစာမျက်နှာပေါ်ရှိ အဆင့်အမြင့်ဆုံး သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50578358) · [Source](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50582069) · [Source](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 
-5. ကျွန်ုပ်တို့သည် ဖွံ့ဖြိုးရေးသမားများကို ၎င်းတို့အား မအသိပေးဘဲ ဗိသုကာပညာရှင်များအဖြစ် တိုးမြှင့်ပေးခဲ့ပါသည်။
+4. ခဲအက်ဇိုက်ပုံတစ်ပုံကို ပေါက်ကွဲစေခြင်း
 
-🔶 Hacker News · ⬆️ 419 points · 💬 233 comments · 👤 QueensGambit
+🔶 Hacker News · ⬆️ 602 points · 💬 386 comments · 👤 beginning_end
 
-"ကျွန်ုပ်တို့သည် ဒက်ဗလပာများအား ၎င်းတို့ကို မကြားသိစေဘဲ အာကီတက်များအဖြစ် ရာထူးတိုးပေးခဲ့သည်" ဟူသော ခေါင်းစဉ်ပါ manidoraisamy.com သို့ လင့်ခ်တစ်ခု။ ၎င်းသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပင်မစာမျက်နှာပေါ်ရှိ လူသိများသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "Detonating a pile of lead azide" ခေါင်းစဉ်ပါ science.org သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50579331) · [Source](https://manidoraisamy.com/developer-to-architect.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50588982) · [Source](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
-6. ဘာသာစကားပုံစံများသည် ၎င်းတို့၏ ကိုယ်ပိုင်အလေးချိန်များကို ပြန်လည်ရေးသားနိုင်သည်
+5. ကျွန်ုပ်၏မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်
 
-🔶 Hacker News · ⬆️ 402 points · 💬 118 comments · 👤 lwhsiao
+🔶 Hacker News · ⬆️ 574 points · 💬 268 comments · 👤 soheilpro
 
-"ဘာသာစကားပုံစံများက ၎င်းတို့၏ ကိုယ်ပိုင်အလေးချိန်များကို ပြန်လည်ရေးသားနိုင်သည်" ဟူသော ခေါင်းစဉ်ပါ arxiv.org သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေပါသည်။
+"ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်မြန်နှုန်းကို 75% လျှော့ချနေသည်" ဟူသော ခေါင်းစဉ်ပါ blog.tymscar.com သို့ လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပင်မစာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50577265) · [Source](https://arxiv.org/abs/2611.21885)
+[Discuss on HN](https://news.ycombinator.com/item?id=50587875) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
 
-7. AI ရောင်းချမှုကြောင့် Anthropic ၏ ဒုတိယနေ့တွင် အကျိုးသက်ရောက်မှုရှိသောကြောင့် Nasdaq သည် ၂၀၂၆ ခုနှစ်၏ အကျိုးအမြတ်အားလုံးကို ဖျက်သိမ်းလိုက်သည်
+6. 5.4 GB မမ်မိုရီပါရှိသော Inkling-2-Mini
 
-🔶 Hacker News · ⬆️ 293 points · 💬 565 comments · 👤 cdrnsf
+🔶 Hacker News · ⬆️ 453 points · 💬 113 comments · 👤 k__
 
-"Nasdaq သည် AI ရောင်းချမှုကြောင့် Anthropic ၏ ဒုတိယနေ့ကို ထိခိုက်စေသောကြောင့် 2026 ခုနှစ်၏ အကျိုးအမြတ်အားလုံးကို ဖျက်သိမ်းလိုက်သည်" ဟူသော ခေါင်းစဉ်ပါ theguardian.com သို့ လင့်ခ်တစ်ခု၊ ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်၊ တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းတစ်ခု။
+"Inkling-2-Mini in 5.4 GB Memory" ဟု ခေါင်းစဉ်တပ်ထားသော github.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါလင့်ခ်သည် အဆိုပါဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာတွင် လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50574383) · [Source](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
+[Discuss on HN](https://news.ycombinator.com/item?id=50591853) · [Source](https://github.com/ShinMegamiBoson/lookatmyquant)
 
-8. ကျွန်ုပ်တို့သည် ဂရုစိုက်တတ်သော ထက်မြက်သူများ လိုအပ်ပါသည်။
+7. ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားခြင်း
 
-🦞 Lobsters · ⬆️ 204 points · 💬 76 comments · 👤 Jackevansevo
+🔶 Hacker News · ⬆️ 440 points · 💬 251 comments · 👤 zdw
 
-"ကျွန်ုပ်တို့သည် ဂရုစိုက်တတ်သော ထက်မြက်သူများ လိုအပ်သည်" ဟူသော ခေါင်းစဉ်ဖြင့် violetpixel.com သို့ ချိတ်ဆက်ထားသည့် ချိတ်ဆက်မှုတစ်ခုဖြစ်ပြီး ပင်မစာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်သည်။
+"တိုယိုတာ၊ နစ်ဆန်နှင့် ဟွန်ဒါတို့သည် ကုန်ကျစရိတ်လျှော့ချရန် အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားသည်" ဟူသော ခေါင်းစဉ်ဖြင့် caranddriver.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး ဆွေးနွေးမှုများစွာ ဖြစ်ပေါ်စေခဲ့သည်။
 
-[Discuss on Lobsters](https://lobste.rs/s/rzuasm) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50596133) · [Source](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 
-9. PostgreSQL 19 ကို ထုတ်ပြန်ခဲ့သည်
+8. လီဗန် အယ်ပိုးဂေးသည် ရီမန်းအယူအဆ၏ အထောက်အထားကို တောင်းဆိုသည်
 
-🦞 Lobsters · ⬆️ 88 points · 💬 3 comments · 👤 bio
+🦞 Lobsters · ⬆️ 104 points · 💬 63 comments · 👤 mitsuhiko
 
-"PostgreSQL 19 ကို ထုတ်ပြန်ခဲ့သည်" ဟူသော ခေါင်းစဉ်ပါ postgresql.org သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/pqyuhk) · [Source](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
-
-10. လီဗန် အယ်လ်ပိုဂျီက ရီမန်းအယူအဆ၏ အထောက်အထားကို တောင်းဆိုသည်
-
-🦞 Lobsters · ⬆️ 80 points · 💬 45 comments · 👤 mitsuhiko
-
-"Levent Alpoge က ရီမန်းအယူအဆ၏ အထောက်အထားကို တောင်းဆိုသည်" ဟူသော ခေါင်းစဉ်ပါ alpo.ge သို့ ချိတ်ဆက်သည့်လင့်ခ်။
+"လီဗန် အယ်ပိုးဂေး ရီမန်းယူဆချက်၏ အထောက်အထားကို တောင်းဆိုသည်" ခေါင်းစဉ်ပါရှိသော alpo.ge သို့ ချိတ်ဆက်မှု။
 
 [Discuss on Lobsters](https://lobste.rs/s/cmifpg) · [Source](https://alpo.ge/remark.pdf)
 
-*daily-tech-digest · MileFisher · 2026-11-21T09:18:49.378Z*
+9. ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်မြန်နှုန်းကို 75% လျှော့ချနေခဲ့သည်
+
+🦞 Lobsters · ⬆️ 93 points · 💬 7 comments · 👤 ahobson
+
+"ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်" ဟူသော ခေါင်းစဉ်ပါ blog.tymscar.com သို့ လင့်ခ်တစ်ခု။
+
+[Discuss on Lobsters](https://lobste.rs/s/qzerls) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
+
+10. အင်တာနက်မှတ်တမ်းစာတိုက် ဝန်ထမ်းများ သမဂ္ဂဖွဲ့စည်းနေကြသည်
+
+🦞 Lobsters · ⬆️ 88 points · 💬 7 comments · 👤 skalnik
+
+"အင်တာနက် အာခိုက်ဗ် ဝန်ထမ်းများ သမဂ္ဂဖွဲ့စည်းနေကြသည်" ဟူသော ခေါင်းစဉ်ပါ cwa-union.org သို့ လင့်ခ်တစ်ခု။
+
+[Discuss on Lobsters](https://lobste.rs/s/o5coeq) · [Source](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
+
+*daily-tech-digest · MileFisher · 2026-11-22T09:28:02.409Z*

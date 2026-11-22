@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-21
+# 🗞️ Daily Tech Digest — 2026-11-22
 
-> Top 10 stories from Hacker News & Lobsters · Generated 16:18 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:28 ICT
 
 ---
 
-1. Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
+1. Hurried Announcement: Alessandro Masullo GRH
 
-🔶 Hacker News · ⬆️ 2603 points · 💬 1789 comments · 👤 iamronaldo
-
-A link to alpo.ge titled "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]", one of the highest-scoring stories on the front page, with an active discussion thread.
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50574968) · [Source](https://alpo.ge/remark.pdf)
-
-2. Hurried Announcement: Alessandro Masullo GRH
-
-🔶 Hacker News · ⬆️ 2004 points · 💬 927 comments · 👤 jasondavies
+🔶 Hacker News · ⬆️ 2413 points · 💬 1173 comments · 👤 jasondavies
 
 A link to math216.wordpress.com titled "Hurried Announcement: Alessandro Masullo GRH", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50579568) · [Source](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 
-3. Inkling 2 Mini
+2. Lean verification of the Riemann Hypothesis
 
-🔶 Hacker News · ⬆️ 957 points · 💬 177 comments · 👤 jasondavies
+🔶 Hacker News · ⬆️ 1019 points · 💬 834 comments · 👤 g-b-r
 
-A link to thinkingmachines.ai titled "Inkling 2 Mini", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to leanprover-community.github.io titled "Lean verification of the Riemann Hypothesis", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50581260) · [Source](https://thinkingmachines.ai/news/inkling-2-mini/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50589618) · [Source](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
-4. Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
+3. Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
 
-🔶 Hacker News · ⬆️ 437 points · 💬 178 comments · 👤 archon1410
+🔶 Hacker News · ⬆️ 964 points · 💬 213 comments · 👤 rafaelc
 
-A link to terrytao.wordpress.com titled "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis", a popular story on the front page, drawing significant discussion.
+A link to theguardian.com titled "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50578358) · [Source](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50582069) · [Source](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 
-5. We promoted developers into architects without informing them
+4. Detonating a pile of lead azide
 
-🔶 Hacker News · ⬆️ 419 points · 💬 233 comments · 👤 QueensGambit
+🔶 Hacker News · ⬆️ 602 points · 💬 386 comments · 👤 beginning_end
 
-A link to manidoraisamy.com titled "We promoted developers into architects without informing them", a popular story on the front page, drawing significant discussion.
+A link to science.org titled "Detonating a pile of lead azide", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50579331) · [Source](https://manidoraisamy.com/developer-to-architect.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50588982) · [Source](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
-6. Language Models Can Rewrite Their Own Weights
+5. My monitor was cutting my download speed by 75%
 
-🔶 Hacker News · ⬆️ 402 points · 💬 118 comments · 👤 lwhsiao
+🔶 Hacker News · ⬆️ 574 points · 💬 268 comments · 👤 soheilpro
 
-A link to arxiv.org titled "Language Models Can Rewrite Their Own Weights", a popular story on the front page, drawing significant discussion.
+A link to blog.tymscar.com titled "My monitor was cutting my download speed by 75%", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50577265) · [Source](https://arxiv.org/abs/2611.21885)
+[Discuss on HN](https://news.ycombinator.com/item?id=50587875) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
 
-7. Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day
+6. Inkling-2-Mini in 5.4 GB Memory
 
-🔶 Hacker News · ⬆️ 293 points · 💬 565 comments · 👤 cdrnsf
+🔶 Hacker News · ⬆️ 453 points · 💬 113 comments · 👤 k__
 
-A link to theguardian.com titled "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day", a popular story on the front page, with an active discussion thread.
+A link to github.com titled "Inkling-2-Mini in 5.4 GB Memory", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50574383) · [Source](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
+[Discuss on HN](https://news.ycombinator.com/item?id=50591853) · [Source](https://github.com/ShinMegamiBoson/lookatmyquant)
 
-8. We Need Smart People Who Give a Shit
+7. Toyota, Nissan, and Honda to standardize parts to lower costs
 
-🦞 Lobsters · ⬆️ 204 points · 💬 76 comments · 👤 Jackevansevo
+🔶 Hacker News · ⬆️ 440 points · 💬 251 comments · 👤 zdw
 
-A link to violetpixel.com titled "We Need Smart People Who Give a Shit", a popular story on the front page.
+A link to caranddriver.com titled "Toyota, Nissan, and Honda to standardize parts to lower costs", a popular story on the front page, drawing significant discussion.
 
-[Discuss on Lobsters](https://lobste.rs/s/rzuasm) · [Source](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50596133) · [Source](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 
-9. PostgreSQL 19 Released
+8. Levent Alpöge Claims Proof of Riemann Hypothesis
 
-🦞 Lobsters · ⬆️ 88 points · 💬 3 comments · 👤 bio
+🦞 Lobsters · ⬆️ 104 points · 💬 63 comments · 👤 mitsuhiko
 
-A link to postgresql.org titled "PostgreSQL 19 Released".
-
-[Discuss on Lobsters](https://lobste.rs/s/pqyuhk) · [Source](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
-
-10. Levent Alpoge Claims Proof of Riemann Hypothesis
-
-🦞 Lobsters · ⬆️ 80 points · 💬 45 comments · 👤 mitsuhiko
-
-A link to alpo.ge titled "Levent Alpoge Claims Proof of Riemann Hypothesis".
+A link to alpo.ge titled "Levent Alpöge Claims Proof of Riemann Hypothesis".
 
 [Discuss on Lobsters](https://lobste.rs/s/cmifpg) · [Source](https://alpo.ge/remark.pdf)
 
-*daily-tech-digest · MileFisher · 2026-11-21T09:18:49.378Z*
+9. My Monitor Was Cutting My Download Speed by 75%
+
+🦞 Lobsters · ⬆️ 93 points · 💬 7 comments · 👤 ahobson
+
+A link to blog.tymscar.com titled "My Monitor Was Cutting My Download Speed by 75%".
+
+[Discuss on Lobsters](https://lobste.rs/s/qzerls) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
+
+10. Internet Archive Staffers Are Unionizing
+
+🦞 Lobsters · ⬆️ 88 points · 💬 7 comments · 👤 skalnik
+
+A link to cwa-union.org titled "Internet Archive Staffers Are Unionizing".
+
+[Discuss on Lobsters](https://lobste.rs/s/o5coeq) · [Source](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
+
+*daily-tech-digest · MileFisher · 2026-11-22T09:28:02.409Z*
