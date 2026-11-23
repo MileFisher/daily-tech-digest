@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-22
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-23
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 16:28 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:25 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. အရေးတကြီးကြေညာချက်- Alessandro Masullo GRH
+1. ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားခြင်း
 
-🔶 Hacker News · ⬆️ 2413 points · 💬 1173 comments · 👤 jasondavies
+🔶 Hacker News · ⬆️ 1302 points · 💬 705 comments · 👤 zdw
 
-ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက်ကြိုးတစ်ခု ပါဝင်သည့် "အလျင်အမြန်ကြေညာချက်- Alessandro Masullo GRH" ခေါင်းစဉ်ပါ math216.wordpress.com သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50579568) · [Source](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-
-2. ရီမန်းအယူအဆကို Lean ဖြင့် အတည်ပြုခြင်း
-
-🔶 Hacker News · ⬆️ 1019 points · 💬 834 comments · 👤 g-b-r
-
-ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခု ပါဝင်သည့် "ရီမန်းအယူအဆကို Lean ဖြင့် အတည်ပြုခြင်း" ခေါင်းစဉ်ပါ leanprover-community.github.io သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50589618) · [Source](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-
-3. ဆီးချိုအကျိတ်ကင်ဆာကုသမှုအတွက် ဆေးပြားကို 'ဆယ်စုနှစ်များအတွင်း အကြီးမားဆုံး တိုးတက်မှု' အဖြစ် ချီးကျူးကြသည်
-
-🔶 Hacker News · ⬆️ 964 points · 💬 213 comments · 👤 rafaelc
-
-"ဆယ်စုနှစ်များအတွင်း အကြီးမားဆုံး တိုးတက်မှုအဖြစ် ချီးကျူးခံရသည့် အသည်းကင်ဆာကုသရန် ဆေးပြား" ခေါင်းစဉ်ဖြင့် theguardian.com သို့ လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပထမစာမျက်နှာပေါ်ရှိ အဆင့်အမြင့်ဆုံး သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50582069) · [Source](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
-
-4. ခဲအက်ဇိုက်ပုံတစ်ပုံကို ပေါက်ကွဲစေခြင်း
-
-🔶 Hacker News · ⬆️ 602 points · 💬 386 comments · 👤 beginning_end
-
-ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "Detonating a pile of lead azide" ခေါင်းစဉ်ပါ science.org သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50588982) · [Source](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-
-5. ကျွန်ုပ်၏မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်
-
-🔶 Hacker News · ⬆️ 574 points · 💬 268 comments · 👤 soheilpro
-
-"ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်မြန်နှုန်းကို 75% လျှော့ချနေသည်" ဟူသော ခေါင်းစဉ်ပါ blog.tymscar.com သို့ လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပင်မစာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50587875) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
-
-6. 5.4 GB မမ်မိုရီပါရှိသော Inkling-2-Mini
-
-🔶 Hacker News · ⬆️ 453 points · 💬 113 comments · 👤 k__
-
-"Inkling-2-Mini in 5.4 GB Memory" ဟု ခေါင်းစဉ်တပ်ထားသော github.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါလင့်ခ်သည် အဆိုပါဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာတွင် လူသိများသော သတင်းဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50591853) · [Source](https://github.com/ShinMegamiBoson/lookatmyquant)
-
-7. ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားခြင်း
-
-🔶 Hacker News · ⬆️ 440 points · 💬 251 comments · 👤 zdw
-
-"တိုယိုတာ၊ နစ်ဆန်နှင့် ဟွန်ဒါတို့သည် ကုန်ကျစရိတ်လျှော့ချရန် အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားသည်" ဟူသော ခေါင်းစဉ်ဖြင့် caranddriver.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းဖြစ်ပြီး ဆွေးနွေးမှုများစွာ ဖြစ်ပေါ်စေခဲ့သည်။
+"ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားရှိခြင်း" ဟူသော ခေါင်းစဉ်ဖြင့် caranddriver.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံး ရရှိထားသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် ဆွေးနွေးချက် စာကြောင်းတစ်ခုလည်း ဖြစ်ပါသည်။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50596133) · [Source](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 
-8. လီဗန် အယ်ပိုးဂေးသည် ရီမန်းအယူအဆ၏ အထောက်အထားကို တောင်းဆိုသည်
+2. Silicon Valley မှာ ဘာဖြစ်ခဲ့တာလဲ။
 
-🦞 Lobsters · ⬆️ 104 points · 💬 63 comments · 👤 mitsuhiko
+🔶 Hacker News · ⬆️ 659 points · 💬 349 comments · 👤 greenyouse
 
-"လီဗန် အယ်ပိုးဂေး ရီမန်းယူဆချက်၏ အထောက်အထားကို တောင်းဆိုသည်" ခေါင်းစဉ်ပါရှိသော alpo.ge သို့ ချိတ်ဆက်မှု။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းများပါဝင်သည့် "ဆီလီကွန်ველიလီတွင် မည်သည့်အရာဖြစ်ခဲ့သနည်း။" ခေါင်းစဉ်ပါ oreilly.com သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/cmifpg) · [Source](https://alpo.ge/remark.pdf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50602947) · [Source](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 
-9. ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်မြန်နှုန်းကို 75% လျှော့ချနေခဲ့သည်
+3. ရှုပ်ထွေးမှုနှင့် ထက်မြက်မှု
 
-🦞 Lobsters · ⬆️ 93 points · 💬 7 comments · 👤 ahobson
+🔶 Hacker News · ⬆️ 589 points · 💬 400 comments · 👤 acossta
 
-"ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်" ဟူသော ခေါင်းစဉ်ပါ blog.tymscar.com သို့ လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုပါရှိသည့် "Perplexity and Intelligence" ခေါင်းစဉ်ပါ openai.com သို့ လင့်ခ်တစ်ခု။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50601525) · [Source](https://openai.com/index/perplexity-and-intelligence/)
+
+4. အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်
+
+🔶 Hacker News · ⬆️ 529 points · 💬 83 comments · 👤 SockThief
+
+"အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်" ဟူသော ခေါင်းစဉ်ပါ spelunkr.tv သို့ လင့်ခ်တစ်ခုသည် အရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်သည်။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50606192) · [Source](https://spelunkr.tv)
+
+5. Inkling၊ Qwen နှင့် Unsloth တို့ဖြင့် ဒေသတွင်း AI အတွက် အခြေခံလမ်းညွှန်
+
+🔶 Hacker News · ⬆️ 513 points · 💬 216 comments · 👤 Retell15
+
+gpupartner.com သို့ "Inkling၊ Qwen နှင့် Unsloth တို့ဖြင့် ဒေသတွင်း AI အတွက် အခြေခံလမ်းညွှန်" ခေါင်းစဉ်ဖြင့် ချိတ်ဆက်ထားသော လင့်ခ်သည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားပါသည်။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50603845) · [Source](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+
+6. GTA 6 ရှိ ငှက်များ- Vice City နှင့် Leonida ၏ တောရိုင်းတိရစ္ဆာန်များအတွက် နယ်မြေလမ်းညွှန်
+
+🔶 Hacker News · ⬆️ 505 points · 💬 255 comments · 👤 gaws
+
+"GTA 6 ရှိ ငှက်များ- Vice City နှင့် Leonida ၏ တောရိုင်းတိရစ္ဆာန်များအတွက် ကွင်းဆင်းလမ်းညွှန်" ခေါင်းစဉ်ဖြင့် audubon.org သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပထမစာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသည့် သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50602843) · [Source](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+
+7. XNU Linux- Linux ရှိ အပြည့်အဝ OS X GUI အသုံးပြုသူနေရာ
+
+🔶 Hacker News · ⬆️ 327 points · 💬 153 comments · 👤 mmastrac
+
+"XNU Linux- Linux ရှိ OS X GUI အသုံးပြုသူနေရာပြည့်" ဟု ခေါင်းစဉ်တပ်ထားသော github.com သို့ လင့်ခ်တစ်ခု၊ ရှေ့စာမျက်နှာရှိ လူသိများသော သတင်းတစ်ပုဒ်၊ သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50607261) · [Source](https://github.com/AFK-surf/xnulinux)
+
+8. သုတေသီက AI ထောက်ပံ့ရေးကွင်းဆက်ထဲသို့ ငှက်အဝါ ၂ သန်းကို ထည့်သွင်းလိုက်သည်။ ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ပေါ်ပေါက်လာခဲ့သည်
+
+🦞 Lobsters · ⬆️ 133 points · 💬 19 comments · 👤 itamarst
+
+"သုတေသီတစ်ဦးက AI ထောက်ပံ့ရေးကွင်းဆက်ထဲသို့ ငှက်အကောင်ရေ ၂ သန်း ထည့်သွင်းခဲ့သည်။ ကိုယ်ရေးလုံခြုံရေးဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ပေါ်ပေါက်လာခဲ့သည်"။
+
+[Discuss on Lobsters](https://lobste.rs/s/32rhzb) · [Source](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
+
+9. ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်
+
+🦞 Lobsters · ⬆️ 130 points · 💬 11 comments · 👤 ahobson
+
+"ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်" ခေါင်းစဉ်ပါ blog.tymscar.com သို့ လင့်ခ်တစ်ခု။
 
 [Discuss on Lobsters](https://lobste.rs/s/qzerls) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
 
-10. အင်တာနက်မှတ်တမ်းစာတိုက် ဝန်ထမ်းများ သမဂ္ဂဖွဲ့စည်းနေကြသည်
+10. TODOs JJ ပုံစံ
 
-🦞 Lobsters · ⬆️ 88 points · 💬 7 comments · 👤 skalnik
+🦞 Lobsters · ⬆️ 66 points · 💬 10 comments · 👤 Raicuparta
 
-"အင်တာနက် အာခိုက်ဗ် ဝန်ထမ်းများ သမဂ္ဂဖွဲ့စည်းနေကြသည်" ဟူသော ခေါင်းစဉ်ပါ cwa-union.org သို့ လင့်ခ်တစ်ခု။
+"TODOs JJ ပုံစံ" ဟု ခေါင်းစဉ်တပ်ထားသော bwc9876.dev သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/o5coeq) · [Source](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
+[Discuss on Lobsters](https://lobste.rs/s/qxzs4y) · [Source](https://bwc9876.dev/blog/jj_todo/)
 
-*daily-tech-digest · MileFisher · 2026-11-22T09:28:02.409Z*
+*daily-tech-digest · MileFisher · 2026-11-23T10:25:24.872Z*

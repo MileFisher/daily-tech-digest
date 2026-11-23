@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "id": "item?id=50596133",
+      "title": {
+        "en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "my": "ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1302,
+      "comments": 705,
+      "author": "zdw",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50596133"
+    },
+    {
+      "id": "item?id=50602947",
+      "title": {
+        "en": "What Happened to Silicon Valley?",
+        "my": "Silicon Valley မှာ ဘာဖြစ်ခဲ့တာလဲ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 659,
+      "comments": 349,
+      "author": "greenyouse",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50602947"
+    },
+    {
+      "id": "item?id=50601525",
+      "title": {
+        "en": "Perplexity and Intelligence",
+        "my": "ရှုပ်ထွေးမှုနှင့် ထက်မြက်မှု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 589,
+      "comments": 400,
+      "author": "acossta",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50601525"
+    },
+    {
+      "id": "item?id=50606192",
+      "title": {
+        "en": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "my": "အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 529,
+      "comments": 83,
+      "author": "SockThief",
+      "url": "https://spelunkr.tv",
+      "discussUrl": "https://news.ycombinator.com/item?id=50606192"
+    },
+    {
+      "id": "item?id=50603845",
+      "title": {
+        "en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "my": "Inkling၊ Qwen နှင့် Unsloth တို့ဖြင့် ဒေသတွင်း AI အတွက် အခြေခံလမ်းညွှန်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 513,
+      "comments": 216,
+      "author": "Retell15",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "discussUrl": "https://news.ycombinator.com/item?id=50603845"
+    },
+    {
+      "id": "item?id=50602843",
+      "title": {
+        "en": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "my": "GTA 6 ရှိ ငှက်များ- Vice City နှင့် Leonida ၏ တောရိုင်းတိရစ္ဆာန်များအတွက် နယ်မြေလမ်းညွှန်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 505,
+      "comments": 255,
+      "author": "gaws",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "discussUrl": "https://news.ycombinator.com/item?id=50602843"
+    },
+    {
+      "id": "item?id=50607261",
+      "title": {
+        "en": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "my": "XNU Linux- Linux ရှိ အပြည့်အဝ OS X GUI အသုံးပြုသူနေရာ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 327,
+      "comments": 153,
+      "author": "mmastrac",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "discussUrl": "https://news.ycombinator.com/item?id=50607261"
+    },
+    {
+      "id": "32rhzb",
+      "title": {
+        "en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+        "my": "သုတေသီက AI ထောက်ပံ့ရေးကွင်းဆက်ထဲသို့ ငှက်အဝါ ၂ သန်းကို ထည့်သွင်းလိုက်သည်။ ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ပေါ်ပေါက်လာခဲ့သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 133,
+      "comments": 19,
+      "author": "itamarst",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "discussUrl": "https://lobste.rs/s/32rhzb"
+    },
+    {
+      "id": "qzerls",
+      "title": {
+        "en": "My Monitor Was Cutting My Download Speed by 75%",
+        "my": "ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 130,
+      "comments": 11,
+      "author": "ahobson",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "discussUrl": "https://lobste.rs/s/qzerls"
+    },
+    {
+      "id": "qxzs4y",
+      "title": {
+        "en": "TODOs JJ Style",
+        "my": "TODOs JJ ပုံစံ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 66,
+      "comments": 10,
+      "author": "Raicuparta",
+      "url": "https://bwc9876.dev/blog/jj_todo/",
+      "discussUrl": "https://lobste.rs/s/qxzs4y"
+    }
+  ]
+}
