@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-23
+# 🗞️ Daily Tech Digest — 2026-11-24
 
-> Top 10 stories from Hacker News & Lobsters · Generated 17:25 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 19:05 ICT
 
 ---
 
-1. Toyota, Nissan, and Honda to standardize parts to lower costs
+1. Nvidia Reinstates Jensen Huang as CEO
 
-🔶 Hacker News · ⬆️ 1302 points · 💬 705 comments · 👤 zdw
+🔶 Hacker News · ⬆️ 2633 points · 💬 3512 comments · 👤 jaz
 
-A link to caranddriver.com titled "Toyota, Nissan, and Honda to standardize parts to lower costs", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to cnbc.com titled "Nvidia Reinstates Jensen Huang as CEO", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50596133) · [Source](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50611576) · [Source](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 
-2. What Happened to Silicon Valley?
+2. Ladybird is now in alpha
 
-🔶 Hacker News · ⬆️ 659 points · 💬 349 comments · 👤 greenyouse
+🔶 Hacker News · ⬆️ 2078 points · 💬 492 comments · 👤 janvdberg
 
-A link to oreilly.com titled "What Happened to Silicon Valley?", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to ladybird.org titled "Ladybird is now in alpha", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50602947) · [Source](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50614249) · [Source](https://ladybird.org/posts/alpha/)
 
-3. Perplexity and Intelligence
+3. "Dario is hyping the dangers so OSS models are illegal and he stays in control"
 
-🔶 Hacker News · ⬆️ 589 points · 💬 400 comments · 👤 acossta
+🔶 Hacker News · ⬆️ 1750 points · 💬 1011 comments · 👤 MrBuddyCasino
 
-A link to openai.com titled "Perplexity and Intelligence", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to twitter.com titled ""Dario is hyping the dangers so OSS models are illegal and he stays in control"", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50601525) · [Source](https://openai.com/index/perplexity-and-intelligence/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50615308) · [Source](https://twitter.com/ylecun/status/2124550037912920090)
 
-4. Free alternative TV network built from the Internet Archive's forgotten videos
+4. GLM-5.4: Toward generalized coding with our first loop transformer
 
-🔶 Hacker News · ⬆️ 529 points · 💬 83 comments · 👤 SockThief
+🔶 Hacker News · ⬆️ 1138 points · 💬 370 comments · 👤 foohis
 
-A link to spelunkr.tv titled "Free alternative TV network built from the Internet Archive's forgotten videos", one of the highest-scoring stories on the front page.
+A link to z.ai titled "GLM-5.4: Toward generalized coding with our first loop transformer", one of the highest-scoring stories on the front page, with an active discussion thread.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50609685) · [Source](https://z.ai/blog/glm-5.4)
+
+5. Per Arm's request, this site will be discontinued on 4 December 2026 :(
+
+🔶 Hacker News · ⬆️ 1075 points · 💬 251 comments · 👤 tech234a
+
+A link to arm.jonpalmisc.com titled "Per Arm's request, this site will be discontinued on 4 December 2026 :(", one of the highest-scoring stories on the front page, drawing significant discussion.
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50617499) · [Source](https://arm.jonpalmisc.com/)
+
+6. Free alternative TV network built from the Internet Archive's forgotten videos
+
+🔶 Hacker News · ⬆️ 1016 points · 💬 174 comments · 👤 SockThief
+
+A link to spelunkr.tv titled "Free alternative TV network built from the Internet Archive's forgotten videos", one of the highest-scoring stories on the front page, drawing significant discussion.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50606192) · [Source](https://spelunkr.tv)
 
-5. A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+7. Stalwart is now a drop-in replacement for Microsoft Exchange
 
-🔶 Hacker News · ⬆️ 513 points · 💬 216 comments · 👤 Retell15
+🔶 Hacker News · ⬆️ 514 points · 💬 272 comments · 👤 shaunpud
 
-A link to gpupartner.com titled "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to stalw.art titled "Stalwart is now a drop-in replacement for Microsoft Exchange", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50603845) · [Source](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+[Discuss on HN](https://news.ycombinator.com/item?id=50620349) · [Source](https://stalw.art/blog/microsoft-exchange-replacement/)
 
-6. The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
+8. Signal is Serious About Protecting Your Privacy
 
-🔶 Hacker News · ⬆️ 505 points · 💬 255 comments · 👤 gaws
+🦞 Lobsters · ⬆️ 111 points · 💬 54 comments · 👤 sjamaan
 
-A link to audubon.org titled "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to signal.org titled "Signal is Serious About Protecting Your Privacy".
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50602843) · [Source](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+[Discuss on Lobsters](https://lobste.rs/s/vldbcn) · [Source](https://signal.org/blog/protecting-your-privacy/)
 
-7. XNU Linux: Full OS X GUI Userspace on Linux
+9. Ladybird is now in alpha
 
-🔶 Hacker News · ⬆️ 327 points · 💬 153 comments · 👤 mmastrac
+🦞 Lobsters · ⬆️ 105 points · 💬 39 comments · 👤 j11g
 
-A link to github.com titled "XNU Linux: Full OS X GUI Userspace on Linux", a popular story on the front page, drawing significant discussion.
+A link to ladybird.org titled "Ladybird is now in alpha".
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50607261) · [Source](https://github.com/AFK-surf/xnulinux)
+[Discuss on Lobsters](https://lobste.rs/s/h6webg) · [Source](https://ladybird.org/posts/alpha/)
 
-8. Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced
+10. GitHub Actions accepts invalid YAML
 
-🦞 Lobsters · ⬆️ 133 points · 💬 19 comments · 👤 itamarst
+🦞 Lobsters · ⬆️ 82 points · 💬 31 comments · 👤 yossarian
 
-A link to arstechnica.com titled "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced".
+A link to yossarian.net titled "GitHub Actions accepts invalid YAML".
 
-[Discuss on Lobsters](https://lobste.rs/s/32rhzb) · [Source](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
+[Discuss on Lobsters](https://lobste.rs/s/leqwqu) · [Source](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 
-9. My Monitor Was Cutting My Download Speed by 75%
-
-🦞 Lobsters · ⬆️ 130 points · 💬 11 comments · 👤 ahobson
-
-A link to blog.tymscar.com titled "My Monitor Was Cutting My Download Speed by 75%".
-
-[Discuss on Lobsters](https://lobste.rs/s/qzerls) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
-
-10. TODOs JJ Style
-
-🦞 Lobsters · ⬆️ 66 points · 💬 10 comments · 👤 Raicuparta
-
-A link to bwc9876.dev titled "TODOs JJ Style".
-
-[Discuss on Lobsters](https://lobste.rs/s/qxzs4y) · [Source](https://bwc9876.dev/blog/jj_todo/)
-
-*daily-tech-digest · MileFisher · 2026-11-23T10:25:24.872Z*
+*daily-tech-digest · MileFisher · 2026-11-24T12:05:59.779Z*

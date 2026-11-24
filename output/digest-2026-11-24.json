@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "id": "item?id=50611576",
+      "title": {
+        "en": "Nvidia Reinstates Jensen Huang as CEO",
+        "my": "Nvidia က Jensen Huang ကို စီအီးအိုအဖြစ် ပြန်လည်ခန့်အပ်လိုက်ပြီ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 2633,
+      "comments": 3512,
+      "author": "jaz",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50611576"
+    },
+    {
+      "id": "item?id=50614249",
+      "title": {
+        "en": "Ladybird is now in alpha",
+        "my": "Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 2078,
+      "comments": 492,
+      "author": "janvdberg",
+      "url": "https://ladybird.org/posts/alpha/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50614249"
+    },
+    {
+      "id": "item?id=50615308",
+      "title": {
+        "en": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+        "my": "\"ဒါရီယိုက OSS မော်ဒယ်များ တရားမဝင်ကြောင်းနှင့် သူက ထိန်းချုပ်မှုရှိနေကြောင်းကို အန္တရာယ်များဟု အလွန်အမင်းပြောနေသည်\""
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1750,
+      "comments": 1011,
+      "author": "MrBuddyCasino",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "discussUrl": "https://news.ycombinator.com/item?id=50615308"
+    },
+    {
+      "id": "item?id=50609685",
+      "title": {
+        "en": "GLM-5.4: Toward generalized coding with our first loop transformer",
+        "my": "GLM-5.4- ကျွန်ုပ်တို့၏ ပထမဆုံး လูปထရန်စဖော်မာဖြင့် ယေဘုယျကုဒ်ရေးသားခြင်းဆီသို့"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1138,
+      "comments": 370,
+      "author": "foohis",
+      "url": "https://z.ai/blog/glm-5.4",
+      "discussUrl": "https://news.ycombinator.com/item?id=50609685"
+    },
+    {
+      "id": "item?id=50617499",
+      "title": {
+        "en": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+        "my": "Arm ၏ တောင်းဆိုချက်အရ ဤဝဘ်ဆိုက်ကို 2026 ခုနှစ် ဒီဇင်ဘာလ 4 ရက်နေ့တွင် ရပ်ဆိုင်းသွားပါမည် :("
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1075,
+      "comments": 251,
+      "author": "tech234a",
+      "url": "https://arm.jonpalmisc.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50617499"
+    },
+    {
+      "id": "item?id=50606192",
+      "title": {
+        "en": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "my": "အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1016,
+      "comments": 174,
+      "author": "SockThief",
+      "url": "https://spelunkr.tv",
+      "discussUrl": "https://news.ycombinator.com/item?id=50606192"
+    },
+    {
+      "id": "item?id=50620349",
+      "title": {
+        "en": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "my": "Stalwart သည် ယခုအခါ Microsoft Exchange အတွက် အစားထိုးအသုံးပြုနိုင်သော အစားထိုးပစ္စည်းတစ်ခု ဖြစ်လာပါပြီ။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 514,
+      "comments": 272,
+      "author": "shaunpud",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50620349"
+    },
+    {
+      "id": "vldbcn",
+      "title": {
+        "en": "Signal is Serious About Protecting Your Privacy",
+        "my": "Signal သည် သင့်ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ရန် အလေးအနက်ထားပါသည်။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 111,
+      "comments": 54,
+      "author": "sjamaan",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "discussUrl": "https://lobste.rs/s/vldbcn"
+    },
+    {
+      "id": "h6webg",
+      "title": {
+        "en": "Ladybird is now in alpha",
+        "my": "Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 105,
+      "comments": 39,
+      "author": "j11g",
+      "url": "https://ladybird.org/posts/alpha/",
+      "discussUrl": "https://lobste.rs/s/h6webg"
+    },
+    {
+      "id": "leqwqu",
+      "title": {
+        "en": "GitHub Actions accepts invalid YAML",
+        "my": "GitHub လုပ်ဆောင်ချက်များသည် မမှန်ကန်သော YAML ကို လက်ခံသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 82,
+      "comments": 31,
+      "author": "yossarian",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "discussUrl": "https://lobste.rs/s/leqwqu"
+    }
+  ]
+}

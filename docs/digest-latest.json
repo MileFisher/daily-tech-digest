@@ -1,47 +1,75 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
-      "id": "item?id=50596133",
+      "id": "item?id=50611576",
       "title": {
-        "en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-        "my": "ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားခြင်း"
+        "en": "Nvidia Reinstates Jensen Huang as CEO",
+        "my": "Nvidia က Jensen Huang ကို စီအီးအိုအဖြစ် ပြန်လည်ခန့်အပ်လိုက်ပြီ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 1302,
-      "comments": 705,
-      "author": "zdw",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50596133"
+      "score": 2633,
+      "comments": 3512,
+      "author": "jaz",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "discussUrl": "https://news.ycombinator.com/item?id=50611576"
     },
     {
-      "id": "item?id=50602947",
+      "id": "item?id=50614249",
       "title": {
-        "en": "What Happened to Silicon Valley?",
-        "my": "Silicon Valley မှာ ဘာဖြစ်ခဲ့တာလဲ။"
+        "en": "Ladybird is now in alpha",
+        "my": "Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 659,
-      "comments": 349,
-      "author": "greenyouse",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50602947"
+      "score": 2078,
+      "comments": 492,
+      "author": "janvdberg",
+      "url": "https://ladybird.org/posts/alpha/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50614249"
     },
     {
-      "id": "item?id=50601525",
+      "id": "item?id=50615308",
       "title": {
-        "en": "Perplexity and Intelligence",
-        "my": "ရှုပ်ထွေးမှုနှင့် ထက်မြက်မှု"
+        "en": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+        "my": "\"ဒါရီယိုက OSS မော်ဒယ်များ တရားမဝင်ကြောင်းနှင့် သူက ထိန်းချုပ်မှုရှိနေကြောင်းကို အန္တရာယ်များဟု အလွန်အမင်းပြောနေသည်\""
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 589,
-      "comments": 400,
-      "author": "acossta",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50601525"
+      "score": 1750,
+      "comments": 1011,
+      "author": "MrBuddyCasino",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "discussUrl": "https://news.ycombinator.com/item?id=50615308"
+    },
+    {
+      "id": "item?id=50609685",
+      "title": {
+        "en": "GLM-5.4: Toward generalized coding with our first loop transformer",
+        "my": "GLM-5.4- ကျွန်ုပ်တို့၏ ပထမဆုံး လูปထရန်စဖော်မာဖြင့် ယေဘုယျကုဒ်ရေးသားခြင်းဆီသို့"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1138,
+      "comments": 370,
+      "author": "foohis",
+      "url": "https://z.ai/blog/glm-5.4",
+      "discussUrl": "https://news.ycombinator.com/item?id=50609685"
+    },
+    {
+      "id": "item?id=50617499",
+      "title": {
+        "en": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+        "my": "Arm ၏ တောင်းဆိုချက်အရ ဤဝဘ်ဆိုက်ကို 2026 ခုနှစ် ဒီဇင်ဘာလ 4 ရက်နေ့တွင် ရပ်ဆိုင်းသွားပါမည် :("
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1075,
+      "comments": 251,
+      "author": "tech234a",
+      "url": "https://arm.jonpalmisc.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50617499"
     },
     {
       "id": "item?id=50606192",
@@ -51,95 +79,67 @@
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 529,
-      "comments": 83,
+      "score": 1016,
+      "comments": 174,
       "author": "SockThief",
       "url": "https://spelunkr.tv",
       "discussUrl": "https://news.ycombinator.com/item?id=50606192"
     },
     {
-      "id": "item?id=50603845",
+      "id": "item?id=50620349",
       "title": {
-        "en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "my": "Inkling၊ Qwen နှင့် Unsloth တို့ဖြင့် ဒေသတွင်း AI အတွက် အခြေခံလမ်းညွှန်"
+        "en": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "my": "Stalwart သည် ယခုအခါ Microsoft Exchange အတွက် အစားထိုးအသုံးပြုနိုင်သော အစားထိုးပစ္စည်းတစ်ခု ဖြစ်လာပါပြီ။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 513,
-      "comments": 216,
-      "author": "Retell15",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "discussUrl": "https://news.ycombinator.com/item?id=50603845"
+      "score": 514,
+      "comments": 272,
+      "author": "shaunpud",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50620349"
     },
     {
-      "id": "item?id=50602843",
+      "id": "vldbcn",
       "title": {
-        "en": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "my": "GTA 6 ရှိ ငှက်များ- Vice City နှင့် Leonida ၏ တောရိုင်းတိရစ္ဆာန်များအတွက် နယ်မြေလမ်းညွှန်"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 505,
-      "comments": 255,
-      "author": "gaws",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "discussUrl": "https://news.ycombinator.com/item?id=50602843"
-    },
-    {
-      "id": "item?id=50607261",
-      "title": {
-        "en": "XNU Linux: Full OS X GUI Userspace on Linux",
-        "my": "XNU Linux- Linux ရှိ အပြည့်အဝ OS X GUI အသုံးပြုသူနေရာ"
-      },
-      "sourceIcon": "hn",
-      "source": "Hacker News",
-      "score": 327,
-      "comments": 153,
-      "author": "mmastrac",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "discussUrl": "https://news.ycombinator.com/item?id=50607261"
-    },
-    {
-      "id": "32rhzb",
-      "title": {
-        "en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-        "my": "သုတေသီက AI ထောက်ပံ့ရေးကွင်းဆက်ထဲသို့ ငှက်အဝါ ၂ သန်းကို ထည့်သွင်းလိုက်သည်။ ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ပေါ်ပေါက်လာခဲ့သည်"
+        "en": "Signal is Serious About Protecting Your Privacy",
+        "my": "Signal သည် သင့်ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ရန် အလေးအနက်ထားပါသည်။"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 133,
-      "comments": 19,
-      "author": "itamarst",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "discussUrl": "https://lobste.rs/s/32rhzb"
+      "score": 111,
+      "comments": 54,
+      "author": "sjamaan",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "discussUrl": "https://lobste.rs/s/vldbcn"
     },
     {
-      "id": "qzerls",
+      "id": "h6webg",
       "title": {
-        "en": "My Monitor Was Cutting My Download Speed by 75%",
-        "my": "ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်"
+        "en": "Ladybird is now in alpha",
+        "my": "Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 130,
-      "comments": 11,
-      "author": "ahobson",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "discussUrl": "https://lobste.rs/s/qzerls"
+      "score": 105,
+      "comments": 39,
+      "author": "j11g",
+      "url": "https://ladybird.org/posts/alpha/",
+      "discussUrl": "https://lobste.rs/s/h6webg"
     },
     {
-      "id": "qxzs4y",
+      "id": "leqwqu",
       "title": {
-        "en": "TODOs JJ Style",
-        "my": "TODOs JJ ပုံစံ"
+        "en": "GitHub Actions accepts invalid YAML",
+        "my": "GitHub လုပ်ဆောင်ချက်များသည် မမှန်ကန်သော YAML ကို လက်ခံသည်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 66,
-      "comments": 10,
-      "author": "Raicuparta",
-      "url": "https://bwc9876.dev/blog/jj_todo/",
-      "discussUrl": "https://lobste.rs/s/qxzs4y"
+      "score": 82,
+      "comments": 31,
+      "author": "yossarian",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "discussUrl": "https://lobste.rs/s/leqwqu"
     }
   ]
 }

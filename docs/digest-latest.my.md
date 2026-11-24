@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-23
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-24
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:25 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 19:05 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားခြင်း
+1. Nvidia က Jensen Huang ကို စီအီးအိုအဖြစ် ပြန်လည်ခန့်အပ်လိုက်ပြီ
 
-🔶 Hacker News · ⬆️ 1302 points · 💬 705 comments · 👤 zdw
+🔶 Hacker News · ⬆️ 2633 points · 💬 3512 comments · 👤 jaz
 
-"ကုန်ကျစရိတ်လျှော့ချရန်အတွက် Toyota၊ Nissan နှင့် Honda တို့မှ အစိတ်အပိုင်းများကို စံသတ်မှတ်ထားရှိခြင်း" ဟူသော ခေါင်းစဉ်ဖြင့် caranddriver.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံး ရရှိထားသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် ဆွေးနွေးချက် စာကြောင်းတစ်ခုလည်း ဖြစ်ပါသည်။
+ရှေ့စာမျက်နှာရှိ အဆင့်အမြင့်ဆုံး သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများ ပြုလုပ်နေသည့် "Nvidia သည် Jensen Huang ကို အမှုဆောင်အရာရှိချုပ်အဖြစ် ပြန်လည်ခန့်အပ်သည်" ခေါင်းစဉ်ပါ cnbc.com သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50596133) · [Source](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50611576) · [Source](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 
-2. Silicon Valley မှာ ဘာဖြစ်ခဲ့တာလဲ။
+2. Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ
 
-🔶 Hacker News · ⬆️ 659 points · 💬 349 comments · 👤 greenyouse
+🔶 Hacker News · ⬆️ 2078 points · 💬 492 comments · 👤 janvdberg
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းများပါဝင်သည့် "ဆီလီကွန်ველიလီတွင် မည်သည့်အရာဖြစ်ခဲ့သနည်း။" ခေါင်းစဉ်ပါ oreilly.com သို့ လင့်ခ်တစ်ခု။
+"Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပြီ" ဟူသော ခေါင်းစဉ်ပါ ladybird.org သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုသည် ရှေ့စာမျက်နှာရှိ အမှတ်အများဆုံး ရရှိသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးချက် စာကြောင်းတစ်ခု ပါဝင်သည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50602947) · [Source](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50614249) · [Source](https://ladybird.org/posts/alpha/)
 
-3. ရှုပ်ထွေးမှုနှင့် ထက်မြက်မှု
+3. "ဒါရီယိုက OSS မော်ဒယ်များ တရားမဝင်ကြောင်းနှင့် သူက ထိန်းချုပ်မှုရှိနေကြောင်းကို အန္တရာယ်များဟု အလွန်အမင်းပြောနေသည်"
 
-🔶 Hacker News · ⬆️ 589 points · 💬 400 comments · 👤 acossta
+🔶 Hacker News · ⬆️ 1750 points · 💬 1011 comments · 👤 MrBuddyCasino
 
-ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုပါရှိသည့် "Perplexity and Intelligence" ခေါင်းစဉ်ပါ openai.com သို့ လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်သည့် ""ဒေးရီယိုသည် OSS မော်ဒယ်များ တရားမဝင်ကြောင်းနှင့် သူက ထိန်းချုပ်ထားကြောင်းကို အန္တရာယ်များရှိသည်ဟု အလွန်အမင်းပြောနေသည်"" ဟူသော ခေါင်းစဉ်ပါ twitter.com သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုနှင့် တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50601525) · [Source](https://openai.com/index/perplexity-and-intelligence/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50615308) · [Source](https://twitter.com/ylecun/status/2124550037912920090)
 
-4. အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်
+4. GLM-5.4- ကျွန်ုပ်တို့၏ ပထမဆုံး လูปထရန်စဖော်မာဖြင့် ယေဘုယျကုဒ်ရေးသားခြင်းဆီသို့
 
-🔶 Hacker News · ⬆️ 529 points · 💬 83 comments · 👤 SockThief
+🔶 Hacker News · ⬆️ 1138 points · 💬 370 comments · 👤 foohis
 
-"အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်" ဟူသော ခေါင်းစဉ်ပါ spelunkr.tv သို့ လင့်ခ်တစ်ခုသည် အရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်သည်။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခုရှိသည့် "GLM-5.4- ကျွန်ုပ်တို့၏ ပထမဆုံး loop transformer ဖြင့် ယေဘုယျကုဒ်ရေးသားခြင်းဆီသို့" ခေါင်းစဉ်ပါ z.ai သို့ လင့်ခ်တစ်ခု။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50609685) · [Source](https://z.ai/blog/glm-5.4)
+
+5. Arm ၏ တောင်းဆိုချက်အရ ဤဝဘ်ဆိုက်ကို 2026 ခုနှစ် ဒီဇင်ဘာလ 4 ရက်နေ့တွင် ရပ်ဆိုင်းသွားပါမည် :(
+
+🔶 Hacker News · ⬆️ 1075 points · 💬 251 comments · 👤 tech234a
+
+"Arm ၏ တောင်းဆိုချက်အရ ဤဝဘ်ဆိုက်ကို 2026 ခုနှစ် ဒီဇင်ဘာလ 4 ရက်နေ့တွင် ရပ်ဆိုင်းသွားပါမည် :(" ဟု ခေါင်းစဉ်တပ်ထားသည့် arm.jonpalmisc.com သို့ ချိတ်ဆက်ထားသော လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားပါသည်။
+
+[Discuss on HN](https://news.ycombinator.com/item?id=50617499) · [Source](https://arm.jonpalmisc.com/)
+
+6. အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်
+
+🔶 Hacker News · ⬆️ 1016 points · 💬 174 comments · 👤 SockThief
+
+"အင်တာနက်မှတ်တမ်း၏ မေ့လျော့နေသော ဗီဒီယိုများမှ တည်ဆောက်ထားသည့် အခမဲ့ ရွေးချယ်စရာ ရုပ်သံကွန်ရက်" ဟူသော ခေါင်းစဉ်ဖြင့် spelunkr.tv သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ပင်မစာမျက်နှာပေါ်ရှိ အဆင့်အမြင့်ဆုံး သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50606192) · [Source](https://spelunkr.tv)
 
-5. Inkling၊ Qwen နှင့် Unsloth တို့ဖြင့် ဒေသတွင်း AI အတွက် အခြေခံလမ်းညွှန်
+7. Stalwart သည် ယခုအခါ Microsoft Exchange အတွက် အစားထိုးအသုံးပြုနိုင်သော အစားထိုးပစ္စည်းတစ်ခု ဖြစ်လာပါပြီ။
 
-🔶 Hacker News · ⬆️ 513 points · 💬 216 comments · 👤 Retell15
+🔶 Hacker News · ⬆️ 514 points · 💬 272 comments · 👤 shaunpud
 
-gpupartner.com သို့ "Inkling၊ Qwen နှင့် Unsloth တို့ဖြင့် ဒေသတွင်း AI အတွက် အခြေခံလမ်းညွှန်" ခေါင်းစဉ်ဖြင့် ချိတ်ဆက်ထားသော လင့်ခ်သည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားပါသည်။
+"Stalwart သည် ယခုအခါ Microsoft Exchange အတွက် အစားထိုးအသုံးပြုနိုင်သော အရာတစ်ခု ဖြစ်လာပါပြီ" ဟူသော ခေါင်းစဉ်ပါ stalw.art သို့ ချိတ်ဆက်သည့်လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသော သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50603845) · [Source](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+[Discuss on HN](https://news.ycombinator.com/item?id=50620349) · [Source](https://stalw.art/blog/microsoft-exchange-replacement/)
 
-6. GTA 6 ရှိ ငှက်များ- Vice City နှင့် Leonida ၏ တောရိုင်းတိရစ္ဆာန်များအတွက် နယ်မြေလမ်းညွှန်
+8. Signal သည် သင့်ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ရန် အလေးအနက်ထားပါသည်။
 
-🔶 Hacker News · ⬆️ 505 points · 💬 255 comments · 👤 gaws
+🦞 Lobsters · ⬆️ 111 points · 💬 54 comments · 👤 sjamaan
 
-"GTA 6 ရှိ ငှက်များ- Vice City နှင့် Leonida ၏ တောရိုင်းတိရစ္ဆာန်များအတွက် ကွင်းဆင်းလမ်းညွှန်" ခေါင်းစဉ်ဖြင့် audubon.org သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခုသည် အဆိုပါ ဝဘ်ဆိုက်၏ ပထမစာမျက်နှာပေါ်ရှိ အမှတ်အများဆုံး ရရှိထားသည့် သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+"Signal သည် သင့်ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ရန် အလေးအနက်ထားသည်" ဟူသော ခေါင်းစဉ်ပါ signal.org သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50602843) · [Source](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+[Discuss on Lobsters](https://lobste.rs/s/vldbcn) · [Source](https://signal.org/blog/protecting-your-privacy/)
 
-7. XNU Linux- Linux ရှိ အပြည့်အဝ OS X GUI အသုံးပြုသူနေရာ
+9. Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ
 
-🔶 Hacker News · ⬆️ 327 points · 💬 153 comments · 👤 mmastrac
+🦞 Lobsters · ⬆️ 105 points · 💬 39 comments · 👤 j11g
 
-"XNU Linux- Linux ရှိ OS X GUI အသုံးပြုသူနေရာပြည့်" ဟု ခေါင်းစဉ်တပ်ထားသော github.com သို့ လင့်ခ်တစ်ခု၊ ရှေ့စာမျက်နှာရှိ လူသိများသော သတင်းတစ်ပုဒ်၊ သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+"Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပြီ" ဟူသော ခေါင်းစဉ်ပါ ladybird.org သို့ ချိတ်ဆက်သည့် လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50607261) · [Source](https://github.com/AFK-surf/xnulinux)
+[Discuss on Lobsters](https://lobste.rs/s/h6webg) · [Source](https://ladybird.org/posts/alpha/)
 
-8. သုတေသီက AI ထောက်ပံ့ရေးကွင်းဆက်ထဲသို့ ငှက်အဝါ ၂ သန်းကို ထည့်သွင်းလိုက်သည်။ ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ပေါ်ပေါက်လာခဲ့သည်
+10. GitHub လုပ်ဆောင်ချက်များသည် မမှန်ကန်သော YAML ကို လက်ခံသည်
 
-🦞 Lobsters · ⬆️ 133 points · 💬 19 comments · 👤 itamarst
+🦞 Lobsters · ⬆️ 82 points · 💬 31 comments · 👤 yossarian
 
-"သုတေသီတစ်ဦးက AI ထောက်ပံ့ရေးကွင်းဆက်ထဲသို့ ငှက်အကောင်ရေ ၂ သန်း ထည့်သွင်းခဲ့သည်။ ကိုယ်ရေးလုံခြုံရေးဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ပေါ်ပေါက်လာခဲ့သည်"။
+"GitHub Actions သည် မမှန်ကန်သော YAML ကို လက်ခံသည်" ဟူသော ခေါင်းစဉ်ပါ yossarian.net သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/32rhzb) · [Source](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
+[Discuss on Lobsters](https://lobste.rs/s/leqwqu) · [Source](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 
-9. ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်
-
-🦞 Lobsters · ⬆️ 130 points · 💬 11 comments · 👤 ahobson
-
-"ကျွန်ုပ်၏ မော်နီတာသည် ကျွန်ုပ်၏ ဒေါင်းလုဒ်ဆွဲနှုန်းကို 75% လျှော့ချနေခဲ့သည်" ခေါင်းစဉ်ပါ blog.tymscar.com သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/qzerls) · [Source](https://blog.tymscar.com/posts/studiodisplayethernet/)
-
-10. TODOs JJ ပုံစံ
-
-🦞 Lobsters · ⬆️ 66 points · 💬 10 comments · 👤 Raicuparta
-
-"TODOs JJ ပုံစံ" ဟု ခေါင်းစဉ်တပ်ထားသော bwc9876.dev သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on Lobsters](https://lobste.rs/s/qxzs4y) · [Source](https://bwc9876.dev/blog/jj_todo/)
-
-*daily-tech-digest · MileFisher · 2026-11-23T10:25:24.872Z*
+*daily-tech-digest · MileFisher · 2026-11-24T12:05:59.779Z*
