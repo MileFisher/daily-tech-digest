@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "id": "item?id=50637220",
+      "title": {
+        "en": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "my": "မက်ထရစ် မြှောက်ခြင်းသည် Θ(n^2.25) ဖြစ်သည် [pdf]"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 664,
+      "comments": 354,
+      "author": "E-Reverance",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "discussUrl": "https://news.ycombinator.com/item?id=50637220"
+    },
+    {
+      "id": "item?id=50598555",
+      "title": {
+        "en": "The Spray Bottle",
+        "my": "စပရေးပုလင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 492,
+      "comments": 110,
+      "author": "vinhnx",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "discussUrl": "https://news.ycombinator.com/item?id=50598555"
+    },
+    {
+      "id": "item?id=50633922",
+      "title": {
+        "en": "Ternary Bonsai 2.5 27B",
+        "my": "Ternary Bonsai 2.5 27B"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 456,
+      "comments": 141,
+      "author": "b0m",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "discussUrl": "https://news.ycombinator.com/item?id=50633922"
+    },
+    {
+      "id": "item?id=50627783",
+      "title": {
+        "en": "GTA 6 Running on Windows",
+        "my": "GTA 6 ကို Windows တွင်ဖွင့်ခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 406,
+      "comments": 483,
+      "author": "andrem",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "discussUrl": "https://news.ycombinator.com/item?id=50627783"
+    },
+    {
+      "id": "item?id=50638032",
+      "title": {
+        "en": "Button Sounds – collection of professionally-recorded button clicks and presses",
+        "my": "ခလုတ်အသံများ – ပရော်ဖက်ရှင်နယ်နည်းဖြင့် မှတ်တမ်းတင်ထားသော ခလုတ်နှိပ်သံများနှင့် နှိပ်လိုက်သည့်အသံများစုစည်းမှု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 402,
+      "comments": 55,
+      "author": "gaurang_tandon",
+      "url": "https://buttons.joshwcomeau.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50638032"
+    },
+    {
+      "id": "item?id=50630594",
+      "title": {
+        "en": "Active intrusion campaign against Check Point security management servers",
+        "my": "Check Point လုံခြုံရေးစီမံခန့်ခွဲမှု ဆာဗာများအား တိုက်ခိုက်ဝင်ရောက်မှု စစ်ဆင်ရေး တက်ကြွစွာ လုပ်ဆောင်နေခြင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 284,
+      "comments": 141,
+      "author": "louiereederson",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "discussUrl": "https://news.ycombinator.com/item?id=50630594"
+    },
+    {
+      "id": "item?id=50634658",
+      "title": {
+        "en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "my": "GPT-6 မော်ဒယ်များသည် အတွင်းကျသော ပရိုတိန်းဒီဇိုင်းစွမ်းရည်များကို ပြသသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 270,
+      "comments": 85,
+      "author": "acossta",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50634658"
+    },
+    {
+      "id": "h6webg",
+      "title": {
+        "en": "Ladybird is now in alpha",
+        "my": "Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 120,
+      "comments": 65,
+      "author": "j11g",
+      "url": "https://ladybird.org/posts/alpha/",
+      "discussUrl": "https://lobste.rs/s/h6webg"
+    },
+    {
+      "id": "rkk6o8",
+      "title": {
+        "en": "2035 came early",
+        "my": "၂၀၃၅ ခုနှစ်က စောစောရောက်လာပါပြီ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 110,
+      "comments": 6,
+      "author": "fzakaria",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "discussUrl": "https://lobste.rs/s/rkk6o8"
+    },
+    {
+      "id": "yyktrz",
+      "title": {
+        "en": "I checked Clojure's core with Lean and found 17 unreported bugs",
+        "my": "ကျွန်ုပ်သည် Clojure ၏ အဓိကအစိတ်အပိုင်းကို Lean ဖြင့် စစ်ဆေးခဲ့ပြီး အစီရင်ခံထားခြင်းမရှိသော ချို့ယွင်းချက် ၁၇ ခုကို တွေ့ရှိခဲ့ပါသည်။"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 71,
+      "comments": 5,
+      "author": "nathell",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "discussUrl": "https://lobste.rs/s/yyktrz"
+    }
+  ]
+}

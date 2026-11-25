@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-24
+# 🗞️ Daily Tech Digest — 2026-11-25
 
-> Top 10 stories from Hacker News & Lobsters · Generated 19:05 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 17:56 ICT
 
 ---
 
-1. Nvidia Reinstates Jensen Huang as CEO
+1. Matrix Multiplication is Θ(n^2.25) [pdf]
 
-🔶 Hacker News · ⬆️ 2633 points · 💬 3512 comments · 👤 jaz
+🔶 Hacker News · ⬆️ 664 points · 💬 354 comments · 👤 E-Reverance
 
-A link to cnbc.com titled "Nvidia Reinstates Jensen Huang as CEO", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to github.com titled "Matrix Multiplication is Θ(n^2.25) [pdf]", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50611576) · [Source](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+[Discuss on HN](https://news.ycombinator.com/item?id=50637220) · [Source](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 
-2. Ladybird is now in alpha
+2. The Spray Bottle
 
-🔶 Hacker News · ⬆️ 2078 points · 💬 492 comments · 👤 janvdberg
+🔶 Hacker News · ⬆️ 492 points · 💬 110 comments · 👤 vinhnx
 
-A link to ladybird.org titled "Ladybird is now in alpha", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to mechanical-pencil.com titled "The Spray Bottle", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50614249) · [Source](https://ladybird.org/posts/alpha/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50598555) · [Source](https://mechanical-pencil.com/products/spray-bottle)
 
-3. "Dario is hyping the dangers so OSS models are illegal and he stays in control"
+3. Ternary Bonsai 2.5 27B
 
-🔶 Hacker News · ⬆️ 1750 points · 💬 1011 comments · 👤 MrBuddyCasino
+🔶 Hacker News · ⬆️ 456 points · 💬 141 comments · 👤 b0m
 
-A link to twitter.com titled ""Dario is hyping the dangers so OSS models are illegal and he stays in control"", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to prismml.com titled "Ternary Bonsai 2.5 27B", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50615308) · [Source](https://twitter.com/ylecun/status/2124550037912920090)
+[Discuss on HN](https://news.ycombinator.com/item?id=50633922) · [Source](https://prismml.com/news/bonsai-2-5-27b)
 
-4. GLM-5.4: Toward generalized coding with our first loop transformer
+4. GTA 6 Running on Windows
 
-🔶 Hacker News · ⬆️ 1138 points · 💬 370 comments · 👤 foohis
+🔶 Hacker News · ⬆️ 406 points · 💬 483 comments · 👤 andrem
 
-A link to z.ai titled "GLM-5.4: Toward generalized coding with our first loop transformer", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to twitter.com titled "GTA 6 Running on Windows", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50609685) · [Source](https://z.ai/blog/glm-5.4)
+[Discuss on HN](https://news.ycombinator.com/item?id=50627783) · [Source](https://twitter.com/raul_bs3/status/2125213756238291075)
 
-5. Per Arm's request, this site will be discontinued on 4 December 2026 :(
+5. Button Sounds – collection of professionally-recorded button clicks and presses
 
-🔶 Hacker News · ⬆️ 1075 points · 💬 251 comments · 👤 tech234a
+🔶 Hacker News · ⬆️ 402 points · 💬 55 comments · 👤 gaurang_tandon
 
-A link to arm.jonpalmisc.com titled "Per Arm's request, this site will be discontinued on 4 December 2026 :(", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to buttons.joshwcomeau.com titled "Button Sounds – collection of professionally-recorded button clicks and presses", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50617499) · [Source](https://arm.jonpalmisc.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50638032) · [Source](https://buttons.joshwcomeau.com/)
 
-6. Free alternative TV network built from the Internet Archive's forgotten videos
+6. Active intrusion campaign against Check Point security management servers
 
-🔶 Hacker News · ⬆️ 1016 points · 💬 174 comments · 👤 SockThief
+🔶 Hacker News · ⬆️ 284 points · 💬 141 comments · 👤 louiereederson
 
-A link to spelunkr.tv titled "Free alternative TV network built from the Internet Archive's forgotten videos", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to greynoise.io titled "Active intrusion campaign against Check Point security management servers", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50606192) · [Source](https://spelunkr.tv)
+[Discuss on HN](https://news.ycombinator.com/item?id=50630594) · [Source](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 
-7. Stalwart is now a drop-in replacement for Microsoft Exchange
+7. GPT-6 models demonstrate intrinsic protein-design capabilities
 
-🔶 Hacker News · ⬆️ 514 points · 💬 272 comments · 👤 shaunpud
+🔶 Hacker News · ⬆️ 270 points · 💬 85 comments · 👤 acossta
 
-A link to stalw.art titled "Stalwart is now a drop-in replacement for Microsoft Exchange", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to openai.com titled "GPT-6 models demonstrate intrinsic protein-design capabilities", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50620349) · [Source](https://stalw.art/blog/microsoft-exchange-replacement/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50634658) · [Source](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
 
-8. Signal is Serious About Protecting Your Privacy
+8. Ladybird is now in alpha
 
-🦞 Lobsters · ⬆️ 111 points · 💬 54 comments · 👤 sjamaan
-
-A link to signal.org titled "Signal is Serious About Protecting Your Privacy".
-
-[Discuss on Lobsters](https://lobste.rs/s/vldbcn) · [Source](https://signal.org/blog/protecting-your-privacy/)
-
-9. Ladybird is now in alpha
-
-🦞 Lobsters · ⬆️ 105 points · 💬 39 comments · 👤 j11g
+🦞 Lobsters · ⬆️ 120 points · 💬 65 comments · 👤 j11g
 
 A link to ladybird.org titled "Ladybird is now in alpha".
 
 [Discuss on Lobsters](https://lobste.rs/s/h6webg) · [Source](https://ladybird.org/posts/alpha/)
 
-10. GitHub Actions accepts invalid YAML
+9. 2035 came early
 
-🦞 Lobsters · ⬆️ 82 points · 💬 31 comments · 👤 yossarian
+🦞 Lobsters · ⬆️ 110 points · 💬 6 comments · 👤 fzakaria
 
-A link to yossarian.net titled "GitHub Actions accepts invalid YAML".
+A link to fzakaria.com titled "2035 came early".
 
-[Discuss on Lobsters](https://lobste.rs/s/leqwqu) · [Source](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
+[Discuss on Lobsters](https://lobste.rs/s/rkk6o8) · [Source](https://fzakaria.com/2026/11/23/2035-came-early)
 
-*daily-tech-digest · MileFisher · 2026-11-24T12:05:59.779Z*
+10. I checked Clojure's core with Lean and found 17 unreported bugs
+
+🦞 Lobsters · ⬆️ 71 points · 💬 5 comments · 👤 nathell
+
+A link to s.conao3.com titled "I checked Clojure's core with Lean and found 17 unreported bugs".
+
+[Discuss on Lobsters](https://lobste.rs/s/yyktrz) · [Source](https://s.conao3.com/blog/2026/e4f733)
+
+*daily-tech-digest · MileFisher · 2026-11-25T10:56:56.841Z*
