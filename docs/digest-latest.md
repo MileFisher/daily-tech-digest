@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-25
+# 🗞️ Daily Tech Digest — 2026-11-26
 
-> Top 10 stories from Hacker News & Lobsters · Generated 17:56 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 17:32 ICT
 
 ---
 
-1. Matrix Multiplication is Θ(n^2.25) [pdf]
+1. Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
 
-🔶 Hacker News · ⬆️ 664 points · 💬 354 comments · 👤 E-Reverance
+🔶 Hacker News · ⬆️ 1567 points · 💬 1373 comments · 👤 Kotlopou
 
-A link to github.com titled "Matrix Multiplication is Θ(n^2.25) [pdf]", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to scottaaronson.blog titled "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50637220) · [Source](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+[Discuss on HN](https://news.ycombinator.com/item?id=50646108) · [Source](https://scottaaronson.blog/?p=10379)
 
-2. The Spray Bottle
+2. 1Password Security Incident
 
-🔶 Hacker News · ⬆️ 492 points · 💬 110 comments · 👤 vinhnx
+🔶 Hacker News · ⬆️ 1444 points · 💬 613 comments · 👤 lxhrstn
 
-A link to mechanical-pencil.com titled "The Spray Bottle", a popular story on the front page, drawing significant discussion.
+A link to 1password.com titled "1Password Security Incident", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50598555) · [Source](https://mechanical-pencil.com/products/spray-bottle)
+[Discuss on HN](https://news.ycombinator.com/item?id=50644817) · [Source](https://1password.com/blog/update-on-nov-2026-security-incident)
 
-3. Ternary Bonsai 2.5 27B
+3. Much shorter version of GRH Lean verification from Anthropic
 
-🔶 Hacker News · ⬆️ 456 points · 💬 141 comments · 👤 b0m
+🔶 Hacker News · ⬆️ 460 points · 💬 241 comments · 👤 nb-t
 
-A link to prismml.com titled "Ternary Bonsai 2.5 27B", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "Much shorter version of GRH Lean verification from Anthropic", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50633922) · [Source](https://prismml.com/news/bonsai-2-5-27b)
+[Discuss on HN](https://news.ycombinator.com/item?id=50648050) · [Source](https://github.com/lsernau/grh-lean)
 
-4. GTA 6 Running on Windows
+4. The New York Times warns photographers not to update Photoshop over AI features
 
-🔶 Hacker News · ⬆️ 406 points · 💬 483 comments · 👤 andrem
+🔶 Hacker News · ⬆️ 395 points · 💬 332 comments · 👤 rmason
 
-A link to twitter.com titled "GTA 6 Running on Windows", a popular story on the front page, with an active discussion thread.
+A link to theverge.com titled "The New York Times warns photographers not to update Photoshop over AI features", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50627783) · [Source](https://twitter.com/raul_bs3/status/2125213756238291075)
+[Discuss on HN](https://news.ycombinator.com/item?id=50647673) · [Source](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 
-5. Button Sounds – collection of professionally-recorded button clicks and presses
+5. GPT-6.2 Astra is the first model to beat Googlers' code golf records
 
-🔶 Hacker News · ⬆️ 402 points · 💬 55 comments · 👤 gaurang_tandon
+🔶 Hacker News · ⬆️ 378 points · 💬 108 comments · 👤 bjin
 
-A link to buttons.joshwcomeau.com titled "Button Sounds – collection of professionally-recorded button clicks and presses", a popular story on the front page.
+A link to bjin.github.io titled "GPT-6.2 Astra is the first model to beat Googlers' code golf records", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50638032) · [Source](https://buttons.joshwcomeau.com/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50601280) · [Source](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 
-6. Active intrusion campaign against Check Point security management servers
+6. Slow Ubuntu security response times
 
-🔶 Hacker News · ⬆️ 284 points · 💬 141 comments · 👤 louiereederson
+🔶 Hacker News · ⬆️ 295 points · 💬 137 comments · 👤 gslin
 
-A link to greynoise.io titled "Active intrusion campaign against Check Point security management servers", a popular story on the front page, drawing significant discussion.
+A link to openwall.com titled "Slow Ubuntu security response times", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50630594) · [Source](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+[Discuss on HN](https://news.ycombinator.com/item?id=50647181) · [Source](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 
-7. GPT-6 models demonstrate intrinsic protein-design capabilities
+7. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
 
-🔶 Hacker News · ⬆️ 270 points · 💬 85 comments · 👤 acossta
+🔶 Hacker News · ⬆️ 258 points · 💬 137 comments · 👤 Herrera
 
-A link to openai.com titled "GPT-6 models demonstrate intrinsic protein-design capabilities", a popular story on the front page.
+A link to twitter.com titled "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50634658) · [Source](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50651117) · [Source](https://twitter.com/thsottiaux/status/2125784147889393806)
 
-8. Ladybird is now in alpha
+8. Marginalia Search, Money, C++, Rust, AI, stuff
 
-🦞 Lobsters · ⬆️ 120 points · 💬 65 comments · 👤 j11g
+🦞 Lobsters · ⬆️ 108 points · 💬 23 comments · 👤 brn
 
-A link to ladybird.org titled "Ladybird is now in alpha".
+A link to marginalia.nu titled "Marginalia Search, Money, C++, Rust, AI, stuff".
 
-[Discuss on Lobsters](https://lobste.rs/s/h6webg) · [Source](https://ladybird.org/posts/alpha/)
+[Discuss on Lobsters](https://lobste.rs/s/srb0dp) · [Source](https://www.marginalia.nu/log/a_141_marginalia_update/)
 
-9. 2035 came early
+9. Why there are still no non-WebKit browsers on iOS
 
-🦞 Lobsters · ⬆️ 110 points · 💬 6 comments · 👤 fzakaria
+🦞 Lobsters · ⬆️ 84 points · 💬 21 comments · 👤 riQ
 
-A link to fzakaria.com titled "2035 came early".
+A link to blog.mozilla.org titled "Why there are still no non-WebKit browsers on iOS".
 
-[Discuss on Lobsters](https://lobste.rs/s/rkk6o8) · [Source](https://fzakaria.com/2026/11/23/2035-came-early)
+[Discuss on Lobsters](https://lobste.rs/s/sv2flr) · [Source](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 
-10. I checked Clojure's core with Lean and found 17 unreported bugs
+10. Security incident on Hex.pm
 
-🦞 Lobsters · ⬆️ 71 points · 💬 5 comments · 👤 nathell
+🦞 Lobsters · ⬆️ 78 points · 💬 10 comments · 👤 munksgaard
 
-A link to s.conao3.com titled "I checked Clojure's core with Lean and found 17 unreported bugs".
+A link to hex.pm titled "Security incident on Hex.pm".
 
-[Discuss on Lobsters](https://lobste.rs/s/yyktrz) · [Source](https://s.conao3.com/blog/2026/e4f733)
+[Discuss on Lobsters](https://lobste.rs/s/rfcgkx) · [Source](https://hex.pm/blog/security-incident-on-hexpm)
 
-*daily-tech-digest · MileFisher · 2026-11-25T10:56:56.841Z*
+*daily-tech-digest · MileFisher · 2026-11-26T10:32:53.960Z*

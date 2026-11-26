@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "id": "item?id=50646108",
+      "title": {
+        "en": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "my": "အမယ်လေး အမယ်လေး အမယ်လေး အမယ်လေး- အခုဖြစ်ပျက်နေတာတွေရဲ့ ပြင်းထန်မှု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1567,
+      "comments": 1373,
+      "author": "Kotlopou",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "discussUrl": "https://news.ycombinator.com/item?id=50646108"
+    },
+    {
+      "id": "item?id=50644817",
+      "title": {
+        "en": "1Password Security Incident",
+        "my": "1Password လုံခြုံရေးဖြစ်ရပ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1444,
+      "comments": 613,
+      "author": "lxhrstn",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "discussUrl": "https://news.ycombinator.com/item?id=50644817"
+    },
+    {
+      "id": "item?id=50648050",
+      "title": {
+        "en": "Much shorter version of GRH Lean verification from Anthropic",
+        "my": "Anthropic မှ GRH Lean အတည်ပြုချက်၏ များစွာပိုမိုတိုသောဗားရှင်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 460,
+      "comments": 241,
+      "author": "nb-t",
+      "url": "https://github.com/lsernau/grh-lean",
+      "discussUrl": "https://news.ycombinator.com/item?id=50648050"
+    },
+    {
+      "id": "item?id=50647673",
+      "title": {
+        "en": "The New York Times warns photographers not to update Photoshop over AI features",
+        "my": "နယူးယောက်တိုင်းမ်စ်က ဓာတ်ပုံဆရာများကို AI လုပ်ဆောင်ချက်များအတွက် Photoshop ကို မမွမ်းမံရန် သတိပေးထားသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 395,
+      "comments": 332,
+      "author": "rmason",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "discussUrl": "https://news.ycombinator.com/item?id=50647673"
+    },
+    {
+      "id": "item?id=50601280",
+      "title": {
+        "en": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "my": "GPT-6.2 Astra သည် Google ဝန်ထမ်းများ၏ ကုဒ်ဂေါ့ဖ် မှတ်တမ်းများကို ကျော်လွှားနိုင်သည့် ပထမဆုံးမော်ဒယ်ဖြစ်သည်။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 378,
+      "comments": 108,
+      "author": "bjin",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "discussUrl": "https://news.ycombinator.com/item?id=50601280"
+    },
+    {
+      "id": "item?id=50647181",
+      "title": {
+        "en": "Slow Ubuntu security response times",
+        "my": "နှေးကွေးသော Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 295,
+      "comments": 137,
+      "author": "gslin",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "discussUrl": "https://news.ycombinator.com/item?id=50647181"
+    },
+    {
+      "id": "item?id=50651117",
+      "title": {
+        "en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "my": "OpenAI သည် GPT-6.2 အသုံးပြုမှုကို လျှော့ချလိုက်သည်- Astra သည် ကန့်သတ်ချက်များကို 40% ပိုမိုမြန်ဆန်စွာ၊ Sol သည် 25% ပိုမိုမြန်ဆန်စွာ ရောက်ရှိသွားသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 258,
+      "comments": 137,
+      "author": "Herrera",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "discussUrl": "https://news.ycombinator.com/item?id=50651117"
+    },
+    {
+      "id": "srb0dp",
+      "title": {
+        "en": "Marginalia Search, Money, C++, Rust, AI, stuff",
+        "my": "Marginalia ရှာဖွေမှု၊ ငွေကြေး၊ C++၊ Rust၊ AI၊ အခြားအရာများ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 108,
+      "comments": 23,
+      "author": "brn",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "discussUrl": "https://lobste.rs/s/srb0dp"
+    },
+    {
+      "id": "sv2flr",
+      "title": {
+        "en": "Why there are still no non-WebKit browsers on iOS",
+        "my": "iOS တွင် WebKit မဟုတ်သော ဘရောက်ဇာများ မရှိသေးရသည့် အကြောင်းရင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 84,
+      "comments": 21,
+      "author": "riQ",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "discussUrl": "https://lobste.rs/s/sv2flr"
+    },
+    {
+      "id": "rfcgkx",
+      "title": {
+        "en": "Security incident on Hex.pm",
+        "my": "Hex.pm ရှိ လုံခြုံရေးဖြစ်ရပ်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 78,
+      "comments": 10,
+      "author": "munksgaard",
+      "url": "https://hex.pm/blog/security-incident-on-hexpm",
+      "discussUrl": "https://lobste.rs/s/rfcgkx"
+    }
+  ]
+}

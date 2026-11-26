@@ -1,145 +1,145 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
-      "id": "item?id=50637220",
+      "id": "item?id=50646108",
       "title": {
-        "en": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "my": "မက်ထရစ် မြှောက်ခြင်းသည် Θ(n^2.25) ဖြစ်သည် [pdf]"
+        "en": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "my": "အမယ်လေး အမယ်လေး အမယ်လေး အမယ်လေး- အခုဖြစ်ပျက်နေတာတွေရဲ့ ပြင်းထန်မှု"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 664,
-      "comments": 354,
-      "author": "E-Reverance",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "discussUrl": "https://news.ycombinator.com/item?id=50637220"
+      "score": 1567,
+      "comments": 1373,
+      "author": "Kotlopou",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "discussUrl": "https://news.ycombinator.com/item?id=50646108"
     },
     {
-      "id": "item?id=50598555",
+      "id": "item?id=50644817",
       "title": {
-        "en": "The Spray Bottle",
-        "my": "စပရေးပုလင်း"
+        "en": "1Password Security Incident",
+        "my": "1Password လုံခြုံရေးဖြစ်ရပ်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 492,
-      "comments": 110,
-      "author": "vinhnx",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "discussUrl": "https://news.ycombinator.com/item?id=50598555"
+      "score": 1444,
+      "comments": 613,
+      "author": "lxhrstn",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "discussUrl": "https://news.ycombinator.com/item?id=50644817"
     },
     {
-      "id": "item?id=50633922",
+      "id": "item?id=50648050",
       "title": {
-        "en": "Ternary Bonsai 2.5 27B",
-        "my": "Ternary Bonsai 2.5 27B"
+        "en": "Much shorter version of GRH Lean verification from Anthropic",
+        "my": "Anthropic မှ GRH Lean အတည်ပြုချက်၏ များစွာပိုမိုတိုသောဗားရှင်း"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 456,
-      "comments": 141,
-      "author": "b0m",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "discussUrl": "https://news.ycombinator.com/item?id=50633922"
+      "score": 460,
+      "comments": 241,
+      "author": "nb-t",
+      "url": "https://github.com/lsernau/grh-lean",
+      "discussUrl": "https://news.ycombinator.com/item?id=50648050"
     },
     {
-      "id": "item?id=50627783",
+      "id": "item?id=50647673",
       "title": {
-        "en": "GTA 6 Running on Windows",
-        "my": "GTA 6 ကို Windows တွင်ဖွင့်ခြင်း"
+        "en": "The New York Times warns photographers not to update Photoshop over AI features",
+        "my": "နယူးယောက်တိုင်းမ်စ်က ဓာတ်ပုံဆရာများကို AI လုပ်ဆောင်ချက်များအတွက် Photoshop ကို မမွမ်းမံရန် သတိပေးထားသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 406,
-      "comments": 483,
-      "author": "andrem",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "discussUrl": "https://news.ycombinator.com/item?id=50627783"
+      "score": 395,
+      "comments": 332,
+      "author": "rmason",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "discussUrl": "https://news.ycombinator.com/item?id=50647673"
     },
     {
-      "id": "item?id=50638032",
+      "id": "item?id=50601280",
       "title": {
-        "en": "Button Sounds – collection of professionally-recorded button clicks and presses",
-        "my": "ခလုတ်အသံများ – ပရော်ဖက်ရှင်နယ်နည်းဖြင့် မှတ်တမ်းတင်ထားသော ခလုတ်နှိပ်သံများနှင့် နှိပ်လိုက်သည့်အသံများစုစည်းမှု"
+        "en": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "my": "GPT-6.2 Astra သည် Google ဝန်ထမ်းများ၏ ကုဒ်ဂေါ့ဖ် မှတ်တမ်းများကို ကျော်လွှားနိုင်သည့် ပထမဆုံးမော်ဒယ်ဖြစ်သည်။"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 402,
-      "comments": 55,
-      "author": "gaurang_tandon",
-      "url": "https://buttons.joshwcomeau.com/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50638032"
+      "score": 378,
+      "comments": 108,
+      "author": "bjin",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "discussUrl": "https://news.ycombinator.com/item?id=50601280"
     },
     {
-      "id": "item?id=50630594",
+      "id": "item?id=50647181",
       "title": {
-        "en": "Active intrusion campaign against Check Point security management servers",
-        "my": "Check Point လုံခြုံရေးစီမံခန့်ခွဲမှု ဆာဗာများအား တိုက်ခိုက်ဝင်ရောက်မှု စစ်ဆင်ရေး တက်ကြွစွာ လုပ်ဆောင်နေခြင်း"
+        "en": "Slow Ubuntu security response times",
+        "my": "နှေးကွေးသော Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 284,
-      "comments": 141,
-      "author": "louiereederson",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "discussUrl": "https://news.ycombinator.com/item?id=50630594"
+      "score": 295,
+      "comments": 137,
+      "author": "gslin",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "discussUrl": "https://news.ycombinator.com/item?id=50647181"
     },
     {
-      "id": "item?id=50634658",
+      "id": "item?id=50651117",
       "title": {
-        "en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "my": "GPT-6 မော်ဒယ်များသည် အတွင်းကျသော ပရိုတိန်းဒီဇိုင်းစွမ်းရည်များကို ပြသသည်"
+        "en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "my": "OpenAI သည် GPT-6.2 အသုံးပြုမှုကို လျှော့ချလိုက်သည်- Astra သည် ကန့်သတ်ချက်များကို 40% ပိုမိုမြန်ဆန်စွာ၊ Sol သည် 25% ပိုမိုမြန်ဆန်စွာ ရောက်ရှိသွားသည်"
       },
       "sourceIcon": "hn",
       "source": "Hacker News",
-      "score": 270,
-      "comments": 85,
-      "author": "acossta",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "discussUrl": "https://news.ycombinator.com/item?id=50634658"
+      "score": 258,
+      "comments": 137,
+      "author": "Herrera",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "discussUrl": "https://news.ycombinator.com/item?id=50651117"
     },
     {
-      "id": "h6webg",
+      "id": "srb0dp",
       "title": {
-        "en": "Ladybird is now in alpha",
-        "my": "Ladybird သည် ယခုအခါ အယ်လ်ဖာအဆင့်တွင် ရှိနေပါပြီ"
+        "en": "Marginalia Search, Money, C++, Rust, AI, stuff",
+        "my": "Marginalia ရှာဖွေမှု၊ ငွေကြေး၊ C++၊ Rust၊ AI၊ အခြားအရာများ"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 120,
-      "comments": 65,
-      "author": "j11g",
-      "url": "https://ladybird.org/posts/alpha/",
-      "discussUrl": "https://lobste.rs/s/h6webg"
+      "score": 108,
+      "comments": 23,
+      "author": "brn",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "discussUrl": "https://lobste.rs/s/srb0dp"
     },
     {
-      "id": "rkk6o8",
+      "id": "sv2flr",
       "title": {
-        "en": "2035 came early",
-        "my": "၂၀၃၅ ခုနှစ်က စောစောရောက်လာပါပြီ"
+        "en": "Why there are still no non-WebKit browsers on iOS",
+        "my": "iOS တွင် WebKit မဟုတ်သော ဘရောက်ဇာများ မရှိသေးရသည့် အကြောင်းရင်း"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 110,
-      "comments": 6,
-      "author": "fzakaria",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "discussUrl": "https://lobste.rs/s/rkk6o8"
+      "score": 84,
+      "comments": 21,
+      "author": "riQ",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "discussUrl": "https://lobste.rs/s/sv2flr"
     },
     {
-      "id": "yyktrz",
+      "id": "rfcgkx",
       "title": {
-        "en": "I checked Clojure's core with Lean and found 17 unreported bugs",
-        "my": "ကျွန်ုပ်သည် Clojure ၏ အဓိကအစိတ်အပိုင်းကို Lean ဖြင့် စစ်ဆေးခဲ့ပြီး အစီရင်ခံထားခြင်းမရှိသော ချို့ယွင်းချက် ၁၇ ခုကို တွေ့ရှိခဲ့ပါသည်။"
+        "en": "Security incident on Hex.pm",
+        "my": "Hex.pm ရှိ လုံခြုံရေးဖြစ်ရပ်"
       },
       "sourceIcon": "lobsters",
       "source": "Lobsters",
-      "score": 71,
-      "comments": 5,
-      "author": "nathell",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
-      "discussUrl": "https://lobste.rs/s/yyktrz"
+      "score": 78,
+      "comments": 10,
+      "author": "munksgaard",
+      "url": "https://hex.pm/blog/security-incident-on-hexpm",
+      "discussUrl": "https://lobste.rs/s/rfcgkx"
     }
   ]
 }
