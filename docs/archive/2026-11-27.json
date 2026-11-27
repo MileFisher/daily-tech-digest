@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "id": "item?id=50644817",
+      "title": {
+        "en": "1Password Security Incident",
+        "my": "1Password လုံခြုံရေးဖြစ်ရပ်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 1667,
+      "comments": 715,
+      "author": "lxhrstn",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "discussUrl": "https://news.ycombinator.com/item?id=50644817"
+    },
+    {
+      "id": "item?id=50660180",
+      "title": {
+        "en": "AI made self-hosting fun again",
+        "my": "AI သည် ကိုယ်တိုင်လက်ခံကျင်းပခြင်းကို ပျော်စရာကောင်းစေပြန်ပါပြီ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 717,
+      "comments": 354,
+      "author": "jlelse",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "discussUrl": "https://news.ycombinator.com/item?id=50660180"
+    },
+    {
+      "id": "item?id=50653667",
+      "title": {
+        "en": "Intel One Mono font (2023)",
+        "my": "Intel One Mono ဖောင့် (2023)"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 527,
+      "comments": 254,
+      "author": "saikatsg",
+      "url": "https://github.com/intel/intel-one-mono",
+      "discussUrl": "https://news.ycombinator.com/item?id=50653667"
+    },
+    {
+      "id": "item?id=50657530",
+      "title": {
+        "en": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "my": "YouTube ကြော်ငြာပိတ်ဆို့မှု – ကြော်ငြာတစ်ခု ပြသသည့်အခါ YouTube စာမျက်နှာများကို အလိုအလျောက် ပြန်လည်ဖွင့်ပါသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 409,
+      "comments": 471,
+      "author": "iantongeorge",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "discussUrl": "https://news.ycombinator.com/item?id=50657530"
+    },
+    {
+      "id": "item?id=50659841",
+      "title": {
+        "en": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "my": "ကမီလ် ခန် မွမ်တက်ဇ်- ပါကစ္စတန်ဗိသုကာပညာရှင်၊ နိုင်ငံတွင်းတွင် ချီးကျူးခံရသော်လည်း နိုင်ငံရပ်ခြားတွင်မူ အသိအမှတ်ပြုမှုနီးပါးမရှိသူ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 374,
+      "comments": 90,
+      "author": "dverlaeckt80",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50659841"
+    },
+    {
+      "id": "item?id=50659640",
+      "title": {
+        "en": "Company Culture = Slack Emoji ÷ √Headcount",
+        "my": "ကုမ္ပဏီယဉ်ကျေးမှု = Slack အီမိုဂျီ ÷ √ဝန်ထမ်းအရေအတွက်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 366,
+      "comments": 175,
+      "author": "liamg",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50659640"
+    },
+    {
+      "id": "item?id=50657265",
+      "title": {
+        "en": "AMD-specific fork of llama.cpp",
+        "my": "AMD- သီးသန့် llama.cpp ဖောက်ခွဲမှု"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 364,
+      "comments": 87,
+      "author": "julianlam",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "discussUrl": "https://news.ycombinator.com/item?id=50657265"
+    },
+    {
+      "id": "wzlzlh",
+      "title": {
+        "en": "Slow Ubuntu security response times",
+        "my": "နှေးကွေးသော Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 114,
+      "comments": 21,
+      "author": "hanno",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "discussUrl": "https://lobste.rs/s/wzlzlh"
+    },
+    {
+      "id": "lyyksp",
+      "title": {
+        "en": "Optimizing Rustc's next trait solver",
+        "my": "Rustc ၏ နောက်လာမည့် ဂုဏ်သတ္တိဖြေရှင်းကိရိယာကို အကောင်းဆုံးဖြစ်အောင် ပြုလုပ်ခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 64,
+      "comments": 11,
+      "author": "jana",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+      "discussUrl": "https://lobste.rs/s/lyyksp"
+    },
+    {
+      "id": "ilit8q",
+      "title": {
+        "en": "Scott Aaronson on recent complexity theory AI achievements",
+        "my": "Scott Aaronson က မကြာသေးမီက ရှုပ်ထွေးမှုသီအိုရီ AI အောင်မြင်မှုများအကြောင်း ပြောပြပါသည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 58,
+      "comments": 53,
+      "author": "gignico",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "discussUrl": "https://lobste.rs/s/ilit8q"
+    }
+  ]
+}

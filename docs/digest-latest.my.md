@@ -1,87 +1,87 @@
-# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-26
+# 🗞️ နေ့စဉ် နည်းပညာသတင်းများ — 2026-11-27
 
-> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:32 ICT တွင် ထုတ်လုပ်ခဲ့သည်
+> Hacker News နှင့် Lobsters မှ ထိပ်တန်း 10 ခု · 17:37 ICT တွင် ထုတ်လုပ်ခဲ့သည်
 
 ---
 
-1. အမယ်လေး အမယ်လေး အမယ်လေး အမယ်လေး- အခုဖြစ်ပျက်နေတာတွေရဲ့ ပြင်းထန်မှု
+1. 1Password လုံခြုံရေးဖြစ်ရပ်
 
-🔶 Hacker News · ⬆️ 1567 points · 💬 1373 comments · 👤 Kotlopou
+🔶 Hacker News · ⬆️ 1667 points · 💬 715 comments · 👤 lxhrstn
 
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုများရှိနေသည့် "အမယ်လေး အမယ်လေး အမယ်လေး အမယ်လေး- ယခုဖြစ်ပျက်နေသည့်အရာ၏ အရွယ်အစား" ခေါင်းစဉ်ပါ scottaaronson.blog သို့ လင့်ခ်တစ်ခု။
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50646108) · [Source](https://scottaaronson.blog/?p=10379)
-
-2. 1Password လုံခြုံရေးဖြစ်ရပ်
-
-🔶 Hacker News · ⬆️ 1444 points · 💬 613 comments · 👤 lxhrstn
-
-ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရ သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုပြုနေသည့် "1Password လုံခြုံရေးဖြစ်ရပ်" ခေါင်းစဉ်ပါ 1password.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခု။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသည့် သတင်းများထဲမှ တစ်ခုဖြစ်ပြီး တက်ကြွစွာ ဆွေးနွေးမှုကြိုးတစ်ခုရှိသည့် "1Password လုံခြုံရေးဖြစ်ရပ်" ခေါင်းစဉ်ပါ 1password.com သို့ ချိတ်ဆက်သည့်လင့်ခ်တစ်ခု။
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50644817) · [Source](https://1password.com/blog/update-on-nov-2026-security-incident)
 
-3. Anthropic မှ GRH Lean အတည်ပြုချက်၏ များစွာပိုမိုတိုသောဗားရှင်း
+2. AI သည် ကိုယ်တိုင်လက်ခံကျင်းပခြင်းကို ပျော်စရာကောင်းစေပြန်ပါပြီ
 
-🔶 Hacker News · ⬆️ 460 points · 💬 241 comments · 👤 nb-t
+🔶 Hacker News · ⬆️ 717 points · 💬 354 comments · 👤 jlelse
 
-"Anthropic မှ GRH Lean အတည်ပြုချက်၏ များစွာပိုမိုတိုသောဗားရှင်း" ခေါင်းစဉ်ပါ github.com သို့ လင့်ခ်တစ်ခု၊ အဆိုပါခေါင်းစဉ်သည် အဆိုပါဝက်ဘ်ဆိုက်၏ အရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဆွဲဆောင်ထားသည်။
+ရှေ့စာမျက်နှာပေါ်ရှိ အမြင့်ဆုံးရမှတ်ရသော သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "AI သည် ကိုယ်ပိုင်ဟော့စတင်ခြင်းကို ပျော်စရာကောင်းစေပြန်ပြီ" ဟူသော ခေါင်းစဉ်ပါ janlukas.blog သို့ လင့်ခ်တစ်ခုနှင့် တက်ကြွသော ဆွေးနွေးမှုကြိုးတစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50648050) · [Source](https://github.com/lsernau/grh-lean)
+[Discuss on HN](https://news.ycombinator.com/item?id=50660180) · [Source](https://janlukas.blog/posts/ai-self-hosting)
 
-4. နယူးယောက်တိုင်းမ်စ်က ဓာတ်ပုံဆရာများကို AI လုပ်ဆောင်ချက်များအတွက် Photoshop ကို မမွမ်းမံရန် သတိပေးထားသည်
+3. Intel One Mono ဖောင့် (2023)
 
-🔶 Hacker News · ⬆️ 395 points · 💬 332 comments · 👤 rmason
+🔶 Hacker News · ⬆️ 527 points · 💬 254 comments · 👤 saikatsg
 
-"The New York Times သည် ဓာတ်ပုံဆရာများကို AI လုပ်ဆောင်ချက်များအတွက် Photoshop ကို မမွမ်းမံရန် သတိပေးသည်" ဟူသော ခေါင်းစဉ်ပါ theverge.com သို့ လင့်ခ်တစ်ခု၊ ရှေ့စာမျက်နှာရှိ လူသိများသော သတင်းတစ်ပုဒ်၊ တက်ကြွသော ဆွေးနွေးမှု စာကြောင်းတစ်ခု။
+အထူးသဖြင့် ဆွေးနွေးမှုများစွာရရှိထားသည့် ပင်မစာမျက်နှာပေါ်ရှိ အဆင့်အမြင့်ဆုံး သတင်းများထဲမှ တစ်ခုဖြစ်သည့် "Intel One Mono ဖောင့် (2023)" ခေါင်းစဉ်ပါရှိသော github.com သို့ ချိတ်ဆက်သည့်လင့်ခ်တစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50647673) · [Source](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+[Discuss on HN](https://news.ycombinator.com/item?id=50653667) · [Source](https://github.com/intel/intel-one-mono)
 
-5. GPT-6.2 Astra သည် Google ဝန်ထမ်းများ၏ ကုဒ်ဂေါ့ဖ် မှတ်တမ်းများကို ကျော်လွှားနိုင်သည့် ပထမဆုံးမော်ဒယ်ဖြစ်သည်။
+4. YouTube ကြော်ငြာပိတ်ဆို့မှု – ကြော်ငြာတစ်ခု ပြသသည့်အခါ YouTube စာမျက်နှာများကို အလိုအလျောက် ပြန်လည်ဖွင့်ပါသည်
 
-🔶 Hacker News · ⬆️ 378 points · 💬 108 comments · 👤 bjin
+🔶 Hacker News · ⬆️ 409 points · 💬 471 comments · 👤 iantongeorge
 
-"GPT-6.2 Astra သည် Google ဝန်ထမ်းများ၏ ကုဒ်ဂေါ့ဖ် မှတ်တမ်းများကို ကျော်ဖြတ်နိုင်သည့် ပထမဆုံး မော်ဒယ်ဖြစ်သည်" ဟူသော ခေါင်းစဉ်ပါ bjin.github.io သို့ ချိတ်ဆက်မှုတစ်ခု၊ အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+"YouTube ကြော်ငြာ အပြစ်ပေးစက် – ကြော်ငြာတစ်ခု ပြသသည့်အခါ YouTube စာမျက်နှာများကို အလိုအလျောက် ပြန်လည်ဖွင့်ပါ" ဟု ခေါင်းစဉ်တပ်ထားသည့် github.com သို့ လင့်ခ်တစ်ခု၊ ရှေ့စာမျက်နှာရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်၊ တက်ကြွစွာ ဆွေးနွေးနေသည့် ဆွေးနွေးချက် စာကြောင်းတစ်ခု။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50601280) · [Source](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+[Discuss on HN](https://news.ycombinator.com/item?id=50657530) · [Source](https://github.com/antonpictures/youtube-punisher)
 
-6. နှေးကွေးသော Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ
+5. ကမီလ် ခန် မွမ်တက်ဇ်- ပါကစ္စတန်ဗိသုကာပညာရှင်၊ နိုင်ငံတွင်းတွင် ချီးကျူးခံရသော်လည်း နိုင်ငံရပ်ခြားတွင်မူ အသိအမှတ်ပြုမှုနီးပါးမရှိသူ
 
-🔶 Hacker News · ⬆️ 295 points · 💬 137 comments · 👤 gslin
+🔶 Hacker News · ⬆️ 374 points · 💬 90 comments · 👤 dverlaeckt80
 
-"Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ နှေးကွေးနေသည်" ခေါင်းစဉ်ဖြင့် openwall.com သို့ ချိတ်ဆက်ထားသည့် လင့်ခ်တစ်ခုသည် အဆိုပါဝက်ဘ်ဆိုက်၏ အရှေ့စာမျက်နှာပေါ်ရှိ လူသိများသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေခဲ့သည်။
+"ကမီလ် ခန် မွမ်တက်ဇ်- ပြည်တွင်းတွင် ချီးကျူးခံရပြီး ပြည်ပတွင်မူ မသိမသာဖြစ်နေသော ပါကစ္စတန်ဗိသုကာပညာရှင်" ဟူသော ခေါင်းစဉ်ပါရှိသည့် worksinprogress.co သို့ ချိတ်ဆက်သည့်လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50647181) · [Source](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+[Discuss on HN](https://news.ycombinator.com/item?id=50659841) · [Source](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 
-7. OpenAI သည် GPT-6.2 အသုံးပြုမှုကို လျှော့ချလိုက်သည်- Astra သည် ကန့်သတ်ချက်များကို 40% ပိုမိုမြန်ဆန်စွာ၊ Sol သည် 25% ပိုမိုမြန်ဆန်စွာ ရောက်ရှိသွားသည်
+6. ကုမ္ပဏီယဉ်ကျေးမှု = Slack အီမိုဂျီ ÷ √ဝန်ထမ်းအရေအတွက်
 
-🔶 Hacker News · ⬆️ 258 points · 💬 137 comments · 👤 Herrera
+🔶 Hacker News · ⬆️ 366 points · 💬 175 comments · 👤 liamg
 
-"OpenAI သည် GPT-6.2 အသုံးပြုမှုကို လျှော့ချလိုက်သည်- Astra သည် ကန့်သတ်ချက်များကို 40% ပိုမိုမြန်ဆန်စွာ ရောက်ရှိပြီး Sol သည် 25% ပိုမိုမြန်ဆန်သည်" ဟူသော ခေါင်းစဉ်ပါရှိသည့် twitter.com သို့ ချိတ်ဆက်မှုတစ်ခုဖြစ်ပြီး၊ ၎င်းသည် အဆိုပါ သတင်းသည် ရှေ့စာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ကာ သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေပါသည်။
+"ကုမ္ပဏီယဉ်ကျေးမှု = Slack အီမိုဂျီ ÷ √ဝန်ထမ်းအရေအတွက်" ဟူသော ခေါင်းစဉ်ပါ lia.mg သို့ ချိတ်ဆက်မှုတစ်ခုသည် အဆိုပါ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်ဖြစ်ပြီး သိသာထင်ရှားသော ဆွေးနွေးမှုများကို ဖြစ်ပေါ်စေပါသည်။
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50651117) · [Source](https://twitter.com/thsottiaux/status/2125784147889393806)
+[Discuss on HN](https://news.ycombinator.com/item?id=50659640) · [Source](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 
-8. Marginalia ရှာဖွေမှု၊ ငွေကြေး၊ C++၊ Rust၊ AI၊ အခြားအရာများ
+7. AMD- သီးသန့် llama.cpp ဖောက်ခွဲမှု
 
-🦞 Lobsters · ⬆️ 108 points · 💬 23 comments · 👤 brn
+🔶 Hacker News · ⬆️ 364 points · 💬 87 comments · 👤 julianlam
 
-"Marginalia Search၊ ငွေကြေး၊ C++၊ Rust၊ AI၊ အခြားအရာများ" ဟူသော ခေါင်းစဉ်ပါရှိသည့် marginalia.nu သို့ လင့်ခ်တစ်ခု။
+"AMD-specific fork of llama.cpp" ဟု ခေါင်းစဉ်တပ်ထားသည့် devnull.land သို့ ချိတ်ဆက်သည့်လင့်ခ်တစ်ခု၊ ပင်မစာမျက်နှာပေါ်ရှိ လူကြိုက်များသော သတင်းတစ်ပုဒ်။
 
-[Discuss on Lobsters](https://lobste.rs/s/srb0dp) · [Source](https://www.marginalia.nu/log/a_141_marginalia_update/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50657265) · [Source](https://devnull.land/amd-specific-llama-cpp)
 
-9. iOS တွင် WebKit မဟုတ်သော ဘရောက်ဇာများ မရှိသေးရသည့် အကြောင်းရင်း
+8. နှေးကွေးသော Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ
 
-🦞 Lobsters · ⬆️ 84 points · 💬 21 comments · 👤 riQ
+🦞 Lobsters · ⬆️ 114 points · 💬 21 comments · 👤 hanno
 
-"iOS တွင် WebKit မဟုတ်သော ဘရောက်ဇာများ မရှိရသေးသည့် အကြောင်းရင်း" ခေါင်းစဉ်ပါ blog.mozilla.org သို့ လင့်ခ်တစ်ခု။
+"Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ နှေးကွေးနေခြင်း" ခေါင်းစဉ်ပါ openwall.com သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/sv2flr) · [Source](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
+[Discuss on Lobsters](https://lobste.rs/s/wzlzlh) · [Source](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 
-10. Hex.pm ရှိ လုံခြုံရေးဖြစ်ရပ်
+9. Rustc ၏ နောက်လာမည့် ဂုဏ်သတ္တိဖြေရှင်းကိရိယာကို အကောင်းဆုံးဖြစ်အောင် ပြုလုပ်ခြင်း
 
-🦞 Lobsters · ⬆️ 78 points · 💬 10 comments · 👤 munksgaard
+🦞 Lobsters · ⬆️ 64 points · 💬 11 comments · 👤 jana
 
-"Hex.pm ရှိ လုံခြုံရေးပြဿနာ" ခေါင်းစဉ်ပါ hex.pm သို့ လင့်ခ်တစ်ခု။
+"Rustc ၏ နောက်လာမည့် ဂုဏ်သတ္တိဖြေရှင်းကိရိယာကို အကောင်းဆုံးဖြစ်အောင် ပြုလုပ်ခြင်း" ခေါင်းစဉ်ပါ donsz.nl သို့ လင့်ခ်တစ်ခု။
 
-[Discuss on Lobsters](https://lobste.rs/s/rfcgkx) · [Source](https://hex.pm/blog/security-incident-on-hexpm)
+[Discuss on Lobsters](https://lobste.rs/s/lyyksp) · [Source](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 
-*daily-tech-digest · MileFisher · 2026-11-26T10:32:53.960Z*
+10. Scott Aaronson က မကြာသေးမီက ရှုပ်ထွေးမှုသီအိုရီ AI အောင်မြင်မှုများအကြောင်း ပြောပြပါသည်
+
+🦞 Lobsters · ⬆️ 58 points · 💬 53 comments · 👤 gignico
+
+"Scott Aaronson on recent complexity theory AI achievements" ခေါင်းစဉ်ပါ scottaaronson.blog သို့ လင့်ခ်တစ်ခု။
+
+[Discuss on Lobsters](https://lobste.rs/s/ilit8q) · [Source](https://scottaaronson.blog/?p=10379)
+
+*daily-tech-digest · MileFisher · 2026-11-27T10:37:07.955Z*

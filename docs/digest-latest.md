@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-26
+# 🗞️ Daily Tech Digest — 2026-11-27
 
-> Top 10 stories from Hacker News & Lobsters · Generated 17:32 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 17:37 ICT
 
 ---
 
-1. Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+1. 1Password Security Incident
 
-🔶 Hacker News · ⬆️ 1567 points · 💬 1373 comments · 👤 Kotlopou
-
-A link to scottaaronson.blog titled "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening", one of the highest-scoring stories on the front page, with an active discussion thread.
-
-[Discuss on HN](https://news.ycombinator.com/item?id=50646108) · [Source](https://scottaaronson.blog/?p=10379)
-
-2. 1Password Security Incident
-
-🔶 Hacker News · ⬆️ 1444 points · 💬 613 comments · 👤 lxhrstn
+🔶 Hacker News · ⬆️ 1667 points · 💬 715 comments · 👤 lxhrstn
 
 A link to 1password.com titled "1Password Security Incident", one of the highest-scoring stories on the front page, with an active discussion thread.
 
 [Discuss on HN](https://news.ycombinator.com/item?id=50644817) · [Source](https://1password.com/blog/update-on-nov-2026-security-incident)
 
-3. Much shorter version of GRH Lean verification from Anthropic
+2. AI made self-hosting fun again
 
-🔶 Hacker News · ⬆️ 460 points · 💬 241 comments · 👤 nb-t
+🔶 Hacker News · ⬆️ 717 points · 💬 354 comments · 👤 jlelse
 
-A link to github.com titled "Much shorter version of GRH Lean verification from Anthropic", a popular story on the front page, drawing significant discussion.
+A link to janlukas.blog titled "AI made self-hosting fun again", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50648050) · [Source](https://github.com/lsernau/grh-lean)
+[Discuss on HN](https://news.ycombinator.com/item?id=50660180) · [Source](https://janlukas.blog/posts/ai-self-hosting)
 
-4. The New York Times warns photographers not to update Photoshop over AI features
+3. Intel One Mono font (2023)
 
-🔶 Hacker News · ⬆️ 395 points · 💬 332 comments · 👤 rmason
+🔶 Hacker News · ⬆️ 527 points · 💬 254 comments · 👤 saikatsg
 
-A link to theverge.com titled "The New York Times warns photographers not to update Photoshop over AI features", a popular story on the front page, with an active discussion thread.
+A link to github.com titled "Intel One Mono font (2023)", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50647673) · [Source](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+[Discuss on HN](https://news.ycombinator.com/item?id=50653667) · [Source](https://github.com/intel/intel-one-mono)
 
-5. GPT-6.2 Astra is the first model to beat Googlers' code golf records
+4. YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
 
-🔶 Hacker News · ⬆️ 378 points · 💬 108 comments · 👤 bjin
+🔶 Hacker News · ⬆️ 409 points · 💬 471 comments · 👤 iantongeorge
 
-A link to bjin.github.io titled "GPT-6.2 Astra is the first model to beat Googlers' code golf records", a popular story on the front page, drawing significant discussion.
+A link to github.com titled "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays", a popular story on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50601280) · [Source](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+[Discuss on HN](https://news.ycombinator.com/item?id=50657530) · [Source](https://github.com/antonpictures/youtube-punisher)
 
-6. Slow Ubuntu security response times
+5. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
 
-🔶 Hacker News · ⬆️ 295 points · 💬 137 comments · 👤 gslin
+🔶 Hacker News · ⬆️ 374 points · 💬 90 comments · 👤 dverlaeckt80
 
-A link to openwall.com titled "Slow Ubuntu security response times", a popular story on the front page, drawing significant discussion.
+A link to worksinprogress.co titled "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50647181) · [Source](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+[Discuss on HN](https://news.ycombinator.com/item?id=50659841) · [Source](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 
-7. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
+6. Company Culture = Slack Emoji ÷ √Headcount
 
-🔶 Hacker News · ⬆️ 258 points · 💬 137 comments · 👤 Herrera
+🔶 Hacker News · ⬆️ 366 points · 💬 175 comments · 👤 liamg
 
-A link to twitter.com titled "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster", a popular story on the front page, drawing significant discussion.
+A link to lia.mg titled "Company Culture = Slack Emoji ÷ √Headcount", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50651117) · [Source](https://twitter.com/thsottiaux/status/2125784147889393806)
+[Discuss on HN](https://news.ycombinator.com/item?id=50659640) · [Source](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 
-8. Marginalia Search, Money, C++, Rust, AI, stuff
+7. AMD-specific fork of llama.cpp
 
-🦞 Lobsters · ⬆️ 108 points · 💬 23 comments · 👤 brn
+🔶 Hacker News · ⬆️ 364 points · 💬 87 comments · 👤 julianlam
 
-A link to marginalia.nu titled "Marginalia Search, Money, C++, Rust, AI, stuff".
+A link to devnull.land titled "AMD-specific fork of llama.cpp", a popular story on the front page.
 
-[Discuss on Lobsters](https://lobste.rs/s/srb0dp) · [Source](https://www.marginalia.nu/log/a_141_marginalia_update/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50657265) · [Source](https://devnull.land/amd-specific-llama-cpp)
 
-9. Why there are still no non-WebKit browsers on iOS
+8. Slow Ubuntu security response times
 
-🦞 Lobsters · ⬆️ 84 points · 💬 21 comments · 👤 riQ
+🦞 Lobsters · ⬆️ 114 points · 💬 21 comments · 👤 hanno
 
-A link to blog.mozilla.org titled "Why there are still no non-WebKit browsers on iOS".
+A link to openwall.com titled "Slow Ubuntu security response times".
 
-[Discuss on Lobsters](https://lobste.rs/s/sv2flr) · [Source](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
+[Discuss on Lobsters](https://lobste.rs/s/wzlzlh) · [Source](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 
-10. Security incident on Hex.pm
+9. Optimizing Rustc's next trait solver
 
-🦞 Lobsters · ⬆️ 78 points · 💬 10 comments · 👤 munksgaard
+🦞 Lobsters · ⬆️ 64 points · 💬 11 comments · 👤 jana
 
-A link to hex.pm titled "Security incident on Hex.pm".
+A link to donsz.nl titled "Optimizing Rustc's next trait solver".
 
-[Discuss on Lobsters](https://lobste.rs/s/rfcgkx) · [Source](https://hex.pm/blog/security-incident-on-hexpm)
+[Discuss on Lobsters](https://lobste.rs/s/lyyksp) · [Source](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 
-*daily-tech-digest · MileFisher · 2026-11-26T10:32:53.960Z*
+10. Scott Aaronson on recent complexity theory AI achievements
+
+🦞 Lobsters · ⬆️ 58 points · 💬 53 comments · 👤 gignico
+
+A link to scottaaronson.blog titled "Scott Aaronson on recent complexity theory AI achievements".
+
+[Discuss on Lobsters](https://lobste.rs/s/ilit8q) · [Source](https://scottaaronson.blog/?p=10379)
+
+*daily-tech-digest · MileFisher · 2026-11-27T10:37:07.955Z*
