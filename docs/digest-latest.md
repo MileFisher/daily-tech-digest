@@ -1,87 +1,87 @@
-# 🗞️ Daily Tech Digest — 2026-11-27
+# 🗞️ Daily Tech Digest — 2026-11-28
 
-> Top 10 stories from Hacker News & Lobsters · Generated 17:37 ICT
+> Top 10 stories from Hacker News & Lobsters · Generated 16:53 ICT
 
 ---
 
-1. 1Password Security Incident
+1. Michael Nielsen took down his book on neural nets
 
-🔶 Hacker News · ⬆️ 1667 points · 💬 715 comments · 👤 lxhrstn
+🔶 Hacker News · ⬆️ 535 points · 💬 330 comments · 👤 brandonb
 
-A link to 1password.com titled "1Password Security Incident", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to neuralnetworksanddeeplearning.com titled "Michael Nielsen took down his book on neural nets", one of the highest-scoring stories on the front page, with an active discussion thread.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50644817) · [Source](https://1password.com/blog/update-on-nov-2026-security-incident)
+[Discuss on HN](https://news.ycombinator.com/item?id=50670757) · [Source](https://neuralnetworksanddeeplearning.com/)
 
-2. AI made self-hosting fun again
+2. Credit card skimming scripts using WebRTC found on popular shopping sites
 
-🔶 Hacker News · ⬆️ 717 points · 💬 354 comments · 👤 jlelse
+🔶 Hacker News · ⬆️ 524 points · 💬 271 comments · 👤 scanr
 
-A link to janlukas.blog titled "AI made self-hosting fun again", one of the highest-scoring stories on the front page, with an active discussion thread.
+A link to infohawk.com titled "Credit card skimming scripts using WebRTC found on popular shopping sites", one of the highest-scoring stories on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50660180) · [Source](https://janlukas.blog/posts/ai-self-hosting)
+[Discuss on HN](https://news.ycombinator.com/item?id=50668145) · [Source](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
 
-3. Intel One Mono font (2023)
+3. GPT 6.2 Astra Solves a Historical Mystery
 
-🔶 Hacker News · ⬆️ 527 points · 💬 254 comments · 👤 saikatsg
+🔶 Hacker News · ⬆️ 445 points · 💬 282 comments · 👤 dr_red_dog
 
-A link to github.com titled "Intel One Mono font (2023)", one of the highest-scoring stories on the front page, drawing significant discussion.
+A link to generativehistory.substack.com titled "GPT 6.2 Astra Solves a Historical Mystery", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50653667) · [Source](https://github.com/intel/intel-one-mono)
+[Discuss on HN](https://news.ycombinator.com/item?id=50643158) · [Source](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 
-4. YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+4. Google's DeepCrossAttention achieves comparable model quality up to 3x faster
 
-🔶 Hacker News · ⬆️ 409 points · 💬 471 comments · 👤 iantongeorge
+🔶 Hacker News · ⬆️ 391 points · 💬 149 comments · 👤 ComputedCamp995
 
-A link to github.com titled "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays", a popular story on the front page, with an active discussion thread.
+A link to research.google titled "Google's DeepCrossAttention achieves comparable model quality up to 3x faster", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50657530) · [Source](https://github.com/antonpictures/youtube-punisher)
+[Discuss on HN](https://news.ycombinator.com/item?id=50672565) · [Source](https://research.google/blog/supercharging-transformer-residual-connections/)
 
-5. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+5. States sue SpaceX to stop Grok from generating child sex images, revenge porn
 
-🔶 Hacker News · ⬆️ 374 points · 💬 90 comments · 👤 dverlaeckt80
+🔶 Hacker News · ⬆️ 383 points · 💬 232 comments · 👤 DeepLogin
 
-A link to worksinprogress.co titled "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad", a popular story on the front page.
+A link to oag.state.va.us titled "States sue SpaceX to stop Grok from generating child sex images, revenge porn", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50659841) · [Source](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50670855) · [Source](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
 
-6. Company Culture = Slack Emoji ÷ √Headcount
+6. Show HN: bouncemarket – a live prediction market game for a bouncing ball
 
-🔶 Hacker News · ⬆️ 366 points · 💬 175 comments · 👤 liamg
+🔶 Hacker News · ⬆️ 373 points · 💬 126 comments · 👤 mday404
 
-A link to lia.mg titled "Company Culture = Slack Emoji ÷ √Headcount", a popular story on the front page, drawing significant discussion.
+A link to bouncemarket.minhanhday.com titled "Show HN: bouncemarket – a live prediction market game for a bouncing ball", a popular story on the front page, drawing significant discussion.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50659640) · [Source](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+[Discuss on HN](https://news.ycombinator.com/item?id=50667726) · [Source](https://bouncemarket.minhanhday.com/)
 
-7. AMD-specific fork of llama.cpp
+7. The Balatro Timeline
 
-🔶 Hacker News · ⬆️ 364 points · 💬 87 comments · 👤 julianlam
+🔶 Hacker News · ⬆️ 363 points · 💬 82 comments · 👤 sheepscreek
 
-A link to devnull.land titled "AMD-specific fork of llama.cpp", a popular story on the front page.
+A link to localthunk.com titled "The Balatro Timeline", a popular story on the front page.
 
-[Discuss on HN](https://news.ycombinator.com/item?id=50657265) · [Source](https://devnull.land/amd-specific-llama-cpp)
+[Discuss on HN](https://news.ycombinator.com/item?id=50657346) · [Source](https://localthunk.com/blog/balatro-timeline-3aarh)
 
 8. Slow Ubuntu security response times
 
-🦞 Lobsters · ⬆️ 114 points · 💬 21 comments · 👤 hanno
+🦞 Lobsters · ⬆️ 124 points · 💬 29 comments · 👤 hanno
 
 A link to openwall.com titled "Slow Ubuntu security response times".
 
 [Discuss on Lobsters](https://lobste.rs/s/wzlzlh) · [Source](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 
-9. Optimizing Rustc's next trait solver
+9. Taking Email Back
 
-🦞 Lobsters · ⬆️ 64 points · 💬 11 comments · 👤 jana
+🦞 Lobsters · ⬆️ 88 points · 💬 45 comments · 👤 lim
 
-A link to donsz.nl titled "Optimizing Rustc's next trait solver".
+A link to linux-magazine.com titled "Taking Email Back".
 
-[Discuss on Lobsters](https://lobste.rs/s/lyyksp) · [Source](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
+[Discuss on Lobsters](https://lobste.rs/s/afxeri) · [Source](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 
-10. Scott Aaronson on recent complexity theory AI achievements
+10. Garage v2.6.0 released with web admin, v1.x EoL & other news
 
-🦞 Lobsters · ⬆️ 58 points · 💬 53 comments · 👤 gignico
+🦞 Lobsters · ⬆️ 63 points · 💬 4 comments · 👤 armael
 
-A link to scottaaronson.blog titled "Scott Aaronson on recent complexity theory AI achievements".
+A link to garagehq.deuxfleurs.fr titled "Garage v2.6.0 released with web admin, v1.x EoL & other news".
 
-[Discuss on Lobsters](https://lobste.rs/s/ilit8q) · [Source](https://scottaaronson.blog/?p=10379)
+[Discuss on Lobsters](https://lobste.rs/s/2gfpu3) · [Source](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 
-*daily-tech-digest · MileFisher · 2026-11-27T10:37:07.955Z*
+*daily-tech-digest · MileFisher · 2026-11-28T09:53:55.221Z*

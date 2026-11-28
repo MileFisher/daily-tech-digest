@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-28",
+  "items": [
+    {
+      "id": "item?id=50670757",
+      "title": {
+        "en": "Michael Nielsen took down his book on neural nets",
+        "my": "မိုက်ကယ် နေးလ်ဆင်က သူ၏ အာရုံကြောကွန်ရက်များဆိုင်ရာ စာအုပ်ကို ဖယ်ရှားလိုက်သည်။"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 535,
+      "comments": 330,
+      "author": "brandonb",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50670757"
+    },
+    {
+      "id": "item?id=50668145",
+      "title": {
+        "en": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "my": "လူကြိုက်များသောစျေးဝယ်ဝက်ဘ်ဆိုက်များတွင် WebRTC ကို အသုံးပြု၍ ခရက်ဒစ်ကတ် အချက်အလက်ခိုးယူသည့် စခရစ်ပတ်များ တွေ့ရှိ"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 524,
+      "comments": 271,
+      "author": "scanr",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "discussUrl": "https://news.ycombinator.com/item?id=50668145"
+    },
+    {
+      "id": "item?id=50643158",
+      "title": {
+        "en": "GPT 6.2 Astra Solves a Historical Mystery",
+        "my": "GPT 6.2 Astra သည် သမိုင်းဝင်လျှို့ဝှက်ချက်တစ်ခုကို ဖြေရှင်းပေးသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 445,
+      "comments": 282,
+      "author": "dr_red_dog",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "discussUrl": "https://news.ycombinator.com/item?id=50643158"
+    },
+    {
+      "id": "item?id=50672565",
+      "title": {
+        "en": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "my": "Google ၏ DeepCrossAttention သည် 3x အထိ ပိုမိုမြန်ဆန်စွာ နှိုင်းယှဉ်နိုင်သော မော်ဒယ်အရည်အသွေးကို ရရှိစေသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 391,
+      "comments": 149,
+      "author": "ComputedCamp995",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50672565"
+    },
+    {
+      "id": "item?id=50670855",
+      "title": {
+        "en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "my": "SpaceX သည် Grok မှ ကလေးလိင်ပိုင်းဆိုင်ရာပုံရိပ်များ၊ လက်စားချေအပျော်ပုံများ ထုတ်လုပ်ခြင်းကို ရပ်တန့်ရန် တရားစွဲဆိုသည်"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 383,
+      "comments": 232,
+      "author": "DeepLogin",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "discussUrl": "https://news.ycombinator.com/item?id=50670855"
+    },
+    {
+      "id": "item?id=50667726",
+      "title": {
+        "en": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "my": "HN ကိုပြပါ- bouncemarket – ခုန်နေသော ဘောလုံးတစ်ခုအတွက် တိုက်ရိုက်ခန့်မှန်းမှုဈေးကွက်ဂိမ်း"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 373,
+      "comments": 126,
+      "author": "mday404",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "discussUrl": "https://news.ycombinator.com/item?id=50667726"
+    },
+    {
+      "id": "item?id=50657346",
+      "title": {
+        "en": "The Balatro Timeline",
+        "my": "Balatro အချိန်ဇယား"
+      },
+      "sourceIcon": "hn",
+      "source": "Hacker News",
+      "score": 363,
+      "comments": 82,
+      "author": "sheepscreek",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "discussUrl": "https://news.ycombinator.com/item?id=50657346"
+    },
+    {
+      "id": "wzlzlh",
+      "title": {
+        "en": "Slow Ubuntu security response times",
+        "my": "နှေးကွေးသော Ubuntu လုံခြုံရေး တုံ့ပြန်မှု အချိန်များ"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 124,
+      "comments": 29,
+      "author": "hanno",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "discussUrl": "https://lobste.rs/s/wzlzlh"
+    },
+    {
+      "id": "afxeri",
+      "title": {
+        "en": "Taking Email Back",
+        "my": "အီးမေးလ်ကို ပြန်ယူခြင်း"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 88,
+      "comments": 45,
+      "author": "lim",
+      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+      "discussUrl": "https://lobste.rs/s/afxeri"
+    },
+    {
+      "id": "2gfpu3",
+      "title": {
+        "en": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+        "my": "Garage v2.6.0 ကို ဝဘ်အက်ဒ်မင်၊ v1.x EoL နှင့် အခြားသတင်းများဖြင့် ထုတ်ပြန်ခဲ့သည်"
+      },
+      "sourceIcon": "lobsters",
+      "source": "Lobsters",
+      "score": 63,
+      "comments": 4,
+      "author": "armael",
+      "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+      "discussUrl": "https://lobste.rs/s/2gfpu3"
+    }
+  ]
+}
